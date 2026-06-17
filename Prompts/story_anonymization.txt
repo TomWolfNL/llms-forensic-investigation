@@ -1,0 +1,19 @@
+Input: <crime investigation story>
+
+Rewrite the story into a fully original, non-attributable narrative by replacing all identifiable details (e.g., names, locations, organizations, occupations, relationships, objects, cultural references, and time periods) with new fictional equivalents. The rewritten story should be unidentifiable to readers familiar with the original.
+
+Preserve the mystery structure exactly, including the sequence of events, clues, motives, contradictions, witness roles, and solution logic. Witness statements must retain the same meaning and evidentiary value, adapted only to the new setting and characters.
+
+The summary should contain all information needed to understand the mystery, but must not reveal the culprit, solution, twist, final deduction, or ending.
+
+Output JSON only:
+{
+  "summary": "<reconstruction>",
+  "witnesses": [
+    {
+      "id": "<witness id>",
+      "name": "<witness full name>",
+      "statement": "<witness claims>"
+    }
+  ]
+}

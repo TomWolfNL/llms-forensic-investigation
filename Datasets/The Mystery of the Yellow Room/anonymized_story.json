@@ -1,0 +1,20 @@
+{
+  "summary": "At Ironvale Observatory in the coastal province of Norhollow during the late era of steam-driven industry, an apparent locked-room attempted murder took place in the Amber Chamber, a private bedroom connected to the research workshop of scholar Alaric Voss. The victim was Elara Voss, who was discovered gravely injured with signs of strangulation and a severe blow to the head. The circumstances appeared impossible: the bedroom door was locked and barred from the inside, the window was reinforced and secured, yet evidence suggested that an intruder had been present. Investigators found footprints, blood traces, a discarded cap, a handkerchief, and other signs of a violent encounter, but no attacker could be located. Early suspicion fell on groundskeeper Gideon Hale, the gatekeepers Martin and Clara Rens, Elara’s betrothed Adrian Vale, and several unidentified trespassers. A celebrated investigator from the capital assumed charge of the inquiry while a young independent analyst pursued a parallel examination of the facts. Witness testimony indicated that Elara retired to the Amber Chamber, secured it herself, and was later heard crying out for help. Gunshots, crashing furniture, and sounds of a struggle were reported, leading several people to attempt entry. The window appeared inaccessible from the outside, and the door had to be forced open. Inside, Elara was found injured while the apparent assailant had vanished without explanation. As the investigation progressed, contradictions emerged regarding the timing of events, the significance of the physical evidence, and the sequence in which key clues had been created. Hidden connections involving a notorious criminal from an earlier generation, secret identities, long-buried family history, pressure exerted upon the victim, and efforts to obtain valuable research documents gradually came to light. The mystery ultimately centered on determining when the attack had truly occurred, how the locked-room conditions had been created, and whether the evidence reflected a single event or multiple incidents that had been mistaken for one another.",
+  "witnesses": [
+    {
+      "id": "W1",
+      "name": "Gideon Hale",
+      "statement": "He stated that he was in the research workshop with Scholar Alaric Voss when Elara retired to the Amber Chamber, locked and barred the door, and later cried out for help. He described hearing gunshots and noises suggesting a struggle, attempting to enter, checking the window, helping force the door, and finding Elara injured while the attacker had disappeared."
+    },
+    {
+      "id": "W2",
+      "name": "Martin Rens",
+      "statement": "He confirmed being drawn by the gunshots and cries, joining the effort to force open the door, and participating in the discovery of the injured Elara after the room was entered."
+    },
+    {
+      "id": "W3",
+      "name": "Clara Rens",
+      "statement": "She accompanied Gideon Hale to the exterior of the Amber Chamber, observed that the window and shutters appeared secured, and later witnessed the forced entry and aftermath."
+    }
+  ]
+}

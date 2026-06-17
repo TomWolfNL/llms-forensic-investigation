@@ -1,0 +1,45 @@
+{
+  "summary": "Victim: Chancellor Orrin Voss, an immensely wealthy trade magnate. A second body, initially discovered unclothed in the bathing chamber of civic designer Talen Rhyse and wearing only a distinctive pair of narrow sight-frames, was later determined to be an unidentified drifter whose remains had been altered to resemble Voss. Timeline: Voss spent the evening at a private supper gathering, returned to his residence shortly before midnight, and then vanished. The following morning, Rhyse found the disguised corpse in his bathing room. Investigators initially focused on Rhyse and a household attendant because of conflicting accounts and the apparent impossibility of a body being placed in the residence without detection. Subsequent examination revealed that the bathing-room victim had been dead for several days, had originally worn a heavy facial covering, and had been shaved, cleansed, scented, and staged after death. The sight-frames found on the body did not belong to the deceased drifter. As the inquiry progressed, evidence increasingly pointed toward a celebrated neural physician and anatomical researcher who occupied a neighboring complex and who had once shared a close personal attachment with Voss's spouse. The physician appeared to harbor resentment toward Voss and possessed an intense intellectual conviction regarding the relationship between the mind, morality, and human behavior. Investigators uncovered signs of highly specialized anatomical manipulation, deliberate substitution of identities, postmortem grooming, and circumstances that could only have been produced by someone with exceptional medical skill, facilities, and opportunity. The growing body of evidence suggested that the apparent identity of the bathing-room corpse was false and that a far more elaborate deception had been carried out. The mystery eventually centered on determining the true identities of the remains, the purpose of the substitution, and how the deception had been executed without immediate detection.",
+  "witnesses": [
+    {
+      "id": "W1",
+      "name": "Talen Rhyse",
+      "statement": "He stated that he discovered a naked dead man in his bathing chamber early in the morning, that the chamber window had been left open, and that he immediately notified the authorities."
+    },
+    {
+      "id": "W2",
+      "name": "Mara Rhyse",
+      "statement": "Because of significant hearing impairment, she provided little direct evidence, but confirmed household circumstances and relayed information following her son's arrest."
+    },
+    {
+      "id": "W3",
+      "name": "Nella Vane",
+      "statement": "She stated that the bathing-chamber window had been left open and described Rhyse's return home, though she later contradicted herself regarding whether she had actually heard him arrive."
+    },
+    {
+      "id": "W4",
+      "name": "Chancellor Voss's cook",
+      "statement": "She saw Voss return home around midnight, enter the residence, and proceed upstairs."
+    },
+    {
+      "id": "W5",
+      "name": "Chancellor Voss's house attendant",
+      "statement": "She inspected the bed the next morning, noticed that Voss appeared to have slept in an unusual position, preserved the room, and stated that nobody entered or left after the early-morning period she observed."
+    },
+    {
+      "id": "W6",
+      "name": "Young woman from Lantern Quay",
+      "statement": "She claimed that on the night before the discovery she spoke with a gentleman resembling Voss, who asked for directions and mentioned that he had an appointment."
+    },
+    {
+      "id": "W7",
+      "name": "Companion of the Lantern Quay witness",
+      "statement": "She told the first woman that the man they had seen was Chancellor Voss, whom she believed she recognized from prior acquaintance."
+    },
+    {
+      "id": "W8",
+      "name": "Selene Voss",
+      "statement": "During later identification proceedings, she identified distinctive scars and marks on an exhumed body as belonging to her husband."
+    }
+  ]
+}

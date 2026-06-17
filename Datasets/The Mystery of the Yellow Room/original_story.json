@@ -1,0 +1,23 @@
+{
+  "summary": "At the Château du Glandier in October 1892, an apparent locked-room attempted murder occurred in the Yellow Room, a bedroom adjoining Professor Stangerson's laboratory. The victim was Mathilde Stangerson, who was found severely injured, with marks of strangulation and a head wound. At first, the case seemed impossible: the bedroom door was locked and bolted from the inside, the window was barred and secured, yet an intruder's footprints, bloodstains, cap, handkerchief, and other traces were present while no attacker could be found. Initial suspects included the servant Daddy Jacques, the concierges Bernier and his wife, Robert Darzac (Mathilde's fiancé), and unknown intruders. Detective Frédéric Larsan appeared to lead the investigation, while the young reporter-detective Joseph Rouletabille conducted an independent inquiry. Rouletabille ultimately determined that the apparent attack at midnight was misleading. The real assault had occurred earlier in the evening when the attacker, Ballmeyer (alias Frédéric Larsan), secretly entered the room and confronted Mathilde. Ballmeyer was in fact Mathilde's biological father, a criminal from her mother's past, and he sought access to Professor Stangerson's scientific papers while also attempting to force himself upon Mathilde. During the struggle, Mathilde shot and wounded him in the hand. He escaped before the room was locked for the night, leaving behind the physical evidence. Later, at midnight, Mathilde relived the earlier attack in a nightmare, cried out, overturned furniture, and accidentally discharged the revolver, creating the illusion that the assault was then taking place. The locked-room mystery was therefore solved: no murderer escaped from the sealed room because the assailant had already left hours earlier. Ballmeyer subsequently continued efforts to obtain the scientific documents and conceal his identity. Rouletabille exposed that the celebrated detective Larsan and the criminal Ballmeyer were the same person. The motive combined obsession with Mathilde, protection of his secret identity, and theft of Stangerson's scientific work. The case ended with Rouletabille revealing the truth, clearing innocent suspects, and resolving the seemingly impossible locked-room crime.",
+  "witnesses": [
+    {
+      "id": "W1",
+      "name": "Jacques-Louis Moustier (Daddy Jacques)",
+      "statement": "He stated that he was in the laboratory with Professor Stangerson when Mathilde retired to the Yellow Room, locked and bolted the door, and later cried out for help. He described hearing shots and noises of a struggle, attempting to enter, checking the window, helping force the door, and finding Mathilde injured while the attacker had vanished.",
+      "reliability": "B"
+    },
+    {
+      "id": "W2",
+      "name": "Monsieur Bernier",
+      "statement": "He confirmed being drawn by the gunshots and cries, joining the effort to force open the door, and participating in the discovery of the injured Mathilde after the room was entered.",
+      "reliability": "B"
+    },
+    {
+      "id": "W3",
+      "name": "Madame Bernier",
+      "statement": "She accompanied Daddy Jacques to the exterior of the Yellow Room, observed that the window and blinds appeared secured, and later witnessed the forced entry and aftermath.",
+      "reliability": "B"
+    }
+  ]
+}

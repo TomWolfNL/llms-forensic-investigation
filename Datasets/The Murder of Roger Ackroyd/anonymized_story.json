@@ -1,0 +1,50 @@
+{
+  "summary": "In the remote coastal estate of Stormwatch Hall, wealthy industrialist Dorian Vale is found dead in his private observatory under circumstances that appear impossible. The case begins when Elira Thorn, widow of a businessman who died the previous year, suddenly dies from what appears to be a deliberate overdose. Before her death, she secretly confesses to investigator Rowan Voss that she had poisoned her cruel and abusive husband a year earlier. She also reveals that an unknown person has been extorting her, threatening to expose the crime. The following evening, Rowan receives a letter from Elira claiming to identify the extortionist. Before he can reveal the contents, he is killed in his locked observatory at Stormwatch Hall. The investigation is led by renowned detective Cassian Rook, who examines a wide circle of suspects connected to Rowan and the estate. Among them are Adrian March, a financially troubled heir; Lyra March, his secret wife; Selene Hart, a resident of the household; Helena Vale, a family member; Colonel Ashford, a retired officer; Finch, the estate steward; Edwin Pike, Rowan’s administrative assistant; and others. Many possible motives emerge, including inheritance disputes, concealed relationships, extortion, resentment, fear of exposure, and financial desperation. The inquiry uncovers a maze of suspicious circumstances: clandestine meetings, overheard conversations, missing items, an unidentified visitor, and contradictory timelines. Several individuals appear to have had opportunities to commit the crime, and the evidence points in multiple directions. As Cassian studies the sequence of events, he becomes increasingly convinced that a crucial assumption about the time of death is incorrect. The truth hinges on a carefully constructed deception involving recorded sound, misleading witness impressions, manipulated evidence, and actions designed to create a false timeline. By reconstructing the evening in precise detail, Cassian uncovers the hidden logic behind the murder and identifies the person responsible.",
+  "witnesses": [
+    {
+      "id": "w1",
+      "name": "Mara Holt",
+      "statement": "She overheard Adrian March meeting a young woman in a grove near the estate and heard him say that he did not want Rowan Voss to alter his testament because he expected to inherit a large fortune."
+    },
+    {
+      "id": "w2",
+      "name": "Finch",
+      "statement": "He reported the circumstances surrounding the locked observatory, the discovery of the body, movements within the estate, and his delivery of correspondence and refreshments to Rowan Voss."
+    },
+    {
+      "id": "w3",
+      "name": "Selene Hart",
+      "statement": "She described her movements throughout the estate, her observations on the evening of the murder, and denied any involvement in either the extortion or the killing."
+    },
+    {
+      "id": "w4",
+      "name": "Colonel Ashford",
+      "statement": "He provided an account of his whereabouts near the seaside veranda and described what he observed around the time the crime was believed to have occurred."
+    },
+    {
+      "id": "w5",
+      "name": "Edwin Pike",
+      "statement": "He described his interactions with Rowan Voss, discussed professional matters, and explained his movements on the night of the murder."
+    },
+    {
+      "id": "w6",
+      "name": "Clara Wynn",
+      "statement": "She explained her engagement to Adrian March, described their relationship, and recounted relevant events that occurred before the murder."
+    },
+    {
+      "id": "w7",
+      "name": "Lyra March",
+      "statement": "She revealed that she was secretly married to Adrian March, described her confrontation with Rowan Voss, and recounted her meeting with Adrian in a garden pavilion shortly before the murder."
+    },
+    {
+      "id": "w8",
+      "name": "Adrian March",
+      "statement": "He explained his financial difficulties, his secret marriage to Lyra March, his engagement arrangement with Clara Wynn, and his activities on the day of the murder."
+    },
+    {
+      "id": "w9",
+      "name": "Helena Vale",
+      "statement": "She gave evidence concerning family relationships, expectations regarding inheritance, and household events surrounding the crime."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+   "summary":"Mrs. Crumplehorn (equivalent of Mrs. Ferrars) dies from an apparent overdose after secretly confessing to Quaffle Them that she poisoned her abusive husband Ashley Crumplehorn a year earlier. She had also been blackmailed by someone who knew her secret. The next evening, Quaffle Them receives a letter from her identifying the blackmailer. Before reading the crucial name, he is murdered in his locked study at Manticore Park. The investigation, led by the detective Sirius (Poirot), focuses on numerous suspects: Credence Angelina (heir with financial troubles), Alley (his secret wife), Miss Padma, Mrs. Them, Major Stone, Quibbler the butler, Mcgonagall the secretary, and others. Motives include inheritance, concealed relationships, blackmail, resentment, and fear of exposure. Numerous clues create opportunities for many suspects: secret meetings, overheard conversations, missing evidence, a mysterious stranger, and conflicting timelines. The key evidence eventually reveals that Quaffle Them was killed earlier than most witnesses believed. A dictaphone was used to create the illusion that he was still alive at 9:30 p.m.; the murderer later arranged a false telephone call and removed the dictaphone to conceal the trick. Sirius reconstructs the crime and proves that Dr. Draco, the narrator, was both Mrs. Crumplehorn’s blackmailer and Quaffle Them’s murderer. After learning that Mrs. Crumplehorn intended to expose him in her letter, Draco killed Them with a dagger, staged the timeline using a dictaphone, planted misleading evidence, made the fake telephone call to ensure early discovery of the body, and removed the dictaphone when he returned to the scene. His motive was self-preservation: exposure as the blackmailer would have ruined him. The innocent suspects are cleared, Credence and Alley are exonerated, and Sirius gives Draco the choice of taking his own life rather than facing public disgrace. Draco ultimately chooses suicide, completing the case.",
+   "witnesses":[
+      {
+         "id":"w1",
+         "name":"Kreacher",
+         "statement":"She overheard Credence Angelina meeting a young woman in the woods and heard him say that he did not want Quaffle Them to change his will because he expected to inherit a great fortune.",
+         "reliability":"B"
+      },
+      {
+         "id":"w2",
+         "name":"Quibbler",
+         "statement":"He reported the circumstances surrounding the locked study, the discovery of the body, household movements, and his service of letters and coffee to Quaffle Them.",
+         "reliability":"C"
+      },
+      {
+         "id":"w3",
+         "name":"Miss Padma",
+         "statement":"She described her movements in the house, her observations on the evening of the murder, and denied involvement in either the blackmail or the killing.",
+         "reliability":"C"
+      },
+      {
+         "id":"w4",
+         "name":"Major Stone",
+         "statement":"He provided an account of his whereabouts near the terrace and of what he observed around the time of the murder.",
+         "reliability":"B"
+      },
+      {
+         "id":"w5",
+         "name":"Mcgonagall",
+         "statement":"He described his interactions with Quaffle Them, business matters, and his movements on the night of the murder.",
+         "reliability":"B"
+      },
+      {
+         "id":"w6",
+         "name":"Peverell Them",
+         "statement":"She explained her engagement to Credence, her relationship with him, and relevant events preceding the murder.",
+         "reliability":"B"
+      },
+      {
+         "id":"w7",
+         "name":"Alley",
+         "statement":"She revealed that she was secretly married to Credence Angelina, described her confrontation with Quaffle Them, and recounted her meeting with Credence in the summer-house shortly before the murder.",
+         "reliability":"A"
+      },
+      {
+         "id":"w8",
+         "name":"Credence Angelina",
+         "statement":"He explained his financial troubles, secret marriage to Alley, engagement arrangement with Peverell, and his activities on the day of the murder.",
+         "reliability":"B"
+      },
+      {
+         "id":"w9",
+         "name":"Mrs. Them",
+         "statement":"She gave evidence about family relationships, inheritance expectations, and household events surrounding the crime.",
+         "reliability":"C"
+      }
+   ]
+}

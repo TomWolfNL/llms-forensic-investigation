@@ -1,0 +1,35 @@
+{
+  "summary": "In The Leavenworth Case, wealthy retired merchant Horatio Leavenworth is found murdered in his library, shot in the back of the head while seated at his writing table. The crime occurs late at night after his secretary, James Trueman Harwell, finishes working with him. The house is discovered locked the next morning, creating the appearance that the killer must have been someone inside the household. Early evidence points toward the nieces, especially Eleanore Leavenworth, because of suspicious behavior, missing papers, a missing key, and circumstantial clues involving the victim’s pistol. A servant named Hannah also disappears, further complicating the investigation. Medical evidence shows the shot was fired from behind while the victim was bent over his work and trusted or expected the killer. Investigation by detective Ebenezer Gryce uncovers hidden relationships, forged appearances, concealed movements within the house, and efforts to misdirect suspicion. The principal motive proves to be obsessive, unrequited love: Harwell was passionately in love with Mary Leavenworth and believed that by killing her uncle he would secure her inheritance and thereby benefit her. Harwell secretly obtained and used Leavenworth’s pistol, murdered him in the library, and manipulated circumstances afterward to divert suspicion toward others, particularly Eleanore. Various clues that initially appeared to implicate the women of the household are ultimately explained as attempts to conceal compromising but non-murderous facts. In the resolution, Gryce exposes the truth and Harwell effectively confesses, admitting that his love for Mary drove him to enter Leavenworth’s room and pull the trigger. Eleanore is cleared, Mary is exonerated, and the case is solved with Harwell identified as the murderer. Source: ",
+  "witnesses": [
+    {
+      "id": "w1",
+      "name": "Dr. Maynard",
+      "statement": "Examined the body and concluded that Leavenworth died instantly from a pistol shot entering the back of the head; the wound could not have been self-inflicted; the shooter stood behind the victim near the passageway entrance.",
+      "reliability": "A"
+    },
+    {
+      "id": "w2",
+      "name": "Thomas Dougherty",
+      "statement": "The butler testified that he and Harwell discovered the body around 8 a.m.; the house had been secured the previous night and was found secured in the morning; he described Eleanore’s actions after the discovery and stated that no one could easily leave the house unnoticed after it was opened.",
+      "reliability": "B"
+    },
+    {
+      "id": "w3",
+      "name": "James Trueman Harwell",
+      "statement": "The secretary stated that he worked with Leavenworth until about 10:30 p.m., shared a glass of sherry with him, left him alive, later heard a rustle and footstep, noticed Eleanore’s door partly open, and denied knowledge of any motive or suspicious correspondence.",
+      "reliability": "F"
+    },
+    {
+      "id": "w4",
+      "name": "Katherine Malone",
+      "statement": "The cook testified that the maid Hannah had a severe toothache, went downstairs seeking medicine from Eleanore, and was missing by morning; she also recalled seeing Eleanore with what appeared to be a piece of paper after the body was found.",
+      "reliability": "C"
+    },
+    {
+      "id": "w5",
+      "name": "Molly O'Flanagan",
+      "statement": "The upstairs maid testified that Hannah dressed completely, took a candle, and went downstairs late at night to seek help from Eleanore for toothache pain; Hannah never returned to the servants’ room.",
+      "reliability": "B"
+    }
+  ]
+}

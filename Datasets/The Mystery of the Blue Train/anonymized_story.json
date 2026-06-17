@@ -1,0 +1,15 @@
+{
+  "summary": "Victim: Selene Voss, daughter of wealthy industrial magnate Orion Voss and estranged spouse of Cassian Voss. Before the crime, Orion secretly acquired the legendary 'Ember Crown' gemstones and several matching treasures for Selene. Selene planned to travel aboard the Night Meridian to the coastal city of Aurienne while considering ending her marriage to Cassian. Multiple apparent suspects emerged: Cassian Voss (financial pressure and marital conflict), Lucien Vale (Selene's former romantic partner and a reputed adventurer), Elara Wynn (Cassian's lover), and several others connected to the gemstones. During the journey on the Night Meridian, Selene was killed in her private cabin and the gemstones vanished. Early evidence pointed toward Cassian and later toward Lucien, supported by suspicious circumstances and signs that appeared to place them near the crime. Investigators discovered conflicting timelines, misleading observations, and indications that someone with insider knowledge had manipulated events. One especially trusted associate within Orion's circle possessed detailed knowledge of Selene's travel plans and the existence of the gemstones, while a series of earlier jewel thefts suggested the involvement of a hidden criminal organizer. The case ultimately depended on reconstructing the exact sequence of events, separating genuine clues from manufactured evidence, determining who had access to Selene during the journey, and identifying the person responsible for both the murder and the theft.",
+  "witnesses": [
+    {
+      "id": "w1",
+      "name": "Marina Holt",
+      "statement": "She traveled on the Night Meridian, spoke with Selene Voss, later described Selene's worries and frame of mind, observed Cassian Voss entering Selene's cabin, and stated that at the station stop in Brindle Crossing she did not see Lucien Vale leaving the train; she only noticed a young man wearing a flat cap, a bearded traveler searching for refreshments, and railway staff."
+    },
+    {
+      "id": "w2",
+      "name": "Nora Pike",
+      "statement": "Selene Voss's personal attendant reported details about the journey and cabin arrangements and provided observations relevant to Selene's movements before the killing."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+Input: <crime investigation story>
+
+Analyze the whodunit story and identify all relevant entities. Produce a concise but comprehensive reconstruction of the case, preserving all material facts, including the victim, timeline, events, motives, opportunities, evidence, suspects, culprit, method, and resolution. Additionally, extract the statements of only those characters who are explicitly presented as witnesses in the story and assess the reliability of each statement using the scale below:
+A = highly reliable
+B = reliable
+C = mostly reliable
+D = partially reliable
+E = unreliable
+F = highly unreliable
+
+Output schema (JSON):
+{
+  "summary": "<reconstruction>",
+  "witnesses": [
+    {
+      "id": "<witness id>",
+      "name": "<witness full name>",
+      "statement": "<witness claims>",
+      "reliability": "<A|B|C|D|E|F>"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+Input: <crime investigation story>
+
+Analyze the story and identify all witnesses mentioned.
+
+For each witness, determine a reliability score based on the credibility, consistency, corroboration, opportunity to observe events, and potential bias reflected in the story. Use the following reliability scale:
+A = highly reliable
+B = reliable
+C = mostly reliable
+D = partially reliable
+E = unreliable
+F = highly unreliable
+
+Output JSON only:
+{
+  "witnesses": [
+    {
+      "id": "<witness id>",
+      "name": "<witness full name>",
+      "reliability": "<A|B|C|D|E|F>"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "summary": "Victim: Sir Reuben Levy (called Sir Wal/Wal God in the text), a wealthy financier. A second body, initially found naked in architect Gerald Ams's bath wearing only pince-nez, was later determined to be an unidentified unemployed laborer/tramp whose corpse had been altered to resemble Levy. Timeline: Levy dined with friends, returned home around midnight, and then disappeared. The next morning Gerald Ams discovered the disguised corpse in his bathroom. Police initially suspected Ams and his servant because of inconsistencies in their accounts and the apparent impossibility of introducing a corpse into the flat unnoticed. Investigation revealed that the bath victim had been dead for days, had originally worn a beard, and had been shaved, washed, perfumed, and staged after death. The pince-nez did not belong to the bath victim. Evidence gradually connected the case to Sir Leon Freemantle, a famous surgeon and neurologist who lived adjacent to Ams's building and had previously been romantically linked to Lady Levy. Motive: Freemantle wanted Lady Levy and resented her marriage to Levy. He also possessed an intellectual arrogance stemming from his theories about the brain and morality. Method: Freemantle murdered Levy, decapitated the body, surgically attached the head of the unidentified tramp to Levy's body, and disguised the tramp's separate corpse as Levy by shaving and grooming it. He then placed the disguised corpse in Ams's bath to divert identification and investigation. The proximity of his hospital and surgical expertise gave him the opportunity, facilities, and skill required. Key evidence included surgical anomalies, the false identity of the bath corpse, traces showing postmortem shaving and grooming, the medical impossibility of the apparent circumstances, and later exhumation/forensic examination proving that Levy's body and the bath corpse had been deliberately substituted and altered. Resolution: Lord Pipsey Kestrel reconstructed the scheme, exposed Freemantle as the murderer, and demonstrated that the bath corpse was not Levy. Faced with exposure, Sir Leon Freemantle took poison and died, effectively confirming his guilt. Gerald Ams and the other innocent suspects were cleared.",
+  "witnesses": [
+    {
+      "id": "W1",
+      "name": "Gerald Ams",
+      "statement": "He stated that he discovered a naked dead man in his bath early in the morning, that the bathroom window had been left open, and that he immediately contacted the police.",
+      "reliability": "B"
+    },
+    {
+      "id": "W2",
+      "name": "Mrs. Ams",
+      "statement": "She provided little direct evidence because of her deafness, but confirmed household circumstances and relayed information after her son's arrest.",
+      "reliability": "C"
+    },
+    {
+      "id": "W3",
+      "name": "Wintrington (the Ams servant)",
+      "statement": "She stated that the bathroom window had been left open and gave accounts regarding Ams's return home, though she later contradicted herself about hearing him arrive.",
+      "reliability": "D"
+    },
+    {
+      "id": "W4",
+      "name": "Sir Reuben Levy's cook",
+      "statement": "She saw Levy arrive home around midnight, enter the house, and go upstairs.",
+      "reliability": "A"
+    },
+    {
+      "id": "W5",
+      "name": "Sir Reuben Levy's housemaid",
+      "statement": "She observed the bed the next morning, noticed that Levy had slept in an unusual position, preserved the room, and stated that nobody entered or left after the early morning period she monitored.",
+      "reliability": "A"
+    },
+    {
+      "id": "W6",
+      "name": "Unnamed young woman in Battersea Park Road",
+      "statement": "She claimed that on the night before the discovery she spoke with a gentleman resembling Levy, who asked directions and said he had an appointment.",
+      "reliability": "C"
+    },
+    {
+      "id": "W7",
+      "name": "Unnamed female companion of the Battersea witness",
+      "statement": "She told the first woman that the man she had seen was Sir Reuben Levy, whom she believed she recognized from prior acquaintance.",
+      "reliability": "D"
+    },
+    {
+      "id": "W8",
+      "name": "Lady Levy",
+      "statement": "During the later identification proceedings, she identified distinctive scars and marks on the exhumed body as those of her husband.",
+      "reliability": "A"
+    }
+  ]
+}

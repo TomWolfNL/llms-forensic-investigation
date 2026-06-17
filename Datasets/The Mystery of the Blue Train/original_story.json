@@ -1,0 +1,17 @@
+{
+  "summary": "Victim: Ruth Kettering, daughter of millionaire Rufus Van Aldin and estranged wife of Derek Kettering. Before the crime, Van Aldin secretly purchased the famous 'Heart of Fire' ruby and related jewels for Ruth. Ruth planned to travel on the Blue Train to the Riviera while contemplating a divorce from Derek. Multiple apparent suspects existed: Derek Kettering (financial motive and marital conflict), Comte Armand de la Roche (Ruth's former lover and reputed adventurer), Mirelle (Derek's mistress), and others connected to the jewels. During the journey on the Blue Train, Ruth was murdered in her compartment and the rubies were stolen. Evidence initially pointed toward Derek and later toward de la Roche, aided by misleading circumstances and deliberate framing. Hercule Poirot reconstructed the timeline and discovered that the crime was part of a long-planned scheme by Major Richard Knighton, Rufus Van Aldin's trusted secretary. Knighton was secretly the criminal mastermind known as 'the Marquis'. He had arranged access to Ruth through an accomplice, sought the famous rubies, and used his trusted position to avoid suspicion. His motive combined greed, a fascination with historic jewels, and a willingness to kill to eliminate witnesses and secure the theft. Knighton had both opportunity and insider knowledge of Ruth's movements and the jewels. He murdered Ruth, stole the rubies, and manipulated evidence to cast suspicion elsewhere, particularly on Derek Kettering. Poirot exposed Knighton's dual identity, linked him to earlier jewel crimes, demonstrated the flaws in the case against the other suspects, and solved the murder. The resolution established that Richard Knighton (the Marquis) was the murderer and thief, while the apparent evidence against Derek Kettering and others had been manufactured or misinterpreted.",
+  "witnesses": [
+    {
+      "id": "w1",
+      "name": "Katherine Grey",
+      "statement": "She traveled on the Blue Train, spoke with Ruth Kettering, later recounted Ruth's concerns and state of mind, observed Derek Kettering entering Ruth's compartment, and stated that at Lyons she did not see the Comte de la Roche leaving the train; she only noticed a young man in a cap, a bearded Frenchman seeking coffee, and train staff.",
+      "reliability": "A"
+    },
+    {
+      "id": "w2",
+      "name": "Ada Mason",
+      "statement": "Ruth Kettering's maid reported circumstances surrounding the journey and compartment arrangements and provided observations relevant to Ruth's movements before the murder.",
+      "reliability": "C"
+    }
+  ]
+}

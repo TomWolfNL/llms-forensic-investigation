@@ -1,0 +1,30 @@
+{
+  "summary": "In the floating citadel of Vey Marrow, a reclusive patron of arcane navigation is found dead in his charting chamber, struck by a projectile to the back of the head while seated at a drafting desk. The death occurs late at night after his records steward finishes reviewing documents with him. By morning, the residence appears sealed from within, creating the impression that the killer must have been someone already inside the complex. Early indications point toward the patron’s two wards, especially one of them, due to unusual behavior, missing documents, a vanished access token, and circumstantial evidence involving the victim’s personal dart-launcher. A household attendant also disappears during the night, adding further uncertainty. Medical findings indicate that the shot was fired from behind while the victim was bent over his work and that he likely trusted or expected the approach of the person responsible. As inquiries continue, investigators uncover concealed relationships, misleading appearances, secret movements through the citadel, and deliberate efforts to redirect suspicion. Several clues that seem to implicate members of the household may instead be connected to attempts to hide compromising but potentially unrelated matters. Conflicting testimony, missing evidence, and unexplained nighttime activity leave the true sequence of events unresolved as the investigation moves toward its final revelations.",
+  "witnesses": [
+    {
+      "id": "w1",
+      "name": "Physician Corin Vale",
+      "statement": "Examined the body and determined that the victim died instantly from a dart-like projectile entering the back of the head; the wound could not have been self-inflicted; the attacker stood behind the victim near the entrance to a side corridor."
+    },
+    {
+      "id": "w2",
+      "name": "Bren Tallow",
+      "statement": "The chief steward testified that he and the records steward discovered the body around the first morning bell; the citadel had been secured the previous night and was found secured in the morning; he described one ward’s actions after the discovery and stated that no one could easily leave the complex unnoticed once it was opened."
+    },
+    {
+      "id": "w3",
+      "name": "Aren Quill",
+      "statement": "The records steward stated that he worked with the victim until late evening, shared a cup of spiced tonic with him, left him alive, later heard a faint rustle and a footstep, noticed one ward’s chamber door partly open, and denied knowledge of any motive or suspicious messages."
+    },
+    {
+      "id": "w4",
+      "name": "Marta Fen",
+      "statement": "The kitchen supervisor testified that an attendant suffered severe jaw pain, went downstairs seeking a remedy from one of the wards, and was missing by morning; she also recalled seeing that ward holding what appeared to be a scrap of parchment after the body was found."
+    },
+    {
+      "id": "w5",
+      "name": "Lysa Thorn",
+      "statement": "The upper-gallery maid testified that the attendant dressed fully, took a lantern, and went downstairs late at night to seek help from the ward for the pain; the attendant never returned to the servants’ quarters."
+    }
+  ]
+}
