@@ -1,0 +1,34 @@
+[
+  {
+    "statement_id":"S001",
+    "witness":"Alice",
+    "subject":"Bob",
+    "time":"2026-05-14T15:00",
+    "location":"Garden",
+    "action":"Cutting leaves",
+    "context":"Bob had gardening shift",
+    "raw_text":"I saw Bob cutting leaves."
+  },
+
+  {
+    "statement_id":"S002",
+    "witness":"John",
+    "subject":"Bob",
+    "time":"2026-05-14T15:05",
+    "location":"Garden",
+    "action":"Collecting tools",
+    "context":"End of gardening shift",
+    "raw_text":"Bob was putting tools away."
+  },
+
+  {
+    "statement_id":"S003",
+    "witness":"Emma",
+    "subject":"Bob",
+    "time":"2026-05-14T15:00",
+    "location":"Kitchen",
+    "action":"Making coffee",
+    "context":"Observed indoors",
+    "raw_text":"Bob was making coffee."
+  }
+]

@@ -1,0 +1,14 @@
+langchain>=0.3.0
+langgraph>=0.2.40
+langchain-openai>=0.2.0
+
+pydantic>=2.9
+
+python-dotenv>=1.0.1
+orjson>=3.10
+
+typing_extensions>=4.12
+
+tenacity>=9.0
+
+aiofiles>=24.1
