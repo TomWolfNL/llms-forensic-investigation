@@ -1,50 +1,130 @@
 {
-  "summary": "In the remote coastal estate of Stormwatch Hall, wealthy industrialist Dorian Vale is found dead in his private observatory under circumstances that appear impossible. The case begins when Elira Thorn, widow of a businessman who died the previous year, suddenly dies from what appears to be a deliberate overdose. Before her death, she secretly confesses to investigator Rowan Voss that she had poisoned her cruel and abusive husband a year earlier. She also reveals that an unknown person has been extorting her, threatening to expose the crime. The following evening, Rowan receives a letter from Elira claiming to identify the extortionist. Before he can reveal the contents, he is killed in his locked observatory at Stormwatch Hall. The investigation is led by renowned detective Cassian Rook, who examines a wide circle of suspects connected to Rowan and the estate. Among them are Adrian March, a financially troubled heir; Lyra March, his secret wife; Selene Hart, a resident of the household; Helena Vale, a family member; Colonel Ashford, a retired officer; Finch, the estate steward; Edwin Pike, Rowan’s administrative assistant; and others. Many possible motives emerge, including inheritance disputes, concealed relationships, extortion, resentment, fear of exposure, and financial desperation. The inquiry uncovers a maze of suspicious circumstances: clandestine meetings, overheard conversations, missing items, an unidentified visitor, and contradictory timelines. Several individuals appear to have had opportunities to commit the crime, and the evidence points in multiple directions. As Cassian studies the sequence of events, he becomes increasingly convinced that a crucial assumption about the time of death is incorrect. The truth hinges on a carefully constructed deception involving recorded sound, misleading witness impressions, manipulated evidence, and actions designed to create a false timeline. By reconstructing the evening in precise detail, Cassian uncovers the hidden logic behind the murder and identifies the person responsible.",
+  "summary": "In the small canal town of Bellweather, the wealthy ceramic manufacturer Aldric Vale is found stabbed in his locked study shortly after the suspicious death of his intended bride, Livia Marr. Livia had died from an overdose of a sleeping compound after privately admitting that she had once caused the death of her first husband and had since been forced to pay a blackmailer. On the evening before his murder, Aldric tells his physician-neighbor, Dr. Silas Wren, that Livia’s final letter has arrived and may name the extortionist. Aldric begins reading the letter aloud, then decides to finish it alone. Soon afterward, Dr. Wren says he leaves the estate, passing an unfamiliar young man near the gates. Later that night, a telephone message appears to summon Wren back to the house, where Aldric is discovered dead inside the study. The scene includes a ceremonial glass-bladed knife from the hall display, an open garden window, suspicious footprints outside the window, and confused evidence about whether Aldric was still alive after Wren’s reported departure. Several people have motives or secrets. Aldric’s ward, Rowan Vale, is missing, financially dependent on Aldric, recently quarreled with him, and seems implicated by footprints matching his shoes. Rowan is also secretly married to Elia Moss, a housemaid, giving him a reason to fear disinheritance. Aldric’s niece Maren first claims to have seen him alive later in the evening, but later admits she only went near the study while stealing money and did not actually see him. The steward has a furtive past and may have listened at the door. The housekeeper, Mistress Sable, asks suspicious questions about narcotics and poisons, but her concern may relate to a hidden family matter involving the stranger seen near the gates. Aldric’s secretary hears Aldric’s voice from the study at about half past nine, but that evidence depends on whether the voice was truly live. A sales agent later confirms that Aldric had recently obtained a voice-recording cabinet, making the heard voice potentially misleading. The investigation turns on the timing of Wren’s walk to the gate, the missing or moved object in the study, the staged-looking footprints, the opportunity to take the display knife, the unexplained telephone summons, Rowan’s footwear, the hidden marriage, and the possibility that the apparent time of death was artificially shifted. The final deduction and identity of the killer are not included here.",
   "witnesses": [
     {
-      "id": "w1",
-      "name": "Mara Holt",
-      "statement": "She overheard Adrian March meeting a young woman in a grove near the estate and heard him say that he did not want Rowan Voss to alter his testament because he expected to inherit a large fortune."
+      "id": "W01",
+      "name": "Dr. Silas Wren",
+      "statement": "Village physician and neighbor of Aldric Vale. He reports Livia Marr’s death from a sleeping compound, Aldric’s account of Livia’s confession and blackmail, the arrival of Livia’s final letter, his own departure from Aldric’s study at about ten minutes before nine, the stranger he says he passed near the estate gates, the later telephone summons that brought him back, and the condition of the study when the body was found. His account is central because many timings, observations, and discoveries pass through him, but several of his claims require independent testing."
     },
     {
-      "id": "w2",
-      "name": "Finch",
-      "statement": "He reported the circumstances surrounding the locked observatory, the discovery of the body, movements within the estate, and his delivery of correspondence and refreshments to Rowan Voss."
+      "id": "W02",
+      "name": "Marceau Lorne",
+      "statement": "Retired investigator living quietly near Bellweather under a harmless assumed social identity. He collects the statements, examines the alibis, protects Rowan Vale from premature arrest, identifies hidden relationships and lies, and focuses on whether the voice heard from the study proves Aldric was alive at half past nine. He concludes that the investigation depends on the voice-recording cabinet, the study window, the footprints, the display knife, the telephone summons, and who had the knowledge and opportunity to manipulate those facts."
     },
     {
-      "id": "w3",
-      "name": "Selene Hart",
-      "statement": "She described her movements throughout the estate, her observations on the evening of the murder, and denied any involvement in either the extortion or the killing."
+      "id": "W03",
+      "name": "Aldric Vale",
+      "statement": "Victim and key pre-death informant. Before he is killed, he tells Dr. Wren that Livia Marr confessed to causing her first husband’s death, that she had been blackmailed afterward, and that she refused to name the blackmailer in person. He then receives a final letter from Livia that may identify the extortionist, begins reading it aloud, and chooses to finish it alone."
     },
     {
-      "id": "w4",
-      "name": "Colonel Ashford",
-      "statement": "He provided an account of his whereabouts near the seaside veranda and described what he observed around the time the crime was believed to have occurred."
+      "id": "W04",
+      "name": "Livia Marr",
+      "statement": "Dead before the central murder but important through her confession and final letter. She had admitted to Aldric that she caused her first husband’s death and had been blackmailed. Her letter was intended to reveal the blackmailer’s identity, making it a decisive but initially unavailable piece of evidence."
     },
     {
-      "id": "w5",
-      "name": "Edwin Pike",
-      "statement": "He described his interactions with Rowan Voss, discussed professional matters, and explained his movements on the night of the murder."
+      "id": "W05",
+      "name": "Celia Wren",
+      "statement": "Dr. Wren’s sister and a tireless collector of local information. She spreads and gathers early reports about Livia’s death, suspects that Livia died by suicide because of guilt, learns that Rowan Vale had been staying at the Blue Heron inn, reports seeing or hearing Rowan involved with an unidentified woman, and later helps establish that Rowan possessed different footwear from the shoes implied by the prints near the study window."
     },
     {
-      "id": "w6",
-      "name": "Clara Wynn",
-      "statement": "She explained her engagement to Adrian March, described their relationship, and recounted relevant events that occurred before the murder."
+      "id": "W06",
+      "name": "Jonas Kett",
+      "statement": "Aldric Vale’s steward. He admits bringing in the evening post, including Livia Marr’s letter, and is suspected of listening near the study door. After the body is found, he reports details of the room, including a shifted chair and the arrangement of objects on the table. He denies making the telephone call that supposedly summoned Dr. Wren back to the estate. His secretiveness makes him suspicious, but several of his observations are materially useful."
     },
     {
-      "id": "w7",
-      "name": "Lyra March",
-      "statement": "She revealed that she was secretly married to Adrian March, described her confrontation with Rowan Voss, and recounted her meeting with Adrian in a garden pavilion shortly before the murder."
+      "id": "W07",
+      "name": "Tobin Rusk",
+      "statement": "Aldric Vale’s secretary. He says he heard Aldric’s voice from the study at about half past nine, apparently saying that he did not wish to be disturbed. He also explains Aldric’s business habits and use of dictation equipment. Tobin later admits private money troubles, giving him a possible motive, but his key evidence is auditory: he truly heard a voice, though what produced it remains open to interpretation."
     },
     {
-      "id": "w8",
-      "name": "Adrian March",
-      "statement": "He explained his financial difficulties, his secret marriage to Lyra March, his engagement arrangement with Clara Wynn, and his activities on the day of the murder."
+      "id": "W08",
+      "name": "Maren Vale",
+      "statement": "Aldric’s niece and Rowan’s supposed fiancee. She first claims to have seen Aldric alive after dinner, strengthening the impression that he survived later into the evening. She later retracts this, admitting that she went near the study while stealing money and did not actually see Aldric alive. She also states that the ceremonial glass-bladed knife was no longer on the hall display when she looked, making the timing of its removal important."
     },
     {
-      "id": "w9",
-      "name": "Helena Vale",
-      "statement": "She gave evidence concerning family relationships, expectations regarding inheritance, and household events surrounding the crime."
+      "id": "W09",
+      "name": "Rowan Vale",
+      "statement": "Aldric’s ward and the main apparent suspect. He is missing after the murder, financially dependent on Aldric, had quarreled with him, and is secretly married to Elia Moss. Footprints near the study window seem to implicate him, but he later says he wore heavy boots that night rather than the shoes that would match the incriminating prints. His secrecy and disappearance damage his credibility, yet his footwear claim is important and testable."
+    },
+    {
+      "id": "W10",
+      "name": "Elia Moss",
+      "statement": "Parlor maid at Aldric’s estate and secretly Rowan Vale’s wife. She explains the hidden marriage, her dismissal after Aldric learned of it, her private meetings with Rowan, and the domestic conflict that made Rowan fear disinheritance. Her statement gives an innocent explanation for the unidentified woman linked to Rowan and for some of his suspicious behavior."
+    },
+    {
+      "id": "W11",
+      "name": "Mistress Iona Sable",
+      "statement": "Aldric’s housekeeper. She asks Dr. Wren about addiction, rare poisons, and paralyzing toxins, creating suspicion around herself. She later indicates that these questions relate to a private concern about a troubled young man connected to her past. Her concealment misdirects suspicion but also explains why a stranger may have visited the estate."
+    },
+    {
+      "id": "W12",
+      "name": "Niall Corven",
+      "statement": "A rough-looking stranger seen near the Vale estate gates after Dr. Wren says he left. He is later connected to Mistress Sable and has a history of drug use. He admits visiting the estate secretly and gives an account of his movements. His presence initially looks incriminating, but his role chiefly explains the stranger at the gate and a separate concealed family matter."
+    },
+    {
+      "id": "W13",
+      "name": "Captain Orven Blaise",
+      "statement": "Aldric’s old friend and houseguest. He supplies household observations, helps discuss the case, and is emotionally guarded because of his feelings for Maren Vale. His restraint and awkwardness create suspicion, but his evidence is mostly observational rather than mechanical or decisive."
+    },
+    {
+      "id": "W14",
+      "name": "Dame Perrin Vale",
+      "statement": "Aldric’s widowed sister-in-law. She speaks about the family’s financial dependence on Aldric, Maren’s prospects, settlements, and household pressures. Her evasiveness and concern with money make her suspicious, and she conceals self-interested conduct involving Aldric’s papers, but her evidence mainly clarifies financial motives."
+    },
+    {
+      "id": "W15",
+      "name": "Inspector Brannick Hale",
+      "statement": "Police investigator in charge of the official case. He records the body, weapon, study door, window, footprints, timing evidence, suspects, and searches. He treats Rowan Vale as the likely murderer for much of the inquiry because of motive, disappearance, quarrel, and shoe evidence. His factual collection is useful, but his interpretation may be too direct."
+    },
+    {
+      "id": "W16",
+      "name": "Commander Esten Marrick",
+      "statement": "Senior local authority assisting the inquiry. He helps coordinate the official investigation, receives reports about the murder scene and suspects, and works alongside Inspector Hale and Marceau Lorne. His role is chiefly administrative and investigative rather than that of an eyewitness."
+    },
+    {
+      "id": "W17",
+      "name": "Garrick Holm",
+      "statement": "Aldric Vale’s solicitor. He explains the terms of Aldric’s will and financial arrangements, clarifying who benefits from Aldric’s death and how Rowan, Maren, Dame Perrin, and others stand financially. His evidence shapes the motive analysis."
+    },
+    {
+      "id": "W18",
+      "name": "Vera Quill",
+      "statement": "Local gossip and social observer. She repeats reports about Livia Marr, Aldric Vale, Maren, Rowan, possible blackmail, and village movements. Some of what she says reflects real observation, but much is speculative, biased, or secondhand."
+    },
+    {
+      "id": "W19",
+      "name": "Edrin Cale",
+      "statement": "Another gossip source during a card-and-tiles evening. He says he has heard that blackmail is involved and speculates about who might be behind it. His information is rumor rather than firsthand testimony, though the existence of blackmail is a genuine part of the case."
+    },
+    {
+      "id": "W20",
+      "name": "Nessa Pike",
+      "statement": "The Wren household maid. She passes early domestic news to Celia Wren about Livia Marr’s death and forms part of Celia’s informal information network. Her evidence is minor and mostly hearsay."
+    },
+    {
+      "id": "W21",
+      "name": "The lamp-oil seller",
+      "statement": "An unnamed tradesman who tells Celia Wren about Livia Marr’s death after hearing it from a servant in Livia’s household. His contribution is early but secondhand."
+    },
+    {
+      "id": "W22",
+      "name": "Livia Marr’s kitchen maid",
+      "statement": "An unnamed servant at Livia Marr’s home and the apparent first source of village news that Livia has died. Her role is limited to the initial report before formal details are known."
+    },
+    {
+      "id": "W23",
+      "name": "The barmaid at the Copper Finch",
+      "statement": "She provides corroboration about Niall Corven’s movements, appearance, and poor boots. This helps distinguish him from the person whose prints appeared near Aldric’s study window and weakens the theory that he made those marks."
+    },
+    {
+      "id": "W24",
+      "name": "The voice-cabinet salesman",
+      "statement": "He confirms that Aldric Vale had recently obtained a voice-recording cabinet. This fact makes it possible that the voice heard from the study at half past nine was recorded rather than spoken live, changing the value of the timing evidence."
+    },
+    {
+      "id": "W25",
+      "name": "Madam Fennor",
+      "statement": "She provides background relevant to Mistress Sable and Niall Corven, helping explain their hidden connection. Her information supports the idea that Sable’s suspicious conduct and Corven’s visit may belong to a concealed private matter separate from the murder itself."
     }
   ]
 }

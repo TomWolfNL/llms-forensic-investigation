@@ -1,30 +1,135 @@
 {
-  "summary": "In the floating citadel of Vey Marrow, a reclusive patron of arcane navigation is found dead in his charting chamber, struck by a projectile to the back of the head while seated at a drafting desk. The death occurs late at night after his records steward finishes reviewing documents with him. By morning, the residence appears sealed from within, creating the impression that the killer must have been someone already inside the complex. Early indications point toward the patron’s two wards, especially one of them, due to unusual behavior, missing documents, a vanished access token, and circumstantial evidence involving the victim’s personal dart-launcher. A household attendant also disappears during the night, adding further uncertainty. Medical findings indicate that the shot was fired from behind while the victim was bent over his work and that he likely trusted or expected the approach of the person responsible. As inquiries continue, investigators uncover concealed relationships, misleading appearances, secret movements through the citadel, and deliberate efforts to redirect suspicion. Several clues that seem to implicate members of the household may instead be connected to attempts to hide compromising but potentially unrelated matters. Conflicting testimony, missing evidence, and unexplained nighttime activity leave the true sequence of events unresolved as the investigation moves toward its final revelations.",
+  "summary": "Aric Vey, an aging sky-route financier who had withdrawn to a shuttered canal citadel, was found dead at his maproom desk the morning after his customary evening paperwork with his confidential cipher aide, Lucan Marris. The citadel had been barred from within, theft was ruled out, the maproom's opal-handled ward-key was missing, and the body had been carried into the adjoining sleep chamber after its discovery by housewarden Bram Toller and Marris. The death examiner and weapon evidence showed that Vey had been struck from behind by a third-gauge flechette while seated and bent forward over a half-written note; the shot came from the narrow passage between the sleep chamber and the maproom. The weapon was Vey's own six-cell spring caster, normally kept in a locked drawer beside his bed. It was found clean and apparently reloaded, though one cell and the residue pattern still indicated recent discharge. Suspicion first attached to Pira Senn, a junior attendant who had gone below during the night with a jawache, carrying a loose glow-wick, and then vanished; to Tavia Orrel, one of Vey's two foster heirs, who was seen near the maproom papers and later hid the ward-key and torn message fragments; to Selene Orrel, the favored heir whose secret oath-binding threatened the estate plan; and to Rowan Cale, Selene's hidden consort, who had come near the citadel under a borrowed name and whose message to Vey had provoked the household crisis. The investigation established that Selene had privately bound herself to Cale, an outsider from a lineage Vey despised, and that Vey meant to summon his legal steward and alter his settlement after learning the truth. Before the killing, Selene had pleaded unsuccessfully with Vey, someone in the household may have overheard the exchange, and Vey began writing a summons that was interrupted by death. Afterward, Pira's disappearance, her secret refuge with Selene's old confidante Liora Fen, a later suspicious powder sent to Pira as a protective charm, and a written confession attributed to Pira but materially questioned because of its paper, timing, and chain of custody all became central. The puzzle turns on the locked interior, the missing key, the repositioned body, the cleaned but incriminating spring caster, the half-written summons, the concealed marriage proofs, the hidden letter scraps, Pira's silence and death, and the differing reasons each witness had to lie, omit, or misread what they saw.",
   "witnesses": [
     {
-      "id": "w1",
-      "name": "Physician Corin Vale",
-      "statement": "Examined the body and determined that the victim died instantly from a dart-like projectile entering the back of the head; the wound could not have been self-inflicted; the attacker stood behind the victim near the entrance to a side corridor."
+      "id": "w01",
+      "name": "Niko Sable",
+      "statement": "A young advocate who entered the inquiry through the estate office, viewed the scene, attended the formal questioning, interviewed suspects, and relayed discoveries about Tavia, Selene, Rowan, Liora, Pira, and the disputed confession. His direct observations are useful, but his admiration for Tavia and repeated shifts in suspicion make his judgments less dependable than his factual reporting."
     },
     {
-      "id": "w2",
-      "name": "Bren Tallow",
-      "statement": "The chief steward testified that he and the records steward discovered the body around the first morning bell; the citadel had been secured the previous night and was found secured in the morning; he described one ward’s actions after the discovery and stated that no one could easily leave the complex unnoticed once it was opened."
+      "id": "w02",
+      "name": "Lucan Marris",
+      "statement": "Vey's confidential cipher aide, who said he had completed the usual evening work with Vey, described the amber cordial, the partly filled cup, the open inner door, and indistinct passage sounds, and helped report the murder. His account is self-protective: it leaves gaps around a decisive message, the missing ward-key, and later developments involving Pira, and several parts require independent corroboration."
     },
     {
-      "id": "w3",
-      "name": "Aren Quill",
-      "statement": "The records steward stated that he worked with the victim until late evening, shared a cup of spiced tonic with him, left him alive, later heard a faint rustle and a footstep, noticed one ward’s chamber door partly open, and denied knowledge of any motive or suspicious messages."
+      "id": "w03",
+      "name": "Orra Kest",
+      "statement": "The inquiry marshal who examined the barred citadel, found Pira's dropped glow-wick, interpreted Tavia's soot-marked scarf, placed watchers on key suspects, traced Rowan's movements and the Northmere trail, directed covert agents, questioned the confession attributed to Pira, and connected the paper trail to the household timeline."
     },
     {
-      "id": "w4",
-      "name": "Marta Fen",
-      "statement": "The kitchen supervisor testified that an attendant suffered severe jaw pain, went downstairs seeking a remedy from one of the wards, and was missing by morning; she also recalled seeing that ward holding what appeared to be a scrap of parchment after the body was found."
+      "id": "w04",
+      "name": "Damar Quill",
+      "statement": "The death magistrate who conducted the public inquiry and drew out the locked-house facts, discovery sequence, medical findings, missing key, spring-caster evidence, Pira's disappearance, and the suspicious conduct of both foster heirs. He supplies the procedural framework rather than eyewitness knowledge of the killing."
     },
     {
-      "id": "w5",
-      "name": "Lysa Thorn",
-      "statement": "The upper-gallery maid testified that the attendant dressed fully, took a lantern, and went downstairs late at night to seek help from the ward for the pain; the attendant never returned to the servants’ quarters."
+      "id": "w05",
+      "name": "Sera Voss",
+      "statement": "The physician who examined Vey's wound, removed the flechette, ruled out self-infliction, fixed death as immediate, identified the direction and distance of the shot, and inferred that Vey was seated, leaning forward, and struck by someone standing near the threshold between the sleep chamber and the maproom."
+    },
+    {
+      "id": "w06",
+      "name": "Bram Toller",
+      "statement": "The housewarden who said he barred the citadel at night, found the fastenings still secure in the morning, helped Marris force the maproom door, found Vey dead, saw Tavia collapse and order the body moved, and later revealed Rowan's visits under both a false name and his own. He withheld some information at first, but his central observations are consistent with the physical evidence."
+    },
+    {
+      "id": "w07",
+      "name": "Jessa Kade",
+      "statement": "The kitchen keeper who first made investigators notice Pira's disappearance, confirmed Pira's jawache and nighttime trip for a remedy, reported seeing Tavia leave the maproom area with a paper hidden away, and said the household knew of Vey's spring caster. Her evidence is important, though emotional, talkative, and partly reconstructed under pressure."
+    },
+    {
+      "id": "w08",
+      "name": "Mira Pell",
+      "statement": "An upper-floor attendant who described Pira as troubled and withdrawn, confirmed the jawache, the fact that Pira dressed fully, took a loose glow-wick, went downstairs to seek Tavia's remedy, and did not return. Her account links Pira's disappearance directly to the murder night."
+    },
+    {
+      "id": "w09",
+      "name": "Noa Brill",
+      "statement": "A Cinderglass Armory examiner who identified the flechette as third-gauge ammunition fitting a compact spring caster, inspected Vey's weapon, found the cells apparently loaded, and explained that cleaning had removed residue from the barrel while traces in the rotating chamber still showed a recent shot."
+    },
+    {
+      "id": "w10",
+      "name": "Ilyan Mora",
+      "statement": "A harbor warden who, with other officers, carried out the magistrate's orders, fetched the weapon examiner, searched Vey's sleep chamber, recovered the spring caster and ammunition from the locked drawer, and helped preserve the physical evidence during the inquiry."
+    },
+    {
+      "id": "w11",
+      "name": "Selene Orrel",
+      "statement": "Vey's favored foster heir and Rowan Cale's secret oath-bound partner. She initially minimized her knowledge, concealed the binding, obscured relevant messages and fears, and tried through Liora Fen to remove the proof of the binding. Her secrecy gives her motive and creates false trails, so her denials require careful separation from the facts she hid."
+    },
+    {
+      "id": "w12",
+      "name": "Tavia Orrel",
+      "statement": "Vey's other foster heir, suspected because she was associated with the spring caster, was seen near papers, refused to explain the ward-key and torn fragments, and privately admitted destroying or concealing evidence. Her concealments appear aimed at shielding Selene and the family name, but they also distort the timeline and must be judged against the physical clues."
+    },
+    {
+      "id": "w13",
+      "name": "Rowan Cale",
+      "statement": "Selene's hidden consort, who used concealment and a borrowed name, corresponded with Vey, appeared near the citadel, and described the secret-binding problem to Niko as though it concerned someone else. He is evasive and self-protective, but the facts about the binding and inheritance crisis are corroborated by other sources."
+    },
+    {
+      "id": "w14",
+      "name": "Deven Holt",
+      "statement": "A watch agent assigned to Tavia who saw her enter a chamber not her own, handle something near the grate, heard an object fall, and helped recover the broken-handled ward-key and torn message fragments she had concealed."
+    },
+    {
+      "id": "w15",
+      "name": "Kit Vale",
+      "statement": "An undercover investigator using the name Moth who followed the Northmere and Liora Fen leads, gathered inn and village information, watched Liora's house in disguise, saw Pira alive shortly before her death, observed the suspicious powder episode, recovered papers, obtained Selene's message to Liora, and sent urgent reports that reshaped the inquiry."
+    },
+    {
+      "id": "w16",
+      "name": "Sorin Ash",
+      "statement": "A foreign investigator who reported on Rowan Cale's past in Vel Orun, his travel, correspondence, preparations for a woman, connection with Liora Fen, and return across the sea. His findings support the secret-binding theory and are mostly corroborated."
+    },
+    {
+      "id": "w17",
+      "name": "Meren Toll",
+      "statement": "A senior estate advocate and old associate of Vey who supplied background on Vey's character, settlement documents, preference for Selene, and hostility to Rowan's people, explaining why Selene's secret binding would endanger her inheritance and make Vey's intended legal summons urgent."
+    },
+    {
+      "id": "w18",
+      "name": "Jorik Penn",
+      "statement": "A Northmere contact who identified Liora Fen as a respectable widow, described her household, and enabled Niko to enter her home as a lodger, creating the route by which Pira's hiding place and the binding evidence could be investigated."
+    },
+    {
+      "id": "w19",
+      "name": "Olin Reed",
+      "statement": "A hired hand connected with the shrine-keeper's house who remembered the secret binding ceremony, the striking partner, the beautiful young woman, and his own role as a witness. His identification shows which foster heir participated in the ceremony and corrects an important mistaken assumption."
+    },
+    {
+      "id": "w20",
+      "name": "Liora Fen",
+      "statement": "Selene's Northmere confidante, who hid a lacquer tube containing the binding evidence, received Selene's request to destroy the proof, took in Pira after the murder, heard Pira say she had been sent away and warned not to tell what happened, and later gave a fuller account. She concealed evidence and is biased toward Selene, but several central facts are independently supported."
+    },
+    {
+      "id": "w21",
+      "name": "Pira Senn",
+      "statement": "The missing attendant who went downstairs on the murder night and appears to have seen or met someone after the killing. Her direct evidence is limited and comes mostly through Liora; the confession attributed to her after her death is disputed because of its form, timing, and surrounding circumstances. Her silence, flight, and death make her crucial but highly compromised as a source."
+    },
+    {
+      "id": "w22",
+      "name": "Kel Brask",
+      "statement": "A metalworker living near Liora Fen who reported seeing a woman believed to be Pira at an upper window of Liora's house, prompting investigators to renew their attention to the Northmere refuge."
+    },
+    {
+      "id": "w23",
+      "name": "Marlo Dain",
+      "statement": "A chair-driver whose account, together with statements from Saffron Gate Inn staff, supplied information about Rowan's presence, agitation, correspondence, movements, and apparent departure, helping distinguish his concealments from the physical timeline of the killing."
+    },
+    {
+      "id": "w24",
+      "name": "Nessa Orr",
+      "statement": "A Copper Quay Lodge attendant whose account, combined with other Northmere servants' statements, described the Orrel party's earlier stay, Rowan's presence, messages and interactions, and Selene's and Tavia's behavior during the period when the secret binding was arranged."
+    },
+    {
+      "id": "w25",
+      "name": "Aric Vey",
+      "statement": "The victim, whose settlement plan, habits, correspondence, weapon ownership, writing posture, and interrupted summons to his legal steward supply key circumstantial and documentary evidence. He gives no living testimony, but facts attributable to him are strongly corroborated by documents and physical evidence."
+    },
+    {
+      "id": "w26",
+      "name": "Samel Dorn",
+      "statement": "A deceased shrine-keeper whose prior role in performing the secret binding, preserved through witness memory and documents, establishes that Selene and Rowan were bound before the murder and gives the estate crisis a concrete cause."
     }
   ]
 }

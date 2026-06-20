@@ -1,35 +1,187 @@
 {
-  "summary": "In The Leavenworth Case, wealthy retired merchant Horatio Leavenworth is found murdered in his library, shot in the back of the head while seated at his writing table. The crime occurs late at night after his secretary, James Trueman Harwell, finishes working with him. The house is discovered locked the next morning, creating the appearance that the killer must have been someone inside the household. Early evidence points toward the nieces, especially Eleanore Leavenworth, because of suspicious behavior, missing papers, a missing key, and circumstantial clues involving the victim’s pistol. A servant named Hannah also disappears, further complicating the investigation. Medical evidence shows the shot was fired from behind while the victim was bent over his work and trusted or expected the killer. Investigation by detective Ebenezer Gryce uncovers hidden relationships, forged appearances, concealed movements within the house, and efforts to misdirect suspicion. The principal motive proves to be obsessive, unrequited love: Harwell was passionately in love with Mary Leavenworth and believed that by killing her uncle he would secure her inheritance and thereby benefit her. Harwell secretly obtained and used Leavenworth’s pistol, murdered him in the library, and manipulated circumstances afterward to divert suspicion toward others, particularly Eleanore. Various clues that initially appeared to implicate the women of the household are ultimately explained as attempts to conceal compromising but non-murderous facts. In the resolution, Gryce exposes the truth and Harwell effectively confesses, admitting that his love for Mary drove him to enter Leavenworth’s room and pull the trigger. Eleanore is cleared, Mary is exonerated, and the case is solved with Harwell identified as the murderer. Source: ",
+  "summary": "Horatio Leavenworth, a wealthy retired merchant, was found shot dead at his library table on the morning after his regular evening work with his private secretary, James Trueman Harwell. The house had been locked, robbery was excluded, the library door key was missing, and the body had been moved to the bedroom after discovery by Thomas Dougherty and Harwell. Medical and firearms evidence showed that Leavenworth had been shot from behind, from the passage between bedroom and library, while seated and bent forward writing; the weapon was Leavenworth's own small Smith & Wesson pistol, cleaned and reloaded but still marked by recent firing. Suspicion first fell on Hannah Chester, the missing maid who had gone downstairs with a toothache candle and vanished; on Eleanore Leavenworth, who handled or concealed a paper and later concealed the key and fragments of a letter; on Mary Leavenworth, the heiress whose secret marriage endangered her inheritance; and on Henry Ritchie Clavering, Mary's secret husband, who had been near the house under an alias and whose letter to Leavenworth had triggered the crisis. The resolved facts show that Mary had secretly married Clavering, an Englishman whom Leavenworth would never accept, and Leavenworth intended to change his will after learning of it. Harwell, obsessively in love with Mary and eager to preserve her fortune and bind her to him, overheard Mary's failed plea to her uncle, returned to the library under a pretext, took Leavenworth's pistol from the bedroom stand, shot him from behind while he was writing a summons to his lawyer, removed incriminating papers, cleaned and replaced the pistol, locked the library, and accidentally kept the key. Hannah saw or encountered him afterward; Harwell induced her silence by promising protection and marriage, sent her to Mrs. Amy Belden, and later murdered or silenced her with poisoned powder sent under the guise of a charm, accompanied by a forged confession falsely implicating Clavering. Detective Gryce exposed the forged confession through its paper and circumstances, traced the marriage evidence and concealed documents, and confronted Harwell, who fully confessed. Mary, Eleanore, and Clavering were cleared of the murder, though Mary and Eleanore had concealed damaging facts; Harwell was imprisoned, Mary and Clavering reconciled, and the tainted inheritance was redirected away from private enjoyment, with Eleanore rejecting its benefit.",
   "witnesses": [
     {
-      "id": "w1",
-      "name": "Dr. Maynard",
-      "statement": "Examined the body and concluded that Leavenworth died instantly from a pistol shot entering the back of the head; the wound could not have been self-inflicted; the shooter stood behind the victim near the passageway entrance.",
-      "reliability": "A"
+      "id": "w01",
+      "name": "Everett Raymond",
+      "statement": "Narrator-lawyer who saw the crime scene, attended the inquest, observed suspects, reported interviews and investigations, discovered or relayed key facts about Eleanore, Mary, Clavering, Mrs. Belden, Hannah, and the forged confession. His firsthand observations were useful, but his romantic bias toward Eleanore and several mistaken suspicions required later correction.",
+      "source_reliability": "C",
+      "information_credibility": "2"
     },
     {
-      "id": "w2",
-      "name": "Thomas Dougherty",
-      "statement": "The butler testified that he and Harwell discovered the body around 8 a.m.; the house had been secured the previous night and was found secured in the morning; he described Eleanore’s actions after the discovery and stated that no one could easily leave the house unnoticed after it was opened.",
-      "reliability": "B"
-    },
-    {
-      "id": "w3",
+      "id": "w02",
       "name": "James Trueman Harwell",
-      "statement": "The secretary stated that he worked with Leavenworth until about 10:30 p.m., shared a glass of sherry with him, left him alive, later heard a rustle and footstep, noticed Eleanore’s door partly open, and denied knowledge of any motive or suspicious correspondence.",
-      "reliability": "F"
+      "statement": "Private secretary who first reported the murder, described his final dictation session with Leavenworth, the sherry, the partly filled glass, the open door, and hallway sounds. He concealed the decisive letter and his own actions, misdirected suspicion, forged Hannah's confession, poisoned her, and finally confessed that he killed Leavenworth to protect Mary's inheritance and advance his own love for her.",
+      "source_reliability": "E",
+      "information_credibility": "1"
     },
     {
-      "id": "w4",
+      "id": "w03",
+      "name": "Ebenezer Gryce",
+      "statement": "Lead detective who examined the house, found Hannah's candle, produced and interpreted Eleanore's smutted handkerchief, arranged surveillance, pursued Clavering and the R---- trail, directed Q and other agents, exposed the forged confession, connected the paper evidence to Harwell, and forced the final confession.",
+      "source_reliability": "A",
+      "information_credibility": "1"
+    },
+    {
+      "id": "w04",
+      "name": "Coroner Hammond",
+      "statement": "Conducted the inquest, elicited the locked-house facts, discovery timeline, medical evidence, missing key, pistol evidence, Hannah's disappearance, and the suspicious conduct of Mary and Eleanore. His role was primarily investigative and procedural rather than eyewitness.",
+      "source_reliability": "B",
+      "information_credibility": "1"
+    },
+    {
+      "id": "w05",
+      "name": "Dr. Maynard",
+      "statement": "Surgeon who examined Leavenworth's wound, extracted the bullet, excluded suicide, established instantaneous death, identified the shot's direction and distance, and inferred that the victim was seated, bent forward, and shot by someone standing near the passage threshold.",
+      "source_reliability": "A",
+      "information_credibility": "1"
+    },
+    {
+      "id": "w06",
+      "name": "Thomas Dougherty",
+      "statement": "Butler who testified that he locked the house at night, found all fastenings secure in the morning, helped Harwell break into the library, found Leavenworth dead, saw Eleanore faint and order the body moved, and later disclosed Clavering's visits under an alias and under his own name. He withheld some facts at first but his core observations were substantially correct.",
+      "source_reliability": "B",
+      "information_credibility": "2"
+    },
+    {
+      "id": "w07",
       "name": "Katherine Malone",
-      "statement": "The cook testified that the maid Hannah had a severe toothache, went downstairs seeking medicine from Eleanore, and was missing by morning; she also recalled seeing Eleanore with what appeared to be a piece of paper after the body was found.",
-      "reliability": "C"
+      "statement": "Cook who revealed Hannah's existence and disappearance, confirmed Hannah's toothache and descent for medicine, reported seeing Eleanore leave the library area with a paper and pocket it, and confirmed household knowledge of Leavenworth's pistol. Her evidence was important but emotional, garrulous, and partly dependent on memory under pressure.",
+      "source_reliability": "C",
+      "information_credibility": "2"
     },
     {
-      "id": "w5",
+      "id": "w08",
       "name": "Molly O'Flanagan",
-      "statement": "The upstairs maid testified that Hannah dressed completely, took a candle, and went downstairs late at night to seek help from Eleanore for toothache pain; Hannah never returned to the servants’ room.",
-      "reliability": "B"
+      "statement": "Upstairs maid who described Hannah's character, melancholy habits, toothache, full dressing, loose candle, trip downstairs to seek Miss Eleanore's medicine, and failure to return. Her account helped link Hannah's disappearance to the murder night.",
+      "source_reliability": "B",
+      "information_credibility": "2"
+    },
+    {
+      "id": "w09",
+      "name": "Unnamed Bohn & Co. clerk",
+      "statement": "Firearms expert who identified the bullet as a No. 32 suited to a small Smith & Wesson pistol, examined Leavenworth's pistol, found all chambers loaded but one recently fired, and explained that the barrel had been cleaned while cylinder smut remained.",
+      "source_reliability": "A",
+      "information_credibility": "1"
+    },
+    {
+      "id": "w10",
+      "name": "Unnamed police officers",
+      "statement": "Officers who executed coroner and detective requests, fetched the firearms expert, searched Leavenworth's bedroom, recovered the pistol from the locked drawer with cartridges, and helped preserve or produce physical evidence during the inquest.",
+      "source_reliability": "B",
+      "information_credibility": "1"
+    },
+    {
+      "id": "w11",
+      "name": "Mary Leavenworth",
+      "statement": "Heiress and secret wife of Henry Clavering. At first she minimized knowledge, withheld her marriage, denied or obscured relevant letters and suspicions, and sought to destroy marriage proofs through Mrs. Belden. Later facts showed she had motive and concealment but did not kill Leavenworth; her secrecy helped create false suspicion and gave Harwell his motive.",
+      "source_reliability": "D",
+      "information_credibility": "5"
+    },
+    {
+      "id": "w12",
+      "name": "Eleanore Leavenworth",
+      "statement": "Leavenworth's other niece, initially suspected because she had handled pistol matters, was seen near papers, refused to explain the key and letter fragments, and privately admitted destroying or concealing evidence. She concealed facts chiefly to shield Mary and the family, not because she was guilty, and her denial of the murder was true.",
+      "source_reliability": "C",
+      "information_credibility": "2"
+    },
+    {
+      "id": "w13",
+      "name": "Henry Ritchie Clavering",
+      "statement": "Mary's secret husband, who had used concealment and alias behavior, corresponded with Leavenworth, appeared near the house, and indirectly disclosed the secret-marriage problem to Raymond as if it concerned another person. He was evasive and self-protective, but the marriage and inheritance facts connected to him were confirmed; he was not the murderer.",
+      "source_reliability": "C",
+      "information_credibility": "2"
+    },
+    {
+      "id": "w14",
+      "name": "Mr. Fobbs",
+      "statement": "Detective assistant who watched Eleanore, saw her in a room not her own manipulating something near the grate, heard a dropped object, and recovered or helped recover the broken-handled library key and letter fragments that Eleanore had concealed.",
+      "source_reliability": "B",
+      "information_credibility": "1"
+    },
+    {
+      "id": "w15",
+      "name": "Q, also called Morris",
+      "statement": "Undercover investigator who traced the R---- and Mrs. Belden leads, collected hotel and local information, watched Mrs. Belden's house in disguise, saw Hannah alive shortly before death, observed the suspicious powder episode, recovered papers, obtained Mary's letter from Mrs. Belden, and sent urgent reports that advanced the solution.",
+      "source_reliability": "B",
+      "information_credibility": "1"
+    },
+    {
+      "id": "w16",
+      "name": "Brown",
+      "statement": "London investigator who reported on Henry Ritchie Clavering's background, travel, correspondence, preparations for a woman, connections with Amy Belden, and return to America. His information supported the secret-marriage theory and was largely corroborated.",
+      "source_reliability": "B",
+      "information_credibility": "2"
+    },
+    {
+      "id": "w17",
+      "name": "Mr. Veeley",
+      "statement": "Senior lawyer and family friend who supplied background on Leavenworth, his will, his attachment to Mary, and his hostility to Englishmen, explaining why Mary's secret marriage to Clavering threatened her inheritance and gave urgency to the motive.",
+      "source_reliability": "A",
+      "information_credibility": "1"
+    },
+    {
+      "id": "w18",
+      "name": "Mr. Monell",
+      "statement": "R---- contact who identified Mrs. Amy Belden as a respectable widow, described her household situation, and enabled Raymond to enter her house as a lodger, opening the path to Hannah and the marriage evidence.",
+      "source_reliability": "B",
+      "information_credibility": "2"
+    },
+    {
+      "id": "w19",
+      "name": "Timothy Cook",
+      "statement": "Hired man connected with the minister's house who remembered the secret wedding, the handsome groom, the beautiful bride, and his role as a witness. He identified Mary, not Eleanore, as the bride, correcting the investigation's major mistaken assumption.",
+      "source_reliability": "B",
+      "information_credibility": "1"
+    },
+    {
+      "id": "w20",
+      "name": "Amy Belden",
+      "statement": "Mary's R---- friend and confidante who hid the tin box containing marriage evidence, received Mary's request to destroy proofs, took in Hannah after the murder, heard Hannah say she had been sent away and forbidden to tell what happened, and later gave a full narrative. She concealed evidence and was biased toward Mary, but her central factual disclosures were corroborated.",
+      "source_reliability": "C",
+      "information_credibility": "2"
+    },
+    {
+      "id": "w21",
+      "name": "Hannah Chester",
+      "statement": "Missing maid who went downstairs on the murder night and encountered or saw Harwell after the killing. Her real statements were limited and filtered through Mrs. Belden; the written confession found after her death was not hers but Harwell's forgery falsely accusing Clavering. Her silence and death made her a crucial but compromised evidentiary source.",
+      "source_reliability": "D",
+      "information_credibility": "5"
+    },
+    {
+      "id": "w22",
+      "name": "Unnamed tinsmith neighbor",
+      "statement": "Local observer who reported seeing a woman believed to be Hannah at or near Mrs. Belden's upper window, prompting renewed investigation of the R---- house.",
+      "source_reliability": "C",
+      "information_credibility": "2"
+    },
+    {
+      "id": "w23",
+      "name": "Hoffman House staff and cabman",
+      "statement": "Unnamed hotel personnel and cabman who supplied information about Clavering's presence, agitation, correspondence, movements, and apparent departure, helping distinguish his suspicious concealments from actual guilt.",
+      "source_reliability": "C",
+      "information_credibility": "2"
+    },
+    {
+      "id": "w24",
+      "name": "Hotel Union and R---- servants",
+      "statement": "Unnamed hotel and local servants who reported the Leavenworth party's stay, Clavering's presence, interactions, messages, and the behavior of Mary and Eleanore during the earlier R---- period, supporting the hidden-marriage reconstruction.",
+      "source_reliability": "C",
+      "information_credibility": "2"
+    },
+    {
+      "id": "w25",
+      "name": "Horatio Leavenworth",
+      "statement": "Victim whose will, habits, correspondence, pistol ownership, writing position, intended summons to his lawyer, and reaction to Mary's marriage supplied key documentary and circumstantial evidence. He gave no living testimony, but the facts attributable to him were strongly corroborated.",
+      "source_reliability": "A",
+      "information_credibility": "1"
+    },
+    {
+      "id": "w26",
+      "name": "Samuel Stebbins",
+      "statement": "Deceased minister whose prior act of performing the secret marriage, reflected through witness memory and marriage proofs, established that Mary had married Henry Clavering before the murder and that Leavenworth's planned change of will had a concrete cause.",
+      "source_reliability": "B",
+      "information_credibility": "1"
     }
   ]
 }

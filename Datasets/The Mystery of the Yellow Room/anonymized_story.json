@@ -1,20 +1,115 @@
 {
-  "summary": "At Ironvale Observatory in the coastal province of Norhollow during the late era of steam-driven industry, an apparent locked-room attempted murder took place in the Amber Chamber, a private bedroom connected to the research workshop of scholar Alaric Voss. The victim was Elara Voss, who was discovered gravely injured with signs of strangulation and a severe blow to the head. The circumstances appeared impossible: the bedroom door was locked and barred from the inside, the window was reinforced and secured, yet evidence suggested that an intruder had been present. Investigators found footprints, blood traces, a discarded cap, a handkerchief, and other signs of a violent encounter, but no attacker could be located. Early suspicion fell on groundskeeper Gideon Hale, the gatekeepers Martin and Clara Rens, Elara’s betrothed Adrian Vale, and several unidentified trespassers. A celebrated investigator from the capital assumed charge of the inquiry while a young independent analyst pursued a parallel examination of the facts. Witness testimony indicated that Elara retired to the Amber Chamber, secured it herself, and was later heard crying out for help. Gunshots, crashing furniture, and sounds of a struggle were reported, leading several people to attempt entry. The window appeared inaccessible from the outside, and the door had to be forced open. Inside, Elara was found injured while the apparent assailant had vanished without explanation. As the investigation progressed, contradictions emerged regarding the timing of events, the significance of the physical evidence, and the sequence in which key clues had been created. Hidden connections involving a notorious criminal from an earlier generation, secret identities, long-buried family history, pressure exerted upon the victim, and efforts to obtain valuable research documents gradually came to light. The mystery ultimately centered on determining when the attack had truly occurred, how the locked-room conditions had been created, and whether the evidence reflected a single event or multiple incidents that had been mistaken for one another.",
+  "summary": "At the isolated glass-walled research lodge of Alderfen Manor, celebrated physicist Dr. Orin Vell and his daughter Selene Vell were finishing experiments on the fragmentation of light inside a laboratory pavilion beside the main house. Selene, publicly engaged to lecturer Cassian Mor, was privately terrified by a buried episode from years earlier in the island colony of Meridia, where she had entered a secret marriage under another name with a dangerous adventurer believed to have died. Shortly before the crime, Selene began receiving threats connected to that past, to her father’s research papers, and to her coming marriage. On the evening in question, Dr. Vell and Selene were briefly absent from the pavilion in the late afternoon. During that interval, someone entered through the vestibule casement and left misleading traces involving an old caretaker’s boots, cap, kerchief, and pistol. When Selene returned alone before supper, she was attacked inside the Amber Chamber. She fired the caretaker’s pistol and apparently wounded the intruder’s hand. The assailant escaped through the laboratory and vestibule casement, leaving blood, footprints, a heavy animal-bone club, and other planted or ambiguous clues. Selene did not describe the event truthfully, apparently because disclosure would expose a personal secret and damage people she wished to protect. Later that night, after working calmly with her father until midnight, Selene locked and bolted herself into the Amber Chamber. Cries were heard soon after. The door was broken open from outside. Selene was found unconscious, the room was disordered, the pistol had fired, blood was present, and the windows and blinds appeared impossible to use as an exit. This created the appearance of a second attack committed inside a sealed room. Investigators debated whether an intruder had hidden in the room, escaped by some structural passage, or had assistance from someone inside the household. Subsequent events deepened the mystery: scientific papers disappeared and reappeared, Selene was attacked again in her room at the manor, an estate watchman was found dead in the court during the same night, and a suspect’s movements were made to look incriminating through absences, letters, objects, and eyewitness identifications. The official investigation increasingly pointed toward Cassian Mor, partly because he refused to explain several suspicious actions and absences. Private investigator Jory Kest, aided by narrator Eamon Vale, suspected that several apparent facts had been arranged to force a false interpretation. The case depends on separating the time of the first true assault from the later locked-room disturbance, judging which physical clues are genuine or staged, and deciding why certain witnesses conceal truthful information while still providing accurate observations.",
   "witnesses": [
     {
-      "id": "W1",
-      "name": "Gideon Hale",
-      "statement": "He stated that he was in the research workshop with Scholar Alaric Voss when Elara retired to the Amber Chamber, locked and barred the door, and later cried out for help. He described hearing gunshots and noises suggesting a struggle, attempting to enter, checking the window, helping force the door, and finding Elara injured while the attacker had disappeared."
+      "id": "w01",
+      "name": "Jory Kest",
+      "statement": "Young reporter-investigator who argues that the apparent sealed-room attack may not have happened at the time everyone assumes. He studies the footprints, the pistol shots, the blood, the wounded hand, the chamber furniture, the later manor attack, the watchman’s death, and the staged evidence against Cassian Mor. He also investigates Selene Vell’s hidden Meridia past and believes the motive lies there, but he withholds his final identification until he can obtain proof."
     },
     {
-      "id": "W2",
-      "name": "Martin Rens",
-      "statement": "He confirmed being drawn by the gunshots and cries, joining the effort to force open the door, and participating in the discovery of the injured Elara after the room was entered."
+      "id": "w02",
+      "name": "Eamon Vale",
+      "statement": "Narrator and friend of Jory Kest. He accompanies Kest to Alderfen Manor, observes the pavilion, the manor, the suspects, the later court events, and the trial preparations. He verifies the purchase of a distinctive reed cane through a city dealer and preserves Kest’s explanations without himself solving the case independently."
     },
     {
-      "id": "W3",
-      "name": "Clara Rens",
-      "statement": "She accompanied Gideon Hale to the exterior of the Amber Chamber, observed that the window and shutters appeared secured, and later witnessed the forced entry and aftermath."
+      "id": "w03",
+      "name": "Tobin Quill, called Old Tobin",
+      "statement": "Caretaker of the pavilion. He says Selene entered the Amber Chamber at midnight, locked and bolted the door, and soon cried for help while he and Dr. Vell were in the laboratory. He helped break down the door and reports the overturned furniture, blood, footprints, kerchief, cap, and missing pistol. He later conceals that he helped an innkeeper’s wife leave the grounds after the watchman’s death."
+    },
+    {
+      "id": "w04",
+      "name": "Dr. Orin Vell",
+      "statement": "Selene’s father and an eyewitness to the apparent midnight incident. He confirms that he worked with Selene until midnight, that Old Tobin was present in the laboratory, that the Amber Chamber door had to be forced, that the chamber appeared sealed, that two pistol shots were accounted for, that the pavilion keys were controlled, and that he was briefly separated from Selene in the afternoon after speaking with the estate watchman."
+    },
+    {
+      "id": "w05",
+      "name": "Selene Vell",
+      "statement": "Victim of the attacks. She admits she feared someone, borrowed Old Tobin’s pistol, noticed suspicious shadows, and was assaulted by a man. However, she gives an incomplete and misleading account of the timing and circumstances, concealing the earlier confrontation and the full reason for her fear in order to protect her father and Cassian Mor."
+    },
+    {
+      "id": "w06",
+      "name": "Cassian Mor",
+      "statement": "Selene’s fiancé. He knows more about Selene’s hidden past than he will publicly admit and understands a cryptic phrase connected to that history. He helps Kest gain access to the estate but refuses to explain incriminating absences or reveal Selene’s secret even when suspicion falls on him. His silence protects Selene while making him appear guilty."
+    },
+    {
+      "id": "w07",
+      "name": "Inspector Valen Rusk",
+      "statement": "Celebrated detective assigned to the case. He supplies theories, interprets clues, argues for and against accomplice scenarios as the evidence develops, and eventually builds a case against Cassian Mor. Some of his observations are useful, but several of his conclusions press the evidence toward a single suspect in ways that Kest believes are too convenient."
+    },
+    {
+      "id": "w08",
+      "name": "Magistrate Halden Prout",
+      "statement": "Examining magistrate. He records the official early facts: the sealed Amber Chamber, intact windows and shutters, the pavilion layout, blood at the vestibule casement, bullets, wounds, footprints, and the theory that an attacker may have hidden in the room before escaping by an impossible route. He wrongly pursues several suspects on circumstantial evidence."
+    },
+    {
+      "id": "w09",
+      "name": "Clerk Merrow Fenn",
+      "statement": "Registrar to Magistrate Prout. He says he examined or sounded the walls, ceiling, and floor and found no hidden passage, trapdoor, sliding panel, hollow wall, or structural escape route. His testimony strengthens the locked-room impossibility."
+    },
+    {
+      "id": "w10",
+      "name": "Dr. Lys Farrow",
+      "statement": "Family physician. She reports Selene’s condition, allows questioning when Selene improves, and states that pressure marks on the throat show a near strangulation while the temple injury is serious but not necessarily caused by a pistol blow. Her medical observations help separate injury facts from assumptions about when and how they occurred."
+    },
+    {
+      "id": "w11",
+      "name": "Garron Bell",
+      "statement": "Gatekeeper at Alderfen Manor. He helps force the Amber Chamber door and later admits that he and his wife were illegally trapping game near the pavilion, explaining their suspicious presence. During the later manor watch, he is stationed by Kest, hears shots, fires at a fleeing figure, and insists that he could not have overlooked a second person in the narrow court."
+    },
+    {
+      "id": "w12",
+      "name": "Mira Bell",
+      "statement": "Gatekeeper’s wife. She accompanies Old Tobin to inspect the Amber Chamber window and confirms that it could not have served as the escape route at midnight. Later, at Kest’s request, she searches Selene’s room and finds a pair of eyeglasses that become important evidence."
+    },
+    {
+      "id": "w13",
+      "name": "Bram Hocket",
+      "statement": "Keeper of the Lantern Stag Inn and husband of Tessa Hocket. He provides local gossip about the murdered watchman, reveals hostility toward him, indirectly confirms the Bells’ poaching through the inn’s supply of game, and initially accuses the watchman of being involved in the earlier attack. His jealousy and threats make him a plausible but possibly misleading suspect."
+    },
+    {
+      "id": "w14",
+      "name": "Tessa Hocket",
+      "statement": "Landlady of the Lantern Stag Inn. She later admits that she was secretly involved with the watchman, came to the manor grounds disguised in a black shawl, used birdlike cries as a signal, saw a fleeing shadow after the watchman was killed, found the body, and was helped away by Old Tobin. Her concealed affair first confuses the case but later explains the phantom figure and some suspicious sounds and tracks."
+    },
+    {
+      "id": "w15",
+      "name": "Nanny Voss",
+      "statement": "Local old woman associated with a tame white ferret called the Chapel Ghost. She says she was ill, that the ferret remained with her, and that she heard an identical cry outside on the night of the crime while the animal was in her lap. This suggests the cry was imitated by a person rather than made by the animal."
+    },
+    {
+      "id": "w16",
+      "name": "Edwin Graves",
+      "statement": "Foreign acquaintance and former suitor of Selene. He appears at Alderfen, describes his movements, says he last saw the watchman around eleven while arranging for luggage to be sent to a nearby rail stop, and is present during the later court scene. Kest’s inquiries into Selene’s Meridia years show that Graves once loved her and had fallen into drink, but his role remains distinct from the central scheme."
+    },
+    {
+      "id": "w17",
+      "name": "Marius Reed",
+      "statement": "City cane dealer. He tells Eamon Vale that a man resembling Cassian Mor bought a yellow reed cane like the one later associated with the investigation on the evening of the first crime. The sale and resemblance are important, but the apparent implication against Mor may be misleading."
+    },
+    {
+      "id": "w18",
+      "name": "Northgate Post Clerk",
+      "statement": "Reports that a man resembling Cassian Mor asked about a poste-restante letter after Selene had already collected it. The fact matters because it suggests someone may have been manipulating the letter trail and using Mor’s appearance or name to create suspicion."
+    },
+    {
+      "id": "w19",
+      "name": "Railway Porter at Bracken Halt",
+      "statement": "Identifies Cassian Mor as arriving by train at about half past ten on the night of the later manor attack. The observation creates a damaging gap in Mor’s alibi, though Kest believes the timing may have been engineered to lure Mor away and delay him."
+    },
+    {
+      "id": "w20",
+      "name": "Anonymous Gazette Correspondent",
+      "statement": "Publishes the first detailed public account of the Amber Chamber affair, including Old Tobin’s interview, the magistrate’s comments, the sealed-room facts, the Chapel Ghost animal story, Nanny Voss’s statement, and the expected arrival of Inspector Rusk. The report preserves useful early details but is sensational, incomplete, and shaped by rumor."
+    },
+    {
+      "id": "w21",
+      "name": "Editor Silas Wren",
+      "statement": "Receives Jory Kest’s sealed note naming the person he believes responsible before the formal hearing and is prepared to produce it if Kest does not return. His role confirms that Kest reached a definite solution before leaving to gather proof from Selene’s overseas past."
+    },
+    {
+      "id": "w22",
+      "name": "Master Builder Corvin Hale",
+      "statement": "Consulted about the pavilion’s construction and expected to inspect for concealed panels, trapdoors, ceiling cracks, underground outlets, or hidden passages. The absence of such a route supports the importance of rethinking whether the apparent locked-room assault occurred while the room was actually locked."
     }
   ]
 }

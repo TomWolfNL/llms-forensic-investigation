@@ -3,10 +3,8 @@ Input: <crime investigation story>
 Task: Analyze the crime investigation story and return a structured JSON object.
 
 Instructions:
-1. Reconstruct the case concisely but comprehensively. Preserve all material facts, including the victim, timeline, events, motives, opportunities, evidence, suspects, culprit, method, and resolution.
-2. Identify every person who provides intelligence, evidence, testimony, reporting, or relevant information. This includes informants, interviewees, observers, experts, investigators, confessors, narrator-observers, and anyone else who materially contributes information.
-3. For each identified person, summarize their cumulative evidentiary contribution across the entire story, including any later corrections, contradictions, retractions, or confessions.
-4. Apply NATO Intelligence Grading to each person as an evidentiary source. Assess source reliability separately from information credibility. Do not force the two grades to match.
+1. Identify all the people in the case, their relations, and their contradicting or complementary stories.
+2. Apply NATO Intelligence Grading to each person as an evidentiary source. Assess source reliability separately from information credibility. Do not force the two grades to match.
 
 Definitions:
 - Source reliability = trustworthiness of the person as a source: firsthand access, competence, consistency, bias, deception, hearsay, and uncertainty. A = completely reliable; B = usually reliable; C = fairly reliable; D = not usually reliable; E = unreliable; F = cannot be judged.
@@ -14,7 +12,6 @@ Definitions:
 
 Output JSON only:
 {
-  "summary": "<reconstruction>",
   "witnesses": [
     {
       "id": "<witness id>",

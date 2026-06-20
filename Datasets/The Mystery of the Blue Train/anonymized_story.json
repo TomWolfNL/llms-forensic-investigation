@@ -1,15 +1,130 @@
 {
-  "summary": "Victim: Selene Voss, daughter of wealthy industrial magnate Orion Voss and estranged spouse of Cassian Voss. Before the crime, Orion secretly acquired the legendary 'Ember Crown' gemstones and several matching treasures for Selene. Selene planned to travel aboard the Night Meridian to the coastal city of Aurienne while considering ending her marriage to Cassian. Multiple apparent suspects emerged: Cassian Voss (financial pressure and marital conflict), Lucien Vale (Selene's former romantic partner and a reputed adventurer), Elara Wynn (Cassian's lover), and several others connected to the gemstones. During the journey on the Night Meridian, Selene was killed in her private cabin and the gemstones vanished. Early evidence pointed toward Cassian and later toward Lucien, supported by suspicious circumstances and signs that appeared to place them near the crime. Investigators discovered conflicting timelines, misleading observations, and indications that someone with insider knowledge had manipulated events. One especially trusted associate within Orion's circle possessed detailed knowledge of Selene's travel plans and the existence of the gemstones, while a series of earlier jewel thefts suggested the involvement of a hidden criminal organizer. The case ultimately depended on reconstructing the exact sequence of events, separating genuine clues from manufactured evidence, determining who had access to Selene during the journey, and identifying the person responsible for both the murder and the theft.",
+  "summary": "Liora Vale, the only child of shipping magnate Cassian Vale and the estranged spouse of charming but indebted Arden Vale, was found murdered aboard the Silver Comet express while traveling from the inland capital toward the southern coast. She had recently been given a legendary black-opal collar containing a famous central stone known as the Ember Star. Cassian had purchased the stones in the capital through two discreet foreign intermediaries, and there had already been signs that a sophisticated criminal network was watching the jewels. An early attempt to rob Cassian failed, after which the danger shifted to Liora herself. Liora was traveling under strain: she had agreed to pursue a formal separation from Arden, whose finances were desperate and whose affair with the dancer Serafine was known to several people. At the same time, Liora concealed that she intended to meet her former lover, Lord Marcian Vey, a polished aristocratic adventurer who had reason to covet the opals and who planned to replace them with an imitation collar. Arden was also aboard the train and became the most obvious suspect after a fellow passenger saw him enter Liora's compartment near a major junction. Serafine, jealous and angry, later accused Arden directly, claiming she had seen him leave the compartment and knew Liora was already dead. The discovery of imitation stones appeared to implicate Lord Marcian, but the false collar could also indicate an attempted jewel substitution rather than murder. The body's face was badly damaged, complicating identification and raising questions about whether the violence was personal rage, concealment, or something else. Liora's traveling attendant, Selma Reed, claimed she had accidentally been left behind in the capital after departure and said she had seen a man in Liora's compartment, but her account shifted in ways that affected suspicion. The train steward reported that, after the capital stop, a woman he believed to be Liora told him the attendant had been left behind, asked that only one berth be prepared, and ordered that she not be disturbed. This statement is central because it determines whether Liora was still alive after the capital stop or whether someone could have been impersonating her. A private investigator hired by Cassian established Arden's debts and marital motive but not guilt. Police officials pursued both Arden and Lord Marcian as suspects, weighing the medical timing, the missing jewel case, the false stones, and the conflicting witness accounts. Additional clues included the distinctive travel clothing associated with Liora, an unexplained cigarette case, the movements of people boarding or leaving at the junction, a past hospital jewel theft connected to one suspect's earlier history, and later intelligence that the stolen opals may have passed through a discreet coastal fencing network. One witness from that network indicated that a woman had delivered the stones, complicating the theory that the theft and murder were committed by a single obvious male suspect. The mystery turns on the timing of Liora's death, whether the woman seen after the capital stop was truly Liora, whether Arden's visit to the compartment proves guilt or merely places him near the scene, whether Lord Marcian's false jewels explain the whole crime or only a separate scheme, and whether the attendant's delayed and changing testimony is reliable.",
   "witnesses": [
     {
-      "id": "w1",
-      "name": "Marina Holt",
-      "statement": "She traveled on the Night Meridian, spoke with Selene Voss, later described Selene's worries and frame of mind, observed Cassian Voss entering Selene's cabin, and stated that at the station stop in Brindle Crossing she did not see Lucien Vale leaving the train; she only noticed a young man wearing a flat cap, a bearded traveler searching for refreshments, and railway staff."
+      "id": "W01",
+      "name": "Marius Pell",
+      "statement": "A private consulting detective who investigates the murder aboard the Silver Comet. He questions the straightforward theories against Arden Vale and Lord Marcian Vey, focuses on the damaged face, the timing after the capital stop, the possibility of disguise or impersonation, and the significance of the false opal collar."
     },
     {
-      "id": "w2",
-      "name": "Nora Pike",
-      "statement": "Selene Voss's personal attendant reported details about the journey and cabin arrangements and provided observations relevant to Selene's movements before the killing."
+      "id": "W02",
+      "name": "Elena Marlow",
+      "statement": "A fellow passenger who spoke with Liora before the murder. She helped identify the body by build, hair, and a distinctive mark despite the facial damage; reported that the red leather jewel case was missing; saw Arden enter Liora's compartment near the junction; and later connected an old newspaper clipping about a hospital jewel robbery to one of the people around the case."
+    },
+    {
+      "id": "W03",
+      "name": "Liora Vale",
+      "statement": "Before her death, she told her father about Arden's affair with Serafine, agreed to pursue separation, accepted the opal collar, and concealed her renewed connection with Lord Marcian Vey. During the journey she hinted to Elena that she was traveling toward a private romantic meeting, creating a motive for both emotional conflict and jewel theft."
+    },
+    {
+      "id": "W04",
+      "name": "Cassian Vale",
+      "statement": "Liora's wealthy father. He reported the purchase and gift of the opals, Liora's failing marriage, Arden's financial motive, the earlier attempted robbery in the capital, and his prior knowledge of Lord Marcian Vey. His evidence supplies motive and background but also directs early suspicion toward Arden and Marcian."
+    },
+    {
+      "id": "W05",
+      "name": "Captain Iven Sorr",
+      "statement": "Cassian Vale's confidential secretary, who accompanies parts of the inquiry and appears to support Selma Reed's account of being left behind in the capital. He has knowledge of Cassian's affairs, the jewel purchase, and the investigation's movements, making his observations useful but also requiring careful scrutiny."
+    },
+    {
+      "id": "W06",
+      "name": "Selma Reed",
+      "statement": "Liora's traveling attendant. She claims she was left behind in the capital, that she saw a man in Liora's compartment, and that the man may have been Lord Marcian before later implications point more strongly toward Arden. She recognizes a cigarette case and offers an explanation linking it to Liora and Arden. Her testimony is important but unstable because her identification and timing affect the entire case."
+    },
+    {
+      "id": "W07",
+      "name": "Arden Vale",
+      "statement": "Liora's estranged spouse. He first denies entering her compartment, then admits privately that he went in near the junction, saw what he believed was Liora asleep, and left without waking her. He acknowledges financial pressure and marital misconduct but denies killing her."
+    },
+    {
+      "id": "W08",
+      "name": "Serafine Dax",
+      "statement": "A dancer involved with Arden. She reports Arden's financial desperation, says he had spoken as though Liora's death would solve his problems, mentions Liora's plan involving Lord Marcian, and later accuses Arden of murder by claiming she saw him leave Liora's compartment before the junction and knew Liora was dead. Her observation may matter, but her interpretation is colored by jealousy and anger."
+    },
+    {
+      "id": "W09",
+      "name": "Lord Marcian Vey",
+      "statement": "Liora's former lover and a polished nobleman with a reputation for exploiting wealthy women. He intended to obtain the opal collar by substituting an imitation. He gives a questionable account of his movements, is supported by servants who initially provide a false alibi, and is linked to the false jewels, but that evidence may indicate theft rather than murder."
+    },
+    {
+      "id": "W10",
+      "name": "Oren Tal",
+      "statement": "The steward of the Silver Comet. He says that after the capital stop, the woman he believed to be Liora told him her attendant had been left behind, requested that only one berth be prepared, and ordered that she not be awakened. He later discovered the body. His observations are sincere, but their value depends on whether the woman he saw was truly Liora."
+    },
+    {
+      "id": "W11",
+      "name": "Inspector Ravel Dorn",
+      "statement": "A police official who takes Elena's testimony, coordinates the early inquiry, records scene and medical details, considers both train robbery and crime-of-passion theories, and relays official suspicion first toward Lord Marcian and later toward Arden."
+    },
+    {
+      "id": "W12",
+      "name": "Magistrate Corvin Hale",
+      "statement": "The examining magistrate who evaluates Serafine's sworn accusation, the legal case against Arden, the estimated medical timing, and the motive evidence. He treats the case as serious enough for arrest while remaining aware of uncertainty and scandal."
+    },
+    {
+      "id": "W13",
+      "name": "Brant Kells",
+      "statement": "A private investigator hired by Cassian Vale. He uncovers Arden's debts, misconduct, financial peril, and vulnerability in the separation proceedings. His work establishes a strong motive but does not by itself prove Arden committed the murder."
+    },
+    {
+      "id": "W14",
+      "name": "Nestor Kalvani",
+      "statement": "A discreet coastal dealer who gives Marius Pell guarded information suggesting that a master criminal known as the Pale Fox may be involved. He later indirectly confirms that the stolen opals passed through his circle. He is cautious and self-protective, so his hints must be weighed carefully."
+    },
+    {
+      "id": "W15",
+      "name": "Talia Kalvani",
+      "statement": "Nestor Kalvani's daughter. She confirms that the opals were handed over through her father's network, that the client was connected with the Pale Fox, and that the person who delivered the jewels was a woman. This makes the role of a female accomplice or intermediary important."
+    },
+    {
+      "id": "W16",
+      "name": "Barek Slin",
+      "statement": "The intermediary who sold the opals to Cassian Vale in the capital. He confirms the secretive sale, the fear of surveillance, and the presence of street criminals apparently directed by an older pale-haired man during the earlier attempted robbery."
+    },
+    {
+      "id": "W17",
+      "name": "Madame Orsina Vaal",
+      "statement": "The previous holder of the opals before Cassian bought them. She noticed suspicious men near the sale, believed a pale-haired figure was directing them, and warned that the stones would become especially dangerous once given to a woman traveling with them."
+    },
+    {
+      "id": "W18",
+      "name": "Nadia Bellwether",
+      "statement": "A younger acquaintance who helps Marius consider whether someone could have boarded or left the train at the junction, clarifying the timing around Arden's visit. She also provides background about a suspect's old injury and connection to a wartime hospital, which may bear on disguise, movement, or past jewel theft."
+    },
+    {
+      "id": "W19",
+      "name": "Hector Plume",
+      "statement": "Lord Marcian's servant. He first claims Marcian arrived at the villa earlier than he did, then admits under pressure that Marcian arrived later. This destroys Marcian's alibi but does not by itself establish that Marcian killed Liora."
+    },
+    {
+      "id": "W20",
+      "name": "Mara Plume",
+      "statement": "Another servant in Lord Marcian's household. She supports Hector's first false alibi and later corroborates the corrected arrival time, making her useful for timing but unreliable in her initial loyalty to Marcian."
+    },
+    {
+      "id": "W21",
+      "name": "Jules Ardent",
+      "statement": "A theatrical agent who provides information about Serafine's professional circle, including a new wealthy patron and rumors that she was seen wearing a remarkable opal. This helps trace the possible movement of the stolen stone after the murder."
+    },
+    {
+      "id": "W22",
+      "name": "Inspector Bram Voss",
+      "statement": "A metropolitan police contact who supplies background on the criminal called the Pale Fox, including the criminal's methods and reputation. His information helps compare the current case with known jewel-theft operations."
+    },
+    {
+      "id": "W23",
+      "name": "Fenn",
+      "statement": "Marius Pell's valet. He offers general knowledge about respectable or aristocratic criminals, encouraging the idea that a polished social figure might still be a professional thief rather than assuming the mastermind must come from the obvious criminal class."
+    },
+    {
+      "id": "W24",
+      "name": "Miss Calla Wren",
+      "statement": "An elderly collector of society cuttings whose papers lead Elena to an old report about a jewel robbery at a wartime convalescent hospital. The clipping links past events, a suspect's earlier presence, and a pattern of jewel theft."
+    },
+    {
+      "id": "W25",
+      "name": "Dr. Silas Merrow",
+      "statement": "A country doctor who provides background on Elena Marlow's inheritance and independence. His information does not solve the murder but helps establish Elena as a credible witness with no obvious dependence on the coastal suspects."
     }
   ]
 }

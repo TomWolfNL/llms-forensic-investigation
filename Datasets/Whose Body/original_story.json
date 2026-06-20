@@ -1,53 +1,229 @@
 {
-  "summary": "Victim: Sir Reuben Levy (called Sir Wal/Wal God in the text), a wealthy financier. A second body, initially found naked in architect Gerald Ams's bath wearing only pince-nez, was later determined to be an unidentified unemployed laborer/tramp whose corpse had been altered to resemble Levy. Timeline: Levy dined with friends, returned home around midnight, and then disappeared. The next morning Gerald Ams discovered the disguised corpse in his bathroom. Police initially suspected Ams and his servant because of inconsistencies in their accounts and the apparent impossibility of introducing a corpse into the flat unnoticed. Investigation revealed that the bath victim had been dead for days, had originally worn a beard, and had been shaved, washed, perfumed, and staged after death. The pince-nez did not belong to the bath victim. Evidence gradually connected the case to Sir Leon Freemantle, a famous surgeon and neurologist who lived adjacent to Ams's building and had previously been romantically linked to Lady Levy. Motive: Freemantle wanted Lady Levy and resented her marriage to Levy. He also possessed an intellectual arrogance stemming from his theories about the brain and morality. Method: Freemantle murdered Levy, decapitated the body, surgically attached the head of the unidentified tramp to Levy's body, and disguised the tramp's separate corpse as Levy by shaving and grooming it. He then placed the disguised corpse in Ams's bath to divert identification and investigation. The proximity of his hospital and surgical expertise gave him the opportunity, facilities, and skill required. Key evidence included surgical anomalies, the false identity of the bath corpse, traces showing postmortem shaving and grooming, the medical impossibility of the apparent circumstances, and later exhumation/forensic examination proving that Levy's body and the bath corpse had been deliberately substituted and altered. Resolution: Lord Pipsey Kestrel reconstructed the scheme, exposed Freemantle as the murderer, and demonstrated that the bath corpse was not Levy. Faced with exposure, Sir Leon Freemantle took poison and died, effectively confirming his guilt. Gerald Ams and the other innocent suspects were cleared.",
+  "summary": "Sir Wal God, a wealthy financier, disappeared after dining at the Ritz and keeping a secret evening appointment. The next morning Gerald Ams found a naked, unidentified corpse in his Battersea bathroom wearing gold pince-nez. Inspector Lindell wrongly treated the corpse as probably Sir Wal and arrested Ams and his maid Wintrington Colegrove, but Lord Pipsey Kestrel and Detective Worthington found contradictions: the bathroom corpse had been recently shaved and barbered after death, had soap and beard hairs in its mouth, had poor teeth, dirty ears, flea-bites, carbolic-soap smell, calloused hands, blistered feet, and other signs of being an unemployed labourer rather than a wealthy man. Sir Wal's bedroom also showed signs that another man had impersonated him: two sets of traces, a smaller bare footprint, auburn hair, glove-smudged objects, and a bed deliberately slept in to simulate Sir Wal's return. The culprit was Sir Leon Freemantle, surgeon at St. Luke's Hospital and former suitor of Lady God. Freemantle had long resented losing her to Sir Wal, admired criminal ingenuity, and devised a body-substitution murder. He found a workhouse vagrant who superficially resembled Sir Wal and had suffered a cervical injury; after the vagrant died, Freemantle had the body delivered to St. Luke's. He lured Sir Wal to his Battersea house with a false tip about Peruvian Oil, killed him from behind with a poker blow to the neck, hid and undressed him, substituted Sir Wal's body for the vagrant in the dissecting-room, and later mutilated Sir Wal's head to prevent recognition. Freemantle then dressed in Sir Wal's clothes, went to Sir Wal's Park Lane house, imitated his bedtime routine, left silently with Sir Wal's latchkey, and returned to Battersea. He shaved, cleaned, scented, and manicured the vagrant's corpse, carried it across the roofs from his house to Queen Mann Campbell, lowered it through Ams's open bathroom window, and added Mr. Biggs's lost pince-nez, which had accidentally caught in his coat at Mainwaring station, as a misleading flourish. Pipsey linked the cases through the false body, Freemantle's access to corpses, his proximity, auburn hair, surgical skill, roof route, false medical evidence, and the workhouse-St. Luke's trail. Evidence from Freemantle's servant, the workhouse, and a medical student confirmed the substitution. When Pipsey confronted Freemantle indirectly and avoided a poisoned injection, Freemantle admitted defeat, wrote a detailed confession, and killed himself. Ams, Wintrington, Biggs, David, and other suspects were cleared.",
   "witnesses": [
     {
-      "id": "W1",
+      "id": "W01",
+      "name": "Lord Pipsey Kestrel",
+      "statement": "Amateur investigator and direct observer. He inspected the bathroom corpse, detected post-mortem shaving, soap and beard hairs in the mouth, mismatched grooming habits, flea-bites, carbolic soap, bad teeth, filthy toenails, blistered feet, and the likelihood that the corpse was not Sir Wal. He measured roof access, linked the bathroom window to a roof route, examined Sir Wal's bedroom, interpreted fingerprints, hair, footprints, and clothing traces as proof of impersonation, traced the pince-nez, reconstructed the substitution, warned Worthington, confronted Freemantle, and correctly identified Freemantle as murderer.",
+      "source_reliability": "A",
+      "information_credibility": "1"
+    },
+    {
+      "id": "W02",
+      "name": "Mr. Balham Thingumtight",
+      "statement": "Lord Pipsey's valet and photographic assistant. He photographed and examined scenes, identified multiple fingerprint sets, smudges suggesting gloved hands, a smaller bare footprint on Sir Wal's washstand linoleum, and mixed black and auburn hairs in Sir Wal's hat and on the pillow. Undercover, he extracted from Freemantle's servant Harold that Sir Leon had a Monday night visitor, allegedly saw him out, moved about the house and hospital all night, and ran a noisy bath at about three in the morning.",
+      "source_reliability": "A",
+      "information_credibility": "1"
+    },
+    {
+      "id": "W03",
+      "name": "Detective Charles Worthington",
+      "statement": "Official investigator of Sir Wal's disappearance and collaborator with Pipsey. He reported the disappearance timeline, the Park Lane bedroom evidence, Sir Wal's missing latchkey, abandoned clothes and spectacles, the servants' accounts, and the dinner friends' statements. He first rejected the bathroom corpse as Sir Wal, later followed Pipsey's theory, checked workhouses and St. Luke's, arranged the exhumation, and confirmed the body-substitution case.",
+      "source_reliability": "A",
+      "information_credibility": "1"
+    },
+    {
+      "id": "W04",
+      "name": "Sir Leon Freemantle",
+      "statement": "Surgeon, culprit, false witness, and confessor. At first he gave misleading medical evidence, denied any hospital body was missing, claimed the bath corpse was an unknown well-off man, concealed Sir Wal's true visit, and later falsely told Worthington that Sir Wal had consulted him medically and left alive. In his final letter he confessed that he lured Sir Wal with a false Peruvian Oil report, killed him with a poker, substituted his body for a workhouse vagrant, impersonated him at Park Lane, moved the vagrant over the roofs into Ams's bath, added the pince-nez, and planned to poison Pipsey if Pipsey accepted an injection.",
+      "source_reliability": "E",
+      "information_credibility": "5"
+    },
+    {
+      "id": "W05",
+      "name": "Inspector Lindell",
+      "statement": "Police inspector on the Battersea case. He reported the body, arrested Wintrington and Ams, advanced the wrong theory that the corpse was Sir Wal and that the household or maid's lover was implicated, found marks on the bathroom window-sill, found no useful yard or roof traces, noted gloved fingerprints, and supplied Pipsey with some police information about the Battersea street witness and Ams's confused alibi. His interpretations were largely wrong, though some observations were factual.",
+      "source_reliability": "D",
+      "information_credibility": "5"
+    },
+    {
+      "id": "W06",
       "name": "Gerald Ams",
-      "statement": "He stated that he discovered a naked dead man in his bath early in the morning, that the bathroom window had been left open, and that he immediately contacted the police.",
-      "reliability": "B"
+      "statement": "Resident of 59 Queen Mann Campbell. He discovered the naked corpse in his bath at about eight in the morning, called for brandy and police assistance, stated that he did not know the dead man, described the bathroom window as open, and initially gave confused or false accounts of his return from Manchester. At the inquest he corrected himself, explaining that he had secretly gone to a dubious night club, was caught in a police raid, got his bruise there, returned about 1:30, took milk and a sleeping dose, and heard nothing during the night.",
+      "source_reliability": "C",
+      "information_credibility": "4"
     },
     {
-      "id": "W2",
-      "name": "Mrs. Ams",
-      "statement": "She provided little direct evidence because of her deafness, but confirmed household circumstances and relayed information after her son's arrest.",
-      "reliability": "C"
+      "id": "W07",
+      "name": "Georgiana Ams",
+      "statement": "Gerald Ams's elderly mother. She helped establish the domestic setting, was present in the flat, misunderstood or minimized the bathroom incident because of deafness, contacted Lord Pipsey after Ams's arrest, and was examined at the inquest, though her testimony was confused and only marginally probative.",
+      "source_reliability": "C",
+      "information_credibility": "3"
     },
     {
-      "id": "W3",
-      "name": "Wintrington (the Ams servant)",
-      "statement": "She stated that the bathroom window had been left open and gave accounts regarding Ams's return home, though she later contradicted herself about hearing him arrive.",
-      "reliability": "D"
+      "id": "W08",
+      "name": "Wintrington Colegrove",
+      "statement": "Ams's maid. She admitted she probably left the bathroom window open after Mrs. Ams's bath, initially contradicted herself about Ams's return, and later confessed she had secretly gone to the Plumbers' and Raffles' Ball at the Black Faced Ram with William Jerry, returning near two without rechecking the flat. Her evidence explained the open window and cleared her from murder, though her early lies created suspicion.",
+      "source_reliability": "C",
+      "information_credibility": "4"
     },
     {
-      "id": "W4",
-      "name": "Sir Reuben Levy's cook",
-      "statement": "She saw Levy arrive home around midnight, enter the house, and go upstairs.",
-      "reliability": "A"
+      "id": "W09",
+      "name": "William Jerry",
+      "statement": "Glazier and Wintrington Colegrove's suitor. He voluntarily corroborated Wintrington's account that she was with him at the Black Faced Ram on Monday night and returned to the flat between about 1:30 and 2:00. He said he observed nothing suspicious in Prince of Wales Road.",
+      "source_reliability": "B",
+      "information_credibility": "2"
     },
     {
-      "id": "W5",
-      "name": "Sir Reuben Levy's housemaid",
-      "statement": "She observed the bed the next morning, noticed that Levy had slept in an unusual position, preserved the room, and stated that nobody entered or left after the early morning period she monitored.",
-      "reliability": "A"
+      "id": "W10",
+      "name": "Dowager Duchess of Tommy",
+      "statement": "Pipsey's mother and social informant. She relayed the first report of the body from Mrs. Dorothy, identified Ams's address and circumstances, sheltered Mrs. Ams, and supplied important background: Lady God was formerly Graves Evensong, Freemantle had once hoped to marry her, she married Sir Wal instead, and Freemantle remained unmarried and connected with the family. This background supplied Freemantle's motive.",
+      "source_reliability": "B",
+      "information_credibility": "1"
     },
     {
-      "id": "W6",
-      "name": "Unnamed young woman in Battersea Park Road",
-      "statement": "She claimed that on the night before the discovery she spoke with a gentleman resembling Levy, who asked directions and said he had an appointment.",
-      "reliability": "C"
+      "id": "W11",
+      "name": "Mrs. Dorothy",
+      "statement": "The vicar's wife who told the Dowager Duchess that Mr. Ams had telephoned in distress because he had found a dead naked man wearing pince-nez in his bath and could not come down for his church-roof appointment. Her report initiated Pipsey's involvement.",
+      "source_reliability": "B",
+      "information_credibility": "1"
     },
     {
-      "id": "W7",
-      "name": "Unnamed female companion of the Battersea witness",
-      "statement": "She told the first woman that the man she had seen was Sir Reuben Levy, whom she believed she recognized from prior acquaintance.",
-      "reliability": "D"
+      "id": "W12",
+      "name": "Sir Wal God",
+      "statement": "Murder victim and indirect source through his diary, habits, and physical remains. His diary showed his domestic routine, Lady God's absence, Freemantle's visits, Lady God's nerves, and David's dinner visit. His known habits, spectacles, clothes, latchkey, and remains proved the impersonation and eventual body substitution.",
+      "source_reliability": "A",
+      "information_credibility": "1"
     },
     {
-      "id": "W8",
-      "name": "Lady Levy",
-      "statement": "During the later identification proceedings, she identified distinctive scars and marks on the exhumed body as those of her husband.",
-      "reliability": "A"
+      "id": "W13",
+      "name": "Sir Wal God's cook",
+      "statement": "Park Lane servant who saw a man apparently resembling Sir Wal arrive at the doorstep around midnight and heard him let himself in and go upstairs. The observation was true as to the event but mistaken as to identity, because the entrant was Freemantle disguised in Sir Wal's clothes.",
+      "source_reliability": "B",
+      "information_credibility": "5"
+    },
+    {
+      "id": "W14",
+      "name": "Sir Wal God's valet",
+      "statement": "Servant who found Sir Wal absent in the morning, reported that the bed had been slept in, clothes and boots were present, no fresh clothes were missing, Sir Wal's watch, purse, cheque-book, and both pairs of spectacles were left behind, and Sir Wal was extremely short-sighted. His evidence made voluntary disappearance improbable.",
+      "source_reliability": "B",
+      "information_credibility": "1"
+    },
+    {
+      "id": "W15",
+      "name": "Sir Wal God's housemaid",
+      "statement": "Park Lane servant who noticed the bed had been slept in unusually, with pillows placed toward the middle or wall side rather than Sir Wal's usual side, and preserved the bed from disturbance. She also was part of the household evidence that no one came in or out after early morning cleaning began.",
+      "source_reliability": "A",
+      "information_credibility": "1"
+    },
+    {
+      "id": "W16",
+      "name": "Sir Wal God's dinner friends",
+      "statement": "The men who dined with Sir Wal at the Ritz. They stated that he appeared healthy and cheerful, expected to rejoin Lady God later, and was satisfied about the next day's financial transaction. Their evidence showed he had no apparent plan to disappear before his secret appointment.",
+      "source_reliability": "B",
+      "information_credibility": "1"
+    },
+    {
+      "id": "W17",
+      "name": "Honourable Fords Hullo",
+      "statement": "Club acquaintance who supplied financial and personal context: Sir Wal was central to an Argentine transaction, Freddy at Wyndham's depended on him, Gorgonzola Wainwright David was a rival railway figure, Sir Wal was domestically respectable, self-made, economical, and devoted to his family. His information helped define financial motives and eliminate some red herrings.",
+      "source_reliability": "B",
+      "information_credibility": "2"
+    },
+    {
+      "id": "W18",
+      "name": "Gorgonzola Wainwright David",
+      "statement": "American financier and initial suspect. He acknowledged that Sir Wal's disappearance was convenient for his railway interests but denied personal hostility and said he would welcome Sir Wal back after completing his deal. His physical traits and lack of reaction to Ams-related bait helped weaken suspicion of him.",
+      "source_reliability": "C",
+      "information_credibility": "2"
+    },
+    {
+      "id": "W19",
+      "name": "Villar",
+      "statement": "David's red-haired secretary. He contributed mainly passive evidence through fingerprints on Pipsey's card and his physical appearance as a potential red-hair suspect. Comparison and later developments showed he was not the source of the crucial auburn traces connected to the impersonation.",
+      "source_reliability": "F",
+      "information_credibility": "3"
+    },
+    {
+      "id": "W20",
+      "name": "Mr. Biggs",
+      "statement": "Salisbury solicitor and owner of the gold pince-nez. He answered Pipsey's advertisement, identified the glasses as his, explained their sentimental chain, said he lost them while travelling from Mainwaring to Price amid crowds, denied relevant enemies, and initially suspected blackmail. His account explained how the glasses came into Freemantle's possession accidentally.",
+      "source_reliability": "B",
+      "information_credibility": "1"
+    },
+    {
+      "id": "W21",
+      "name": "Mr. Thipps",
+      "statement": "Mr. Biggs's junior partner. He recognized Lord Pipsey as a genuine investigator rather than a blackmailer, prompting Biggs to reconsider and cooperate. His contribution was procedural but helped validate the pince-nez lead.",
+      "source_reliability": "B",
+      "information_credibility": "1"
+    },
+    {
+      "id": "W22",
+      "name": "Unnamed Battersea Park Road woman",
+      "statement": "Street witness who saw a well-dressed bearded man in a fur coat and top hat on Battersea Park Road around 9:15 asking whether the street led to Prince of Wales Road and saying he had to see a man. She later reported this after hearing of the bathroom corpse. Her observation correctly placed Sir Wal near Freemantle's house before the murder, although it initially strengthened Lindell's wrong identification theory.",
+      "source_reliability": "C",
+      "information_credibility": "1"
+    },
+    {
+      "id": "W23",
+      "name": "Unnamed friend of the Battersea Park Road woman",
+      "statement": "The street witness's friend, formerly familiar with the West End, identified the bearded man seen near Battersea as Sir Wal God, known to some women as 'Peagreen Incorruptible.' This hearsay identification was materially correct and crucial to placing Sir Wal in Battersea.",
+      "source_reliability": "C",
+      "information_credibility": "1"
+    },
+    {
+      "id": "W24",
+      "name": "Dr. Adolf",
+      "statement": "Medical witness at the inquest. He broadly corroborated Freemantle's medical findings on the bathroom corpse but differed on timing, opining that death had not occurred for several days after the blow. His disagreement became important because it supported the history of the workhouse vagrant's earlier injury and exposed Freemantle's attempt to compress the timeline.",
+      "source_reliability": "B",
+      "information_credibility": "2"
+    },
+    {
+      "id": "W25",
+      "name": "Cawthorn Finsbury",
+      "statement": "St. Luke's dissecting-room attendant. He confirmed the official system for receiving bodies, that subjects came from workhouses and hospitals, that the keys were in his charge, and that no subject appeared missing. He was honest but deceived by Freemantle's substitution of Sir Wal's body for the workhouse vagrant.",
+      "source_reliability": "B",
+      "information_credibility": "5"
+    },
+    {
+      "id": "W26",
+      "name": "Chelsea workhouse medical officer",
+      "statement": "Reported that an unknown vagrant had been injured by falling scaffolding, exhibited neurological signs, died on Monday, and was delivered to St. Luke's Hospital by Freemantle's arrangement. This supplied the missing identity of the bathroom corpse before disguise.",
+      "source_reliability": "B",
+      "information_credibility": "1"
+    },
+    {
+      "id": "W27",
+      "name": "Mr. Brothers",
+      "statement": "St. Luke's medical student. Under Pipsey's questioning, he recalled dissecting the arms of a middle-aged, rheumatic, sedentary, well-fed Jewish man who had died after a heavy meal and spinal injury; he remembered that Freemantle took the head. His recollection showed that the body being dissected as a workhouse subject was really Sir Wal, not the vagrant.",
+      "source_reliability": "B",
+      "information_credibility": "1"
+    },
+    {
+      "id": "W28",
+      "name": "Aristotle Pringle",
+      "statement": "Medical student recalled by Brothers as making jokes during dissection about the subject being Jewish and unusually well-fed for a workhouse body. His comments, though reported through Brothers, supported the inference that the hospital corpse was Sir Wal.",
+      "source_reliability": "F",
+      "information_credibility": "2"
+    },
+    {
+      "id": "W29",
+      "name": "Gorgonzola Harold",
+      "statement": "Sir Leon Freemantle's man-servant. In conversation with Thingumtight, he reported Freemantle's irregular nocturnal work, a Monday evening male visitor, the apparent departure around ten, Freemantle's later movements between house and hospital, and the noisy bath at three in the morning. He did not realize the significance, but his details matched Freemantle's corpse-moving operation.",
+      "source_reliability": "C",
+      "information_credibility": "1"
+    },
+    {
+      "id": "W30",
+      "name": "Mrs. Harold",
+      "statement": "Freemantle's cook and Harold's wife. She did not directly testify in detail, but through Harold's account she corroborated the household setting: the servants slept near the cistern room, were disturbed by the night bath, and were normally sent to bed before Freemantle's late work. Her information supports the opportunity and noise-covering method.",
+      "source_reliability": "C",
+      "information_credibility": "2"
+    },
+    {
+      "id": "W31",
+      "name": "Lady God",
+      "statement": "Sir Wal's wife and Freemantle's former love interest. She authorized Worthington to continue the inquiry and believed Sir Wal might have been kidnapped or held for ransom. Her history with Freemantle, supplied by others and confirmed by circumstances, established motive, though her own theory of kidnapping was wrong.",
+      "source_reliability": "B",
+      "information_credibility": "4"
+    },
+    {
+      "id": "W32",
+      "name": "Jabez Horrocks",
+      "statement": "Coroner at the Battersea inquest. He elicited testimony from Ams, Wintrington, Jerry, Lindell, Freemantle, Adolf, and Finsbury, challenged Lindell's weak charges, and directed the jury toward an open verdict on the cause of death. He did not solve the case but helped bring out exculpatory facts and weaknesses in the police theory.",
+      "source_reliability": "B",
+      "information_credibility": "2"
     }
   ]
 }
