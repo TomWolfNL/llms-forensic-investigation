@@ -12,15 +12,20 @@ from graph.workflow import (
     build_graph
 )
 
+from pathlib import Path
+
+BASE_DIR = Path(__file__).parent
 
 INPUT_FILE = (
-    "samples/witness_input.json"
+    BASE_DIR
+    / "samples"
+    / "witness_input.json"
 )
 
 OUTPUT_FILE = (
-    "final_report.json"
+    BASE_DIR
+    / "final_report.json"
 )
-
 
 async def run():
 

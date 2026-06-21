@@ -597,6 +597,7 @@ async def credibility_node(state):
 
         if score >= 0.40:
             return "D"
+            
 
         return "F"
 
@@ -793,14 +794,49 @@ async def credibility_node(state):
 
 async def report_node(state):
 
+    report = {
+
+        "timeline":
+            _deep_normalize(
+                state.timeline
+            ),
+
+        "contradictions":
+            _deep_normalize(
+                state.contradictions
+            ),
+
+        "attributes":
+            _deep_normalize(
+                state.attributes
+            ),
+
+        "behavior_report":
+            _deep_normalize(
+                state.behavior_report
+            ),
+
+        "reliability_metrics":
+            _deep_normalize(
+                state.reliability_metrics
+            ),
+
+        "credibility_scores":
+            _deep_normalize(
+                state.credibility_scores
+            ),
+
+        "debug_trace":
+            _deep_normalize(
+                getattr(
+                    state,
+                    "debug_trace",
+                    []
+                )
+            )
+    }
+
     return {
-        "final_report": {
-            "timeline": state.timeline,
-            "contradictions": state.contradictions,
-            "attributes": state.attributes,
-            "behavior_report": state.behavior_report,
-            "reliability_metrics": state.reliability_metrics,
-            "credibility_scores": state.credibility_scores,
-            "debug_trace": getattr(state, "debug_trace", [])
-        }
+        "final_report":
+            report
     }
