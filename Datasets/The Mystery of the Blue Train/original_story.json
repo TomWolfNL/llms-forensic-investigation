@@ -1,17 +1,180 @@
 {
-  "summary": "Victim: Ruth Kettering, daughter of millionaire Rufus Van Aldin and estranged wife of Derek Kettering. Before the crime, Van Aldin secretly purchased the famous 'Heart of Fire' ruby and related jewels for Ruth. Ruth planned to travel on the Blue Train to the Riviera while contemplating a divorce from Derek. Multiple apparent suspects existed: Derek Kettering (financial motive and marital conflict), Comte Armand de la Roche (Ruth's former lover and reputed adventurer), Mirelle (Derek's mistress), and others connected to the jewels. During the journey on the Blue Train, Ruth was murdered in her compartment and the rubies were stolen. Evidence initially pointed toward Derek and later toward de la Roche, aided by misleading circumstances and deliberate framing. Hercule Poirot reconstructed the timeline and discovered that the crime was part of a long-planned scheme by Major Richard Knighton, Rufus Van Aldin's trusted secretary. Knighton was secretly the criminal mastermind known as 'the Marquis'. He had arranged access to Ruth through an accomplice, sought the famous rubies, and used his trusted position to avoid suspicion. His motive combined greed, a fascination with historic jewels, and a willingness to kill to eliminate witnesses and secure the theft. Knighton had both opportunity and insider knowledge of Ruth's movements and the jewels. He murdered Ruth, stole the rubies, and manipulated evidence to cast suspicion elsewhere, particularly on Derek Kettering. Poirot exposed Knighton's dual identity, linked him to earlier jewel crimes, demonstrated the flaws in the case against the other suspects, and solved the murder. The resolution established that Richard Knighton (the Marquis) was the murderer and thief, while the apparent evidence against Derek Kettering and others had been manufactured or misinterpreted.",
+  "summary": "Ruth Kettering, daughter of millionaire Rufus Van Aldin and estranged wife of Derek Kettering, was murdered on the Blue Train while travelling to the Riviera with the famous ruby necklace containing the Heart of Fire. Van Aldin had recently bought the rubies in Paris through Boris Krassnine and Olga Demiroff; the criminal known as the Marquis tried unsuccessfully to have Van Aldin robbed by apaches, then proceeded with a subtler plan. Ruth intended to meet the Comte Armand de la Roche, who meant to steal the rubies by substituting an imitation necklace. Derek Kettering, financially desperate and threatened by divorce, was also on the train and became the obvious suspect after he was seen entering Ruth's compartment near Lyons. His mistress Mirelle, jealous and vengeful, later accused him of murder, claiming she had seen him leave the compartment and knew Ruth was dead. The Comte was initially suspected when imitation jewels were found, but Poirot realized the false necklace was part of the Comte's intended substitution scheme, not the murder. The decisive anomaly was Ruth's disfigured face: it was not rage, but disguise. Ruth had actually been killed before Paris/Gare de Lyon by Major Richard Knighton, Van Aldin's secretary, who was secretly the Marquis. His accomplice Ada Mason, really the actress Kitty Kidd, impersonated Ruth in her distinctive fur coat, red hat, and false auburn curls, told the conductor she had left her maid behind in Paris, and created the illusion that Ruth was alive after Paris. Knighton stole the real rubies and left the train; Mason later arranged the corpse in the berth, changed into men's clothes, left at Lyons, returned to Paris, and appeared at the Ritz to support Knighton's alibi. Derek did enter the compartment later but saw only what he thought was his sleeping wife; she was already dead. The rubies were passed through Papopolous and briefly surfaced via Mirelle's new patron. Poirot exposed Knighton by testing the train logistics, the false limp, the cigarette case, Mason's lies, the timing at the Ritz, the Marquis intelligence, and Zia Papopolous's evidence that a woman handed over the rubies. Knighton was arrested as the Marquis; Derek was released; Ada Mason was implicated as accomplice; the Comte was guilty of attempted jewel theft but not murder.",
   "witnesses": [
     {
-      "id": "w1",
-      "name": "Katherine Grey",
-      "statement": "She traveled on the Blue Train, spoke with Ruth Kettering, later recounted Ruth's concerns and state of mind, observed Derek Kettering entering Ruth's compartment, and stated that at Lyons she did not see the Comte de la Roche leaving the train; she only noticed a young man in a cap, a bearded Frenchman seeking coffee, and train staff.",
-      "reliability": "A"
+      "id": "W01",
+      "name": "Hercule Poirot",
+      "statement": "Investigated the murder, reconstructed the true sequence, rejected the Comte-only and Derek-only theories, identified the disfigured face as evidence of impersonation, connected Knighton with the Marquis, exposed Ada Mason as Kitty Kidd, and arranged the final trap on the Blue Train.",
+      "source_reliability": "A",
+      "information_credibility": "1"
     },
     {
-      "id": "w2",
-      "name": "Ada Mason",
-      "statement": "Ruth Kettering's maid reported circumstances surrounding the journey and compartment arrangements and provided observations relevant to Ruth's movements before the murder.",
-      "reliability": "C"
+      "id": "W02",
+      "name": "Katherine Grey",
+      "statement": "Spoke with Ruth before the murder; identified the body by build, hair, and mole despite facial disfigurement; reported the missing red morocco jewel case; saw Derek enter Ruth's compartment; later provided Poirot with the newspaper cutting about the Tamplin hospital jewel robbery and intuited Knighton's guilt.",
+      "source_reliability": "A",
+      "information_credibility": "1"
+    },
+    {
+      "id": "W03",
+      "name": "Ruth Kettering",
+      "statement": "Told Van Aldin about Derek and Mirelle, agreed to seek divorce, received the rubies, concealed her renewed involvement with the Comte de la Roche, and told Katherine on the train enough to reveal an impending romantic rendezvous and possible motive for jewel theft.",
+      "source_reliability": "B",
+      "information_credibility": "2"
+    },
+    {
+      "id": "W04",
+      "name": "Rufus Van Aldin",
+      "statement": "Reported the purchase and gift of the rubies, Ruth's marital situation, Derek's financial and divorce motive, the Paris apache attack, and his recognition of the Comte. He hired Goby, engaged Poirot, and supplied context that initially pointed toward Derek and the Comte.",
+      "source_reliability": "B",
+      "information_credibility": "2"
+    },
+    {
+      "id": "W05",
+      "name": "Major Richard Knighton",
+      "statement": "As Van Aldin's secretary, he appeared to confirm Ada Mason's Paris alibi and later accompanied the investigation, but he was actually the Marquis. He murdered Ruth, stole the rubies, coordinated Mason's impersonation, planted misleading evidence, and tried to shift suspicion first to the Comte and then to Derek.",
+      "source_reliability": "E",
+      "information_credibility": "5"
+    },
+    {
+      "id": "W06",
+      "name": "Ada Mason / Kitty Kidd",
+      "statement": "Claimed she was left behind in Paris and had seen a man in Ruth's compartment, first suggesting the Comte and later, after consultation, Derek. She recognized the cigarette case and falsely explained it as possibly Derek's gift from Ruth. In reality she was Knighton's accomplice, impersonated Ruth after the murder, misled the conductor, left at Lyons, and returned to Paris to support the alibi.",
+      "source_reliability": "E",
+      "information_credibility": "5"
+    },
+    {
+      "id": "W07",
+      "name": "Derek Kettering",
+      "statement": "Initially denied entering Ruth's compartment, then admitted to Katherine that he had gone in near Lyons, saw what he thought was Ruth asleep, and left without waking her. He acknowledged his financial motive and bad conduct but denied murder, which the final solution confirms.",
+      "source_reliability": "C",
+      "information_credibility": "2"
+    },
+    {
+      "id": "W08",
+      "name": "Mirelle",
+      "statement": "Reported Derek's financial desperation, his conversation about Ruth's death as a solution, Ruth's supposed plan with the Comte, and later accused Derek of murder, saying she saw him leave Ruth's compartment before Lyons and knew Ruth was dead. Her eyewitness claim about Derek entering or leaving was useful, but her interpretation and accusation were vindictive and materially wrong.",
+      "source_reliability": "D",
+      "information_credibility": "5"
+    },
+    {
+      "id": "W09",
+      "name": "Comte Armand de la Roche",
+      "statement": "Was Ruth's former lover and intended to steal the rubies by substituting an imitation necklace. He lied about his movements through servants, tried to exploit or blackmail Derek, and was caught with false jewels, but he did not kill Ruth and did not obtain the real rubies.",
+      "source_reliability": "D",
+      "information_credibility": "4"
+    },
+    {
+      "id": "W10",
+      "name": "Pierre Michel",
+      "statement": "The Blue Train conductor reported that the supposed Mrs. Kettering told him after Paris that her maid had been left behind, ordered only one berth made up, and did not wish to be awakened. He later found the body. His observations were sincere but he was deceived by Ada Mason's impersonation.",
+      "source_reliability": "B",
+      "information_credibility": "3"
+    },
+    {
+      "id": "W11",
+      "name": "M. Caux",
+      "statement": "As Commissary of Police, took Katherine's testimony, coordinated the initial inquiry, provided medical and scene details, considered the train-robber and crime-of-passion theories, and relayed official suspicion of the Comte and later Derek.",
+      "source_reliability": "B",
+      "information_credibility": "2"
+    },
+    {
+      "id": "W12",
+      "name": "M. Carrège",
+      "statement": "As Examining Magistrate, assessed Mirelle's sworn statement, considered the legal case against Derek, and treated the medical timing and motive evidence as supporting arrest while remaining cautious about scandal and uncertainty.",
+      "source_reliability": "B",
+      "information_credibility": "3"
+    },
+    {
+      "id": "W13",
+      "name": "Mr. Goby",
+      "statement": "Privately investigated Derek for Van Aldin and produced evidence of Derek's misconduct, debts, financial peril, and divorce vulnerability. His evidence accurately established motive but not guilt.",
+      "source_reliability": "A",
+      "information_credibility": "1"
+    },
+    {
+      "id": "W14",
+      "name": "Demetrius Papopolous",
+      "statement": "Initially gave Poirot a coded hint that the Marquis was involved and later admitted indirectly, through Zia and surrounding circumstances, that the rubies had passed through his hands in Nice. He was cautious and self-protective but his core intelligence about the Marquis and jewel channel was accurate.",
+      "source_reliability": "C",
+      "information_credibility": "2"
+    },
+    {
+      "id": "W15",
+      "name": "Zia Papopolous",
+      "statement": "Confirmed that the rubies had been handed over to her father in Nice, that the client was the Marquis, that she had once seen the masked white-haired Marquis, and most importantly that the person who delivered the rubies was a woman. This pointed toward Ada Mason as active accomplice.",
+      "source_reliability": "B",
+      "information_credibility": "1"
+    },
+    {
+      "id": "W16",
+      "name": "Boris Krassnine",
+      "statement": "Sold the rubies to Van Aldin in Paris, confirmed the clandestine transaction, feared surveillance, and observed that two apaches and a white-haired man were connected with an attempted robbery. His role confirms the origin of the jewels and the Marquis's early failed plan.",
+      "source_reliability": "C",
+      "information_credibility": "2"
+    },
+    {
+      "id": "W17",
+      "name": "Olga Demiroff",
+      "statement": "Held the rubies before the sale, observed the suspicious men outside, inferred that the white-haired man was directing them, and correctly judged that Van Aldin would survive the apache attack but that the jewels would become dangerous once given to a woman.",
+      "source_reliability": "B",
+      "information_credibility": "2"
+    },
+    {
+      "id": "W18",
+      "name": "Lenox Tamplin",
+      "statement": "Helped Poirot by proposing that someone could have boarded or left the train at Lyons, which clarified the timing issue around Derek's visit. She also supplied or prompted key background about Knighton's limp and the Tamplin hospital connection, indirectly supporting the theory that the limp was camouflage and that Knighton had prior jewel-theft associations.",
+      "source_reliability": "B",
+      "information_credibility": "2"
+    },
+    {
+      "id": "W19",
+      "name": "Hippolyte Flavelle",
+      "statement": "The Comte's servant initially lied that the Comte arrived at the villa on Tuesday morning, then under Poirot's pressure admitted the Comte actually arrived Wednesday, destroying the Comte's alibi but not proving him the murderer.",
+      "source_reliability": "D",
+      "information_credibility": "3"
+    },
+    {
+      "id": "W20",
+      "name": "Marie Flavelle",
+      "statement": "Supported Hippolyte's false alibi for the Comte, then corroborated the correction that the Comte arrived Wednesday rather than Tuesday.",
+      "source_reliability": "D",
+      "information_credibility": "3"
+    },
+    {
+      "id": "W21",
+      "name": "Joseph Aarons",
+      "statement": "Provided theatrical-world intelligence about Mirelle, including her new wealthy Greek patron and reports that she was wearing a ruby called Heart of Fire. This helped trace the stolen ruby after Papopolous disposed of it.",
+      "source_reliability": "C",
+      "information_credibility": "2"
+    },
+    {
+      "id": "W22",
+      "name": "Inspector Japp",
+      "statement": "Answered Poirot's inquiry about the criminal known as the Marquis, supplying background that helped connect the Marquis's known operations with Knighton's movements and persona.",
+      "source_reliability": "A",
+      "information_credibility": "1"
+    },
+    {
+      "id": "W23",
+      "name": "George",
+      "statement": "Poirot's valet contributed general intelligence about aristocratic criminals and titled families, supporting Poirot's willingness to consider a well-born man such as Knighton as a professional criminal rather than assuming the Marquis came from the lower criminal classes.",
+      "source_reliability": "B",
+      "information_credibility": "2"
+    },
+    {
+      "id": "W24",
+      "name": "Miss Viner",
+      "statement": "Her box of society cuttings led Katherine to the report of the jewel robbery at Lady Tamplin's wartime hospital, a clue linking Knighton's past presence there with jewel theft and helping Katherine and Poirot converge on him.",
+      "source_reliability": "B",
+      "information_credibility": "2"
+    },
+    {
+      "id": "W25",
+      "name": "Dr. Harrison",
+      "statement": "Provided background on Katherine's inheritance and reliability, establishing her as financially independent and not beholden to the Riviera suspects; he did not materially solve the murder but helped frame Katherine's credibility and circumstances.",
+      "source_reliability": "B",
+      "information_credibility": "2"
     }
   ]
 }

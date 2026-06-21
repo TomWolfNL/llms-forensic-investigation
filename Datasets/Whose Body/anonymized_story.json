@@ -1,45 +1,165 @@
 {
-  "summary": "Victim: Chancellor Orrin Voss, an immensely wealthy trade magnate. A second body, initially discovered unclothed in the bathing chamber of civic designer Talen Rhyse and wearing only a distinctive pair of narrow sight-frames, was later determined to be an unidentified drifter whose remains had been altered to resemble Voss. Timeline: Voss spent the evening at a private supper gathering, returned to his residence shortly before midnight, and then vanished. The following morning, Rhyse found the disguised corpse in his bathing room. Investigators initially focused on Rhyse and a household attendant because of conflicting accounts and the apparent impossibility of a body being placed in the residence without detection. Subsequent examination revealed that the bathing-room victim had been dead for several days, had originally worn a heavy facial covering, and had been shaved, cleansed, scented, and staged after death. The sight-frames found on the body did not belong to the deceased drifter. As the inquiry progressed, evidence increasingly pointed toward a celebrated neural physician and anatomical researcher who occupied a neighboring complex and who had once shared a close personal attachment with Voss's spouse. The physician appeared to harbor resentment toward Voss and possessed an intense intellectual conviction regarding the relationship between the mind, morality, and human behavior. Investigators uncovered signs of highly specialized anatomical manipulation, deliberate substitution of identities, postmortem grooming, and circumstances that could only have been produced by someone with exceptional medical skill, facilities, and opportunity. The growing body of evidence suggested that the apparent identity of the bathing-room corpse was false and that a far more elaborate deception had been carried out. The mystery eventually centered on determining the true identities of the remains, the purpose of the substitution, and how the deception had been executed without immediate detection.",
+  "summary": "In the canal district of Ravelbridge, a wealthy ore-exchange magnate named Master Orren Vale vanished after dining at the Grand Lantern House and then keeping a private late-night appointment he had not explained to his household. The following morning, mild-mannered antiquarian Corwin Nale found a naked unidentified dead man in the copper bathing room of his rented upper-floor flat at 47 Bellfounder Row. The body wore only a pair of green-tinted silver nose-clamps. Captain Sable of the city watch treated the corpse as probably Vale and arrested Nale and his maid, Tessa Brindle, but several details did not fit. The corpse appeared recently shaved and trimmed after death; there were soap particles and short beard hairs in the mouth; the teeth were poor, the ears dirty, the feet blistered, the hands calloused, the body marked by flea-bites, and it smelled faintly of harsh institutional disinfectant. These signs suggested a rough, destitute laborer rather than a rich financier known for comfort, grooming, and private servants. The bath-room window had been left open, and faint marks near the sill suggested the body may have entered from outside rather than through the flat. Meanwhile Vale's townhouse in Ashgate Crescent showed signs that someone had returned there in his place. Servants heard or saw a figure resembling Vale enter near midnight, yet Vale's personal effects remained behind: clothes, boots, watch, purse, ledgers, latchkey, and both pairs of his ordinary lenses. His bed had been made to appear slept in, though the pillow placement was unlike his habit. Investigators found signs of two people rather than one: a smaller bare footprint on the washroom flooring, auburn hair mixed with Vale's dark hair, smeared traces consistent with gloved hands, and indications that the room had been staged to simulate Vale's safe return. A street witness also reported seeing a well-dressed bearded man in a heavy sea-otter coat and high felt hat near Bellfounder Row around 9:15 that night, asking directions toward the canal-side terrace where Nale lived. This placed a man resembling Vale near the discovery site before the body appeared there. Another thread involved the silver nose-clamps. A provincial legal clerk, Maeron Pith, identified them as his lost property, saying they had vanished during a crowded rail-platform crush while he was traveling between two inland towns. His account made the nose-clamps look like a planted or accidental clue rather than proof of the body's identity. Vale's disappearance also created financial consequences: a rival industrialist, Calder Vane, stood to benefit from Vale's absence in a pending mineral-rights deal, but his behavior and physical evidence did not easily match the staging clues. Social background introduced another possible motive. Vale's wife, Lady Mira Vale, had once been closely attached to a celebrated anatomical lecturer, Dr. Edrin Sol, who remained unmarried, moved in the same social circle, worked next door to the Bellfounder Row roofs at the Anatomists' College, and had reason to resent Vale. Sol gave medical evidence about the bath corpse but compressed or simplified the timeline in ways that conflicted with another medical examiner's view that the fatal neck injury may have preceded death by several days. Records from a charitable infirmary described an unknown vagrant who had suffered a neck injury after falling scaffold planks, died on the same Monday, and was sent to the Anatomists' College by arrangement. At the college, attendants insisted no teaching cadaver was missing, yet a student recalled dissecting a body that seemed too well-fed, sedentary, rheumatic, and prosperous for an unclaimed pauper; the head had been removed for separate study by a senior doctor. Sol's household servants also reported a late male visitor on Monday, unusual movements between the house and college during the night, and a noisy bath being run around three in the morning. These facts collectively raise the central mystery: whether the dead man in Nale's bath was truly Vale, whether Vale returned home at midnight, why the bath corpse looked artificially groomed, how a body could have reached the upper flat, what role the lost nose-clamps played, and whether the charitable-infirmary cadaver trail explains the contradictions.",
   "witnesses": [
     {
-      "id": "W1",
-      "name": "Talen Rhyse",
-      "statement": "He stated that he discovered a naked dead man in his bathing chamber early in the morning, that the chamber window had been left open, and that he immediately notified the authorities."
+      "id": "W01",
+      "name": "Marquis Ivo Quill",
+      "statement": "An amateur investigator and direct observer. He inspected the bath-room corpse and noted post-mortem grooming, soap and beard hairs in the mouth, signs of poverty and rough labor, flea-bites, disinfectant smell, poor teeth, dirty ears, blistered feet, and calloused hands. He also examined the roof route, compared window access, inspected Vale's townhouse, interpreted the footprint, hair, gloved smears, and clothing traces as signs of possible impersonation, traced the silver nose-clamps, and pursued the connection between Bellfounder Row, the Anatomists' College, and the charitable infirmary."
     },
     {
-      "id": "W2",
-      "name": "Mara Rhyse",
-      "statement": "Because of significant hearing impairment, she provided little direct evidence, but confirmed household circumstances and relayed information following her son's arrest."
+      "id": "W02",
+      "name": "Bram Vell",
+      "statement": "Quill's valet and photographic assistant. He photographed the scenes, identified multiple fingerprint patterns, observed smudges suggesting gloved handling, recorded a smaller bare footprint on Vale's washroom flooring, and found mixed dark and auburn hairs in Vale's hat and on the pillow. While posing as a casual servant acquaintance, he learned from Dr. Sol's manservant that Sol had a Monday-night visitor, moved about the house and college unusually late, and ran a loud bath at about three in the morning."
     },
     {
-      "id": "W3",
-      "name": "Nella Vane",
-      "statement": "She stated that the bathing-chamber window had been left open and described Rhyse's return home, though she later contradicted herself regarding whether she had actually heard him arrive."
+      "id": "W03",
+      "name": "Detective Mara Fen",
+      "statement": "Official investigator of Vale's disappearance and collaborator with Quill. She reported Vale's disappearance timeline, the evidence in the Ashgate Crescent bedroom, the missing latchkey, the abandoned clothes and spectacles, the servants' accounts, and the dinner companions' statements. She initially treated the bath corpse and Vale disappearance as possibly separate but later investigated the infirmary and Anatomists' College trail."
     },
     {
-      "id": "W4",
-      "name": "Chancellor Voss's cook",
-      "statement": "She saw Voss return home around midnight, enter the residence, and proceed upstairs."
+      "id": "W04",
+      "name": "Dr. Edrin Sol",
+      "statement": "A renowned anatomical lecturer with a prior emotional connection to Lady Mira Vale. He gave medical evidence on the bath corpse, stated that the dead man seemed to be an unknown person of some means, denied that any college cadaver was missing, and later said Vale had visited him for private medical reasons and left alive. His statements are important because they address the body, the college cadaver records, and Vale's alleged last movements."
     },
     {
-      "id": "W5",
-      "name": "Chancellor Voss's house attendant",
-      "statement": "She inspected the bed the next morning, noticed that Voss appeared to have slept in an unusual position, preserved the room, and stated that nobody entered or left after the early-morning period she observed."
+      "id": "W05",
+      "name": "Captain Halric Sable",
+      "statement": "City-watch officer in charge of the Bellfounder Row case. He reported the body, arrested Tessa Brindle and Corwin Nale, argued that the corpse might be Vale, noted marks on the bathroom window-sill, found no obvious yard or roof traces, observed glove-like fingerprint smears, and supplied Quill with the report of the street witness and Nale's confused account of his night."
     },
     {
-      "id": "W6",
-      "name": "Young woman from Lantern Quay",
-      "statement": "She claimed that on the night before the discovery she spoke with a gentleman resembling Voss, who asked for directions and mentioned that he had an appointment."
+      "id": "W06",
+      "name": "Corwin Nale",
+      "statement": "Resident of 47 Bellfounder Row. He found the naked corpse in his bath around eight in the morning, called for spirits and watch assistance, said he did not know the dead man, and said the bath-room window was open. His early account of returning from a book-buying trip was confused or false. At the inquest he admitted he had secretly visited an illicit gaming cellar, was caught in a raid, received a bruise there, came home around 1:30, drank milk with a sleeping draught, and heard nothing overnight."
     },
     {
-      "id": "W7",
-      "name": "Companion of the Lantern Quay witness",
-      "statement": "She told the first woman that the man they had seen was Chancellor Voss, whom she believed she recognized from prior acquaintance."
+      "id": "W07",
+      "name": "Dame Elspeth Nale",
+      "statement": "Corwin Nale's elderly mother. She helped establish the domestic situation in the flat, was present in the household, misunderstood or minimized the bath-room incident because of poor hearing, appealed to Marquis Quill after her son's arrest, and gave confused but marginally useful inquest testimony."
     },
     {
-      "id": "W8",
-      "name": "Selene Voss",
-      "statement": "During later identification proceedings, she identified distinctive scars and marks on an exhumed body as belonging to her husband."
+      "id": "W08",
+      "name": "Tessa Brindle",
+      "statement": "Nale's maid. She admitted she probably left the bath-room window open after Dame Elspeth's bath. She first contradicted herself about Nale's return, then admitted she had secretly gone to the Masons' Masquerade with her suitor Perri Glain and returned near two without rechecking the flat. Her evidence explains the open window and her suspicious early lies."
+    },
+    {
+      "id": "W09",
+      "name": "Perri Glain",
+      "statement": "A glazier and Tessa Brindle's suitor. He voluntarily corroborated that Tessa was with him at the Masons' Masquerade on Monday night and that he returned her to Bellfounder Row between about 1:30 and 2:00. He said he saw nothing suspicious in the street."
+    },
+    {
+      "id": "W10",
+      "name": "Dowager Marchioness Selda Quill",
+      "statement": "Quill's mother and social informant. She relayed the first report of the body from a rector's wife, identified Nale's address and circumstances, sheltered Dame Elspeth, and supplied background that Lady Mira Vale had once been expected to marry Dr. Edrin Sol before she married Orren Vale instead. This information establishes a possible personal motive."
+    },
+    {
+      "id": "W11",
+      "name": "Mistress Alian Rusk",
+      "statement": "The rector's wife who told the Dowager Marchioness that Corwin Nale had telephoned in distress because he had found a dead naked man wearing silver nose-clamps in his bath and could not attend a scheduled church-roof inspection. Her report brought Quill into the matter."
+    },
+    {
+      "id": "W12",
+      "name": "Master Orren Vale",
+      "statement": "The missing magnate and indirect source through his diary, habits, belongings, and physical description. His diary showed his household routine, Lady Mira's absence, Dr. Sol's visits, Lady Mira's nervous condition, and Calder Vane's dinner visit. His known habits, lenses, clothes, latchkey, and personal effects are central to judging whether he returned home voluntarily or was impersonated."
+    },
+    {
+      "id": "W13",
+      "name": "Irene Saff",
+      "statement": "Cook at Vale's Ashgate Crescent townhouse. She saw a man apparently resembling Vale arrive at the doorstep around midnight and heard him let himself in and go upstairs. Her observation is crucial because it supports the appearance of Vale's return, while leaving identity uncertain."
+    },
+    {
+      "id": "W14",
+      "name": "Milo Tern",
+      "statement": "Vale's valet. He found Vale absent in the morning, reported that the bed appeared slept in, that clothes and boots were present, that no fresh clothing was missing, and that Vale's watch, purse, ledgers, and both pairs of lenses had been left behind. He emphasized that Vale was very short-sighted, making voluntary departure without lenses unlikely."
+    },
+    {
+      "id": "W15",
+      "name": "Nessa Coil",
+      "statement": "Housemaid at Vale's townhouse. She noticed that the bed had been slept in oddly, with the pillows placed toward the middle or wall side rather than Vale's usual side. She also helped preserve the room from disturbance and contributed to the household timeline showing no ordinary departure after early morning cleaning began."
+    },
+    {
+      "id": "W16",
+      "name": "Vale's Supper Companions",
+      "statement": "The men who dined with Vale at the Grand Lantern House. They said he seemed healthy and cheerful, expected to rejoin Lady Mira later, and appeared satisfied about the next day's mineral-rights transaction. Their evidence makes a planned disappearance seem unlikely before his secret appointment."
+    },
+    {
+      "id": "W17",
+      "name": "Lorian Fesk",
+      "statement": "A club acquaintance who supplied financial and personal context. He said Vale was central to a pending mineral-rights deal, that several speculators depended on him, that Calder Vane was a rival industrial figure, and that Vale was respectable, economical, self-made, and devoted to his family. His evidence defines possible financial motives and some red herrings."
+    },
+    {
+      "id": "W18",
+      "name": "Calder Vane",
+      "statement": "A rival industrialist and early suspect. He acknowledged that Vale's disappearance might be useful to his commercial interests but denied personal hostility and said he would welcome Vale back once his own transaction was complete. His physical traits and reactions to investigative bait weaken some suspicions against him."
+    },
+    {
+      "id": "W19",
+      "name": "Sorin Ash",
+      "statement": "Calder Vane's auburn-haired secretary. His relevance is mainly physical and circumstantial: his appearance made him a possible source for the auburn hairs, and his fingerprints were compared after he handled Quill's card. Later comparisons made his connection to the crucial hair traces doubtful."
+    },
+    {
+      "id": "W20",
+      "name": "Maeron Pith",
+      "statement": "A provincial legal clerk and owner of the silver nose-clamps found on the bath corpse. He answered Quill's advertisement, identified the nose-clamps as his, described their sentimental chain, and said he lost them during a crowded platform crush while traveling between inland towns. He denied having relevant enemies and first feared the inquiry might be blackmail. His statement explains how the object could have been separated from him before appearing on the corpse."
+    },
+    {
+      "id": "W21",
+      "name": "Jorlan Meek",
+      "statement": "Maeron Pith's junior partner. He recognized Marquis Quill as a genuine investigator rather than a blackmailer, persuading Pith to cooperate. His contribution mainly validates the nose-clamp lead."
+    },
+    {
+      "id": "W22",
+      "name": "Unnamed Bellfounder Road Woman",
+      "statement": "A street witness who saw a well-dressed bearded man in a sea-otter coat and high felt hat near Bellfounder Row around 9:15, asking whether the road led to the canal-side terrace and saying he had to see a man. She later came forward after hearing of the bath-room corpse. Her observation places a man resembling Vale near the scene before the body was discovered."
+    },
+    {
+      "id": "W23",
+      "name": "Unnamed Companion of the Bellfounder Road Woman",
+      "statement": "The street witness's companion, formerly familiar with fashionable Ashgate society, identified the bearded man seen near Bellfounder Row as Orren Vale, whom she recognized by reputation and appearance. The identification is hearsay through the first woman but materially important to the timeline."
+    },
+    {
+      "id": "W24",
+      "name": "Dr. Pavel Norr",
+      "statement": "Medical witness at the inquest. He broadly agreed with Dr. Sol about the bath corpse's injuries but differed on timing, saying death might not have occurred until several days after the neck injury. This disagreement matters because it fits the history of the injured unknown vagrant and challenges a simple same-night death theory."
+    },
+    {
+      "id": "W25",
+      "name": "Crispin Fallow",
+      "statement": "Attendant at the Anatomists' College dissecting rooms. He explained the official system for receiving unclaimed bodies from infirmaries and hospitals, said the keys were normally in his charge, and insisted no teaching subject appeared to be missing. His honesty does not eliminate the possibility that a substitution could have gone unnoticed."
+    },
+    {
+      "id": "W26",
+      "name": "Chelsea Ward Infirmary Medical Officer",
+      "statement": "He reported that an unknown vagrant had been injured by falling scaffold planks, showed neurological symptoms, died on Monday, and was delivered to the Anatomists' College by Dr. Sol's arrangement. This supplies a possible identity for a rough, injured, unclaimed man matching several features of the bath corpse."
+    },
+    {
+      "id": "W27",
+      "name": "Lenox Marr",
+      "statement": "A medical student at the Anatomists' College. Under Quill's questioning, he recalled dissecting the arms of a middle-aged, rheumatic, sedentary, well-fed man who seemed unusually prosperous for an unclaimed pauper, and he remembered that a senior doctor took the head away separately. His recollection raises doubts about whether the body he dissected was really the infirmary vagrant."
+    },
+    {
+      "id": "W28",
+      "name": "Arven Prill",
+      "statement": "A fellow medical student remembered by Lenox Marr as joking during dissection that the body looked too prosperous and well-fed for the pauper category assigned to it. His comments are second-hand but support the oddity of the college cadaver."
+    },
+    {
+      "id": "W29",
+      "name": "Harlan Greaves",
+      "statement": "Dr. Sol's manservant. In conversation with Bram Vell, he described Sol's irregular nocturnal work, a Monday-evening male visitor, the apparent departure of that visitor around ten, Sol's later movements between house and college, and the noisy bath at about three in the morning. He did not understand the significance of these details."
+    },
+    {
+      "id": "W30",
+      "name": "Marda Greaves",
+      "statement": "Dr. Sol's cook and Harlan Greaves's wife. Through Harlan's account, she helps corroborate the household arrangement: the servants slept near the cistern room, were disturbed by the late bath, and were usually sent to bed before Sol's late work. Her evidence bears on opportunity and noise."
+    },
+    {
+      "id": "W31",
+      "name": "Lady Mira Vale",
+      "statement": "Orren Vale's wife and Dr. Sol's former attachment. She authorized Detective Fen to continue the investigation and believed her husband might have been kidnapped or held for ransom. Her own theory may be wrong, but her past connection with Sol is important background."
+    },
+    {
+      "id": "W32",
+      "name": "Coroner Jabez Morn",
+      "statement": "Coroner at the Bellfounder Row inquest. He questioned Nale, Brindle, Glain, Sable, Sol, Norr, and Fallow; challenged the city watch's weak assumptions; and directed the jury toward an open finding on cause and responsibility. He did not solve the matter but exposed facts that undermine the first police theory."
     }
   ]
 }

@@ -1,59 +1,180 @@
 {
-   "summary":"Mrs. Crumplehorn (equivalent of Mrs. Ferrars) dies from an apparent overdose after secretly confessing to Quaffle Them that she poisoned her abusive husband Ashley Crumplehorn a year earlier. She had also been blackmailed by someone who knew her secret. The next evening, Quaffle Them receives a letter from her identifying the blackmailer. Before reading the crucial name, he is murdered in his locked study at Manticore Park. The investigation, led by the detective Sirius (Poirot), focuses on numerous suspects: Credence Angelina (heir with financial troubles), Alley (his secret wife), Miss Padma, Mrs. Them, Major Stone, Quibbler the butler, Mcgonagall the secretary, and others. Motives include inheritance, concealed relationships, blackmail, resentment, and fear of exposure. Numerous clues create opportunities for many suspects: secret meetings, overheard conversations, missing evidence, a mysterious stranger, and conflicting timelines. The key evidence eventually reveals that Quaffle Them was killed earlier than most witnesses believed. A dictaphone was used to create the illusion that he was still alive at 9:30 p.m.; the murderer later arranged a false telephone call and removed the dictaphone to conceal the trick. Sirius reconstructs the crime and proves that Dr. Draco, the narrator, was both Mrs. Crumplehorn’s blackmailer and Quaffle Them’s murderer. After learning that Mrs. Crumplehorn intended to expose him in her letter, Draco killed Them with a dagger, staged the timeline using a dictaphone, planted misleading evidence, made the fake telephone call to ensure early discovery of the body, and removed the dictaphone when he returned to the scene. His motive was self-preservation: exposure as the blackmailer would have ruined him. The innocent suspects are cleared, Credence and Alley are exonerated, and Sirius gives Draco the choice of taking his own life rather than facing public disgrace. Draco ultimately chooses suicide, completing the case.",
-   "witnesses":[
-      {
-         "id":"w1",
-         "name":"Kreacher",
-         "statement":"She overheard Credence Angelina meeting a young woman in the woods and heard him say that he did not want Quaffle Them to change his will because he expected to inherit a great fortune.",
-         "reliability":"B"
-      },
-      {
-         "id":"w2",
-         "name":"Quibbler",
-         "statement":"He reported the circumstances surrounding the locked study, the discovery of the body, household movements, and his service of letters and coffee to Quaffle Them.",
-         "reliability":"C"
-      },
-      {
-         "id":"w3",
-         "name":"Miss Padma",
-         "statement":"She described her movements in the house, her observations on the evening of the murder, and denied involvement in either the blackmail or the killing.",
-         "reliability":"C"
-      },
-      {
-         "id":"w4",
-         "name":"Major Stone",
-         "statement":"He provided an account of his whereabouts near the terrace and of what he observed around the time of the murder.",
-         "reliability":"B"
-      },
-      {
-         "id":"w5",
-         "name":"Mcgonagall",
-         "statement":"He described his interactions with Quaffle Them, business matters, and his movements on the night of the murder.",
-         "reliability":"B"
-      },
-      {
-         "id":"w6",
-         "name":"Peverell Them",
-         "statement":"She explained her engagement to Credence, her relationship with him, and relevant events preceding the murder.",
-         "reliability":"B"
-      },
-      {
-         "id":"w7",
-         "name":"Alley",
-         "statement":"She revealed that she was secretly married to Credence Angelina, described her confrontation with Quaffle Them, and recounted her meeting with Credence in the summer-house shortly before the murder.",
-         "reliability":"A"
-      },
-      {
-         "id":"w8",
-         "name":"Credence Angelina",
-         "statement":"He explained his financial troubles, secret marriage to Alley, engagement arrangement with Peverell, and his activities on the day of the murder.",
-         "reliability":"B"
-      },
-      {
-         "id":"w9",
-         "name":"Mrs. Them",
-         "statement":"She gave evidence about family relationships, inheritance expectations, and household events surrounding the crime.",
-         "reliability":"C"
-      }
-   ]
+  "summary": "In King’s Abbot, Mrs. Ferrars dies from an overdose of veronal on the night of 16-17 September after having previously murdered her husband Ashley Ferrars and endured blackmail. Roger Ackroyd, who intended to marry her, tells Dr. James Sheppard that Mrs. Ferrars confessed the murder and said someone was blackmailing her, possibly someone connected with his household. A posthumous letter from Mrs. Ferrars reaches Ackroyd during Sheppard’s visit and begins to name the blackmailer. Sheppard, who is the blackmailer, murders Ackroyd before leaving the study, using a Tunisian dagger taken earlier from the silver table. He leaves the study window apparently relevant to the crime, plants Ralph Paton’s shoe-prints to implicate Ralph, removes or later retrieves key evidence, and uses Ackroyd’s dictaphone with a timed mechanism so that Ackroyd’s recorded voice is heard at about 9:30 p.m., creating the illusion that Ackroyd is alive after Sheppard has gone. Sheppard also places a false telephone call summoning himself back to Fernly, giving himself the opportunity to be present at discovery and remove the dictaphone. Suspicion falls heavily on Ralph Paton because he is missing, has financial motives, has quarreled with Ackroyd, is secretly married to Ursula Bourne, and his shoe-prints appear at the study window. Other suspects have motives or secrets: Flora Ackroyd stole money and lied about seeing her uncle alive; Parker listened at doors and has a dubious past; Mrs. Ackroyd searched for financial papers; Miss Russell concealed her relationship to Charles Kent; Charles Kent secretly visited Fernly; Raymond was in debt; and Blunt concealed his feelings for Flora. Hercule Poirot reconstructs the true sequence by detecting the time discrepancy in Sheppard’s walk to the gate, the missing dictaphone, the staged footprints, the missing dagger opportunity, the black bag capable of carrying the dictaphone, and Sheppard’s access, motive, mechanical knowledge, and false evidence. Poirot confronts Sheppard privately and allows him the alternative of suicide to spare Caroline public disgrace. Sheppard writes a final confession, admits that he blackmailed Mrs. Ferrars and murdered Ackroyd to prevent exposure, and prepares to kill himself with veronal.",
+  "witnesses": [
+    {
+      "id": "W01",
+      "name": "Dr. James Sheppard",
+      "statement": "Narrator, village doctor, first medical observer of Mrs. Ferrars’s death, dinner guest at Fernly, apparent discoverer of Ackroyd’s murder, recorder of interviews, and final confessor. He reports Mrs. Ferrars’s veronal death, Ackroyd’s disclosures about Mrs. Ferrars’s confession and blackmail, the arrival of her letter, his own departure at 8:50 p.m., the stranger near the gates, the telephone call summoning him back, the crime scene, and the investigation. His narration omits and falsifies decisive facts: he had blackmailed Mrs. Ferrars, murdered Ackroyd before leaving the study, used the dictaphone to fake Ackroyd’s later voice, staged Ralph’s footprints, made the false telephone call, and retrieved incriminating evidence. His final apologia corrects the deception and confesses the crime.",
+      "source_reliability": "E",
+      "information_credibility": "5"
+    },
+    {
+      "id": "W02",
+      "name": "Hercule Poirot",
+      "statement": "Retired detective living next door under the locally distorted name Porrott. He gathers witness statements, tests alibis, protects Ralph Paton from premature arrest, identifies concealed relationships and lies, and reconstructs the murder. He concludes that Ackroyd was already dead when his voice was heard at 9:30 p.m.; that the voice came from a dictaphone; that the murderer needed knowledge of the dictaphone, mechanical aptitude, access to Ralph’s shoes, access to the dagger, a receptacle such as a black bag, and opportunity to remove the machine at discovery; and that these conditions identify Dr. Sheppard. His deductions resolve the case.",
+      "source_reliability": "A",
+      "information_credibility": "1"
+    },
+    {
+      "id": "W03",
+      "name": "Roger Ackroyd",
+      "statement": "Victim and key pre-murder informant. He tells Sheppard that Mrs. Ferrars confessed to poisoning Ashley Ferrars, that she had been blackmailed, that she refused to name the blackmailer, and that he expected a message from her. He receives her letter after dinner and begins reading it aloud before deciding to read the rest alone. His information supplies the motive for his own murder: the letter would expose Sheppard as blackmailer.",
+      "source_reliability": "A",
+      "information_credibility": "1"
+    },
+    {
+      "id": "W04",
+      "name": "Mrs. Ferrars",
+      "statement": "Dead before the main murder but a central evidentiary source through her confession to Ackroyd and posthumous letter. She admits murdering her husband Ashley Ferrars, explains that she was blackmailed, and writes to Ackroyd intending to identify the blackmailer. The letter is intercepted after Ackroyd’s death, preventing immediate revelation, but its existence explains Sheppard’s motive.",
+      "source_reliability": "B",
+      "information_credibility": "1"
+    },
+    {
+      "id": "W05",
+      "name": "Caroline Sheppard",
+      "statement": "Dr. Sheppard’s sister and a major village intelligence-gatherer. She reports early gossip about Mrs. Ferrars’s death, correctly suspects Mrs. Ferrars killed her husband and committed suicide from remorse, learns Ralph Paton is staying at the Three Boars, reports seeing or hearing Ralph with a woman in the woods and overhearing his anxiety about Ackroyd’s will, tracks local gossip, and later helps Poirot by inquiring into Ralph’s footwear, establishing that Ralph had boots and that the incriminating shoe-prints could have been staged with another pair of his shoes.",
+      "source_reliability": "B",
+      "information_credibility": "2"
+    },
+    {
+      "id": "W06",
+      "name": "Parker",
+      "statement": "Ackroyd’s butler. He admits bringing in the evening post, including Mrs. Ferrars’s letter, and is suspected of listening at the study door. He reports the state of the study after the body is found, including the pulled-out chair, which helps Poirot infer that something on the table had to be removed after discovery. He also denies having telephoned Sheppard, undermining Sheppard’s account of the summons. His own secretiveness and past make him suspect, but his material crime-scene observations are useful and mostly confirmed.",
+      "source_reliability": "C",
+      "information_credibility": "2"
+    },
+    {
+      "id": "W07",
+      "name": "Geoffrey Raymond",
+      "statement": "Ackroyd’s secretary. He provides household timing evidence, says he heard Ackroyd’s voice from the study around 9:30 p.m. saying he did not want to be disturbed, and supplies information about Ackroyd’s business affairs and dictation habits. He later admits private financial embarrassment, which creates a possible motive but does not implicate him in the murder. His hearing of the voice is accurate as an auditory observation but misinterpreted because it was the dictaphone, not the living Ackroyd.",
+      "source_reliability": "B",
+      "information_credibility": "3"
+    },
+    {
+      "id": "W08",
+      "name": "Flora Ackroyd",
+      "statement": "Ackroyd’s niece and Ralph’s supposed fiancee. She initially claims to have seen Ackroyd alive after dinner, strengthening the false later time of death and protecting herself. She later retracts this and confesses that she went to the study to steal money from Ackroyd’s room and did not actually see him alive. She also provides important evidence that the Tunisian dagger was missing from the silver table when she examined it, narrowing the opportunity to someone who had taken it earlier.",
+      "source_reliability": "C",
+      "information_credibility": "5"
+    },
+    {
+      "id": "W09",
+      "name": "Ralph Paton",
+      "statement": "Ackroyd’s adopted son and principal false suspect. He is secretly married to Ursula Bourne, is financially dependent on Ackroyd, had quarreled with him, and disappears after the murder, making himself look guilty. When found by Poirot, he states that he wore boots on the fatal night, not the shoes whose prints were found at the study window. This helps prove the footprints were planted. His concealment and flight damage his reliability, but his core exculpatory footwear information is confirmed.",
+      "source_reliability": "C",
+      "information_credibility": "2"
+    },
+    {
+      "id": "W10",
+      "name": "Ursula Bourne",
+      "statement": "Fernly parlourmaid, later revealed as Ralph Paton’s secret wife. She explains her concealed marriage to Ralph, her dismissal after Ackroyd learned of it, her meetings with Ralph, and the personal conflict that made Ralph afraid of disinheritance. Her story resolves the mystery of Ralph’s secret woman and supplies an innocent explanation for several suspicious meetings and Ralph’s disappearance.",
+      "source_reliability": "B",
+      "information_credibility": "1"
+    },
+    {
+      "id": "W11",
+      "name": "Miss Russell",
+      "statement": "Ackroyd’s housekeeper. She asks Sheppard about drug addiction, rare poisons, and curare, creating suspicion. She later explains that her concern relates to Charles Kent, her illegitimate son, whose drug habit and visit to Fernly she wished to conceal. Her concealment misdirects suspicion, but her later account helps identify Kent’s role as a red herring rather than the murderer.",
+      "source_reliability": "C",
+      "information_credibility": "3"
+    },
+    {
+      "id": "W12",
+      "name": "Charles Kent",
+      "statement": "A rough young stranger seen by Sheppard near the Fernly gates after Sheppard leaves. He is later identified as Miss Russell’s illegitimate son and a drug user. He admits visiting Fernly secretly to see his mother and gives an account of his movements. His presence explains the stranger at the gate and initially appears incriminating, but timing and corroboration show he did not murder Ackroyd.",
+      "source_reliability": "C",
+      "information_credibility": "2"
+    },
+    {
+      "id": "W13",
+      "name": "Major Hector Blunt",
+      "statement": "Ackroyd’s friend and houseguest. He supplies observations from the household, participates in the investigation, confirms or contests timing and behaviour, and is emotionally connected to Flora Ackroyd. His guarded manner creates suspicion, but his material evidence is mainly observational and not central to the murder mechanism.",
+      "source_reliability": "B",
+      "information_credibility": "2"
+    },
+    {
+      "id": "W14",
+      "name": "Mrs. Cecil Ackroyd",
+      "statement": "Ackroyd’s widowed sister-in-law. She provides information about household financial pressures, Flora’s prospects, settlements, and her own dependence on Ackroyd. Her evasions and interest in money make her suspicious, and she conceals self-interested conduct around Ackroyd’s papers, but she ultimately contributes motive context rather than evidence of the murder mechanism.",
+      "source_reliability": "C",
+      "information_credibility": "3"
+    },
+    {
+      "id": "W15",
+      "name": "Inspector Raglan",
+      "statement": "Police investigator. He reports and interprets official evidence: the body, weapon, study door and window, footprints, timing, suspects, and searches. He treats Ralph Paton as the likely murderer for much of the case because of motive, disappearance, and shoe evidence. His factual collection is useful, but his central theory is wrong until Poirot’s reconstruction corrects it.",
+      "source_reliability": "B",
+      "information_credibility": "4"
+    },
+    {
+      "id": "W16",
+      "name": "Colonel Melrose",
+      "statement": "Chief constable or senior local police authority. He helps frame the official inquiry, coordinates with Poirot and Raglan, and receives reports about the murder scene, suspects, and household evidence. His contributions are mainly administrative and investigative rather than eyewitness testimony.",
+      "source_reliability": "B",
+      "information_credibility": "2"
+    },
+    {
+      "id": "W17",
+      "name": "Mr. Hammond",
+      "statement": "Ackroyd’s solicitor. He provides the terms of Ackroyd’s will and financial arrangements, clarifying who benefits from Ackroyd’s death and how Ralph, Flora, Mrs. Ackroyd, and others stand financially. This shapes motive analysis and confirms that several suspects had financial interests, though not the true motive.",
+      "source_reliability": "A",
+      "information_credibility": "1"
+    },
+    {
+      "id": "W18",
+      "name": "Miss Ganett",
+      "statement": "Village gossip and observer. She circulates reports about Mrs. Ferrars, Ackroyd, Flora, Ralph, blackmail, and local movements. Some information reflects genuine local observation, but much is speculative, inferential, or socially biased. Her evidence contributes atmosphere and suspicion more than decisive proof.",
+      "source_reliability": "D",
+      "information_credibility": "4"
+    },
+    {
+      "id": "W19",
+      "name": "Colonel Carter",
+      "statement": "Village gossip source during the mah-jong evening. He reports hearing that blackmail is involved and speculates that a woman is behind the affair. His information reflects rumor rather than firsthand evidence, though the existence of blackmail is ultimately true.",
+      "source_reliability": "D",
+      "information_credibility": "3"
+    },
+    {
+      "id": "W20",
+      "name": "Annie",
+      "statement": "The Sheppards’ parlourmaid. She passes early household news to Caroline about Mrs. Ferrars’s death and serves as part of Caroline’s informal intelligence network. Her contribution is minor and hearsay-based.",
+      "source_reliability": "C",
+      "information_credibility": "3"
+    },
+    {
+      "id": "W21",
+      "name": "The milkman",
+      "statement": "Unnamed local tradesman who tells Caroline about Mrs. Ferrars’s death, having heard it from the Ferrars household cook. He contributes early reporting but only through hearsay.",
+      "source_reliability": "D",
+      "information_credibility": "3"
+    },
+    {
+      "id": "W22",
+      "name": "Mrs. Ferrars’s cook",
+      "statement": "Unnamed domestic servant at King’s Paddock. She is the apparent source of early village information that Mrs. Ferrars has died. Her contribution is limited to reporting the death before formal inquiry details are known.",
+      "source_reliability": "C",
+      "information_credibility": "2"
+    },
+    {
+      "id": "W23",
+      "name": "The barmaid at the Dog and Whistle",
+      "statement": "Provides corroboration about Charles Kent’s movements, appearance, and poor boots, helping separate Kent from the staged Ralph Paton shoe-prints and weakening the theory that Kent made the incriminating marks at Ackroyd’s window.",
+      "source_reliability": "B",
+      "information_credibility": "2"
+    },
+    {
+      "id": "W24",
+      "name": "The representative of the dictaphone company",
+      "statement": "Provides the crucial fact that Ackroyd had obtained or been supplied with a dictaphone. This allows Poirot to infer that the 9:30 p.m. voice was a recording, not proof Ackroyd was alive, and that the missing object removed from the study was the dictaphone.",
+      "source_reliability": "A",
+      "information_credibility": "1"
+    },
+    {
+      "id": "W25",
+      "name": "Mrs. Folliott",
+      "statement": "Provides background relevant to Miss Russell and Charles Kent, helping Poirot uncover Kent’s identity and relationship to Miss Russell. Her information supports the explanation of Miss Russell’s suspicious behaviour and Kent’s visit as a separate concealed family matter rather than the murder plot.",
+      "source_reliability": "B",
+      "information_credibility": "2"
+    }
+  ]
 }
