@@ -7,7 +7,7 @@ from utils.loader import load_statements
 async def main():
 
     statements = load_statements(
-        "samples/witness_input.json"
+        "Multi Agent System/samples/witness_input.json"
     )
 
     graph = build_graph()

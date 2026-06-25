@@ -29,13 +29,13 @@ def build_report(
                 []
             ),
 
-            reliability=state.get(
-                "reliability_metrics",
+            credibility_metrics=state.get(
+                "credibility_metrics",
                 []
             ),
 
-            credibility_scores=state.get(
-                "credibility_scores",
+            reliability_grades=state.get(
+                "reliability_grades",
                 []
             )
         )

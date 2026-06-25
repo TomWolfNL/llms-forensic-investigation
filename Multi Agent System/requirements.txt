@@ -12,3 +12,5 @@ typing_extensions>=4.12
 tenacity>=9.0
 
 aiofiles>=24.1
+
+json-repair>=0.30

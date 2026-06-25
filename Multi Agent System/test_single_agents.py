@@ -7,7 +7,8 @@ from agents.attribute_agent import AttributeAgent
 
 async def main():
 
-    data = load_statements("samples/witness_input.json")
+    # test_single_agents.py
+    data = load_statements("Multi Agent System/samples/witness_input.json")
 
     timeline = await TimelineAgent().run(data)
     print("\nTIMELINE:\n", timeline)

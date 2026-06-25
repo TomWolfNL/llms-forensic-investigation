@@ -1,43 +1,28 @@
 from agents.base import StructuredAgent
-from prompts.reliability_prompt import RELIABILITY_PROMPT
-from models.reliability_models import ReliabilityResult
+from prompts.credibility_prompt import CREDIBILITY_OF_INFORMATION_PROMPT
+from models.reliability_models import CredibilityResult
 
 from typing import Any
 
 
-class ReliabilityEvidenceAgent:
+class CredibilityOfInformationAgent:
 
     def __init__(self):
         self.agent = StructuredAgent(
-            prompt=RELIABILITY_PROMPT,
-            output_schema=ReliabilityResult
+            prompt=CREDIBILITY_OF_INFORMATION_PROMPT,
+            output_schema=CredibilityResult
         )
 
     async def run(self, payload: dict):
 
-        # -------------------------------------------------
-        # INPUT NORMALIZATION LAYER (SAFE)
-        # -------------------------------------------------
         payload = self._normalize(payload)
-
-        # -------------------------------------------------
-        # DEBUG HOOK (OPTIONAL)
-        # -------------------------------------------------
-        # import json
-        # print("RELIABILITY PAYLOAD:", json.dumps(payload, indent=2))
 
         result = await self.agent.invoke(payload)
 
-        # -------------------------------------------------
-        # OUTPUT VALIDATION
-        # -------------------------------------------------
         self._validate_output(result)
 
         return result
 
-    # -------------------------------------------------
-    # NORMALIZATION
-    # -------------------------------------------------
     def _normalize(self, obj: Any) -> Any:
 
         if hasattr(obj, "model_dump"):
@@ -48,9 +33,6 @@ class ReliabilityEvidenceAgent:
 
         return dict(obj)
 
-    # -------------------------------------------------
-    # OUTPUT VALIDATION
-    # -------------------------------------------------
     def _validate_output(self, result):
 
         metrics = result.metrics
@@ -65,7 +47,7 @@ class ReliabilityEvidenceAgent:
 
         if all(v == 0.0 for v in values):
             raise ValueError(
-                "ReliabilityAgent produced ALL ZERO METRICS — likely parsing or prompt failure"
+                "CredibilityOfInformationAgent produced ALL ZERO METRICS — likely parsing or prompt failure"
             )
 
         if len(set(values)) == 1 and values[0] in (0.0, 1.0):
@@ -76,3 +58,8 @@ class ReliabilityEvidenceAgent:
         for v in values:
             if v < 0.0 or v > 1.0:
                 raise ValueError(f"Invalid metric out of range: {v}")
+
+        if result.credibility_grade not in (1, 2, 3, 4, 5, 6):
+            raise ValueError(
+                f"Invalid credibility_grade: {result.credibility_grade}. Must be integer 1–6."
+            )

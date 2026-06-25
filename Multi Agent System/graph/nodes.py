@@ -7,13 +7,31 @@ from agents.attribute_agent import AttributeAgent
 from agents.behavioral_agent import BehavioralConsistencyAgent
 from agents.contradiction_agent import TimelineContradictionAgent
 
-from agents.reliability_agent import ReliabilityEvidenceAgent
-from agents.credibility_agent import CredibilityAgent
-
-from utils.reporter import build_report
+from agents.reliability_agent import CredibilityOfInformationAgent
+from agents.credibility_agent import ReliabilityOfSourceAgent
+from agents.extraction_agent import StatementExtractionAgent
 
 import json
+import logging
+from pathlib import Path
 from typing import Any, Dict
+
+log = logging.getLogger("pipeline")
+
+# All intermediate and final result files land here
+_DEBUG_DIR = Path(__file__).parent.parent / "results"
+_DEBUG_DIR.mkdir(exist_ok=True)
+
+
+def _save_debug(filename: str, data) -> None:
+    """Write intermediate pipeline output to a JSON file for inspection."""
+    path = _DEBUG_DIR / filename
+    try:
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(_deep_normalize(data), f, indent=2, ensure_ascii=False)
+        log.info(f"[debug] Saved: {path.name}")
+    except Exception as e:
+        log.warning(f"[debug] Could not save {filename}: {e}")
 
 
 # =========================
@@ -52,82 +70,61 @@ def _safe_float(x, default=0.0):
         return default
 
 
-def _normalize_reliability_output(data: Dict[str, Any]) -> list:
-    """
-    MUST return LIST (FinalReport expects list)
-    """
-
-    if not isinstance(data, dict):
-        return []
-
-    items = data.get("reliability", [])
-
-    normalized = []
-
-    for item in items:
-        metrics = item.get("metrics", {}) or {}
-
-        normalized.append({
-            "type": item.get("type", "unknown"),
-            "witness": item.get("witness", "unknown"),
-            "total_score": _safe_float(item.get("total_score", item.get("score", 0.0))),
-            "metrics": {
-                "internal_consistency": _safe_float(metrics.get("internal_consistency")),
-                "cross_confirmation": _safe_float(metrics.get("cross_confirmation")),
-                "detail_quality": _safe_float(metrics.get("detail_quality")),
-                "observation_quality": _safe_float(metrics.get("observation_quality")),
-                "contextual_alignment": _safe_float(metrics.get("contextual_alignment")),
-            }
-        })
-
-    return normalized
-
-
-def _normalize_credibility(result: Any) -> list:
-    """
-    MUST match FinalReport.CredibilityScore schema
-    """
-
-    if isinstance(result, dict):
-        score = _safe_float(result.get("score", result.get("credibility", 0.0)))
-    else:
-        score = _safe_float(result)
-
-    score = max(0.0, min(1.0, score))
-
-    return [
-        {
-            "grade": "SYSTEM",
-            "score": score,
-            "evidence_used": "Aggregated from reliability analysis"
-        }
-    ]
-
-
 # =========================
 # PIPELINE NODES
 # =========================
 
+async def extraction_node(state):
+    from agents.extraction_agent import BATCH_SIZE
+    witnesses = state.raw_story.get("witnesses", [])
+    n_batches = -(-len(witnesses) // BATCH_SIZE)  # ceiling division
+    log.info(f"[extraction] Starting — {len(witnesses)} witnesses in {n_batches} batches of {BATCH_SIZE}")
+    result = await StatementExtractionAgent().run(state.raw_story)
+    log.info(f"[extraction] Done — {len(result)} statements extracted total")
+    _save_debug("extracted_statements.json", result)
+    return {"statements": result}
+
+
 async def timeline_node(state):
+    log.info(f"[timeline] Starting — {len(state.statements)} statements")
     result = await TimelineAgent().run(state.statements)
+    log.info(f"[timeline] Done — {len(result)} events built")
+    _save_debug("timeline.json", result)
     return {"timeline": result}
 
 
 async def attribute_node(state):
+    from agents.attribute_agent import ATTRIBUTE_BATCH_SIZE
+    n_batches = -(-len(state.statements) // ATTRIBUTE_BATCH_SIZE)
+    log.info(f"[attribute] Starting — {len(state.statements)} statements in {n_batches} batches of {ATTRIBUTE_BATCH_SIZE}")
     result = await AttributeAgent().run(state.statements)
+    log.info(f"[attribute] Done — {len(result)} person attribute records")
+    _save_debug("extracted_attributes.json", result)
     return {"attributes": result}
 
 
 async def contradiction_node(state):
+    log.info(f"[contradiction] Starting — {len(state.timeline)} events")
     result = await TimelineContradictionAgent().run(state.timeline)
+    log.info(f"[contradiction] Done — {len(result)} contradictions found")
+    _save_debug("contradictions.json", result)
     return {"contradictions": result}
 
 
+MAX_BEHAVIORAL_ISSUES = 10
+
 async def behavioral_node(state):
-    result = result = await BehavioralConsistencyAgent().run(
+    log.info(f"[behavior] Starting — {len(state.statements)} statements, {len(state.attributes)} attribute records")
+    result = await BehavioralConsistencyAgent().run(
         state.statements,
         state.attributes
     )
+    # Hard cap: never allow runaway issue generation
+    if len(result) > MAX_BEHAVIORAL_ISSUES:
+        log.warning(f"[behavior] Capping {len(result)} issues to {MAX_BEHAVIORAL_ISSUES}")
+        result = result[:MAX_BEHAVIORAL_ISSUES]
+    log.info(f"[behavior] Done — {len(result)} behavioral issues identified")
+    _save_debug("behavior_report.json", result)
     return {"behavior_report": result}
 
 # =========================
@@ -143,8 +140,10 @@ def _safe_get(obj, key, default=None):
 def debug_inspector_node(state):
     """
     Lightweight deterministic inspector.
-    Runs BEFORE reliability node (or after behavior node depending on wiring).
+    Runs BEFORE credibility and reliability nodes.
     """
+
+    log.info("[debug_inspector] Starting — building per-witness data maps")
 
     trace = []
 
@@ -239,12 +238,21 @@ def debug_inspector_node(state):
     else:
         state.debug_trace = trace
 
+    log.info(f"[debug_inspector] Done — {len(trace)} witnesses mapped")
+
     return state
 
 
-async def reliability_node(state):
+# =========================
+# SHARED WITNESS PAYLOAD BUILDER
+# =========================
 
-    results = []
+def _build_witness_payloads(state):
+    """
+    Builds a per-witness payload dict used by both
+    credibility_node and reliability_node.
+    Returns a list of normalized payload dicts.
+    """
 
     statements = state.statements or []
     contradictions = state.contradictions or []
@@ -292,9 +300,8 @@ async def reliability_node(state):
             )
         ]
 
-    # =================================================
-    # PER WITNESS
-    # =================================================
+    payloads = []
+
     for witness in witnesses:
 
         witness_key = (
@@ -344,8 +351,6 @@ async def reliability_node(state):
 
         # -------------------------------------------------
         # CONTRADICTIONS
-        # FIX:
-        # deduplicate same event pair
         # -------------------------------------------------
         witness_contradictions = []
 
@@ -401,8 +406,6 @@ async def reliability_node(state):
 
         # -------------------------------------------------
         # BEHAVIOR
-        # FIX:
-        # NEVER map person -> witness
         # -------------------------------------------------
         witness_behavior = []
 
@@ -422,7 +425,6 @@ async def reliability_node(state):
 
             attach = False
 
-            # statement reference
             if any(
                 sid.lower()
                 in explanation
@@ -431,7 +433,6 @@ async def reliability_node(state):
             ):
                 attach = True
 
-            # witness mention
             elif (
                 witness_key
                 in explanation
@@ -444,88 +445,94 @@ async def reliability_node(state):
                     normalized
                 )
 
-        # -------------------------------------------------
-        # PAYLOAD
-        # -------------------------------------------------
-        payload = {
+        payload = _deep_normalize({
+            "witness": witness,
+            "statements": witness_statements,
+            "contradictions": witness_contradictions,
+            "behavior": witness_behavior
+        })
 
-            "witness":
-                witness,
+        payloads.append((witness, witness_key, payload))
 
-            "statements":
-                witness_statements,
+    return payloads
 
-            "contradictions":
-                witness_contradictions,
 
-            "behavior":
-                witness_behavior
-        }
+# =========================
+# CREDIBILITY OF INFORMATION NODE
+# =========================
 
-        payload = (
-            _deep_normalize(
-                payload
-            )
-        )
+async def credibility_node(state):
+
+    payloads = _build_witness_payloads(state)
+    log.info(f"[credibility] Starting — {len(payloads)} witnesses to grade (1-6 scale)")
+
+    results = []
+
+    for i, (witness, witness_key, payload) in enumerate(payloads, 1):
+
+        log.info(f"[credibility] ({i}/{len(payloads)}) Grading: {witness}")
 
         try:
 
             result = (
                 await
-                ReliabilityEvidenceAgent()
-                .run(
-                    payload
-                )
+                CredibilityOfInformationAgent()
+                .run(payload)
             )
 
             # ---------------------------------------------
             # OUTPUT VALIDATION
             # ---------------------------------------------
             returned = (
-                str(
-                    result.witness
-                )
+                str(result.witness)
                 .strip()
             )
 
             if not returned:
+                raise ValueError("Missing witness")
 
+            if returned.lower() != witness_key:
                 raise ValueError(
-                    "Missing witness"
+                    f"Witness mismatch {returned}"
                 )
 
-            if (
-                returned.lower()
-                != witness_key
-            ):
+            if not result.evidence:
+                raise ValueError("Evidence missing")
 
-                raise ValueError(
-                    (
-                        "Witness mismatch "
-                        f"{returned}"
-                    )
-                )
+            # ---------------------------------------------
+            # DETERMINISTIC GRADING (PYTHON MATH)
+            # ---------------------------------------------
+            metrics = result.metrics.model_dump()
 
-            if (
-                not result.evidence
-            ):
+            # Safely extract floats (default to 0.0 if something goes wrong)
+            ic = float(metrics.get("internal_consistency", 0.0))
+            cc = float(metrics.get("cross_confirmation", 0.0))
+            dq = float(metrics.get("detail_quality", 0.0))
+            oq = float(metrics.get("observation_quality", 0.0))
+            ca = float(metrics.get("contextual_alignment", 0.0))
 
-                raise ValueError(
-                    "Evidence missing"
-                )
-
-            score = float(
-                result.total_score
+            weighted_score = (
+                (0.25 * ic) +
+                (0.20 * cc) +
+                (0.20 * dq) +
+                (0.15 * oq) +
+                (0.20 * ca)
             )
 
-            if (
-                score < 0
-                or score > 1
-            ):
+            if weighted_score >= 0.80:
+                grade = 1
+            elif weighted_score >= 0.65:
+                grade = 2
+            elif weighted_score >= 0.50:
+                grade = 3
+            elif weighted_score >= 0.35:
+                grade = 4
+            elif weighted_score >= 0.15:
+                grade = 5
+            else:
+                grade = 6
 
-                raise ValueError(
-                    "Invalid score"
-                )
+            log.info(f"[credibility] ({i}/{len(payloads)}) {witness} → score: {weighted_score:.3f} → grade {grade}")
 
             results.append({
 
@@ -533,24 +540,23 @@ async def reliability_node(state):
                     returned,
 
                 "evidence": [
-
                     e.model_dump()
-
-                    for e
-                    in result.evidence
+                    for e in result.evidence
                 ],
 
                 "metrics":
-                    result.metrics.model_dump(),
+                    metrics,
 
-                "total_score":
-                    round(
-                        score,
-                        2
-                    )
+                "credibility_grade":
+                    grade,
+                
+                "weighted_score":
+                    round(weighted_score, 3)
             })
 
         except Exception as e:
+
+            log.warning(f"[credibility] ({i}/{len(payloads)}) {witness} → FAILED: {e}")
 
             results.append({
 
@@ -563,202 +569,92 @@ async def reliability_node(state):
                 "metrics":
                     None,
 
-                "total_score":
-                    None,
+                "credibility_grade":
+                    6,
 
                 "error":
                     str(e)
             })
 
+    log.info(f"[credibility] Done — {len(results)} witnesses graded")
+    _save_debug("credibility_metrics.json", results)
     return {
-
-        "reliability_metrics":
-            results
+        "credibility_metrics": results
     }
 
 
-async def credibility_node(state):
+# =========================
+# RELIABILITY OF SOURCE NODE
+# =========================
 
-    def score_to_grade(score):
+async def reliability_node(state):
 
-        score = round(
-            float(score),
-            2
-        )
+    payloads = _build_witness_payloads(state)
+    log.info(f"[reliability] Starting — {len(payloads)} witnesses to grade (A-F scale)")
 
-        if score >= 0.85:
-            return "A"
+    results = []
 
-        if score >= 0.70:
-            return "B"
+    for i, (witness, witness_key, payload) in enumerate(payloads, 1):
 
-        if score >= 0.55:
-            return "C"
-
-        if score >= 0.40:
-            return "D"
-            
-
-        return "F"
-
-    outputs = []
-
-    for r in (
-        state.reliability_metrics
-        or []
-    ):
-
-        witness = (
-            str(
-                r.get(
-                    "witness"
-                )
-            )
-        )
-
-        reliability_score = (
-            r.get(
-                "total_score"
-            )
-        )
+        log.info(f"[reliability] ({i}/{len(payloads)}) Grading: {witness}")
 
         try:
 
-            # --------------------------------
-            # reliability failed
-            # --------------------------------
-            if (
-                reliability_score
-                is None
-                or
-                r.get(
-                    "metrics"
-                )
-                is None
-            ):
-
-                outputs.append({
-
-                    "witness":
-                        witness,
-
-                    "grade":
-                        "F",
-
-                    "explanation":
-                        (
-                            "Credibility unavailable "
-                            "because reliability "
-                            "evaluation failed."
-                        ),
-
-                    "evidence_used":
-                        [
-                            r.get(
-                                "error"
-                            )
-                            or
-                            "reliability failed"
-                        ]
-                })
-
-                continue
-
             result = (
                 await
-                CredibilityAgent()
-                .run(r)
+                ReliabilityOfSourceAgent()
+                .run(payload)
             )
 
-            # --------------------------------
-            # HARD VALIDATION
-            # --------------------------------
-            if (
-                result.witness
-                != witness
-            ):
-                raise ValueError(
-                    (
-                        "Witness mismatch: "
-                        f"{result.witness}"
-                    )
-                )
-
-            if (
-                not result.explanation
-            ):
-                raise ValueError(
-                    (
-                        "Missing "
-                        "explanation"
-                    )
-                )
-
-            if (
-                not result.evidence_used
-            ):
-                raise ValueError(
-                    (
-                        "Missing "
-                        "evidence_used"
-                    )
-                )
-
-            # --------------------------------
-            # clamp LLM score
-            # --------------------------------
-            model_score = max(
-                0.0,
-                min(
-                    float(
-                        result.score
-                    ),
-                    1.0
-                )
+            # ---------------------------------------------
+            # OUTPUT VALIDATION
+            # ---------------------------------------------
+            returned = (
+                str(result.witness)
+                .strip()
             )
 
-            # reject large drift
-            if (
-                abs(
-                    model_score
-                    -
-                    float(
-                        reliability_score
-                    )
-                )
-                >
-                0.15
-            ):
-                model_score = (
-                    reliability_score
+            if not returned:
+                raise ValueError("Missing witness")
+
+            if returned.lower() != witness_key:
+                raise ValueError(
+                    f"Witness mismatch {returned}"
                 )
 
-            outputs.append({
+            if result.grade not in ("A", "B", "C", "D", "E", "F"):
+                raise ValueError(
+                    f"Invalid reliability grade: {result.grade}"
+                )
+
+            if not result.explanation:
+                raise ValueError("Missing explanation")
+
+            if not result.factors_assessed:
+                raise ValueError("Missing factors_assessed")
+
+            log.info(f"[reliability] ({i}/{len(payloads)}) {witness} → grade {result.grade}")
+
+            results.append({
 
                 "witness":
-                    witness,
+                    returned,
 
                 "grade":
-                    score_to_grade(
-                        reliability_score
-                    ),
-
-                "score":
-                    round(
-                        reliability_score,
-                        2
-                    ),
+                    result.grade,
 
                 "explanation":
                     result.explanation,
 
-                "evidence_used":
-                    result.evidence_used
+                "factors_assessed":
+                    result.factors_assessed
             })
 
         except Exception as e:
 
-            outputs.append({
+            log.warning(f"[reliability] ({i}/{len(payloads)}) {witness} → FAILED: {e}")
+
+            results.append({
 
                 "witness":
                     witness,
@@ -766,25 +662,17 @@ async def credibility_node(state):
                 "grade":
                     "F",
 
-                "score":
-                    0.0,
-
                 "explanation":
-                    (
-                        "Credibility "
-                        "evaluation failed."
-                    ),
+                    "Reliability of source evaluation failed.",
 
-                "evidence_used":
-                    [
-                        str(e)
-                    ]
+                "factors_assessed":
+                    [str(e)]
             })
 
+    log.info(f"[reliability] Done — {len(results)} witnesses graded")
+    _save_debug("reliability_grades.json", results)
     return {
-
-        "credibility_scores":
-            outputs
+        "reliability_grades": results
     }
 
 
@@ -793,6 +681,8 @@ async def credibility_node(state):
 # =========================
 
 async def report_node(state):
+
+    log.info("[report] Assembling final report")
 
     report = {
 
@@ -816,14 +706,14 @@ async def report_node(state):
                 state.behavior_report
             ),
 
-        "reliability_metrics":
+        "credibility_metrics":
             _deep_normalize(
-                state.reliability_metrics
+                state.credibility_metrics
             ),
 
-        "credibility_scores":
+        "reliability_grades":
             _deep_normalize(
-                state.credibility_scores
+                state.reliability_grades
             ),
 
         "debug_trace":
@@ -835,6 +725,8 @@ async def report_node(state):
                 )
             )
     }
+
+    log.info("[report] Done — final report ready")
 
     return {
         "final_report":

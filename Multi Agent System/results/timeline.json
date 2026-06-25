@@ -1,0 +1,457 @@
+[
+  {
+    "event_id": "E001",
+    "statement_ids": [
+      "S001",
+      "S062"
+    ],
+    "time": "Before the evening of the murder",
+    "location": "Vale estate",
+    "subject": "Livia Marr",
+    "action": "died from a sleeping compound overdose",
+    "context": "Her death preceded Aldric's murder and was initially thought possibly suicidal",
+    "witnesses": [
+      "Dr. Silas Wren",
+      "Livia Marr's kitchen maid"
+    ]
+  },
+  {
+    "event_id": "E002",
+    "statement_ids": [
+      "S009",
+      "S038",
+      "S060",
+      "S061"
+    ],
+    "time": "After Livia's death",
+    "location": "Bellweather village",
+    "subject": "Livia Marr",
+    "action": "spread early reports about Livia's death",
+    "context": "Suspected suicide motivated by guilt over her confessions; information passed through informal networks",
+    "witnesses": [
+      "Celia Wren",
+      "Nessa Pike",
+      "The lamp-oil seller"
+    ]
+  },
+  {
+    "event_id": "E003",
+    "statement_ids": [
+      "S002",
+      "S006",
+      "S007"
+    ],
+    "time": "Evening before the murder",
+    "location": "Vale estate study",
+    "subject": "Livia Marr",
+    "action": "caused her first husband's death and had been paying a blackmailer",
+    "context": "Livia privately admitted this to Aldric before her death; she refused to name the blackmailer in person",
+    "witnesses": [
+      "Dr. Silas Wren",
+      "Aldric Vale"
+    ]
+  },
+  {
+    "event_id": "E004",
+    "statement_ids": [
+      "S003",
+      "S008",
+      "S012",
+      "S053",
+      "S054",
+      "S055",
+      "S058",
+      "S059"
+    ],
+    "time": "Evening before the murder",
+    "location": "Vale estate study",
+    "subject": "Livia Marr's letter",
+    "action": "arrived and may name the extortionist",
+    "context": "Final letter arrived via evening post; Aldric began reading it aloud, then decided to finish alone",
+    "witnesses": [
+      "Dr. Silas Wren",
+      "Aldric Vale",
+      "Jonas Kett"
+    ]
+  },
+  {
+    "event_id": "E005",
+    "statement_ids": [
+      "S004",
+      "S041",
+      "S042"
+    ],
+    "time": "Ten minutes before 9:00 PM",
+    "location": "Vale estate study",
+    "subject": "Dr. Silas Wren",
+    "action": "departed from Aldric's study",
+    "context": "Left Aldric alone to finish reading Livia's letter; encountered unfamiliar young man near estate gates",
+    "witnesses": [
+      "Dr. Silas Wren"
+    ]
+  },
+  {
+    "event_id": "E006",
+    "statement_ids": [
+      "S005",
+      "S025",
+      "S027",
+      "S042"
+    ],
+    "time": "~8:52 PM (shortly after Wren's departure)",
+    "location": "near the Vale estate gates",
+    "subject": "unknown young man / Niall Corven",
+    "action": "loitering near the estate",
+    "context": "Rough-looking stranger seen near gates; later identified as Niall Corven who admitted visiting secretly; connected to Mistress Sable",
+    "witnesses": [
+      "Dr. Silas Wren",
+      "Niall Corven"
+    ]
+  },
+  {
+    "event_id": "E007",
+    "statement_ids": [
+      "S015",
+      "S051"
+    ],
+    "time": "~9:30 PM",
+    "location": "Near the study",
+    "subject": "Aldric Vale",
+    "action": "heard Aldric's voice from the study saying he did not wish to be disturbed",
+    "context": "Evidence depends on whether this was live voice or recording; later confirmed voice-recording cabinet existed",
+    "witnesses": [
+      "Tobin Rusk",
+      "Aldric's secretary"
+    ]
+  },
+  {
+    "event_id": "E008",
+    "statement_ids": [
+      "S010",
+      "S011",
+      "S020",
+      "S022"
+    ],
+    "time": "Before the murder",
+    "location": "Various / Blue Heron inn",
+    "subject": "Rowan Vale",
+    "action": "staying at the inn and involved with an unidentified woman",
+    "context": "Had been staying at Blue Heron inn; secretly married to Elia Moss; feared disinheritance due to concealed marriage",
+    "witnesses": [
+      "Celia Wren",
+      "Elia Moss"
+    ]
+  },
+  {
+    "event_id": "E009",
+    "statement_ids": [
+      "S016",
+      "S049",
+      "S050",
+      "S057"
+    ],
+    "time": "After dinner (early evening)",
+    "location": "Vale estate",
+    "subject": "Maren Vale",
+    "action": "claimed to have seen Aldric alive after dinner",
+    "context": "Initially strengthened impression Aldric survived late into evening; later retracted admission that she only went near study while stealing money and did not actually see him",
+    "witnesses": [
+      "Maren Vale"
+    ]
+  },
+  {
+    "event_id": "E010",
+    "statement_ids": [
+      "S017",
+      "S057"
+    ],
+    "time": "During her visit to steal money",
+    "location": "hall display",
+    "subject": "ceremonial glass-bladed knife",
+    "action": "no longer on the hall display",
+    "context": "Made the timing of its removal important to the investigation; Maren used this as pretext for her presence near study",
+    "witnesses": [
+      "Maren Vale"
+    ]
+  },
+  {
+    "event_id": "E011",
+    "statement_ids": [
+      "S019"
+    ],
+    "time": "Night of the murder",
+    "location": "Not specified",
+    "subject": "Rowan Vale",
+    "action": "claims he wore heavy boots that night rather than shoes matching the incriminating prints",
+    "context": "Footprints near the study window implicated him; his defense is footwear discrepancy",
+    "witnesses": [
+      "Rowan Vale"
+    ]
+  },
+  {
+    "event_id": "E012",
+    "statement_ids": [
+      "S014"
+    ],
+    "time": "Night of the murder",
+    "location": "Unknown",
+    "subject": "Jonas Kett",
+    "action": "denied making the telephone call summoning Dr. Wren back",
+    "context": "Someone called Wren to return; Kett denies responsibility",
+    "witnesses": [
+      "Jonas Kett"
+    ]
+  },
+  {
+    "event_id": "E013",
+    "statement_ids": [
+      "S043"
+    ],
+    "time": "Later that night, after receiving telephone summons",
+    "location": "Vale estate",
+    "subject": "Dr. Silas Wren",
+    "action": "returned to the house",
+    "context": "A telephone message appeared to summon Wren back to the house",
+    "witnesses": [
+      "Dr. Silas Wren"
+    ]
+  },
+  {
+    "event_id": "E014",
+    "statement_ids": [
+      "S044"
+    ],
+    "time": "Upon Wren's return",
+    "location": "study",
+    "subject": "Aldric Vale",
+    "action": "found Aldric dead in the study",
+    "context": "The study door was locked, and the scene showed signs of struggle",
+    "witnesses": [
+      "Inspector Brannick Hale"
+    ]
+  },
+  {
+    "event_id": "E015",
+    "statement_ids": [
+      "S045"
+    ],
+    "time": null,
+    "location": "study",
+    "subject": "ceremonial knife",
+    "action": "identified the ceremonial glass-bladed knife from the hall display as the murder weapon",
+    "context": "The knife came from the hallway display, indicating opportunity to take it",
+    "witnesses": [
+      "Inspector Brannick Hale"
+    ]
+  },
+  {
+    "event_id": "E016",
+    "statement_ids": [
+      "S046",
+      "S047",
+      "S034"
+    ],
+    "time": null,
+    "location": "study garden window / outside the garden window",
+    "subject": "garden window and footprints",
+    "action": "noted the open garden window and documented suspicious footprints",
+    "context": "Along with suspicious footprints outside the window; footprints appeared staged-looking, matching Rowan's shoes",
+    "witnesses": [
+      "Inspector Brannick Hale"
+    ]
+  },
+  {
+    "event_id": "E017",
+    "statement_ids": [
+      "S013"
+    ],
+    "time": "After discovering the body",
+    "location": "Vale estate study",
+    "subject": "study interior",
+    "action": "chair had been shifted and objects arranged differently on the table",
+    "context": "Details noted upon examination of the room",
+    "witnesses": [
+      "Jonas Kett"
+    ]
+  },
+  {
+    "event_id": "E018",
+    "statement_ids": [
+      "S018",
+      "S032"
+    ],
+    "time": "After the murder",
+    "location": "Unknown (missing)",
+    "subject": "Rowan Vale",
+    "action": "went missing after the murder",
+    "context": "Financially dependent on Aldric; had quarreled with him recently",
+    "witnesses": [
+      "Rowan Vale",
+      "Inspector Brannick Hale"
+    ]
+  },
+  {
+    "event_id": "E019",
+    "statement_ids": [
+      "S021"
+    ],
+    "time": "After Aldric learned of the marriage",
+    "location": "Vale estate",
+    "subject": "Elia Moss",
+    "action": "was dismissed from service",
+    "context": "Lost her position as parlour maid after the secret marriage was discovered",
+    "witnesses": [
+      "Elia Moss"
+    ]
+  },
+  {
+    "event_id": "E020",
+    "statement_ids": [
+      "S031",
+      "S033",
+      "S034",
+      "S048"
+    ],
+    "time": null,
+    "location": null,
+    "subject": "Rowan Vale",
+    "action": "treated as the likely murderer",
+    "context": "Based on motive (fear of disinheritance from secret marriage), disappearance, recent quarrel, and shoe evidence matching footprints",
+    "witnesses": [
+      "Inspector Brannick Hale"
+    ]
+  },
+  {
+    "event_id": "E021",
+    "statement_ids": [
+      "S035"
+    ],
+    "time": null,
+    "location": null,
+    "subject": "Aldric's will",
+    "action": "explained the terms of Aldric's will and financial arrangements",
+    "context": "Clarified who benefits from Aldric's death and how Rowan, Maren, Dame Perrin, and others stand financially",
+    "witnesses": [
+      "Garrick Holm"
+    ]
+  },
+  {
+    "event_id": "E022",
+    "statement_ids": [
+      "S029",
+      "S030"
+    ],
+    "time": null,
+    "location": null,
+    "subject": "the Vale family / Aldric's papers",
+    "action": "spoke about the family's financial dependence on Aldric and concealed self-interested conduct",
+    "context": "Her evidence mainly clarified financial motives within the household; her evasiveness and concern with money made her suspicious",
+    "witnesses": [
+      "Dame Perrin Vale"
+    ]
+  },
+  {
+    "event_id": "E023",
+    "statement_ids": [
+      "S028"
+    ],
+    "time": null,
+    "location": null,
+    "subject": "Captain Orven Blaise",
+    "action": "was emotionally guarded due to feelings for Maren Vale",
+    "context": "His restraint and awkwardness created suspicion, though his evidence was mostly observational",
+    "witnesses": [
+      "Captain Orven Blaise"
+    ]
+  },
+  {
+    "event_id": "E024",
+    "statement_ids": [
+      "S023",
+      "S024"
+    ],
+    "time": null,
+    "location": "Vale estate",
+    "subject": "Mistress Iona Sable",
+    "action": "asked Dr. Wren about addiction, rare poisons, and paralyzing toxins",
+    "context": "Her line of questioning created suspicion around herself during the inquiry; later indicated these questions related to a private concern about a troubled young man connected to her past",
+    "witnesses": [
+      "Mistress Iona Sable"
+    ]
+  },
+  {
+    "event_id": "E025",
+    "statement_ids": [
+      "S026"
+    ],
+    "time": null,
+    "location": null,
+    "subject": "Niall Corven",
+    "action": "had a history of drug use",
+    "context": "Part of his character profile during the inquiry",
+    "witnesses": [
+      "Niall Corven"
+    ]
+  },
+  {
+    "event_id": "E026",
+    "statement_ids": [
+      "S063",
+      "S064"
+    ],
+    "time": "After the murder discovery",
+    "location": "Copper Finch establishment",
+    "subject": "Niall Corven / Footprint evidence",
+    "action": "corroborated Niall Corven's movements, appearance, and poor boots",
+    "context": "Helps distinguish him from the person whose prints appeared near Aldric's study window and weakens the theory that he made those marks",
+    "witnesses": [
+      "The barmaid at the Copper Finch"
+    ]
+  },
+  {
+    "event_id": "E027",
+    "statement_ids": [
+      "S052"
+    ],
+    "time": "recently",
+    "location": null,
+    "subject": "voice-recording cabinet",
+    "action": "confirmed that Aldric had recently obtained a voice-recording cabinet",
+    "context": "Made the heard voice potentially misleading as to Aldric's actual presence",
+    "witnesses": [
+      "sales agent"
+    ]
+  },
+  {
+    "event_id": "E028",
+    "statement_ids": [
+      "S036",
+      "S037",
+      "S039",
+      "S040"
+    ],
+    "time": null,
+    "location": "village",
+    "subject": "various case subjects",
+    "action": "repeated reports about Livia Marr, Aldric Vale, Maren, Rowan, possible blackmail, and village movements",
+    "context": "Some reflected real observation, but much was speculative, biased, or secondhand; village gossip about blackmail and Livia's confession circulated",
+    "witnesses": [
+      "Vera Quill",
+      "Edrin Cale"
+    ]
+  },
+  {
+    "event_id": "E029",
+    "statement_ids": [
+      "S056"
+    ],
+    "time": null,
+    "location": "study door",
+    "subject": "steward",
+    "action": "may have listened at the door",
+    "context": "The steward had a furtive past and may have listened at the door",
+    "witnesses": [
+      "Inspector Brannick Hale"
+    ]
+  }
+]

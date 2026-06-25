@@ -4,8 +4,8 @@ from models.timeline_models import TimelineEvent
 from models.contradiction_models import Contradiction
 from models.attribute_models import PersonAttributes
 from models.behavior_models import BehavioralIssue
-from models.reliability_models import ReliabilityEvidence
-from models.credibility_models import CredibilityScore
+from models.reliability_models import CredibilityResult
+from models.credibility_models import ReliabilityResult
 
 
 class FinalReport(BaseModel):
@@ -18,6 +18,6 @@ class FinalReport(BaseModel):
 
     behavior_report: list[BehavioralIssue]
 
-    reliability: list[ReliabilityEvidence]
+    credibility_metrics: list[CredibilityResult]
 
-    credibility_scores: list[CredibilityScore]
+    reliability_grades: list[ReliabilityResult]

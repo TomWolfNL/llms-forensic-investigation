@@ -16,7 +16,7 @@ Return ONLY valid JSON:
     {
       "event_id": "string",
       "statement_ids": ["string"],
-      "time": "ISO-8601 or null",
+      "time": "string or null",
       "location": "string or null",
       "subject": "string or null",
       "action": "string or null",
@@ -58,4 +58,6 @@ RULES:
 9. NEVER replace conflicting values with null.
 
 10. Output ONLY JSON.
+
+11. Order the events chronologically.
 """

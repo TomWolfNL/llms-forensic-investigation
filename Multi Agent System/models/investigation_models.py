@@ -40,7 +40,7 @@ class BehavioralIssue(BaseModel):
     confidence: float
 
 
-class ReliabilityMetric(BaseModel):
+class CredibilityMetric(BaseModel):
     internal_consistency: float
     cross_confirmation: float
     detail_quality: float
@@ -48,10 +48,10 @@ class ReliabilityMetric(BaseModel):
     contextual_alignment: float
 
 
-class WitnessReliability(BaseModel):
+class WitnessCredibility(BaseModel):
     witness: str
-    metrics: ReliabilityMetric
-    total_score: float
+    metrics: CredibilityMetric
+    credibility_grade: int
 
 
 class GraphState(BaseModel):
@@ -59,5 +59,5 @@ class GraphState(BaseModel):
     timeline: List[TimelineEvent]
     contradictions: List[Contradiction]
     behavior_report: List[BehavioralIssue]
-    reliability_metrics: List[WitnessReliability]
-    credibility_scores: List[dict]
+    credibility_metrics: List[WitnessCredibility]
+    reliability_grades: List[dict]

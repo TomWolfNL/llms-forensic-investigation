@@ -1,0 +1,860 @@
+[
+  {
+    "witness": "Aldric Vale",
+    "evidence": [
+      {
+        "type": "internal_consistency",
+        "description": "All three statements describe a coherent sequence of events: Livia's confession (S006), followed by disclosure of ongoing blackmail (S007), culminating in receipt of an incriminating letter (S008). No self-contradictory elements or retractions across statements.",
+        "score": 0.71
+      },
+      {
+        "type": "cross_confirmation",
+        "description": "No external corroboration exists. Statements represent Aldric's account of private conversations relayed to Dr. Wren; no independent witnesses, physical evidence, or third-party confirmation of Livia's alleged confession or blackmail situation.",
+        "score": 0.38
+      },
+      {
+        "type": "detail_quality",
+        "description": "Moderate specificity: consistent temporal marker ('evening before the murder'), consistent location ('Vale estate study'), clear subject-action framing. However, lacks granular details such as exact words exchanged, duration of conversation, or environmental specifics.",
+        "score": 0.57
+      },
+      {
+        "type": "observation_quality",
+        "description": "Direct firsthand experience claimed for private admissions from Livia herself. Aldric presents himself as the primary recipient of her confession and the sole handler of her final letter, indicating direct observational access to key events.",
+        "score": 0.69
+      },
+      {
+        "type": "contextual_alignment",
+        "description": "Narrative arc is internally logical and temporally aligned with the murder context. Confession leading to blackmail and a revealing letter provides plausible motive framework. No timeline impossibilities or unnatural access patterns flagged.",
+        "score": 0.64
+      }
+    ],
+    "metrics": {
+      "internal_consistency": 0.71,
+      "cross_confirmation": 0.38,
+      "detail_quality": 0.57,
+      "observation_quality": 0.69,
+      "contextual_alignment": 0.64
+    },
+    "credibility_grade": 3,
+    "weighted_score": 0.599
+  },
+  {
+    "witness": "Aldric's secretary",
+    "evidence": [
+      {
+        "type": "internal_consistency",
+        "description": "Statement S051 presents no self-contradiction; the secretary consistently reports hearing Aldric's voice at the stated time and location without retraction or conflicting accounts from herself.",
+        "score": 0.74
+      },
+      {
+        "type": "cross_confirmation",
+        "description": "No external corroboration supports the secretary's claim that the voice was genuinely 'live.' Physical evidence (voice-recording cabinet, S052) actually undermines the inference that her testimony proves Aldric was alive at 9:30 PM.",
+        "score": 0.38
+      },
+      {
+        "type": "detail_quality",
+        "description": "Moderate specificity: approximate time ('half past nine'), general location ('study'), and action ('heard Aldric's voice'). Lacks precise temporal markers, distance from source, or confirmation method to verify liveness.",
+        "score": 0.52
+      },
+      {
+        "type": "observation_quality",
+        "description": "Secretary appears to have been present and auditory perception occurred. However, the existence of a voice-recording cabinet means she cannot reliably confirm whether what she heard was live versus a pre-recorded playback—a significant observational limitation flagged in INC007.",
+        "score": 0.48
+      },
+      {
+        "type": "contextual_alignment",
+        "description": "GATE TRIGGERED (unnatural_access): Issue INC007 establishes that whoever possessed the voice-recording cabinet and access to the study could simulate Aldric's voice post-mortem. The secretary's testimony aligns too neatly with this manipulation vector, reducing confidence that her observation reflects reality rather than manufactured evidence.",
+        "score": 0.24
+      }
+    ],
+    "metrics": {
+      "internal_consistency": 0.74,
+      "cross_confirmation": 0.38,
+      "detail_quality": 0.52,
+      "observation_quality": 0.48,
+      "contextual_alignment": 0.24
+    },
+    "credibility_grade": 4,
+    "weighted_score": 0.485
+  },
+  {
+    "witness": "Captain Orven Blaise",
+    "evidence": [
+      {
+        "type": "internal_consistency",
+        "description": "Statement S028 presents a single emotional characterization with no conflicting accounts or self-retractions recorded for this witness.",
+        "score": 0.68
+      },
+      {
+        "type": "cross_confirmation",
+        "description": "No external corroboration or contradiction documented; the emotional profile described remains unsupported by other sources.",
+        "score": 0.42
+      },
+      {
+        "type": "detail_quality",
+        "description": "Statement provides only a broad emotional descriptor ('guarded') with no supporting specifics—no timestamps, locations, actions, or verifiable facts.",
+        "score": 0.22
+      },
+      {
+        "type": "observation_quality",
+        "description": "Context notes his evidence was 'mostly observational,' yet S028 itself contains no reported observations—only an emotional assessment of the witness.",
+        "score": 0.38
+      },
+      {
+        "type": "contextual_alignment",
+        "description": "Emotional guardedness fits plausible interpersonal dynamics but offers no substantive alignment with case timeline, location sequences, or investigative context.",
+        "score": 0.48
+      }
+    ],
+    "metrics": {
+      "internal_consistency": 0.68,
+      "cross_confirmation": 0.42,
+      "detail_quality": 0.22,
+      "observation_quality": 0.38,
+      "contextual_alignment": 0.48
+    },
+    "credibility_grade": 4,
+    "weighted_score": 0.451
+  },
+  {
+    "witness": "Celia Wren",
+    "evidence": [
+      {
+        "type": "internal_consistency",
+        "description": "No direct self-contradictions detected across S009-S011. Statements do not retract each other, though S009 (suicide hypothesis) and S011 (Rowan with unknown woman) serve different narrative purposes without conflicting.",
+        "score": 0.62
+      },
+      {
+        "type": "cross_confirmation",
+        "description": "S011 claim about Rowan with unidentified woman was later corroborated by discovery of his secret marriage to Elia Moss. However, the suicide narrative promoted via S009 lacks external confirmation and appears strategically disseminated through her informant network.",
+        "score": 0.51
+      },
+      {
+        "type": "detail_quality",
+        "description": "S010 provides specific location (Blue Heron inn) and temporal framing (before murder). S011 notably lacks any time or location specification for observing Rowan with the woman. Detail quality is inconsistent across statements.",
+        "score": 0.47
+      },
+      {
+        "type": "observation_quality",
+        "description": "S011 reflects direct visual observation ('reporting seeing...'). S009/S010 appear derived from informant network rather than personal witnessing. Mixed observational basis with reliance on secondhand intelligence.",
+        "score": 0.53
+      },
+      {
+        "type": "contextual_alignment",
+        "description": "INC009 flag indicates motive alignment concern: Celia's active promotion of suicide narrative (S009) before official findings, combined with her unique情报 position as Dr. Wren's wife, created conditions favorable to shielding the true perpetrator of Livia's poisoning.",
+        "score": 0.42
+      }
+    ],
+    "metrics": {
+      "internal_consistency": 0.62,
+      "cross_confirmation": 0.51,
+      "detail_quality": 0.47,
+      "observation_quality": 0.53,
+      "contextual_alignment": 0.42
+    },
+    "credibility_grade": 3,
+    "weighted_score": 0.514
+  },
+  {
+    "witness": "Dame Perrin Vale",
+    "evidence": [
+      {
+        "type": "internal_consistency",
+        "description": "No direct self-contradiction or retraction observed; however, there is tension between her stated awareness of financial dependence (S029) and her simultaneous concealment of self-interested conduct (S030), suggesting strategic ambiguity rather than outright contradiction.",
+        "score": 0.62
+      },
+      {
+        "type": "cross_confirmation",
+        "description": "No external corroboration exists for Dame Perrin's statements. Her concealment of conduct with Aldric's papers lacks any independent confirmation, and the behavior flag (INC004) identifies deliberate deflection without supporting evidence.",
+        "score": 0.38
+      },
+      {
+        "type": "detail_quality",
+        "description": "Both statements lack temporal and spatial specificity—time and location fields are entirely null. Descriptions such as 'family's financial dependence' and 'self-interested conduct' are abstract and non-specific, offering no concrete details about actions, dates, or sequences.",
+        "score": 0.32
+      },
+      {
+        "type": "observation_quality",
+        "description": "Dame Perrin's statements reflect personal financial awareness and self-protective behavior rather than direct observation of events. There is no indication she witnessed the crime or relevant actions; her accounts stem from her position within the household and personal stake in Aldric's affairs.",
+        "score": 0.42
+      },
+      {
+        "type": "contextual_alignment",
+        "description": "Her financial motive aligns with the overall scenario—she benefits under Aldric's will (S035) and has documented interest in his papers. However, her evasive behavior and focus on redirecting suspicion toward Rowan (via INC004) create contextual friction with full transparency expected in credible testimony.",
+        "score": 0.52
+      }
+    ],
+    "metrics": {
+      "internal_consistency": 0.62,
+      "cross_confirmation": 0.38,
+      "detail_quality": 0.32,
+      "observation_quality": 0.42,
+      "contextual_alignment": 0.52
+    },
+    "credibility_grade": 4,
+    "weighted_score": 0.462
+  },
+  {
+    "witness": "Dr. Silas Wren",
+    "evidence": [
+      {
+        "type": "internal_consistency",
+        "description": "Multiple statements (S004, S041, S043, S054) describe consistent timeline of departing ~8:50 PM, encountering the young man at gates, and returning after telephone summons. No self-contradictions or retractions found in behavior flags.",
+        "score": 0.74
+      },
+      {
+        "type": "cross_confirmation",
+        "description": "Niall Corven matches Wren's description of the stranger (INC008), corroborated by barmaid at Copper Finch and boot wear evidence. However, the Steward's potential eavesdropping (INC010) creates ambient uncertainty about whether others had access to the same information.",
+        "score": 0.46
+      },
+      {
+        "type": "detail_quality",
+        "description": "Provides specific timestamp (~8:50 PM / ten minutes before 9 PM), clear locations (Vale estate study, estate gates), and identifiable subjects (Livia's final letter, Niall Corven). Details are concrete and verifiable.",
+        "score": 0.64
+      },
+      {
+        "type": "observation_quality",
+        "description": "Directly observed his own departure from the study and the encounter with the unfamiliar young man at the gates. However, Aldric's confession about Livia's secrets (S002) is secondhand reported content, reducing certainty on those specifics.",
+        "score": 0.66
+      },
+      {
+        "type": "contextual_alignment",
+        "description": "Timeline places Wren outside the estate during the critical window, making him unlikely perpetrator. His role as messenger about the letter's contents aligns with the broader sequence leading to Aldric's murder. No physical impossibilities created by his account.",
+        "score": 0.61
+      }
+    ],
+    "metrics": {
+      "internal_consistency": 0.74,
+      "cross_confirmation": 0.46,
+      "detail_quality": 0.64,
+      "observation_quality": 0.66,
+      "contextual_alignment": 0.61
+    },
+    "credibility_grade": 3,
+    "weighted_score": 0.626
+  },
+  {
+    "witness": "Edrin Cale",
+    "evidence": [
+      {
+        "type": "observation_quality",
+        "description": "Statement S037 explicitly acknowledges 'his information was rumor rather than firsthand testimony.' Edrin Cale did not personally observe any blackmail activity—he only heard about it secondhand and engaged in speculation.",
+        "score": 0.18
+      },
+      {
+        "type": "detail_quality",
+        "description": "Both temporal and spatial elements are entirely absent (time=null, location=null). The statement provides no specifics regarding when or where the alleged blackmail occurred, reducing verifiability significantly.",
+        "score": 0.22
+      },
+      {
+        "type": "cross_confirmation",
+        "description": "No external corroboration exists for Edrin Cale's claims. His assertions about blackmail rest solely on unverified rumors with no independent witness or physical evidence supporting them.",
+        "score": 0.38
+      },
+      {
+        "type": "internal_consistency",
+        "description": "Only one statement on record (S037) with no self-contradiction or retraction detected. While speculative in nature, there is no internal conflict within his own account.",
+        "score": 0.68
+      },
+      {
+        "type": "contextual_alignment",
+        "description": "The content aligns generally with the broader case (blackmail was indeed part of the investigation), but Edrin Cale contributes no actionable intelligence—only undated, unsourced speculation.",
+        "score": 0.42
+      }
+    ],
+    "metrics": {
+      "internal_consistency": 0.68,
+      "cross_confirmation": 0.38,
+      "detail_quality": 0.22,
+      "observation_quality": 0.18,
+      "contextual_alignment": 0.42
+    },
+    "credibility_grade": 4,
+    "weighted_score": 0.401
+  },
+  {
+    "witness": "Elia Moss",
+    "evidence": [
+      {
+        "type": "internal_consistency",
+        "description": "Three statements (S020-S022) form a coherent narrative: secret marriage to Rowan → discovery by Aldric → dismissal from service → Rowan's motive for disinheritance. No self-contradictions or retractions detected across her accounts.",
+        "score": 0.71
+      },
+      {
+        "type": "cross_confirmation",
+        "description": "INC003 confirms the core fact of her marriage to Rowan ('secretly married to Elia Moss') and supports her depiction of Rowan's financial motive. However, no independent physical evidence or third-party witness independently verifies her version of events beyond behavioral inference.",
+        "score": 0.48
+      },
+      {
+        "type": "detail_quality",
+        "description": "Statements reference temporal markers ('before Aldric's death', 'after Aldric learned') and location ('Vale estate'), providing basic framing. However, specifics such as exact dates, precise rooms, or dialogue exchanged are absent, limiting verifiability.",
+        "score": 0.52
+      },
+      {
+        "type": "observation_quality",
+        "description": "As the subject of the secret marriage and the dismissed employee, Elia speaks from direct personal experience. Her account of Rowan's motive reflects intimate knowledge of their relationship dynamics, suggesting first-hand observation rather than hearsay.",
+        "score": 0.74
+      },
+      {
+        "type": "contextual_alignment",
+        "description": "Her revelation of the clandestine marriage neatly explains Rowan's suspicious behavior profile (fear of disinheritance, dependency on Aldric, immediate disappearance post-murder). The timeline of her dismissal aligns logically with escalation of family conflict preceding the crime.",
+        "score": 0.62
+      }
+    ],
+    "metrics": {
+      "internal_consistency": 0.71,
+      "cross_confirmation": 0.48,
+      "detail_quality": 0.52,
+      "observation_quality": 0.74,
+      "contextual_alignment": 0.62
+    },
+    "credibility_grade": 3,
+    "weighted_score": 0.612
+  },
+  {
+    "witness": "Garrick Holm",
+    "evidence": [
+      {
+        "type": "internal_consistency",
+        "description": "Single statement S035 presents financial beneficiary information coherently; no self-contradictory claims or retractions identified for Garrick Holm.",
+        "score": 0.78
+      },
+      {
+        "type": "cross_confirmation",
+        "description": "Statement S035 is referenced independently by INC003 and INC004 regarding Rowan's and Dame Perrin's financial exposures, indicating multiple parties align with the same factual baseline about the will's provisions.",
+        "score": 0.52
+      },
+      {
+        "type": "detail_quality",
+        "description": "Statement lacks any temporal marker (no time recorded) and no location specified; provides only general explanatory content about beneficiary arrangements without granular specifics.",
+        "score": 0.38
+      },
+      {
+        "type": "observation_quality",
+        "description": "Appears to possess legitimate institutional access to will documentation (likely executor, solicitor, or family counsel role); direct knowledge of document contents inferred from authoritative framing of S035.",
+        "score": 0.68
+      },
+      {
+        "type": "contextual_alignment",
+        "description": "Explanation of will terms fits squarely within established financial motive framework for both INC003 (Rowan) and INC004 (Dame Perrin); aligns with investigative focus on estate-based motivations.",
+        "score": 0.64
+      }
+    ],
+    "metrics": {
+      "internal_consistency": 0.78,
+      "cross_confirmation": 0.52,
+      "detail_quality": 0.38,
+      "observation_quality": 0.68,
+      "contextual_alignment": 0.64
+    },
+    "credibility_grade": 3,
+    "weighted_score": 0.605
+  },
+  {
+    "witness": "Inspector Brannick Hale",
+    "evidence": [
+      {
+        "type": "internal_consistency",
+        "description": "All ten statements form a coherent investigative narrative. No self-contradictions, retractions, or conflicting accounts appear within Inspector Hale's testimony regarding the murder scene, evidence collection, or suspect evaluation.",
+        "score": 0.74
+      },
+      {
+        "type": "cross_confirmation",
+        "description": "Physical evidence described (footprints matching Rowan's shoes, ceremonial knife from hall display, open garden window, suspicious exterior footprints) collectively corroborates the theory of Rowan's involvement. Behavior flag INC003 confirms motive alignment independently.",
+        "score": 0.54
+      },
+      {
+        "type": "detail_quality",
+        "description": "Scene-specific statements provide locations (study, garden window, hallway display) and contexts, but most lack timestamps. S044 specifies 'Upon Wren's return' and location, yet many statements omit temporal data entirely, reducing specificity scoring.",
+        "score": 0.51
+      },
+      {
+        "type": "observation_quality",
+        "description": "As the investigating officer, Inspector Hale reports direct observations of the crime scene including the locked study, body discovery, physical evidence (knife, footprints, window), and documented conditions. Professional role supports credibility of observational claims.",
+        "score": 0.76
+      },
+      {
+        "type": "contextual_alignment",
+        "description": "Testimony aligns with established timeline: locked study, struggle signs, murder weapon origin, escape route via garden window, and staged-looking footprints. Motive (secret marriage, financial dependency, inheritance) fits coherently with physical evidence and Rowan's disappearance.",
+        "score": 0.69
+      }
+    ],
+    "metrics": {
+      "internal_consistency": 0.74,
+      "cross_confirmation": 0.54,
+      "detail_quality": 0.51,
+      "observation_quality": 0.76,
+      "contextual_alignment": 0.69
+    },
+    "credibility_grade": 3,
+    "weighted_score": 0.647
+  },
+  {
+    "witness": "Jonas Kett",
+    "evidence": [
+      {
+        "type": "internal_consistency",
+        "description": "Kett makes no internally contradictory statements across S012-S014, but exhibits evasive behavior (INC006) by denying involvement in the Wren summons call while offering no alternative account of his whereabouts or knowledge source. This incompleteness raises reliability concerns without constituting direct self-retraction.",
+        "score": 0.58
+      },
+      {
+        "type": "cross_confirmation",
+        "description": "No external corroboration exists for who made the telephone call summoning Dr. Wren. Kett's denial cannot be independently verified, placing the critical question of the call's origin entirely in his domain. Physical evidence or third-party witnesses do not confirm or deny his version.",
+        "score": 0.42
+      },
+      {
+        "type": "detail_quality",
+        "description": "Kett provides specific, verifiable details in S012 (evening post delivery) and S013 (shifted chair, object arrangement in study). However, his account conspicuously omits any description of his own activities or precise location during the critical window when the Wren summons occurred, suggesting selective specificity.",
+        "score": 0.52
+      },
+      {
+        "type": "observation_quality",
+        "description": "Kett appears to have directly observed routine duties (post delivery) and examined the crime scene aftermath (study details). His denial regarding the phone call involves a claimed negative fact rather than an observation, introducing uncertainty about whether he speaks from direct knowledge or speculation.",
+        "score": 0.62
+      },
+      {
+        "type": "contextual_alignment",
+        "description": "While Kett's core functions (mail delivery, discovery of body) align logically with his expected role, his evasive stance on the Wren summons leaves a significant gap in the timeline. His position as household staff gives him access patterns consistent with the scenario, but his non-accountability creates contextual tension.",
+        "score": 0.48
+      }
+    ],
+    "metrics": {
+      "internal_consistency": 0.58,
+      "cross_confirmation": 0.42,
+      "detail_quality": 0.52,
+      "observation_quality": 0.62,
+      "contextual_alignment": 0.48
+    },
+    "credibility_grade": 3,
+    "weighted_score": 0.522
+  },
+  {
+    "witness": "Livia Marr's kitchen maid",
+    "evidence": [
+      {
+        "type": "internal_consistency",
+        "description": "No self-contradiction detected in S062; however, the claim of being 'first source' lacks supporting detail about how she came to possess this information.",
+        "score": 0.62
+      },
+      {
+        "type": "cross_confirmation",
+        "description": "No external corroboration or contradiction provided; the claim of being the village's first news source remains unverified.",
+        "score": 0.4
+      },
+      {
+        "type": "detail_quality",
+        "description": "Statement S062 provides minimal specificity—no precise timing, method of learning, content shared, or recipients identified.",
+        "score": 0.28
+      },
+      {
+        "type": "observation_quality",
+        "description": "A kitchen maid's role does not naturally position her as an observer of her employer's death or its circumstances; the statement implies hearsay transmission rather than direct observation.",
+        "score": 0.32
+      },
+      {
+        "type": "contextual_alignment",
+        "description": "Claiming 'first source' status conflicts with typical household hierarchy—a kitchen maid discovering and disseminating death news before family or medical personnel strains plausibility.",
+        "score": 0.38
+      }
+    ],
+    "metrics": {
+      "internal_consistency": 0.62,
+      "cross_confirmation": 0.4,
+      "detail_quality": 0.28,
+      "observation_quality": 0.32,
+      "contextual_alignment": 0.38
+    },
+    "credibility_grade": 4,
+    "weighted_score": 0.415
+  },
+  {
+    "witness": "Maren Vale",
+    "evidence": [
+      {
+        "type": "internal_consistency",
+        "description": "Maren initially claimed to have seen Aldric alive after dinner (S016/S049) but later fully retracted, admitting she only approached the study while stealing money and never actually saw him (S050/S057). This constitutes a direct self-contradiction and fabricated eyewitness claim.",
+        "score": 0.12
+      },
+      {
+        "type": "cross_confirmation",
+        "description": "No external corroboration exists for her initial claim of seeing Aldric alive. Physical evidence does not confirm her original timeline assertion, though her retraction aligns with the likely factual scenario. No independent witnesses confirmed her alleged sighting.",
+        "score": 0.38
+      },
+      {
+        "type": "detail_quality",
+        "description": "S016 provides partial specificity (timing 'after dinner' and location 'Vale estate'), and S017 notes the knife's absence from the hall display. However, S050/S057 reveal these details were built on a false premise, reducing their evidentiary value significantly.",
+        "score": 0.42
+      },
+      {
+        "type": "observation_quality",
+        "description": "Maren explicitly admitted she did not actually see Aldric—she only went near the study while stealing money (S050/S057). Her primary observational claim was an outright fabrication, placing her well below the threshold for credible firsthand observation.",
+        "score": 0.18
+      },
+      {
+        "type": "contextual_alignment",
+        "description": "While her fabricated claim would have artificially extended Aldric's survival window, her subsequent retraction removes this distortion. No evidence of 'unnatural_access' or physical impossibility in her account regarding the theft itself.",
+        "score": 0.52
+      }
+    ],
+    "metrics": {
+      "internal_consistency": 0.12,
+      "cross_confirmation": 0.38,
+      "detail_quality": 0.42,
+      "observation_quality": 0.18,
+      "contextual_alignment": 0.52
+    },
+    "credibility_grade": 5,
+    "weighted_score": 0.321
+  },
+  {
+    "witness": "Mistress Iona Sable",
+    "evidence": [
+      {
+        "type": "internal_consistency",
+        "description": "S023 and S024 do not contradict each other. Her explanation that questions about poisons stemmed from concern over a troubled young man (Niall Corven) provides coherent rationale for her suspicious line of questioning.",
+        "score": 0.71
+      },
+      {
+        "type": "cross_confirmation",
+        "description": "No external corroboration exists for her stated motive. INC008 attributes Niall's concealment to private family matters, but this does not confirm Sable's account of her intentions. Physical evidence does not independently verify her version.",
+        "score": 0.42
+      },
+      {
+        "type": "detail_quality",
+        "description": "Location (Vale estate) is specified in S023, and the subject of her concern is identified (troubled young man/Niall Corven). However, temporal details remain absent across both statements, reducing specificity.",
+        "score": 0.54
+      },
+      {
+        "type": "observation_quality",
+        "description": "S023 describes her own direct actions (asking Dr. Wren specific questions) at a known location. She is reporting firsthand conduct, not secondhand information. Observation quality is solid despite the suspicious nature of the content.",
+        "score": 0.67
+      },
+      {
+        "type": "contextual_alignment",
+        "description": "INC005 flags her questioning as demonstrating 'advance knowledge' of the method of death (rare poisons/paralyzing toxins). Her targeted inquiry pattern aligns operationally with the actual cause of death, raising contextual fit concerns per gate threshold.",
+        "score": 0.38
+      }
+    ],
+    "metrics": {
+      "internal_consistency": 0.71,
+      "cross_confirmation": 0.42,
+      "detail_quality": 0.54,
+      "observation_quality": 0.67,
+      "contextual_alignment": 0.38
+    },
+    "credibility_grade": 3,
+    "weighted_score": 0.546
+  },
+  {
+    "witness": "Nessa Pike",
+    "evidence": [
+      {
+        "type": "observation_quality",
+        "description": "Statement explicitly describes 'mostly hearsay' content; Nessa is relaying secondhand domestic news rather than reporting direct observations of relevant events",
+        "score": 0.28
+      },
+      {
+        "type": "detail_quality",
+        "description": "Both temporal (null time) and spatial (null location) details are entirely absent from statement S038, providing no verifiable specificity",
+        "score": 0.22
+      },
+      {
+        "type": "cross_confirmation",
+        "description": "No independent corroboration exists for the information Nessa passed; she functions as one node in Celia Wren's informal network without external validation",
+        "score": 0.32
+      },
+      {
+        "type": "contextual_alignment",
+        "description": "Her role aligns with Celia's broader dissemination strategy of promoting the suicide hypothesis through early village-wide reporting, fitting a pattern of information control",
+        "score": 0.45
+      },
+      {
+        "type": "internal_consistency",
+        "description": "No self-contradictions or retractions detected across available statements; however, extremely limited data constrains assessment depth",
+        "score": 0.6
+      }
+    ],
+    "metrics": {
+      "internal_consistency": 0.6,
+      "cross_confirmation": 0.32,
+      "detail_quality": 0.22,
+      "observation_quality": 0.28,
+      "contextual_alignment": 0.45
+    },
+    "credibility_grade": 4,
+    "weighted_score": 0.39
+  },
+  {
+    "witness": "Niall Corven",
+    "evidence": [
+      {
+        "type": "internal_consistency",
+        "description": "No self-contradictions found; Niall admits to secret visits (S027) consistent with being the rough-looking stranger at the gates (S025). Voluntary admission without retraction indicates coherent self-account.",
+        "score": 0.74
+      },
+      {
+        "type": "cross_confirmation",
+        "description": "Barmaid at Copper Finch corroborated his movements, appearance, and worn boots (S063), partially supporting his account. Additionally distinguished from heavier prints near study window (S064), reducing suspicion of involvement in more serious activity.",
+        "score": 0.62
+      },
+      {
+        "type": "detail_quality",
+        "description": "S025 provides reasonable specificity (timing relative to Dr. Wren's departure, location near gates, rough appearance). S026 offers minimal detail. S027 references an account but key specifics not fully detailed in available data.",
+        "score": 0.52
+      },
+      {
+        "type": "observation_quality",
+        "description": "Multiple independent observations place him at the estate gates (S025, S063). His own admission (S027) confirms actual presence. Not purely hearsay—he was physically observed and corroborated.",
+        "score": 0.68
+      },
+      {
+        "type": "contextual_alignment",
+        "description": "Behavior flag INC008 indicates innocent concealment stemming from private family matter with Mistress Sable, not criminal intent. Low risk score of 0.25 supports alignment with non-nefarious explanation. Timeline fits with Dr. Wren's departure.",
+        "score": 0.71
+      }
+    ],
+    "metrics": {
+      "internal_consistency": 0.74,
+      "cross_confirmation": 0.62,
+      "detail_quality": 0.52,
+      "observation_quality": 0.68,
+      "contextual_alignment": 0.71
+    },
+    "credibility_grade": 2,
+    "weighted_score": 0.657
+  },
+  {
+    "witness": "Rowan Vale",
+    "evidence": [
+      {
+        "type": "internal_consistency",
+        "description": "Two statements do not directly contradict each other—one addresses his whereabouts post-murder, the other his footwear—but their combined effect is suspicious: he conveniently goes missing while simultaneously offering a precise counter-explanation for the most damaging physical evidence against him. This pattern suggests coordinated post-hoc rationalization rather than natural recollection.",
+        "score": 0.62
+      },
+      {
+        "type": "cross_confirmation",
+        "description": "No independent witnesses confirm his claimed footwear choice for that night. Critically, the incriminating footprints near the study window physically implicate him, and his 'heavy boots' claim directly contradicts this physical evidence—not corroborates it. There is zero external support for his version of events.",
+        "score": 0.28
+      },
+      {
+        "type": "detail_quality",
+        "description": "Both statements lack critical specificity. S018 omits his location entirely ('Unknown'). S019 fails to specify where he was that night, what activities he performed, or how he recalls the exact footwear worn. Specific times, locations, and verifiable actions are absent from both statements.",
+        "score": 0.32
+      },
+      {
+        "type": "observation_quality",
+        "description": "These are not observations of external events—they are self-serving declarations about his own conduct and whereabouts. As the subject of the incriminating evidence himself, his accounts carry inherent bias. He cannot credibly observe his own innocence; he can only assert it.",
+        "score": 0.35
+      },
+      {
+        "type": "contextual_alignment",
+        "description": "His behavioral profile aligns almost perfectly with the prosecution's theory: secret marriage to a housemaid (disinheritance trigger), financial dependence on the victim, recent quarrel, inheritance expectation, immediate disappearance after the murder, and a fabricated footwear alibi. While internally consistent with a guilty party's expected defensive posture, this alignment with motive and opportunity is damning rather than exculpatory.",
+        "score": 0.48
+      }
+    ],
+    "metrics": {
+      "internal_consistency": 0.62,
+      "cross_confirmation": 0.28,
+      "detail_quality": 0.32,
+      "observation_quality": 0.35,
+      "contextual_alignment": 0.48
+    },
+    "credibility_grade": 4,
+    "weighted_score": 0.423
+  },
+  {
+    "witness": "The barmaid at the Copper Finch",
+    "evidence": [
+      {
+        "type": "cross_confirmation",
+        "description": "Corroborated Niall Corven's stated movements, appearance, and worn boots at the Copper Finch, aligning with his account (S063)",
+        "score": 0.68
+      },
+      {
+        "type": "internal_consistency",
+        "description": "No self-contradictions or retractions detected; provided coherent corroborative testimony across both statement instances",
+        "score": 0.82
+      },
+      {
+        "type": "observation_quality",
+        "description": "Direct observation of patron (Corven) in her establishment—barmaids routinely observe customers' appearances and comings/goings",
+        "score": 0.74
+      },
+      {
+        "type": "contextual_alignment",
+        "description": "Testimony places Corven at Copper Finch during relevant timeframe, away from study window location, fitting the investigative timeline (S064)",
+        "score": 0.71
+      },
+      {
+        "type": "detail_quality",
+        "description": "Provided descriptive details including boot condition ('poor boots') and general appearance, though lacks precise timestamps or duration specifics",
+        "score": 0.61
+      }
+    ],
+    "metrics": {
+      "internal_consistency": 0.82,
+      "cross_confirmation": 0.68,
+      "detail_quality": 0.61,
+      "observation_quality": 0.74,
+      "contextual_alignment": 0.71
+    },
+    "credibility_grade": 2,
+    "weighted_score": 0.716
+  },
+  {
+    "witness": "The lamp-oil seller",
+    "evidence": [
+      {
+        "type": "observation_quality",
+        "description": "Entire account consists of secondhand information relayed from a household servant (S061). The lamp-oil seller never witnessed Livia's death or any related events independently—he is purely a messenger in Celia's information network.",
+        "score": 0.22
+      },
+      {
+        "type": "cross_confirmation",
+        "description": "No independent corroboration exists for his claims. His statements trace back to an unnamed servant whose identity and reliability remain unverified. Physical evidence or additional witnesses do not confirm his relay of information.",
+        "score": 0.38
+      },
+      {
+        "type": "detail_quality",
+        "description": "Raw text describes only general actions ('telling Celia' and 'hearing from a servant') without specifics such as dates, exact locations within Bellweather, the servant's name, or the content exchanged. Minimal evidentiary value.",
+        "score": 0.32
+      },
+      {
+        "type": "internal_consistency",
+        "description": "S060 and S061 align coherently—his statement to Celia matches his claimed source from a servant. No self-contradictions or retractions noted among his limited statements.",
+        "score": 0.71
+      },
+      {
+        "type": "contextual_alignment",
+        "description": "Fits within Celia's broader informant network (INC009) designed to disseminate early suicide narratives. His role as a message-relayer aligns with the pattern of pre-official information spreading, though his contribution is indirect and unverifiable.",
+        "score": 0.48
+      }
+    ],
+    "metrics": {
+      "internal_consistency": 0.71,
+      "cross_confirmation": 0.38,
+      "detail_quality": 0.32,
+      "observation_quality": 0.22,
+      "contextual_alignment": 0.48
+    },
+    "credibility_grade": 4,
+    "weighted_score": 0.447
+  },
+  {
+    "witness": "Tobin Rusk",
+    "evidence": [
+      {
+        "type": "internal_consistency",
+        "description": "Statement S015 presents no internal contradiction; Rusk consistently reports hearing Aldric's voice without retracting or modifying his account across multiple references.",
+        "score": 0.74
+      },
+      {
+        "type": "cross_confirmation",
+        "description": "Account partially corroborated by Aldric's secretary (S051) who independently reported hearing similar vocalizations at the same approximate time, yet fundamentally undermined by documented existence of voice-recording cabinet (S052) which could produce identical audio post-mortem.",
+        "score": 0.42
+      },
+      {
+        "type": "detail_quality",
+        "description": "Provides reasonably specific temporal marker (~9:30 PM) and general location (near study), though lacks granular positioning, precise proximity to door/walls, or description of acoustic qualities that would help distinguish live vs. recorded sound.",
+        "score": 0.61
+      },
+      {
+        "type": "observation_quality",
+        "description": "Direct auditory perception reported, but plausibility compromised by inability to verify whether source was living voice or mechanical playback—the very distinction central to establishing true observation of living occupant.",
+        "score": 0.52
+      },
+      {
+        "type": "contextual_alignment",
+        "description": "Flag INC007 identifies 'unnatural_access': whoever controlled the voice-recording cabinet possessed capability to fabricate apparent alibi/timeline evidence after Aldric's death. Rusk's testimony inadvertently supports a potentially manipulated chronology rather than authentic presence confirmation.",
+        "score": 0.38
+      }
+    ],
+    "metrics": {
+      "internal_consistency": 0.74,
+      "cross_confirmation": 0.42,
+      "detail_quality": 0.61,
+      "observation_quality": 0.52,
+      "contextual_alignment": 0.38
+    },
+    "credibility_grade": 3,
+    "weighted_score": 0.545
+  },
+  {
+    "witness": "Vera Quill",
+    "evidence": [
+      {
+        "type": "cross_confirmation",
+        "description": "All statements derive from 'village reports,' 'gossip networks,' and are explicitly described as 'secondhand' or 'speculative.' No physical evidence or independent eyewitnesses corroborate any claim.",
+        "score": 0.28
+      },
+      {
+        "type": "observation_quality",
+        "description": "Vera Quill functions as a relay for community gossip rather than a direct observer. Context explicitly states 'much was speculative, biased, or secondhand' with no indication she witnessed events personally.",
+        "score": 0.24
+      },
+      {
+        "type": "detail_quality",
+        "description": "Time is null across all statements; location is generic ('village'). Statements describe her actions as 'repeating reports' without specific dates, locations, or verifiable circumstances surrounding the reported events.",
+        "score": 0.21
+      },
+      {
+        "type": "internal_consistency",
+        "description": "No self-contradictions or retractions detected among her statements. However, the admitted speculative and biased nature of her reporting undermines confidence in coherent, reliable testimony.",
+        "score": 0.51
+      },
+      {
+        "type": "contextual_alignment",
+        "description": "Topics align broadly with case elements (Livia Marr's death, blackmail allegations, village dynamics) but lack temporal and situational anchors needed to establish meaningful placement within the investigative timeline.",
+        "score": 0.46
+      }
+    ],
+    "metrics": {
+      "internal_consistency": 0.51,
+      "cross_confirmation": 0.28,
+      "detail_quality": 0.21,
+      "observation_quality": 0.24,
+      "contextual_alignment": 0.46
+    },
+    "credibility_grade": 4,
+    "weighted_score": 0.354
+  },
+  {
+    "witness": "sales agent",
+    "evidence": [
+      {
+        "type": "cross_confirmation",
+        "description": "Sales agent provides external, third-party confirmation of Aldric's recent acquisition of the voice-recording cabinet, lending credibility through professional knowledge of the transaction rather than hearsay.",
+        "score": 0.52
+      },
+      {
+        "type": "detail_quality",
+        "description": "Statement uses vague temporal marker 'recently' with no specific date, and location field is entirely null, reducing the ability to establish a precise timeline for when Aldric obtained the device.",
+        "score": 0.38
+      },
+      {
+        "type": "observation_quality",
+        "description": "As a sales agent who presumably facilitated the transaction, this witness has direct, firsthand knowledge of the sale—higher observational basis than secondhand accounts.",
+        "score": 0.71
+      },
+      {
+        "type": "contextual_alignment",
+        "description": "Statement strongly supports the investigative theory that a voice-recording cabinet could explain the phantom 'live' voice heard at 9:30 PM, aligning with the unnatural_access concern raised in INC007.",
+        "score": 0.67
+      },
+      {
+        "type": "internal_consistency",
+        "description": "No contradictions or retractions identified for this witness; statement stands alone without conflicting versions from the same source.",
+        "score": 0.78
+      }
+    ],
+    "metrics": {
+      "internal_consistency": 0.78,
+      "cross_confirmation": 0.52,
+      "detail_quality": 0.38,
+      "observation_quality": 0.71,
+      "contextual_alignment": 0.67
+    },
+    "credibility_grade": 3,
+    "weighted_score": 0.616
+  }
+]

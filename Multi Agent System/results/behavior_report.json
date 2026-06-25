@@ -1,0 +1,72 @@
+[
+  {
+    "issue_id": "INC001",
+    "person": "Dr. Silas Wren",
+    "behavior_type": "unnatural_access",
+    "explanation": "Dr. Wren is present at every single pivotal moment preceding Aldric's murder: he receives Livia's death report, witnesses Aldric's confession about Livia's crimes, observes the arrival of the explosive final letter, departs exactly 10 minutes before the estimated murder window, encounters the 'stranger' at the gate, receives a mysterious summons (which Jonas Kett denies making), and returns to discover the body. His medical expertise provides him intimate knowledge of poisons and compounds. As Aldric's personal physician and neighbor, he has unparalleled access to the victim's schedule, vulnerabilities, and household rhythms. No other witness controls the evidentiary flow to this degree.",
+    "risk_score": 0.85
+  },
+  {
+    "issue_id": "INC002",
+    "person": "Maren Vale",
+    "behavior_type": "retraction",
+    "explanation": "Maren initially claimed to have seen Aldric alive after dinner, which artificially extended his survival window and indirectly strengthened the case against Rowan by supporting a later time-of-death (S016/S049). She later fully retracted this, admitting she only approached the study while stealing money and never actually saw Aldric (S050/S057). This is a direct falsification of testimony — not a clarification, but a fabricated eyewitness claim that would have influenced the timeline analysis and potentially redirected suspicion away from herself and toward Rowan.",
+    "risk_score": 0.88
+  },
+  {
+    "issue_id": "INC003",
+    "person": "Rowan Vale",
+    "behavior_type": "motive_alignment",
+    "explanation": "Rowan's behavioral profile shows near-perfect alignment with financial motive: he is secretly married to Elia Moss (S020/S048), a housemaid — a union that would trigger disinheritance under conventional estate terms. He is financially dependent on Aldric (S018/S029), recently quarreled with him (S033), stood to inherit (S035/S048), and went immediately missing after the murder (S018/S032). His claim that he wore heavy boots rather than the shoes matching the incriminating footprints (S019) conveniently explains away the strongest physical evidence against him. Every element of his timeline behavior maps directly onto a hidden financial motive.",
+    "risk_score": 0.82
+  },
+  {
+    "issue_id": "INC004",
+    "person": "Dame Perrin Vale",
+    "behavior_type": "evasion",
+    "explanation": "Dame Perrin spoke about the family's financial dependence on Aldric (S029), establishing her awareness of monetary stakes, yet simultaneously concealed self-interested conduct involving Aldric's papers (S030). She also stands to benefit financially under Aldric's will (S035). Her evasion regarding her own conduct — specifically what she was doing with Aldric's documents — is a deliberate deflection. Rather than explaining her interest in the papers, she allows Inspector Hale to treat Rowan as the obvious suspect while obscuring her own financial exposure.",
+    "risk_score": 0.75
+  },
+  {
+    "issue_id": "INC005",
+    "person": "Mistress Iona Sable",
+    "behavior_type": "unnatural_access",
+    "explanation": "Mistress Sable asked Dr. Wren specifically about addiction, rare poisons, and paralyzing toxins (S023) — a line of questioning that demonstrates advance knowledge of the METHOD of Livia's death (sleeping compound overdose, per S001). Since Livia's cause of death was known to investigators, Sable's targeted questions about poisons suggest she was either confirming her own suspicions OR probing for information to use for her own purposes. Her connection to Niall Corven (S024/S042), the 'troubled young man' she was secretly concerned about, links her to the stranger seen near the estate gates. Her behavior is not merely eccentric — it reflects operational knowledge of toxicological methods.",
+    "risk_score": 0.78
+  },
+  {
+    "issue_id": "INC006",
+    "person": "Jonas Kett",
+    "behavior_type": "evasion",
+    "explanation": "Jonas Kett delivered the evening post including Livia's explosive letter (S012) and reported detailed observations of the study after the body was discovered (S013). Critically, he denies making the telephone call that summoned Dr. Wren back to the estate (S014). Yet Wren WAS summoned and DID return. Someone made that call. Kett's denial either means he knows who made it and is protecting them, or he is lying about his own whereabouts that night. His refusal to account for the call's origin is a conspicuous gap in the timeline of Wren's return.",
+    "risk_score": 0.72
+  },
+  {
+    "issue_id": "INC007",
+    "person": "Tobin Rusk / Aldric's Secretary",
+    "behavior_type": "unnatural_access",
+    "explanation": "Both Tobin Rusk (S015) and Aldric's secretary (S051) independently heard Aldric's voice from the study at approximately 9:30 PM stating he wished not to be disturbed. However, a sales agent confirmed Aldric had recently obtained a voice-recording cabinet (S052). This means the 'live' voice heard at 9:30 PM could have been a pre-recorded playback — potentially played AFTER Aldric was already dead. Whoever had access to both the recording cabinet and the study had the means to simulate Aldric's continued life well past his actual death, manipulating the timeline evidence relied upon by investigators.",
+    "risk_score": 0.8
+  },
+  {
+    "issue_id": "INC008",
+    "person": "Niall Corven",
+    "behavior_type": "innocent_concealment",
+    "explanation": "Niall Corven matches the description of the 'unfamiliar young man' Dr. Wren encountered at the estate gates (S025/S042). He has a history of drug use (S026) and was seen loitering near the estate. However, he admits to secret visits (S027) and is connected to Mistress Sable (S024/S042), who explains her questions about poisons stemmed from private concern about a 'troubled young man' in her past (S024). The barmaid at the Copper Finch corroborated his movements, appearance, and worn boots (S063), distinguishing him from whoever made the heavier prints near the study window (S064). His concealment appears to stem from a private family matter involving Sable, not criminal intent.",
+    "risk_score": 0.25
+  },
+  {
+    "issue_id": "INC009",
+    "person": "Celia Wren",
+    "behavior_type": "motive_alignment",
+    "explanation": "Celia Wren actively spread early reports about Livia's death throughout Bellweather village (S009/S060), promoting the suicide hypothesis driven by guilt (S009). She also reported seeing Rowan with an unidentified woman (S011) — information that later proved to be Rowan's secret wife Elia Moss. As Dr. Wren's wife, Celia occupies a uniquely positioned情报 role. Her network of informants (including Nessa Pike and the lamp-oil seller, S038/S060/S061) gave her early access to case information. Her active dissemination of the suicide narrative — before official findings — served to frame Livia's death as voluntary rather than homicidal, potentially shielding the true perpetrator of Livia's poisoning.",
+    "risk_score": 0.68
+  },
+  {
+    "issue_id": "INC010",
+    "person": "The Steward",
+    "behavior_type": "evasion",
+    "explanation": "The steward has a documented 'furtive past' (S056) and may have listened at the study door (S056). His secretive background, combined with his position inside the household, gives him both opportunity to overhear Aldric reading Livia's letter (which may name the extortionist) and motive to act on that information. Rather than voluntarily disclosing what he heard, he remains passive and evasive. If he overheard Aldric reading the letter aloud before deciding to finish alone (S003/S054/S058), the steward would know precisely what information Livia's letter contained — and who it named.",
+    "risk_score": 0.7
+  }
+]

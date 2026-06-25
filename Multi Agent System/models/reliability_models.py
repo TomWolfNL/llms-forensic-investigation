@@ -1,9 +1,8 @@
 from pydantic import BaseModel
 from typing import Any
 
-class ReliabilityMetrics(
-    BaseModel
-):
+
+class CredibilityMetrics(BaseModel):
 
     internal_consistency: float
 
@@ -16,25 +15,14 @@ class ReliabilityMetrics(
     contextual_alignment: float
 
 
-class ReliabilityEvidence(
-    BaseModel
-):
-
-    witness: str
-
-    metrics: ReliabilityMetrics
-
-    total_score: float
-
-
-class ReliabilitySignal(BaseModel):
+class CredibilitySignal(BaseModel):
     type: str
     description: str
     score: float
 
 
-class ReliabilityResult(BaseModel):
+class CredibilityResult(BaseModel):
     witness: str
-    evidence: list[ReliabilitySignal]
-    metrics: ReliabilityMetrics
-    total_score: float
+    evidence: list[CredibilitySignal]
+    metrics: CredibilityMetrics
+    credibility_grade: int

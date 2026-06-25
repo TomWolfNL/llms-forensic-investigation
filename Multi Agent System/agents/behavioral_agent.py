@@ -22,14 +22,14 @@ class BehavioralConsistencyAgent:
 
     async def run(
         self,
-        timeline,
+        statements,
         attributes
     ):
 
         result = (
             await self.agent.invoke(
                 {
-                    "timeline": timeline,
+                    "statements": statements,
                     "attributes": attributes
                 }
             )
