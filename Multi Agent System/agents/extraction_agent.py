@@ -12,29 +12,18 @@ MAX_STATEMENTS_PER_BATCH = 75
 
 
 class StatementExtractionAgent:
-
     def __init__(self):
         self.agent = StructuredAgent(
             prompt=STATEMENT_EXTRACTION_PROMPT,
             output_schema=ExtractionResult
         )
 
-    async def run(self, raw_story: dict) -> list[dict]:
-        """
-        Takes the full anonymized story dict:
-          { "summary": str, "witnesses": [{ "id": str, "name": str, "statement": str }] }
-
-        Processes witnesses in batches of BATCH_SIZE to keep LLM output
-        short and reduce malformed JSON errors.
-
-        Returns a flat list of structured statement dicts compatible
-        with WitnessStatement / the downstream pipeline.
-        """
-
+    async def run(self, raw_story: dict) -> tuple[list[dict], list[dict]]:
         summary = raw_story.get("summary", "")
         witnesses = raw_story.get("witnesses", [])
 
         all_statements: list[dict] = []
+        all_telemetry: list[dict] = []
         seen_ids: set[str] = set()
         global_counter = 1
 
@@ -44,7 +33,6 @@ class StatementExtractionAgent:
         ]
 
         for batch_num, batch in enumerate(batches, 1):
-
             log.info(
                 f"[extraction] Batch {batch_num}/{len(batches)} "
                 f"— {len(batch)} witnesses "
@@ -57,12 +45,15 @@ class StatementExtractionAgent:
             }
 
             try:
-                result = await self.agent.invoke(payload)
+                result, telemetry = await self.agent.invoke(payload, "StatementExtractionAgent")
+                
+                # Append telemetry for this batch
+                all_telemetry.append(telemetry)
+                
                 batch_statements = self._validate_and_normalize(
                     result, seen_ids, global_counter
                 )
 
-                # Python-side hard cap per batch
                 if len(batch_statements) > MAX_STATEMENTS_PER_BATCH:
                     log.warning(
                         f"[extraction] Batch {batch_num}/{len(batches)} "
@@ -70,10 +61,8 @@ class StatementExtractionAgent:
                     )
                     batch_statements = batch_statements[:MAX_STATEMENTS_PER_BATCH]
 
-                # update global counter past the highest ID assigned
                 global_counter += len(batch_statements)
                 all_statements.extend(batch_statements)
-                # keep seen_ids in sync
                 for s in batch_statements:
                     seen_ids.add(s["statement_id"])
 
@@ -87,7 +76,7 @@ class StatementExtractionAgent:
                     f"[extraction] Batch {batch_num}/{len(batches)} FAILED: {e}"
                 )
 
-        return all_statements
+        return all_statements, all_telemetry
 
     def _validate_and_normalize(
         self,
@@ -101,17 +90,14 @@ class StatementExtractionAgent:
         per_witness_counts: dict[str, int] = {}
 
         for s in result.statements:
-
             if not s.witness or not s.raw_text:
                 continue
 
-            # Python-side per-witness cap
             witness_count = per_witness_counts.get(s.witness, 0)
             if witness_count >= MAX_STATEMENTS_PER_WITNESS:
                 continue
             per_witness_counts[s.witness] = witness_count + 1
 
-            # ensure statement_id is globally unique — reassign if duplicate
             sid = s.statement_id
             if not sid or sid in seen_ids:
                 sid = f"S{counter:03d}"

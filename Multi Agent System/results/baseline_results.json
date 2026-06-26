@@ -1,0 +1,197 @@
+{
+  "evaluations": [
+    {
+      "witness": "Niko Sable (w01)",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Niko serves as an investigative relay with mixed direct observations. While he viewed the scene and interviewed suspects, his stated admiration for Tavia introduces affective bias, and his repeated shifts in suspicion toward different targets suggest susceptibility to anchoring effects. His value lies in aggregating disparate threads, but his interpretive conclusions warrant caution. He functions more as a secondary narrator than a primary observer.",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Lucan Marris (w02)",
+      "reliability_grade": "D",
+      "credibility_grade": 4,
+      "reasoning": "As Vey's confidential cipher aide present until nearly the moment of death, Marris should possess critical temporal knowledge. However, his account is notably self-protective\u2014he omits reference to a decisive message, offers no explanation for the missing ward-key, and maintains silence regarding Pira-related developments. These strategic gaps cluster around the murder's most probative moments. The 'amber cordial' detail and 'indistinct sounds' provide thin cover for substantial evasions. His cooperation appears conditional on protecting himself or shielding someone else.",
+      "prime_suspect_likelihood": 0.35
+    },
+    {
+      "witness": "Orra Kest (w03)",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Kest combines competent investigative work\u2014barred citadel examination, flechette tracing, soot-mark interpretation\u2014with directional choices that favor certain narratives. Finding Pira's dropped glow-wick and connecting the Northmere trail serve legitimate purposes, but the overall effect channels suspicion toward Pira and away from higher-status actors. His interrogation of the disputed confession and paper-trail analysis are methodologically sound, suggesting fair objectivity on technical matters while potentially accepting prosecution-favorable interpretations uncritically.",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Damar Quill (w04)",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Quill supplies essential procedural architecture\u2014the locked-house facts, discovery sequence, medical findings, missing key, and spring-caster evidence\u2014without claiming direct observational knowledge of the killing. His public-inquiry role constrains him to verified frameworks. As a neutral procedural authority, his factual scaffolding is generally reliable, though he necessarily depends on others for raw evidentiary content. His contribution establishes the investigative baseline rather than advancing novel theories.",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Sera Voss (w05)",
+      "reliability_grade": "A",
+      "credibility_grade": 1,
+      "reasoning": "The examining physician provides the most scientifically anchored testimony: wound analysis, flechette extraction, ruling-out of self-infliction, immediate-death determination, and precise shot trajectory reconstruction. Vey was seated, leaning forward, struck from the threshold between chambers. These findings rest on direct physical examination and are internally consistent with the weapon evidence. No material deception markers, no unnatural access concerns, and no deflection tactics. Voss represents the gold standard of direct observational reliability.",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Bram Toller (w06)",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Toller's initial withholding of information\u2014particularly regarding Rowan's dual-name visits\u2014raises concerns about completeness. However, his core observations align with physical evidence: barring the citadel at night, finding fastenings intact in the morning, forcing the maproom door with Marris, discovering the body, and witnessing Tavia's collapse and relocation order. His late-stage revelations about Rowan suggest either gradual disclosure under pressure or progressive realization of relevance. Central facts are corroborated, making him a partially reliable narrator with residual transparency issues.",
+      "prime_suspect_likelihood": 0.15
+    },
+    {
+      "witness": "Jessa Kade (w07)",
+      "reliability_grade": "D",
+      "credibility_grade": 4,
+      "reasoning": "Kade's contributions include Pira's jawache and nighttime remedy-seeking, plus Tavia leaving the maproom area with hidden papers. However, her account is explicitly emotional, talkative, and partly reconstructed under investigative pressure. The reconstruction marker is significant\u2014it signals that her narrative may have been shaped by leading questions or implicit expectations. Combined with her household-position visibility limitations, her testimony supplements rather than anchors the timeline. She functions as a corroborating voice rather than an independent pillar.",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Mira Pell (w08)",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Pell provides coherent first-floor-to-ground-level tracking of Pira's departure: troubled demeanor, jawache complaint, full dress, loose glow-wick, descent seeking Tavia's remedy, non-return. Her account directly links Pira's disappearance to the murder night and is internally consistent. Unlike Jessa, Pell does not exhibit reconstruction markers or emotional volatility that would compromise recall. She supplies clean sequential testimony about a single individual's movements, making her relatively dependable despite lower status.",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Noa Brill (w09)",
+      "reliability_grade": "A",
+      "credibility_grade": 1,
+      "reasoning": "Brill's armory examination establishes definitive technical facts: third-gauge flechette matching compact spring caster dimensions, apparently loaded cells, and differential cleaning effects (barrel residue removed, chamber traces retained). These findings are reproducible, physically verifiable, and internally consistent. The weapon's cleaned-but-incriminating state is precisely documented. Brill's testimony provides unimpeachable forensic anchor points that constrain speculation about the killing mechanism.",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Ilyan Mora (w10)",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Mora executed magistrate orders competently: fetching the examiner, searching the sleep chamber, recovering the spring caster and ammunition from the locked drawer, and preserving chain-of-custody. His testimony validates that the weapon was secured in a locked container beside Vey's bed prior to the killing\u2014a critical access question. Standard law-enforcement execution without deviation or embellishment makes him a reliable procedural\u8bc1\u4eba.",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Selene Orrel (w11)",
+      "reliability_grade": "E",
+      "credibility_grade": 5,
+      "reasoning": "Selene exemplifies the Narrator Trap archetype: she controlled critical evidence (binding proof via Liora), orchestrated concealment (requesting destruction of proof, obscuring messages), and possessed overwhelming motive (secret marriage threatening inheritance). Her initial minimization, concealment of the binding, and obfuscation of relevant communications represent systematic material deception. Crucially, she had opportunity\u2014pleaded with Vey before the killing\u2014and means (access to Vey's weapons and habits). Her denials require inverse weighting: what she denies is likely true. The confession attributed to Pira conveniently exonerates her.",
+      "prime_suspect_likelihood": 0.85
+    },
+    {
+      "witness": "Tavia Orrel (w12)",
+      "reliability_grade": "D",
+      "credibility_grade": 4,
+      "reasoning": "Tavia's concealment of the ward-key and torn message fragments, combined with her admission of destroying or concealing evidence, establish deflection tactics. Her positioning near maproom papers and association with the spring caster create suspicion. However, her concealments appear motivated by protection of Selene and family reputation rather than personal guilt. She functions as an accessory-obstructor rather than primary actor. Her distortions of timeline require unraveling but do not necessarily implicate her as shooter.",
+      "prime_suspect_likelihood": 0.45
+    },
+    {
+      "witness": "Rowan Cale (w13)",
+      "reliability_grade": "D",
+      "credibility_grade": 4,
+      "reasoning": "Rowan's use of borrowed names, concealed arrival near the citadel, and evasive description of the binding problem ('as though it concerned someone else') demonstrate sustained deception. His correspondence with Vey precipitated the household crisis, establishing motive for silencing Vey before the summons. However, his physical presence during the killing is not clearly established\u2014he appears more as an interested survivor and beneficiary than an active participant in the murder itself. His concealment may reflect shame and strategy preservation rather than homicide planning.",
+      "prime_suspect_likelihood": 0.55
+    },
+    {
+      "witness": "Deven Holt (w14)",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Holt provides direct surveillance testimony: watching Tavia enter a non-her chamber, handle something near the grate, hearing an object fall, and recovering the broken-handled ward-key and torn message fragments. His observations are specific, sequential, and corroborated by physical recovery. As a trained watch agent, his observational methodology carries implicit reliability. His account directly implicates Tavia in evidence concealment while providing the mechanism (grate disposal) for understanding fragment locations.",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Kit Vale / Moth (w15)",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Vale operated effectively undercover, gathering inn/village intelligence, watching Liora's house, observing Pira alive shortly before death, documenting the powder episode, recovering papers, obtaining Selene's message to Liora, and sending reports reshaping the inquiry. His field intelligence is corroborated by multiple sources (Liora's eventual account, physical paper recovery, Kel Brask's sighting). Professional undercover methodology supports reliability; his findings consistently advanced the investigation toward accurate conclusions.",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Sorin Ash (w16)",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Ash's foreign-investigator role produced background intelligence on Rowan: Vel Orun origins, travel history, correspondence patterns, preparations for a woman, Liora Fen connection, and return voyage. These findings support the secret-binding theory and contextualize Rowan's outsider status relative to Vey's hostility. Most elements are corroborated by domestic sources. His international vantage provides independent verification unavailable to purely local investigators.",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Meren Toll (w17)",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Toll supplies essential background: Vey's character, settlement document contents, Selene-preference history, and hostility to Rowan's lineage. His estate-advocate perspective explains why Selene's secret binding would endanger inheritance and why Vey's legal summons became urgent. Documentary corroboration exists for settlement structures. His testimony contextualizes motive intensity without introducing personal observation complications.",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Jorik Penn (w18)",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Penn enabled Niko's infiltration of Liora's home by identifying her as a respectable widow and describing her household. His contact role provided entry authorization rather than substantive case evidence. The anonymity inherent in contacts-with-officers relationships limits verifiability. His utility was instrumental (creating investigative access) rather than evidentiary (proving facts).",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Olin Reed (w19)",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Reed's memory of the binding ceremony\u2014striking partner, beautiful young woman, his witness role\u2014corrects a significant mistaken assumption about which foster heir participated. His peripheral involvement (hired hand) limits depth but provides authentic ceremonial detail. Memory-based testimony carries inherent reconstruction risk, but ceremony witnesses typically retain vivid impressions. His identification is corroborated by Liora's lacquer-tube evidence and shrine-keeper records.",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Liora Fen (w20)",
+      "reliability_grade": "D",
+      "credibility_grade": 4,
+      "reasoning": "Liora's concealment of the lacquer tube containing binding evidence, compliance with Selene's destruction request, sheltering of Pira, and relay of Pira's 'sent away/warned not to tell' statement establish her as Selene's loyal agent. Her bias toward Selene colors all interpretive testimony. However, her later fuller account and ultimate cooperation suggest pragmatic acknowledgment of exposure. Several central facts (tube contents, Pira's presence) are independently supported, lending partial credibility to her narrative despite obvious partiality.",
+      "prime_suspect_likelihood": 0.25
+    },
+    {
+      "witness": "Pira Senn (w21)",
+      "reliability_grade": "F",
+      "credibility_grade": 6,
+      "reasoning": "Pira represents the ultimate compromised source: she vanished after the murder, sheltered with Liora, died under suspicious circumstances, and left only a disputed posthumous confession. Her direct evidence is entirely mediated through Liora. The confession attributed to her is materially questioned due to paper type, timing, and chain-of-custody anomalies. She may have witnessed something after the killing or been used as a convenient scapegoat. Her silence, flight, and death prevent direct assessment\u2014making her simultaneously crucial to understanding the case and impossible to evaluate reliably.",
+      "prime_suspect_likelihood": 0.65
+    },
+    {
+      "witness": "Kel Brask (w22)",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Brask's sighting of a woman believed to be Pira at Liora's upper window prompted renewed Northmere attention. Visual identification from ground level to upper floor carries inherent uncertainty, especially regarding someone in hiding. His contribution\u91cd\u542fed investigative focus rather than proving facts. The corroboration comes from Kit Vale's subsequent direct observation, not from Brask's unaided perception.",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Marlo Dain (w23)",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Together with Saffron Gate Inn staff, Dain's account establishes Rowan's presence, agitation, correspondence activity, movements, and apparent departure. His transportation role provides physical tracking data. Combined testimony from multipleinn employees strengthens reliability beyond single-source risk. His account helps distinguish Rowan's concealments from the objective murder-night timeline.",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Nessa Orr (w24)",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Orr's Copper Quay Lodge account, combined with other servant statements, describes the Orrel party's earlier stay, Rowan's presence, message exchanges, and Selene/Tavia behavior during binding arrangement. Servants occupy low-status positions that paradoxically increase reliability for mundane-activity observation\u2014they lack motivation to fabricate grand narratives. Multi-servant corroboration strengthens individual accounts. However, lodge-period observations predate the murder and illuminate motive development rather than the killing itself.",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Aric Vey (w25)",
+      "reliability_grade": "A",
+      "credibility_grade": 1,
+      "reasoning": "Though deceased, Vey's settlement plans, habits, correspondence, weapon ownership, writing posture, and interrupted summons are strongly corroborated by documents and physical evidence. His preferences, hostility to outsiders, and urgency in summoning his legal steward are established through multiple independent channels (Meren Toll, documentary records, physical scene reconstruction). Vey functions as a documentary and circumstantial source whose attributes are objectively verifiable.",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Samel Dorn (w26)",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "The deceased shrine-keeper performed the binding ceremony; his role is preserved through witness memory (Olin Reed) and documents. Being deceased eliminates live-examination possibility, but ceremony records typically maintain integrity. Dorn's officiation establishes the binding's formal validity and dates the conspiracy's inception. His testimony is necessarily mediated and carries typical historical-record uncertainties.",
+      "prime_suspect_likelihood": 0.0
+    }
+  ],
+  "final_case_summary": "PRIMARY NARRATOR IDENTIFIED: Selene Orrel (w11) functions as the central Narrator Trap. Her systematic concealment\u2014secret binding, message obstruction, proof-destruction requests, and proxy obstruction through Tavia and Liora\u2014controlled the case's most critical evidentiary nodes while deflecting attention toward 'phantom actors' (Pira as convenient confessor, anonymous warnings). \n\nNARRATIVE PARADOX: The paradox emerges between Selene's high social status and favored-heir positioning (which grants initial trust) versus her demonstrated material deception on the case's determinative facts. The disputed confession attributed to Pira conveniently absolves Selene while exploiting Pira's compromised status (silence, flight, death)\u2014textbook Phantom Actor deployment. Meanwhile, the spring caster's cleaned-but-incriminating state suggests someone with intimate knowledge of Vey's habits and weapon storage accessed the sleep chamber, used Vey's own weapon, and attempted evidence remediation. Selene's plea to Vey before the killing, her binding to his despised outsider Rowan Cale, and her urgent need to prevent the legal summons combine to establish overwhelming motive. The locked-room paradox resolves through the missing ward-key (removed before the killing, never recovered from the killer) and the body's post-discovery relocation by Marris and Toller\u2014which altered the crime scene before proper examination.\n\nSECONDARY CONCERN: Lucan Marris (w02) exhibits anomalous access patterns\u2014present until nearly the moment of death, self-protective omissions clustered around the decisive message and ward-key, and unexplained silence on Pira developments. If Selene is the mastermind, Marris may be the instrument or the convenient witness positioned to provide alibis. The half-written summons, the cleaned weapon, and the vanishing key constitute the three pillars of an inside job with Selene as beneficiary.",
+  "telemetry_log": [
+    {
+      "agent_name": "BaselineAgent",
+      "input_tokens": 3389,
+      "output_tokens": 6010,
+      "execution_time_seconds": 74.82,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 12050
+    }
+  ]
+}

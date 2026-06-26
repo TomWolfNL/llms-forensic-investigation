@@ -1,460 +1,498 @@
 [
   {
-    "person": "Livia Marr",
+    "person": "Lucan Marris",
     "attributes": [
       {
-        "claim": "Died from a sleeping compound overdose",
+        "claim": "Is Vey's confidential cipher aide",
         "source": "S001",
-        "confidence": 1.0
-      },
-      {
-        "claim": "Caused her first husband's death",
-        "source": "S006",
-        "confidence": 0.5
-      },
-      {
-        "claim": "Had been paying a blackmailer",
-        "source": "S007",
-        "confidence": 0.5
-      },
-      {
-        "claim": "Authored a letter delivered to Vale estate",
-        "source": "S012",
         "confidence": 0.8
       },
       {
-        "claim": "allegedly caused the death of her first husband",
-        "source": "S040",
-        "confidence": 0.5
-      },
-      {
-        "claim": "paying money to a blackmailer",
-        "source": "S040",
-        "confidence": 0.5
-      },
-      {
-        "claim": "Corresponds privately with Aldric Vale",
-        "source": "S053",
+        "claim": "Confidential cipher aide to Aric Vey",
+        "source": "S068",
         "confidence": 0.8
-      },
-      {
-        "claim": "Wrote a final letter containing potentially damaging information",
-        "source": "S059",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Deceased prior to the murder investigation",
-        "source": "S060",
-        "confidence": 0.8
-      },
-      {
-        "claim": "maintained a household with servants",
-        "source": "S061",
-        "confidence": 0.7
-      },
-      {
-        "claim": "resided in her own home",
-        "source": "S062",
-        "confidence": 0.7
       }
     ]
   },
   {
-    "person": "Aldric Vale",
+    "person": "Vey",
     "attributes": [
       {
-        "claim": "Was the master of Vale estate",
-        "source": "S002",
+        "claim": "Maintains a maproom used for cipher work",
+        "source": "S001",
         "confidence": 0.8
       },
       {
-        "claim": "Received a final letter from Livia Marr that may identify the extortionist",
+        "claim": "Has a sleep chamber connected to the maproom by an inner door",
+        "source": "S003",
+        "confidence": 0.8
+      },
+      {
+        "claim": "owns a spring caster kept in the household",
+        "source": "S022",
+        "confidence": 0.8
+      },
+      {
+        "claim": "Has a sleep chamber containing stored weapons",
+        "source": "S031",
+        "confidence": 0.8
+      },
+      {
+        "claim": "Owns the spring caster used as murder weapon",
+        "source": "S032",
+        "confidence": 0.8
+      },
+      {
+        "claim": "Has a locked drawer beside the bed in sleep chamber",
+        "source": "S032",
+        "confidence": 0.8
+      },
+      {
+        "claim": "Has longstanding hostility toward Rowan's people",
+        "source": "S051",
+        "confidence": 0.5
+      }
+    ]
+  },
+  {
+    "person": "Orra Kest",
+    "attributes": [
+      {
+        "claim": "Serves as an official investigator",
+        "source": "S006",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "person": "Pira",
+    "attributes": [
+      {
+        "claim": "Possesses a glow-wick",
+        "source": "S007",
+        "confidence": 0.8
+      },
+      {
+        "claim": "Attributed confession under dispute",
+        "source": "S010",
+        "confidence": 0.5
+      }
+    ]
+  },
+  {
+    "person": "Tavia Orrel",
+    "attributes": [
+      {
+        "claim": "Owns a soot-marked scarf",
         "source": "S008",
         "confidence": 0.8
       },
       {
-        "claim": "Owner of Vale estate",
-        "source": "S012,S015,S016",
-        "confidence": 0.8
+        "claim": "Has authority over the body upon discovery",
+        "source": "S017",
+        "confidence": 0.6
       },
       {
-        "claim": "Father of Rowan Vale and Maren Vale",
-        "source": "S016,S018",
+        "claim": "Was associated with the spring caster",
+        "source": "S035",
         "confidence": 0.5
       },
       {
-        "claim": "Resides at Vale estate",
-        "source": "S041",
+        "claim": "Possesses a ward-key and torn fragments she refused to explain",
+        "source": "S036",
         "confidence": 0.8
       },
       {
-        "claim": "Has received letters from Livia",
-        "source": "S041",
+        "claim": "Admitted to destroying or concealing evidence",
+        "source": "S037",
         "confidence": 0.8
       },
       {
-        "claim": "Is the master of Vale estate",
-        "source": "S051",
+        "claim": "Is under surveillance by watch agents",
+        "source": "S040",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "person": "Rowan Cale",
+    "attributes": [
+      {
+        "claim": "Connected to the Northmere trail",
+        "source": "S009",
         "confidence": 0.8
       },
       {
-        "claim": "Has a personal secretary",
-        "source": "S051",
+        "claim": "Used both a false name and his own name when visiting the citadel",
+        "source": "S018",
+        "confidence": 0.7
+      },
+      {
+        "claim": "Is secretly oath-bound to Selene Orrel",
+        "source": "S033",
         "confidence": 0.8
       },
       {
-        "claim": "Recently acquired a voice-recording cabinet",
+        "claim": "Approached the citadel using a borrowed name",
+        "source": "S038",
+        "confidence": 0.8
+      },
+      {
+        "claim": "Described the secret-binding problem evasively to Niko",
+        "source": "S039",
+        "confidence": 0.8
+      },
+      {
+        "claim": "Originated from Vel Orun",
+        "source": "S048",
+        "confidence": 0.7
+      },
+      {
+        "claim": "Had documented travel and correspondence",
+        "source": "S049",
+        "confidence": 0.6
+      },
+      {
+        "claim": "Made preparations for a woman",
+        "source": "S049",
+        "confidence": 0.5
+      },
+      {
+        "claim": "Connected to Liora Fen",
+        "source": "S049",
+        "confidence": 0.6
+      },
+      {
+        "claim": "Entered into a secret binding ceremony with Selene Orrel",
+        "source": "S072",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "person": "Aric Vey",
+    "attributes": [
+      {
+        "claim": "Is the deceased victim of the shooting",
+        "source": "S013",
+        "confidence": 0.8
+      },
+      {
+        "claim": "Was positioned at the maproom desk at time of death",
+        "source": "S013",
+        "confidence": 0.8
+      },
+      {
+        "claim": "Has documented settlement documents",
+        "source": "S050",
+        "confidence": 0.7
+      },
+      {
+        "claim": "Prefers Selene",
+        "source": "S050",
+        "confidence": 0.6
+      },
+      {
+        "claim": "Owned a six-cell spring caster normally kept in a locked drawer beside his bed",
+        "source": "S070",
+        "confidence": 0.8
+      },
+      {
+        "claim": "Has a legal steward handling his affairs",
+        "source": "S071",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "person": "Sera Voss",
+    "attributes": [
+      {
+        "claim": "Is the examining physician",
+        "source": "S011",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "person": "Bram Toller",
+    "attributes": [
+      {
+        "claim": "Is the housewarden responsible for citadel security",
+        "source": "S014",
+        "confidence": 0.8
+      },
+      {
+        "claim": "Discovered Aric Vey's body in the maproom",
+        "source": "S016",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "person": "Pira Senn",
+    "attributes": [
+      {
+        "claim": "Is a household attendant",
+        "source": "S019",
+        "confidence": 0.7
+      },
+      {
+        "claim": "Has a recurring jaw condition requiring nighttime treatment",
+        "source": "S020",
+        "confidence": 0.7
+      },
+      {
+        "claim": "was described as troubled and withdrawn by household staff",
+        "source": "S023",
+        "confidence": 0.5
+      },
+      {
+        "claim": "Was alive shortly before her death",
+        "source": "S045",
+        "confidence": 0.8
+      },
+      {
+        "claim": "Claims to have been sent away and warned not to speak",
+        "source": "S059",
+        "confidence": 0.5
+      },
+      {
+        "claim": "Had a jaw condition requiring pain treatment",
+        "source": "S060",
+        "confidence": 0.5
+      }
+    ]
+  },
+  {
+    "person": "Jessa Kade",
+    "attributes": [
+      {
+        "claim": "Is household kitchen staff",
+        "source": "S019",
+        "confidence": 0.6
+      }
+    ]
+  },
+  {
+    "person": "Mira Pell",
+    "attributes": []
+  },
+  {
+    "person": "Noa Brill",
+    "attributes": []
+  },
+  {
+    "person": "Ilyan Mora",
+    "attributes": [
+      {
+        "claim": "Is an investigator conducting searches",
+        "source": "S031",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "person": "Selene Orrel",
+    "attributes": [
+      {
+        "claim": "Is Vey's favored foster heir",
+        "source": "S033",
+        "confidence": 0.8
+      },
+      {
+        "claim": "Is secretly oath-bound to Rowan Cale",
+        "source": "S033",
+        "confidence": 0.8
+      },
+      {
+        "claim": "Attempted to remove proof of the binding through Liora Fen",
+        "source": "S034",
+        "confidence": 0.8
+      },
+      {
+        "claim": "Entered into a secret binding ceremony with Rowan Cale",
+        "source": "S072",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "person": "Liora Fen",
+    "attributes": [
+      {
+        "claim": "Resides in Northmere at Via Liora Fen",
+        "source": "S034",
+        "confidence": 0.8
+      },
+      {
+        "claim": "Was contacted to remove binding proof",
+        "source": "S034",
+        "confidence": 0.8
+      },
+      {
+        "claim": "Connected to Rowan Cale",
+        "source": "S049",
+        "confidence": 0.6
+      },
+      {
+        "claim": "Received message from Selene",
+        "source": "S047",
+        "confidence": 0.7
+      },
+      {
+        "claim": "Is a respectable widow living in Northmere",
         "source": "S052",
         "confidence": 0.8
       },
       {
-        "claim": "Receives private letters from Livia Marr",
-        "source": "S053",
+        "claim": "Keeps proof of Selene-Rowan union hidden",
+        "source": "S056",
         "confidence": 0.8
       },
       {
-        "claim": "Was the intended recipient of Livia's final letter",
-        "source": "S059",
+        "claim": "Received Selene's request to destroy proof of the union",
+        "source": "S057",
+        "confidence": 0.8
+      },
+      {
+        "claim": "Provides sanctuary to Pira Senn after the murder",
+        "source": "S058",
         "confidence": 0.8
       }
     ]
   },
   {
-    "person": "Dr. Silas Wren",
+    "person": "Niko",
     "attributes": [
       {
-        "claim": "Is the village physician",
-        "source": "S001",
+        "claim": "Received evasive account of secret-binding from Rowan Cale",
+        "source": "S039",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "person": "Deven Holt",
+    "attributes": [
+      {
+        "claim": "Is a watch agent assigned to surveillance duties",
+        "source": "S040",
+        "confidence": 0.8
+      },
+      {
+        "claim": "Assists in evidence recovery operations",
+        "source": "S043",
+        "confidence": 0.7
+      }
+    ]
+  },
+  {
+    "person": "Tavia",
+    "attributes": [
+      {
+        "claim": "Concealed ward-key and torn message fragments",
+        "source": "S043",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "person": "Kit Vale",
+    "attributes": [
+      {
+        "claim": "Operates undercover using alias Moth",
+        "source": "S044",
+        "confidence": 0.8
+      },
+      {
+        "claim": "Conducts extended surveillance in Northmere and surrounding areas",
+        "source": "S044",
+        "confidence": 0.7
+      }
+    ]
+  },
+  {
+    "person": "Selene",
+    "attributes": [
+      {
+        "claim": "Sent a message to Liora Fen",
+        "source": "S047",
+        "confidence": 0.7
+      }
+    ]
+  },
+  {
+    "person": "Meren Toll",
+    "attributes": [
+      {
+        "claim": "Serves as senior estate advocate",
+        "source": "S050",
+        "confidence": 0.7
+      }
+    ]
+  },
+  {
+    "person": "Olin Reed",
+    "attributes": [
+      {
+        "claim": "Was a hired hand who witnessed the binding ceremony",
+        "source": "S054",
+        "confidence": 0.8
+      },
+      {
+        "claim": "Present as a witness during the binding ceremony",
+        "source": "S055",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "person": "Kel Brask",
+    "attributes": [
+      {
+        "claim": "Metalworker",
+        "source": "S063",
+        "confidence": 0.8
+      },
+      {
+        "claim": "Lives near Liora Fen",
+        "source": "S063",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "person": "Marlo Dain",
+    "attributes": [
+      {
+        "claim": "Chair-driver",
+        "source": "S064",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "person": "Nessa Orr",
+    "attributes": [
+      {
+        "claim": "Copper Quay Lodge attendant",
+        "source": "S066",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "person": "Samel Dorn",
+    "attributes": [
+      {
+        "claim": "Is deceased",
+        "source": "S072",
         "confidence": 1.0
       },
       {
-        "claim": "Is married to Celia Wren",
-        "source": "S009",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Is a physician",
-        "source": "S041",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Is Aldric Vale's personal physician",
-        "source": "S053",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Resides as Aldric's neighbor at Vale estate",
-        "source": "S053",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Is related to Celia Wren",
-        "source": "S060",
-        "confidence": 0.5
-      }
-    ]
-  },
-  {
-    "person": "Celia Wren",
-    "attributes": [
-      {
-        "claim": "Spreads and gathers reports about deaths in Bellweather village",
-        "source": "S009",
-        "confidence": 0.5
-      },
-      {
-        "claim": "Believes Livia died by suicide out of guilt",
-        "source": "S009",
-        "confidence": 0.5
-      },
-      {
-        "claim": "Witnessed Rowan Vale with an unidentified woman",
-        "source": "S011",
-        "confidence": 0.5
-      },
-      {
-        "claim": "Is connected to Dr. Silas Wren",
-        "source": "S060",
-        "confidence": 0.5
-      },
-      {
-        "claim": "Resides in Bellweather",
-        "source": "S060",
-        "confidence": 0.5
-      }
-    ]
-  },
-  {
-    "person": "Rowan Vale",
-    "attributes": [
-      {
-        "claim": "Is related to Aldric Vale",
-        "source": "S010",
-        "confidence": 0.5
-      },
-      {
-        "claim": "Stayed at the Blue Heron inn before the murder",
-        "source": "S010",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Secretly married to Elia Moss",
-        "source": "S011,S020",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Financially dependent on Aldric Vale",
-        "source": "S018",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Had quarreled with Aldric recently",
-        "source": "S018",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Went missing after the murder",
-        "source": "S018",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Prefers wearing heavy boots",
-        "source": "S019",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Feared disinheritance due to the secret marriage between Aldric and Maren",
-        "source": "S022",
-        "confidence": 0.5
-      },
-      {
-        "claim": "Secretly married to Elia Moss",
-        "source": "S048",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Stands to inherit from Aldric",
-        "source": "S048",
-        "confidence": 0.5
-      }
-    ]
-  },
-  {
-    "person": "Jonas Kett",
-    "attributes": [
-      {
-        "claim": "Works as a post carrier",
-        "source": "S012",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Employed at Vale estate",
-        "source": "S012",
-        "confidence": 0.8
-      }
-    ]
-  },
-  {
-    "person": "Maren Vale",
-    "attributes": [
-      {
-        "claim": "Daughter of Aldric Vale",
-        "source": "S016,S017",
-        "confidence": 0.5
-      },
-      {
-        "claim": "Visited Vale estate intending to steal money",
-        "source": "S017",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Aldric Vale's niece",
-        "source": "S049",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Is a resident of Vale estate",
-        "source": "S057",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Has a history of financial theft within the household",
-        "source": "S057",
-        "confidence": 0.8
-      }
-    ]
-  },
-  {
-    "person": "Tobin Rusk",
-    "attributes": [
-      {
-        "claim": "Resides or works near Vale estate study area",
-        "source": "S015",
-        "confidence": 0.5
-      }
-    ]
-  },
-  {
-    "person": "Elia Moss",
-    "attributes": [
-      {
-        "claim": "Secretly married to Rowan Vale",
-        "source": "S020",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Formerly held the position of parlour maid at Vale estate",
-        "source": "S021",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Works as a housemaid",
-        "source": "S048",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Secretly married to Rowan Vale",
-        "source": "S048",
-        "confidence": 0.8
-      }
-    ]
-  },
-  {
-    "person": "Niall Corven",
-    "attributes": [
-      {
-        "claim": "Has a rough physical appearance",
-        "source": "S025",
-        "confidence": 0.5
-      },
-      {
-        "claim": "Has a history of drug use",
-        "source": "S026",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Admitted to visiting the Vale estate secretly",
-        "source": "S027",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Is described as a young man",
-        "source": "S042",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Connected to Mistress Sable",
-        "source": "S042",
-        "confidence": 0.5
-      },
-      {
-        "claim": "owned worn, poor-quality boots",
-        "source": "S063",
-        "confidence": 0.8
-      },
-      {
-        "claim": "frequented the Copper Finch establishment",
-        "source": "S063",
-        "confidence": 0.8
-      }
-    ]
-  },
-  {
-    "person": "Captain Orven Blaise",
-    "attributes": [
-      {
-        "claim": "Experiences romantic feelings for Maren Vale",
-        "source": "S028",
-        "confidence": 0.5
-      }
-    ]
-  },
-  {
-    "person": "Dame Perrin Vale",
-    "attributes": [
-      {
-        "claim": "The Vale family is financially dependent on Aldric",
-        "source": "S029",
-        "confidence": 0.5
-      },
-      {
-        "claim": "Concealed self-interested conduct involving Aldric's papers",
-        "source": "S030",
-        "confidence": 0.5
-      }
-    ]
-  },
-  {
-    "person": "Maren",
-    "attributes": [
-      {
-        "claim": "stands to benefit financially from Aldric's death under his will",
-        "source": "S035",
-        "confidence": 0.8
-      }
-    ]
-  },
-  {
-    "person": "Dame Perrin",
-    "attributes": [
-      {
-        "claim": "stands to benefit financially from Aldric's death under his will",
-        "source": "S035",
-        "confidence": 0.8
-      }
-    ]
-  },
-  {
-    "person": "Mistress Sable",
-    "attributes": [
-      {
-        "claim": "Associated with Niall Corven",
-        "source": "S042",
-        "confidence": 0.5
-      }
-    ]
-  },
-  {
-    "person": "The steward",
-    "attributes": [
-      {
-        "claim": "Maintains a secretive personal history",
-        "source": "S056",
-        "confidence": 0.5
-      },
-      {
-        "claim": "Serves at Vale estate",
-        "source": "S056",
-        "confidence": 0.5
-      }
-    ]
-  },
-  {
-    "person": "Livia Marr's kitchen maid",
-    "attributes": [
-      {
-        "claim": "served in Livia Marr's household",
-        "source": "S062",
-        "confidence": 0.8
-      }
-    ]
-  },
-  {
-    "person": "Lamp-oil seller",
-    "attributes": [
-      {
-        "claim": "operated within Livia Marr's sphere of acquaintance",
-        "source": "S061",
-        "confidence": 0.5
-      }
-    ]
-  },
-  {
-    "person": "Barmaid at the Copper Finch",
-    "attributes": [
-      {
-        "claim": "worked at the Copper Finch tavern",
-        "source": "S063",
+        "claim": "Was a shrine-keeper during life",
+        "source": "S072",
         "confidence": 0.8
       }
     ]

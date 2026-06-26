@@ -43,7 +43,7 @@ Return ONLY valid JSON in this structure:
 
 RULES:
 - "analysis_scratchpad" MUST be filled out first.
-- MAXIMUM 10 issues total.
+- MAXIMUM 30 issues total.
 - The `risk_score` is a float from 0.0 (transparent/innocent_concealment) to 1.0 (highly deceptive or motive-driven).
 - A retraction or unnatural_access automatically warrants a risk_score >= 0.8.
 - Output ONLY valid JSON.

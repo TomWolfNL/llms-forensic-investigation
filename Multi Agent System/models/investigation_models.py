@@ -1,5 +1,6 @@
-from pydantic import BaseModel
-from typing import List
+import operator
+from pydantic import BaseModel, Field
+from typing import List, Dict, Any, Annotated
 
 
 class Statement(BaseModel):
@@ -61,3 +62,4 @@ class GraphState(BaseModel):
     behavior_report: List[BehavioralIssue]
     credibility_metrics: List[WitnessCredibility]
     reliability_grades: List[dict]
+    telemetry_log: Annotated[List[Dict[str, Any]], operator.add] = Field(default_factory=list)

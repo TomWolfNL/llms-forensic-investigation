@@ -1,457 +1,288 @@
 [
   {
-    "event_id": "E001",
+    "event_id": "EV001",
     "statement_ids": [
-      "S001",
-      "S062"
-    ],
-    "time": "Before the evening of the murder",
-    "location": "Vale estate",
-    "subject": "Livia Marr",
-    "action": "died from a sleeping compound overdose",
-    "context": "Her death preceded Aldric's murder and was initially thought possibly suicidal",
-    "witnesses": [
-      "Dr. Silas Wren",
-      "Livia Marr's kitchen maid"
-    ]
-  },
-  {
-    "event_id": "E002",
-    "statement_ids": [
-      "S009",
-      "S038",
-      "S060",
-      "S061"
-    ],
-    "time": "After Livia's death",
-    "location": "Bellweather village",
-    "subject": "Livia Marr",
-    "action": "spread early reports about Livia's death",
-    "context": "Suspected suicide motivated by guilt over her confessions; information passed through informal networks",
-    "witnesses": [
-      "Celia Wren",
-      "Nessa Pike",
-      "The lamp-oil seller"
-    ]
-  },
-  {
-    "event_id": "E003",
-    "statement_ids": [
-      "S002",
-      "S006",
-      "S007"
-    ],
-    "time": "Evening before the murder",
-    "location": "Vale estate study",
-    "subject": "Livia Marr",
-    "action": "caused her first husband's death and had been paying a blackmailer",
-    "context": "Livia privately admitted this to Aldric before her death; she refused to name the blackmailer in person",
-    "witnesses": [
-      "Dr. Silas Wren",
-      "Aldric Vale"
-    ]
-  },
-  {
-    "event_id": "E004",
-    "statement_ids": [
-      "S003",
-      "S008",
-      "S012",
-      "S053",
+      "S033",
       "S054",
       "S055",
+      "S072"
+    ],
+    "time": "Unknown, prior to the murder",
+    "location": "Shrine-keeper's house",
+    "subject": "Selene Orrel and Rowan Cale",
+    "action": "Performed/enters into secret oath-binding ceremony",
+    "context": "Hidden marriage/binding that endangered Selene's inheritance position",
+    "witnesses": [
+      "Selene Orrel",
+      "Olin Reed",
+      "Samel Dorn"
+    ]
+  },
+  {
+    "event_id": "EV002",
+    "statement_ids": [
+      "S001",
+      "S002",
+      "S003",
+      "S004",
+      "S068"
+    ],
+    "time": "Evening (usual work hours)",
+    "location": "maproom",
+    "subject": "Aric Vey",
+    "action": "Completed usual evening cipher work with Marris, observed amber cordial, heard passage sounds",
+    "context": "Routine duties with confidential cipher aide; door between rooms was open",
+    "witnesses": [
+      "Lucan Marris"
+    ]
+  },
+  {
+    "event_id": "EV003",
+    "statement_ids": [
+      "S014",
+      "S015",
+      "S006"
+    ],
+    "time": "Nightfall/Morning",
+    "location": "citadel exterior/entrance",
+    "subject": "citadel",
+    "action": "Barred the citadel at nightfall; fastenings found still secure in morning; examined barred citadel during investigation",
+    "context": "Housewarden's nightly security duty; confirmed no forced entry from outside",
+    "witnesses": [
+      "Bram Toller",
+      "Orra Kest"
+    ]
+  },
+  {
+    "event_id": "EV004",
+    "statement_ids": [
+      "S016",
+      "S017",
+      "S005"
+    ],
+    "time": "Morning discovery",
+    "location": "maproom",
+    "subject": "Aric Vey",
+    "action": "Found Vey dead; saw Tavia collapse and order the body moved; helped report the murder",
+    "context": "Body discovered at desk in maproom; Tavia's reaction to finding the body",
+    "witnesses": [
+      "Bram Toller",
+      "Lucan Marris"
+    ]
+  },
+  {
+    "event_id": "EV005",
+    "statement_ids": [
+      "S060",
+      "S026",
+      "S025",
+      "S024",
+      "S023",
+      "S020"
+    ],
+    "time": "Night of the incident",
+    "location": "stairs going down / lower level",
+    "subject": "Pira Senn",
+    "action": "Went downstairs to seek Tavia's remedy; dressed fully, took loose glow-wick; did not return",
+    "context": "Last known movement before vanishing; carried glow-wick reportedly due to jawache; previously described as troubled and withdrawn",
+    "witnesses": [
+      "Pira Senn",
+      "Mira Pell",
+      "Jessa Kade"
+    ]
+  },
+  {
+    "event_id": "EV006",
+    "statement_ids": [
+      "S011",
+      "S013",
+      "S071",
+      "S012"
+    ],
+    "time": "At time of death / Post-mortem examination",
+    "location": "maproom desk / crime scene",
+    "subject": "Aric Vey",
+    "action": "Examined Vey's wound, removed the flechette; was seated and leaning forward when struck; ruled out self-infliction",
+    "context": "Physician's forensic examination; wound trajectory inconsistent with suicide; half-written summons found",
+    "witnesses": [
+      "Sera Voss"
+    ]
+  },
+  {
+    "event_id": "EV007",
+    "statement_ids": [
+      "S027",
+      "S028",
+      "S029",
+      "S032",
+      "S070"
+    ],
+    "time": "Examination / Ongoing possession",
+    "location": "Cinderglass Armory / locked drawer beside bed in sleep chamber",
+    "subject": "six-cell spring caster",
+    "action": "Identified flechette as third-gauge ammunition; inspected weapon, found cells apparently loaded; explained cleaning removed barrel residue while chamber showed recent shot; recovered spring caster and ammunition from locked drawer",
+    "context": "Weapon matched to Vey's weapon type; appeared operational and loaded; deliberately cleaned but incompletely; normal storage location of murder weapon",
+    "witnesses": [
+      "Noa Brill",
+      "Ilyan Mora",
+      "Aric Vey"
+    ]
+  },
+  {
+    "event_id": "EV008",
+    "statement_ids": [
+      "S007",
+      "S008",
+      "S009",
+      "S010",
+      "S030",
+      "S031",
+      "S043",
+      "S052",
+      "S053",
+      "S063"
+    ],
+    "time": "During investigation",
+    "location": "Various locations including citadel premises, Northmere trail, inquiry proceedings",
+    "subject": "investigation evidence and leads",
+    "action": "Found Pira's dropped glow-wick; interpreted Tavia's soot-marked scarf; traced Rowan's movements and Northmere trail; questioned Pira's confession; searched Vey's sleep chamber; helped recover ward-key and torn message fragments; identified Liora Fen as respectable widow; described her household; reported seeing Pira at upper window",
+    "context": "Physical evidence linking suspects to scene; tracking travel history; authenticity of confession challenged; evidence Tavia had concealed",
+    "witnesses": [
+      "Orra Kest",
+      "Ilyan Mora",
+      "Deven Holt",
+      "Jorik Penn",
+      "Kel Brask"
+    ]
+  },
+  {
+    "event_id": "EV009",
+    "statement_ids": [
+      "S040",
+      "S041",
+      "S042",
+      "S021",
+      "S035",
+      "S036",
+      "S037"
+    ],
+    "time": "During investigation period / privately",
+    "location": "Chamber not belonging to Tavia / Citadel",
+    "subject": "Tavia Orrel",
+    "action": "Saw Tavia enter a chamber not her own; observed her handle something near the grate; heard an object fall; saw Tavia leave the maproom area with a paper hidden away; refused to explain the ward-key and torn fragments; admitted destroying or concealing evidence",
+    "context": "Surveillance operation; suspicious behavior regarding documents; evidence directly related to locked interior and murder circumstances; aim was shielding Selene and protecting family name",
+    "witnesses": [
+      "Deven Holt",
+      "Tavia Orrel",
+      "Jessa Kade"
+    ]
+  },
+  {
+    "event_id": "EV010",
+    "statement_ids": [
+      "S044",
+      "S045",
+      "S046",
+      "S047"
+    ],
+    "time": "Extended investigation period",
+    "location": "Northmere, villages, Liora's residence",
+    "subject": "investigation methodology",
+    "action": "Followed Northmere and Liora Fen leads, gathered inn and village information; saw Pira alive shortly before her death; observed the suspicious powder episode; recovered papers, obtained Selene's message to Liora",
+    "context": "Undercover operative using alias Moth; critical observation establishing Pira was living shortly before death; powder later sent to Pira as protective charm—questionable provenance; physical evidence obtained through covert means",
+    "witnesses": [
+      "Kit Vale"
+    ]
+  },
+  {
+    "event_id": "EV011",
+    "statement_ids": [
+      "S048",
+      "S049",
+      "S050",
+      "S051",
+      "S064",
+      "S065",
+      "S066",
+      "S067"
+    ],
+    "time": "Pre-murder period / Historical records",
+    "location": "Various including Vel Orun, Copper Quay Lodge, Saffron Gate Inn",
+    "subject": "Rowan Cale / Orrel party",
+    "action": "Reported on Rowan Cale's past in Vel Orun; documented Cale's travel, correspondence, preparations for a woman, connection with Liora Fen; supplied background on Vey's character, settlement documents, preference for Selene; expressed hostility to Rowan's people; provided information about Rowan's presence, agitation, correspondence, movements, and apparent departure; described the Orrel party's earlier stay, Rowan's presence, messages and interactions, and Selene's and Tavia's behavior during the period when the secret binding was arranged",
+    "context": "Foreign investigator establishing Cale's background and lineage; corroborating evidence of Cale-Selene-Liora network; senior estate advocate providing context for motives; combined with other Northmere servants' statements",
+    "witnesses": [
+      "Sorin Ash",
+      "Meren Toll",
+      "Marlo Dain",
+      "Nessa Orr"
+    ]
+  },
+  {
+    "event_id": "EV012",
+    "statement_ids": [
+      "S056",
+      "S057",
       "S058",
       "S059"
     ],
-    "time": "Evening before the murder",
-    "location": "Vale estate study",
-    "subject": "Livia Marr's letter",
-    "action": "arrived and may name the extortionist",
-    "context": "Final letter arrived via evening post; Aldric began reading it aloud, then decided to finish alone",
+    "time": "Before and after the murder",
+    "location": "Liora's residence in Northmere",
+    "subject": "Liora Fen",
+    "action": "Hid a lacquer tube containing the binding evidence; received Selene's request to destroy the proof; took in Pira after the murder; heard Pira say she had been sent away and warned not to tell what happened",
+    "context": "Kept proof of Selene-Rowan union secure; Selene sought to eliminate evidence of the union; provided sanctuary to fleeing attendant; Pira's claimed explanation for her flight and silence",
     "witnesses": [
-      "Dr. Silas Wren",
-      "Aldric Vale",
-      "Jonas Kett"
+      "Liora Fen"
     ]
   },
   {
-    "event_id": "E005",
-    "statement_ids": [
-      "S004",
-      "S041",
-      "S042"
-    ],
-    "time": "Ten minutes before 9:00 PM",
-    "location": "Vale estate study",
-    "subject": "Dr. Silas Wren",
-    "action": "departed from Aldric's study",
-    "context": "Left Aldric alone to finish reading Livia's letter; encountered unfamiliar young man near estate gates",
-    "witnesses": [
-      "Dr. Silas Wren"
-    ]
-  },
-  {
-    "event_id": "E006",
-    "statement_ids": [
-      "S005",
-      "S025",
-      "S027",
-      "S042"
-    ],
-    "time": "~8:52 PM (shortly after Wren's departure)",
-    "location": "near the Vale estate gates",
-    "subject": "unknown young man / Niall Corven",
-    "action": "loitering near the estate",
-    "context": "Rough-looking stranger seen near gates; later identified as Niall Corven who admitted visiting secretly; connected to Mistress Sable",
-    "witnesses": [
-      "Dr. Silas Wren",
-      "Niall Corven"
-    ]
-  },
-  {
-    "event_id": "E007",
-    "statement_ids": [
-      "S015",
-      "S051"
-    ],
-    "time": "~9:30 PM",
-    "location": "Near the study",
-    "subject": "Aldric Vale",
-    "action": "heard Aldric's voice from the study saying he did not wish to be disturbed",
-    "context": "Evidence depends on whether this was live voice or recording; later confirmed voice-recording cabinet existed",
-    "witnesses": [
-      "Tobin Rusk",
-      "Aldric's secretary"
-    ]
-  },
-  {
-    "event_id": "E008",
-    "statement_ids": [
-      "S010",
-      "S011",
-      "S020",
-      "S022"
-    ],
-    "time": "Before the murder",
-    "location": "Various / Blue Heron inn",
-    "subject": "Rowan Vale",
-    "action": "staying at the inn and involved with an unidentified woman",
-    "context": "Had been staying at Blue Heron inn; secretly married to Elia Moss; feared disinheritance due to concealed marriage",
-    "witnesses": [
-      "Celia Wren",
-      "Elia Moss"
-    ]
-  },
-  {
-    "event_id": "E009",
-    "statement_ids": [
-      "S016",
-      "S049",
-      "S050",
-      "S057"
-    ],
-    "time": "After dinner (early evening)",
-    "location": "Vale estate",
-    "subject": "Maren Vale",
-    "action": "claimed to have seen Aldric alive after dinner",
-    "context": "Initially strengthened impression Aldric survived late into evening; later retracted admission that she only went near study while stealing money and did not actually see him",
-    "witnesses": [
-      "Maren Vale"
-    ]
-  },
-  {
-    "event_id": "E010",
-    "statement_ids": [
-      "S017",
-      "S057"
-    ],
-    "time": "During her visit to steal money",
-    "location": "hall display",
-    "subject": "ceremonial glass-bladed knife",
-    "action": "no longer on the hall display",
-    "context": "Made the timing of its removal important to the investigation; Maren used this as pretext for her presence near study",
-    "witnesses": [
-      "Maren Vale"
-    ]
-  },
-  {
-    "event_id": "E011",
-    "statement_ids": [
-      "S019"
-    ],
-    "time": "Night of the murder",
-    "location": "Not specified",
-    "subject": "Rowan Vale",
-    "action": "claims he wore heavy boots that night rather than shoes matching the incriminating prints",
-    "context": "Footprints near the study window implicated him; his defense is footwear discrepancy",
-    "witnesses": [
-      "Rowan Vale"
-    ]
-  },
-  {
-    "event_id": "E012",
-    "statement_ids": [
-      "S014"
-    ],
-    "time": "Night of the murder",
-    "location": "Unknown",
-    "subject": "Jonas Kett",
-    "action": "denied making the telephone call summoning Dr. Wren back",
-    "context": "Someone called Wren to return; Kett denies responsibility",
-    "witnesses": [
-      "Jonas Kett"
-    ]
-  },
-  {
-    "event_id": "E013",
-    "statement_ids": [
-      "S043"
-    ],
-    "time": "Later that night, after receiving telephone summons",
-    "location": "Vale estate",
-    "subject": "Dr. Silas Wren",
-    "action": "returned to the house",
-    "context": "A telephone message appeared to summon Wren back to the house",
-    "witnesses": [
-      "Dr. Silas Wren"
-    ]
-  },
-  {
-    "event_id": "E014",
-    "statement_ids": [
-      "S044"
-    ],
-    "time": "Upon Wren's return",
-    "location": "study",
-    "subject": "Aldric Vale",
-    "action": "found Aldric dead in the study",
-    "context": "The study door was locked, and the scene showed signs of struggle",
-    "witnesses": [
-      "Inspector Brannick Hale"
-    ]
-  },
-  {
-    "event_id": "E015",
-    "statement_ids": [
-      "S045"
-    ],
-    "time": null,
-    "location": "study",
-    "subject": "ceremonial knife",
-    "action": "identified the ceremonial glass-bladed knife from the hall display as the murder weapon",
-    "context": "The knife came from the hallway display, indicating opportunity to take it",
-    "witnesses": [
-      "Inspector Brannick Hale"
-    ]
-  },
-  {
-    "event_id": "E016",
-    "statement_ids": [
-      "S046",
-      "S047",
-      "S034"
-    ],
-    "time": null,
-    "location": "study garden window / outside the garden window",
-    "subject": "garden window and footprints",
-    "action": "noted the open garden window and documented suspicious footprints",
-    "context": "Along with suspicious footprints outside the window; footprints appeared staged-looking, matching Rowan's shoes",
-    "witnesses": [
-      "Inspector Brannick Hale"
-    ]
-  },
-  {
-    "event_id": "E017",
-    "statement_ids": [
-      "S013"
-    ],
-    "time": "After discovering the body",
-    "location": "Vale estate study",
-    "subject": "study interior",
-    "action": "chair had been shifted and objects arranged differently on the table",
-    "context": "Details noted upon examination of the room",
-    "witnesses": [
-      "Jonas Kett"
-    ]
-  },
-  {
-    "event_id": "E018",
+    "event_id": "EV013",
     "statement_ids": [
       "S018",
-      "S032"
+      "S038",
+      "S039"
     ],
-    "time": "After the murder",
-    "location": "Unknown (missing)",
-    "subject": "Rowan Vale",
-    "action": "went missing after the murder",
-    "context": "Financially dependent on Aldric; had quarreled with him recently",
+    "time": "When approaching the citadel / Various periods",
+    "location": "Nearby passage / unspecified",
+    "subject": "Rowan Cale",
+    "action": "Revealed Rowan's visits under both a false name and his own; used a borrowed name; described the secret-binding problem to Niko as though it concerned someone else",
+    "context": "Cale used aliases when visiting the citadel; deliberate identity concealment upon arrival; evasive account masking his own involvement",
     "witnesses": [
-      "Rowan Vale",
-      "Inspector Brannick Hale"
+      "Bram Toller",
+      "Rowan Cale"
     ]
   },
   {
-    "event_id": "E019",
+    "event_id": "EV014",
     "statement_ids": [
-      "S021"
+      "S062",
+      "S061"
     ],
-    "time": "After Aldric learned of the marriage",
-    "location": "Vale estate",
-    "subject": "Elia Moss",
-    "action": "was dismissed from service",
-    "context": "Lost her position as parlour maid after the secret marriage was discovered",
+    "time": "Post-mortem / After the killing",
+    "location": "Not specified / Unknown",
+    "subject": "Pira Senn",
+    "action": "Confession attributed to her is disputed; appeared to have seen or met someone",
+    "context": "Due to form, timing, and surrounding circumstances; after the killing occurred",
     "witnesses": [
-      "Elia Moss"
+      "Pira Senn"
     ]
   },
   {
-    "event_id": "E020",
+    "event_id": "EV015",
     "statement_ids": [
-      "S031",
-      "S033",
-      "S034",
-      "S048"
+      "S022",
+      "S069",
+      "S034"
     ],
-    "time": null,
-    "location": null,
-    "subject": "Rowan Vale",
-    "action": "treated as the likely murderer",
-    "context": "Based on motive (fear of disinheritance from secret marriage), disappearance, recent quarrel, and shoe evidence matching footprints",
+    "time": "Before the murder / Longstanding attitude",
+    "location": "Household / General stance",
+    "subject": "Aric Vey / Binding proof",
+    "action": "The household knew of Vey's spring caster; meant to summon his legal steward and alter his settlement after learning the truth about Selene's binding to Rowan; requested destruction of binding proof",
+    "context": "Weapon was known to staff though not necessarily its location; why Selene's secret binding would threaten inheritance and trigger legal response; effort to eliminate evidence of the forbidden union",
     "witnesses": [
-      "Inspector Brannick Hale"
-    ]
-  },
-  {
-    "event_id": "E021",
-    "statement_ids": [
-      "S035"
-    ],
-    "time": null,
-    "location": null,
-    "subject": "Aldric's will",
-    "action": "explained the terms of Aldric's will and financial arrangements",
-    "context": "Clarified who benefits from Aldric's death and how Rowan, Maren, Dame Perrin, and others stand financially",
-    "witnesses": [
-      "Garrick Holm"
-    ]
-  },
-  {
-    "event_id": "E022",
-    "statement_ids": [
-      "S029",
-      "S030"
-    ],
-    "time": null,
-    "location": null,
-    "subject": "the Vale family / Aldric's papers",
-    "action": "spoke about the family's financial dependence on Aldric and concealed self-interested conduct",
-    "context": "Her evidence mainly clarified financial motives within the household; her evasiveness and concern with money made her suspicious",
-    "witnesses": [
-      "Dame Perrin Vale"
-    ]
-  },
-  {
-    "event_id": "E023",
-    "statement_ids": [
-      "S028"
-    ],
-    "time": null,
-    "location": null,
-    "subject": "Captain Orven Blaise",
-    "action": "was emotionally guarded due to feelings for Maren Vale",
-    "context": "His restraint and awkwardness created suspicion, though his evidence was mostly observational",
-    "witnesses": [
-      "Captain Orven Blaise"
-    ]
-  },
-  {
-    "event_id": "E024",
-    "statement_ids": [
-      "S023",
-      "S024"
-    ],
-    "time": null,
-    "location": "Vale estate",
-    "subject": "Mistress Iona Sable",
-    "action": "asked Dr. Wren about addiction, rare poisons, and paralyzing toxins",
-    "context": "Her line of questioning created suspicion around herself during the inquiry; later indicated these questions related to a private concern about a troubled young man connected to her past",
-    "witnesses": [
-      "Mistress Iona Sable"
-    ]
-  },
-  {
-    "event_id": "E025",
-    "statement_ids": [
-      "S026"
-    ],
-    "time": null,
-    "location": null,
-    "subject": "Niall Corven",
-    "action": "had a history of drug use",
-    "context": "Part of his character profile during the inquiry",
-    "witnesses": [
-      "Niall Corven"
-    ]
-  },
-  {
-    "event_id": "E026",
-    "statement_ids": [
-      "S063",
-      "S064"
-    ],
-    "time": "After the murder discovery",
-    "location": "Copper Finch establishment",
-    "subject": "Niall Corven / Footprint evidence",
-    "action": "corroborated Niall Corven's movements, appearance, and poor boots",
-    "context": "Helps distinguish him from the person whose prints appeared near Aldric's study window and weakens the theory that he made those marks",
-    "witnesses": [
-      "The barmaid at the Copper Finch"
-    ]
-  },
-  {
-    "event_id": "E027",
-    "statement_ids": [
-      "S052"
-    ],
-    "time": "recently",
-    "location": null,
-    "subject": "voice-recording cabinet",
-    "action": "confirmed that Aldric had recently obtained a voice-recording cabinet",
-    "context": "Made the heard voice potentially misleading as to Aldric's actual presence",
-    "witnesses": [
-      "sales agent"
-    ]
-  },
-  {
-    "event_id": "E028",
-    "statement_ids": [
-      "S036",
-      "S037",
-      "S039",
-      "S040"
-    ],
-    "time": null,
-    "location": "village",
-    "subject": "various case subjects",
-    "action": "repeated reports about Livia Marr, Aldric Vale, Maren, Rowan, possible blackmail, and village movements",
-    "context": "Some reflected real observation, but much was speculative, biased, or secondhand; village gossip about blackmail and Livia's confession circulated",
-    "witnesses": [
-      "Vera Quill",
-      "Edrin Cale"
-    ]
-  },
-  {
-    "event_id": "E029",
-    "statement_ids": [
-      "S056"
-    ],
-    "time": null,
-    "location": "study door",
-    "subject": "steward",
-    "action": "may have listened at the door",
-    "context": "The steward had a furtive past and may have listened at the door",
-    "witnesses": [
-      "Inspector Brannick Hale"
+      "Jessa Kade",
+      "Aric Vey",
+      "Selene Orrel"
     ]
   }
 ]

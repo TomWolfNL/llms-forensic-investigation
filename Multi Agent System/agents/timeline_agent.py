@@ -1,18 +1,9 @@
 from agents.base import StructuredAgent
-
-from prompts.timeline_prompt import (
-    TIMELINE_PROMPT
-)
-
-from models.timeline_models import (
-    TimelineResult
-)
-
+from prompts.timeline_prompt import TIMELINE_PROMPT
+from models.timeline_models import TimelineResult
 
 class TimelineAgent:
-
     def __init__(self):
-
         self.agent = StructuredAgent(
             prompt=TIMELINE_PROMPT,
             output_schema=TimelineResult
@@ -22,9 +13,8 @@ class TimelineAgent:
         self,
         statements: list
     ):
-
-        result = await self.agent.invoke(
-            statements
+        result, telemetry = await self.agent.invoke(
+            statements, "TimelineAgent"
         )
 
-        return result.events
+        return result.events, telemetry

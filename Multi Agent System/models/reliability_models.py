@@ -1,28 +1,18 @@
 from pydantic import BaseModel
-from typing import Any
-
+from typing import List, Optional
 
 class CredibilityMetrics(BaseModel):
-
     internal_consistency: float
-
-    cross_confirmation: float
-
+    physical_impossibility: float
+    orchestration_marker: float
     detail_quality: float
-
-    observation_quality: float
-
-    contextual_alignment: float
-
 
 class CredibilitySignal(BaseModel):
     type: str
     description: str
     score: float
 
-
 class CredibilityResult(BaseModel):
     witness: str
-    evidence: list[CredibilitySignal]
-    metrics: CredibilityMetrics
-    credibility_grade: int
+    evidence: List[CredibilitySignal]
+    metrics: Optional[CredibilityMetrics] = None

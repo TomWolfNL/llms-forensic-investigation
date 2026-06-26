@@ -1,238 +1,299 @@
 [
   {
-    "witness": "Aldric Vale",
-    "grade": "C",
-    "explanation": "Aldric Vale functions primarily as a conduit for Livia Marr's own statements rather than a direct observer of the events he describes. In S006 and S007, he relays what Livia privately confessed to him—that she caused her first husband's death and was subsequently extorted—making these accounts hearsay from his perspective. As the recipient of her confession, he directly observed the conversation itself, but he did not directly observe the underlying events (the alleged killing or the blackmail payments). S008 involves a physical document (the letter) which he handled and partially read, providing somewhat more direct engagement, though the letter's ultimate evidentiary value depends on its contents. No contradictions or behavioral red flags were documented, and there are no apparent bias indicators in the provided data. The mixed profile—some direct interaction with documentary evidence alongside predominant reliance on another person's out-of-court statements—supports a C rating.",
-    "factors_assessed": [
-      "observation directness: predominantly hearsay; reports what Livia told him rather than events he directly witnessed",
-      "vantage and access: had private conversational access to Livia and received her written correspondence",
-      "internal coherence: no documented contradictions or retractions in his account",
-      "bias and motivation: no apparent personal stake or motive to deceive detected in available data"
-    ]
-  },
-  {
-    "witness": "Aldric's secretary",
-    "grade": "C",
-    "explanation": "The secretary provides direct first-hand auditory observation—hearing Aldric's voice from the study at approximately 9:30 PM. No internal contradictions or behavioral red flags are documented against this witness. However, the behavioral record (INC007) identifies a critical uncertainty: the voice could have been a pre-recorded playback from the newly acquired voice-recording cabinet rather than a live utterance. While the secretary genuinely heard something, they lack the means to verify whether the sound was actually live or recorded post-mortem. This introduces significant doubt into interpreting the significance of their observation without corroborating evidence about the recording device's use. The witness is fairly reliable as a sensory reporter but cannot confirm the essential fact investigators need—that Aldric was genuinely alive at that moment.",
-    "factors_assessed": [
-      "observation directness: direct first-hand auditory observation of a voice, but unable to verify whether live or recorded",
-      "internal coherence: no self-contradictions or retractions; account consistent with another independent witness",
-      "vantage and access: proximate to study area at relevant time, though full verification unclear",
-      "concealment indicator: voice-recording capability introduces material uncertainty about authenticity of reported observation"
-    ]
-  },
-  {
-    "witness": "Captain Orven Blaise",
+    "witness": "Aric Vey",
     "grade": "F",
-    "explanation": "Only one statement provided describing the witness's own emotional state regarding another individual. Insufficient data exists to assess observation directness, behavioral consistency, or internal coherence across multiple interactions. While the statement indicates personal feelings for Maren Vale (a potential bias indicator), no behavioral red flags or contradictions are documented. Source reliability cannot be meaningfully judged with only a single self-referential statement and no supporting evidence profile.",
+    "explanation": "Aric Vey is the deceased victim, not a living source. No direct testimony exists—all attributions derive from documentary evidence, physical artifacts, and circumstantial inference. While his written note and habitual patterns are analytically valuable, the subject cannot function as an 'information channel' in the forensic sense. Source reliability assessment is inapplicable to the deceased.",
     "factors_assessed": [
-      "insufficient data: only one statement available",
-      "personal interest: romantic feelings for Maren Vale create potential bias"
+      "observation directness: N/A - subject is deceased",
+      "testimonial capacity: none - all statements derived from documents and physical evidence",
+      "deceased subject: cannot serve as source of information"
     ]
   },
   {
-    "witness": "Celia Wren",
-    "grade": "D",
-    "explanation": "Celia Wren presents a composite reliability picture. Statement S011 reflects direct first-hand observation of Rowan with an unidentified woman, but S009 involves spreading and gathering reports about Livia's death rather than direct witnessing of events, and S010 concerns information learned about Rowan's whereabouts at the inn. Her behavioral record (INC009) documents significant motive alignment: as Dr. Wren's wife, she occupied a privileged intelligence position, maintained informant networks, and actively disseminated the suicide hypothesis before official findings. Her promotion of the guilt-driven suicide narrative could have shielded the actual perpetrator of Livia's poisoning. The risk score of 0.68 indicates strong personal interest tied to institutional positioning. While her statements are internally consistent, the combination of predominantly indirect sourcing, documented narrative-shaping behavior, and clear personal stake in how the case was perceived substantially undermines her reliability as an unbiased source.",
+    "witness": "Bram Toller",
+    "grade": "B",
+    "explanation": "Bram Toller's statements derive entirely from direct personal experience in his role as housewarden—barring the citadel, verifying fastenings, discovering the body, and witnessing Tavia's reaction. His voluntary disclosure of Rowan's alias visits demonstrates transparency rather than concealment. No contradictions originate from his account; CONT005 concerns Rowan's conduct, not Toller's veracity. His consistent behavior and low risk score (0.1) indicate reliable testimony grounded in natural institutional access.",
     "factors_assessed": [
-      "observation directness: mixed direct and indirect sourcing with reliance on informant networks",
-      "bias: strong personal stake as Dr. Wren's wife with aligned institutional interests",
-      "behavioral consistency: documented motive alignment through active dissemination of protective narrative"
+      "observation directness: direct personal performance of actions and direct visual observation of all reported events",
+      "material deception: none detected",
+      "unnatural access: none—housewarden role naturally positions him at all reported locations and events",
+      "deflection tactics: absent—he disclosed Rowan's alias use proactively",
+      "bias: minimal—professional duty alignment with accurate reporting"
     ]
   },
   {
-    "witness": "Dame Perrin Vale",
-    "grade": "D",
-    "explanation": "Dame Perrin Vale exhibits significant behavioral red flags as a source. While she provided some direct information about household financial dependence (S029), she simultaneously engaged in concealment of self-interested conduct involving Aldric's papers (S030). Behavior record INC004 documents deliberate evasion—she allowed Rowan to appear as the obvious suspect while obscuring her own financial exposure. Additionally, she stands to benefit financially under Aldric's will (S035), establishing a strong personal stake that aligns with her evasive behavior. These factors combine to indicate significant doubt about her reliability as an information source.",
+    "witness": "Deven Holt",
+    "grade": "B",
+    "explanation": "Deven Holt provides direct observational testimony as a watch agent conducting assigned surveillance of Tavia Orrel. His accounts of observing Tavia enter an unauthorized chamber, manipulate objects near a grate, and audible evidence of an object falling are all consistent with his official surveillance mandate. While he subsequently helped recover the ward-key and message fragments that implicated Tavia in concealment, this aligns with standard evidence recovery protocols rather than self-directed orchestration. No contradictions exist within his own statements, and his behavior is assessed as consistent with professional duty. Minor reservation stems from the inherent sensitivity of having primary observational responsibility over a subject whose conduct he helped document.",
     "factors_assessed": [
-      "observation directness: mixed—some direct household knowledge alongside active concealment of own conduct",
-      "behavioral consistency: evasion documented; deliberately deflects attention from her own financial interests",
-      "bias and motivation: strong personal financial stake as beneficiary under Aldric's will"
+      "observation directness: direct physical observation during sanctioned surveillance assignment",
+      "material deception: none detected; statements internally consistent",
+      "bias: minimal institutional role as assigned watch agent performing official duties",
+      "unnatural access: legitimate assignment-based positioning; not self-selected clustering at evidentiary nodes",
+      "deflection tactics: none observed; cooperative testimony"
     ]
   },
   {
-    "witness": "Dr. Silas Wren",
+    "witness": "Ilyan Mora",
     "grade": "A",
-    "explanation": "Dr. Wren provides exclusively first-hand, direct observations of events he personally witnessed, including Aldric's confession about Livia's crimes, the arrival and contents of Livia's final letter, his own departure from the study, and encountering the unfamiliar young man at the estate gates. No contradictions are documented in his account. No behavioral red flags are recorded against Dr. Wren himself. As Aldric's physician-neighbor with no apparent personal stake in the case outcome, he presents as a neutral, disinterested source. His statements demonstrate strong internal coherence across multiple statement records, with no retractions or self-contradictions.",
+    "explanation": "Ilyan Mora served in an official investigative capacity, directly searching Vey's sleep chamber and recovering the spring caster and ammunition from the locked drawer—the weapon's normal storage location. His statements reflect direct analytical observation during the investigation process. No contradictions exist between his own statements; the broader case contradictions (CONT001, CONT003) do not implicate his testimony. Behavior assessment (INC012) confirms consistent, procedurally sound conduct with a low risk score of 0.15. No bias, deception, deflection tactics, or unnatural access patterns were detected. His account aligns coherently with physical evidence findings.",
     "factors_assessed": [
-      "observation directness: direct first-hand account of conversations and events personally witnessed",
-      "vantage and access: present in the study during critical moments, proximate to all reported events",
-      "behavioral consistency: no behavioral red flags documented against this witness",
-      "bias and motivation: no apparent personal stake or motive to deceive"
+      "observation directness: direct analytical observation during official investigation",
+      "material deception: none detected",
+      "peripheral concealment: none detected",
+      "unnatural access: absent - performed standard investigative duties",
+      "deflection tactics: none observed",
+      "bias/motivation: none established - acted in official capacity",
+      "internal consistency: high - statements corroborate physical evidence"
     ]
   },
   {
-    "witness": "Edrin Cale",
-    "grade": "C",
-    "explanation": "Edrin Cale's sole statement indicates his information came from rumor rather than firsthand testimony—he 'heard' about blackmail involvement and speculated about perpetrators. The absence of direct observation significantly reduces reliability potential. However, no behavioral red flags were documented, no contradictions appear in the record, and there is no indication of personal stake or motive to deceive. The hearsay nature of his reporting is the primary concern, but since no compounding factors (concealment, changing story, strong bias) are present, the grade settles at C.",
-    "factors_assessed": [
-      "observation directness: reports hearsay and speculation rather than firsthand observation",
-      "bias: no apparent personal stake or motive to deceive",
-      "internal coherence: no contradictions or retractions in recorded statements"
-    ]
-  },
-  {
-    "witness": "Elia Moss",
+    "witness": "Jessa Kade",
     "grade": "B",
-    "explanation": "Elia Moss provides first-hand accounts of her own circumstances including the secret marriage (S020), her dismissal (S021), and knowledge of Rowan's disinheritance concerns (S022). No contradictions are recorded against her. No behavioral red flags are documented specifically for her. Minor reservations stem from her undisclosed romantic relationship with Rowan Vale creating a personal stake, and S022 involves recounting Rowan's internal fears rather than her own direct observation. However, her willingness to disclose the marriage publicly despite its scandalous nature suggests openness rather than concealment. Overall, testimony is mostly direct with only minor compounding reservations.",
+    "explanation": "Jessa Kade provides fairly reliable testimony grounded in direct observation. Her statements include personal actions (alerting investigators to Pira's disappearance), firsthand household knowledge (confirming Pira's ailment and remedy-seeking), and direct visual observation (seeing Tavia hide papers in the maproom). Critically, her observation of Tavia's suspicious document handling aligns with subsequent evidence of Tavia's concealment activities, suggesting internal consistency. No behavioral red flags were identified; her risk score is low (0.15), and there is no indication of material deception, deflection tactics, or unnatural access to evidentiary nodes. Minor reservation stems from her position within the household creating a tangential stake, but this does not undermine the directness or apparent honesty of her observations.",
     "factors_assessed": [
-      "observation directness: first-hand account of own circumstances including secret marriage and dismissal",
-      "bias: moderate personal stake as undisclosed spouse of implicated party",
-      "internal coherence: no contradictions recorded; account remains consistent",
-      "behavioral consistency: no behavioral red flags documented for this witness"
+      "observation directness: direct personal observation of Tavia's suspicious behavior in maproom",
+      "observation directness: firsthand knowledge of household conditions and Pira's pre-disappearance state",
+      "consistency: reports align with corroborating evidence of Tavia's concealment activities",
+      "bias: minor institutional stake as household member, no apparent motive to fabricate",
+      "deception indicators: none identified, behavior assessed as consistent with low risk"
     ]
   },
   {
-    "witness": "Garrick Holm",
-    "grade": "C",
-    "explanation": "Garrick Holm provided a single statement (S035) explaining the terms of Aldric's will and financial arrangements, offering substantive clarification on inheritance beneficiaries. No contradictions are attributed to him personally. The behavioral risk indicators in the record (INC003, INC004) pertain to other individuals (Rowan Vale and Dame Perrin Vale), not to Garrick Holm himself. Assessment is constrained by limited data: only one statement is available, his vantage point and relationship to the will are unspecified, and there is insufficient evidence to determine whether he speaks from direct knowledge or institutional access versus hearsay. No behavioral red flags are documented for this witness. Grade reflects fairly reliable but incomplete source evaluation.",
-    "factors_assessed": [
-      "observation directness: unclear whether knowledge derives from direct access to the will or secondary sources",
-      "internal coherence: single statement precludes assessment of consistency over time; no self-contradictions noted",
-      "behavioral consistency: no behavioral issues documented for Garrick Holm himself in the record",
-      "bias: no apparent personal stake or motive identified in the available evidence"
-    ]
-  },
-  {
-    "witness": "Inspector Brannick Hale",
+    "witness": "Jorik Penn",
     "grade": "B",
-    "explanation": "As a professional investigator, Inspector Hale provides direct, first-hand observations of the crime scene including finding the body (S044), identifying the murder weapon (S045), documenting the open garden window (S046), and recording suspicious footprints (S047). His investigative findings regarding Rowan's motive, secret marriage, and disappearance represent systematic evidence collection. No contradictions are recorded against his testimony, and the behavioral concerns documented (INC003, INC010) pertain to other subjects (Rowan Vale and the Steward), not to Hale himself. No personal stake or bias indicators are evident in his role as investigating officer. Minor reservation reflects that some characterizations involve interpretive assessments (e.g., 'seemed implicated') typical of investigative reasoning rather than pure factual reporting.",
+    "explanation": "Jorik Penn provided two routine background intelligence statements identifying Liora Fen as a respectable widow and describing her household, facilitating Niko's covert lodging arrangement. Both statements served a procedural/investigative enablement function. There is no indication of direct observation of criminal activity, nor any behavioral red flags. The single documented contradiction (CONT001) pertains to Tavia Orrel's handling of evidence and does not involve Jorik Penn. Without additional statements or behavioral indicators, there are no substantial grounds to question his reliability for the information he provided.",
     "factors_assessed": [
-      "observation directness: professional investigator with direct access to crime scene evidence",
-      "vantage and access: present at discovery scene, systematically documents physical evidence",
-      "behavioral consistency: no behavioral red flags attributed to this witness",
-      "bias and motivation: acting in official investigative capacity with no apparent personal stake"
+      "observation directness: indirect reporting of background intelligence, no direct observation of core events",
+      "material deception: none identified",
+      "peripheral concealment: none identified",
+      "unnatural access: no suspicious clustering around evidentiary nodes",
+      "deflection tactics: none observed",
+      "bias: no apparent personal stake; appears procedurally cooperative"
     ]
   },
   {
-    "witness": "Jonas Kett",
-    "grade": "D",
-    "explanation": "Jonas Kett provides direct first-hand accounts of observable duties (mail delivery, study condition) but exhibits documented evasion (INC006) regarding the telephone call summoning Dr. Wren. His denial that he made the call while someone clearly did creates a conspicuous gap in the timeline. The behavioral flag for evasion carries a risk score of 0.72, indicating significant doubt about his full transparency. His refusal to account for the call's origin suggests either concealment of another person's involvement or misrepresentation of his own whereabouts, undermining his reliability as a complete source despite otherwise direct observational statements.",
-    "factors_assessed": [
-      "observation directness: direct first-hand accounts of mail delivery and study conditions",
-      "behavioral consistency: documented evasion regarding the telephone call (INC006)",
-      "internal coherence: denial contradicts established fact that the call was made",
-      "access: clear vantage to observe household events but uncertain accountability for key moments"
-    ]
-  },
-  {
-    "witness": "Livia Marr's kitchen maid",
-    "grade": "F",
-    "explanation": "Only one statement provided (S062), which states the maid was the first source of village news regarding Livia Marr's death. This statement is purely administrative and contextualizing her role as an informant. It does not describe what she personally observed, how she learned of the death, or provide any substantive account of events. No behavioral data, contradictions, or additional statements are available to assess her reliability as a source. The witness's direct observational capacity cannot be determined from the available information.",
-    "factors_assessed": [
-      "insufficient statements to evaluate source reliability",
-      "observation directness indeterminate - no description of what she witnessed",
-      "no behavioral or consistency data available"
-    ]
-  },
-  {
-    "witness": "Maren Vale",
-    "grade": "E",
-    "explanation": "Maren Vale initially fabricated a direct eyewitness claim that she saw Aldric alive after dinner, which artificially extended Aldric's survival window and could have redirected suspicion toward Rowan. She later fully retracted this claim, admitting she only approached the study while stealing money and never actually saw Aldric (S050/S057). This documented admission of a fabricated eyewitness account constitutes a direct falsification of testimony. Combined with her established presence at the estate for theft, she had clear motive to deceive regarding the timeline. A single admitted lie in a material portion of her account is sufficient for an E grade.",
-    "factors_assessed": [
-      "observation directness: admitted fabricating direct eyewitness claim of seeing Aldric alive",
-      "internal coherence: documented retraction of key testimony contradicts earlier account",
-      "bias: established presence during theft gives strong personal stake in timeline manipulation",
-      "behavioral consistency: initial false claim followed by full retraction indicates deliberate deception"
-    ]
-  },
-  {
-    "witness": "Mistress Iona Sable",
-    "grade": "D",
-    "explanation": "Mistress Sable exhibits significant behavioral concern. Her line of questioning to Dr. Wren about addiction, rare poisons, and paralyzing toxins (S023) demonstrates operational awareness of toxicological methods that aligns with the known cause of death, raising questions about her advance knowledge. Although she provides a benign explanation linking her questions to private concern about Niall Corven (S024), the behavioral record documents this as 'unnatural_access' with a high risk score of 0.78. Her concealment regarding the 'troubled young man' redirected investigative focus while obscuring her connection to the stranger seen near the estate. No contradictions are recorded between her statements, which offers some stability, but the combination of targeted toxicology questions, undisclosed personal connections, and documented behavioral anomaly places significant doubt on her as a fully transparent source.",
-    "factors_assessed": [
-      "observation directness: direct first-person account of her own actions and motivations",
-      "behavior: unnatural_access flagged with high risk score (0.78); targeted toxicology questions suggesting advance knowledge",
-      "concealment: undisclosed connection to Niall Corven until after questioning raised suspicion",
-      "internal coherence: statements internally consistent but explanation offered post-hoc raises interpretive concern"
-    ]
-  },
-  {
-    "witness": "Nessa Pike",
-    "grade": "C",
-    "explanation": "Nessa Pike functions as an intermediary in an informal information network, passing along 'early domestic news' about Livia Marr's death to Celia Wren. The context explicitly characterizes this evidence as 'minor and mostly hearsay,' indicating she relays information obtained secondhand rather than observing events directly. No contradictions are recorded against her, and no behavioral red flags are attributed specifically to her. However, her role as a passive transmitter of unverified community gossip—rather than a direct observer—limits her reliability as a primary source.",
-    "factors_assessed": [
-      "observation directness: mostly hearsay relay through informal network, no direct observation indicated",
-      "vantage: peripheral access to events, receives and transmits information rather than witnessing",
-      "internal coherence: no contradictions recorded for this witness",
-      "bias: no explicit personal stake identified in available evidence"
-    ]
-  },
-  {
-    "witness": "Niall Corven",
+    "witness": "Kel Brask",
     "grade": "B",
-    "explanation": "Niall Corven provides direct, first-hand accounts of his own actions and circumstances, including self-incriminating admissions of drug use and secret estate visits. No contradictions are recorded against him. His concealment is explicitly categorized as 'innocent concealment' stemming from a private family matter with Mistress Sable, with a low behavioral risk score of 0.25. His account is corroborated by independent third-party sources (barmaid at the Copper Finch), and his bootprint evidence distinguishes him from heavier prints near the study window, supporting consistency. While some doubt persists regarding his precise whereabouts and the nature of his concealment, the cumulative evidence indicates he is a cooperative, forthcoming source whose admissions and corroboration outweigh residual uncertainty.",
+    "explanation": "Kel Brask provides a direct visual observation report as a nearby resident/metalworker, describing seeing a woman at an upper window of Liora's house. His vantage point as a local neighbor supports natural access to such observations. The primary limitation is that his identification of the woman as 'Pira' is inferential ('believed to be'), introducing some uncertainty into the attribution. No contradictions directly involve his statement, and there is no evidence of material deception, deflection tactics, or unnatural access patterns. His role appears incidental rather than suspiciously positioned at evidentiary nodes.",
     "factors_assessed": [
-      "observation directness: direct first-hand account of own actions and whereabouts",
-      "internal coherence: no self-contradictions; admits to secret visits voluntarily",
-      "behavioral consistency: innocent concealment with low risk score (0.25); corroborated by barmaid",
-      "bias: self-incriminating admissions indicate no apparent motive to conceal criminal activity beyond private family matter"
+      "observation directness: direct visual observation from residential vantage point",
+      "identification uncertainty: subject described as 'believed to be' Pira rather than positively identified",
+      "no contradictions directly implicating witness",
+      "no behavioral red flags detected",
+      "incidental access pattern consistent with genuine witness"
     ]
   },
   {
-    "witness": "Rowan Vale",
+    "witness": "Kit Vale",
+    "grade": "B",
+    "explanation": "Kit Vale demonstrates reliable reporting through multiple direct observations of material events: witnessing Pira alive shortly before her death (S045), observing the suspicious powder episode (S046), and recovering physical evidence including Selene's message (S047). His investigative methods under alias Moth are internally consistent (INC015, risk 0.22). The sole contradiction (CONT004) concerns temporal/locational ambiguity about when and where Pira was seen alive relative to her disappearance—this represents evidentiary gap complexity rather than deceptive inconsistency by the witness. His positioning at multiple evidentiary nodes is structurally justified by his undercover operative role following specific leads. No personal bias, deflection tactics, or material deception detected. Minor reservation stems from reliance on secondhand intelligence-gathering alongside direct observations, warranting Grade B rather than A.",
+    "factors_assessed": [
+      "observation directness: multiple direct physical observations of key events (Pira alive, powder episode)",
+      "evidence recovery: direct analytical recovery of physical documents and messages",
+      "structural access: operative role explains proximity to evidentiary nodes without narrator trap indicators",
+      "consistency: internal behavioral consistency confirmed (INC015)",
+      "material deception: none detected",
+      "deflection tactics: absent",
+      "bias: minimal institutional pressure noted, no personal stake identified",
+      "evidentiary ambiguity: CONT004 introduces minor interpretive uncertainty regarding timeline placement"
+    ]
+  },
+  {
+    "witness": "Liora Fen",
     "grade": "D",
-    "explanation": "Rowan Vale presents multiple reliability concerns as a source. His statements are entirely self-serving exculpatory claims (going missing, wearing different footwear) offered to explain away incriminating physical evidence. The behavioral profile reveals a strong financial motive: secret marriage to a housemaid that would trigger disinheritance, financial dependence on the victim, recent quarrel, and immediate disappearance after the murder. These factors combine to show significant personal interest in the outcome, creating clear motivation to deceive. The footwear claim specifically contradicts the strongest physical evidence against him, functioning as a convenient denial rather than credible testimony. No independent corroboration exists for his accounts.",
+    "explanation": "Liora Fen demonstrates significant unreliability markers. While her own admissions (hiding binding evidence, receiving Selene's destruction request) constitute direct testimony, they reveal her as an active participant in the concealment network protecting Selene's inheritance position. Her taking in of Pira immediately after the murder suggests advance coordination. Most critically, her account of Pira's words (S059) is hearsay layered over a disputed posthumous confession—the very statement she relays is itself contested (CONT002, severity 0.78). Her connection to Rowan Cale and role as keeper of damaging proof establish clear motive alignment with Selene's interests. The convergence of evidence possession, evidence destruction requests, and sanctuary provision to a fleeing witness creates an unnatural clustering pattern at key evidentiary nodes.",
     "factors_assessed": [
-      "observation directness: statements are self-serving denials rather than objective observations",
-      "bias: strong financial motive established through secret marriage, dependence, and inheritance interest",
-      "behavioral consistency: went immediately missing after the murder, consistent with flight behavior",
-      "internal coherence: sole account consists of self-exculpatory claims without external support"
+      "observation directness: mixed—direct admissions of own concealment actions vs. hearsay relay of Pira's disputed account",
+      "material deception: admitted to ongoing concealment of binding proof; active participation in evidence suppression",
+      "unnatural access: suspiciously positioned at multiple critical nodes—evidence holder, destruction request recipient, and Pira's sanctuary provider",
+      "hearsay: S059 constitutes second-hand account of disputed confession",
+      "bias: strong motive alignment with Selene via connection to Rowan; active role in protecting Selene's inheritance position",
+      "contradiction: conflicting treatment of Pira's account as reliable (via Liora) vs. disputed confession"
     ]
   },
   {
-    "witness": "The barmaid at the Copper Finch",
+    "witness": "Lucan Marris",
+    "grade": "B",
+    "explanation": "Marris provides direct observational testimony as Vey's confidential cipher aide present throughout the evening work session. His accounts of the amber cordial (S002), the open inner door (S003), and passage sounds (S004) reflect first-hand sensory experience within his normal workplace context. While his trusted position near the murder site raises some concern regarding the 'last person with Vey' dynamic (INC007), his access is consistent with his disclosed professional role as confidential aide rather than indicating suspicious clustering at evidentiary nodes. No contradictions or deceptive patterns were identified. Minor reservation stems from the vague nature of 'indistinct passage sounds' and his involvement in reporting the murder, but these do not substantially undermine his reliability as a direct observer of the physical environment surrounding the incident.",
+    "factors_assessed": [
+      "observation directness: direct physical observation of maproom environment including amber cordial, open door, and passage sounds",
+      "access legitimacy: access consistent with disclosed role as confidential cipher aide",
+      "unnatural access: moderate concern - present throughout work session and assisted reporting, but access explained by employment role",
+      "deception indicators: none identified - no contradictions or material retractions",
+      "bias: mild professional loyalty possible given employer relationship, no significant external stakes detected"
+    ]
+  },
+  {
+    "witness": "Marlo Dain",
+    "grade": "B",
+    "explanation": "Marlo Dain, described as a chair-driver, provided first-hand observational accounts regarding Rowan Cale's presence, agitation, and movements at Saffron Gate Inn, corroborated by staff statements. These observations directly support the physical timeline analysis distinguishing Rowan's concealments from the murder timeframe. No contradictions were identified in Marlo's own statements, and there is no evidence of material deception, deflection tactics, or unnatural access patterns. As a working-class transport worker with no apparent stake in the outcome, Marlo appears motivated solely by accurate reporting. The primary limitation is that these statements concern pre-murder preparatory activity rather than the killing itself, placing them in a supporting evidentiary role rather than at the center of the investigation.",
+    "factors_assessed": [
+      "observation directness: direct physical observation of subject at public location (Saffron Gate Inn)",
+      "corroboration: account supported by independent staff testimony",
+      "materiality: statements address timeline and premeditation indicators relevant to investigation",
+      "bias: no identified personal, financial, or emotional stake; occupational neutrality",
+      "deception indicators: none identified; no contradictions in witness statements"
+    ]
+  },
+  {
+    "witness": "Meren Toll",
+    "grade": "B",
+    "explanation": "Senior estate advocate providing direct analytical knowledge of Vey's character, settlement documents, and longstanding familial attitudes. Statements are internally consistent with no recorded contradictions. While offering background context rather than eyewitness testimony to specific events, the professional role and document access support reliability. Minor reservation stems from institutional role as estate advocate, which carries mild procedural bias, but no personal stake or material deception detected.",
+    "factors_assessed": [
+      "observation directness: direct analytical observation through professional estate advocacy role and document access",
+      "consistency: no recorded contradictions across multiple statement types",
+      "bias: mild institutional bias as senior estate advocate with interest in orderly proceedings, no personal stake identified",
+      "materiality: statements provide foundational context rather than contested core facts"
+    ]
+  },
+  {
+    "witness": "Mira Pell",
+    "grade": "B",
+    "explanation": "Mira Pell provides primarily direct observations of Pira Senn's behavior and movements on the night of the incident. Statements S025 and S026 reflect firsthand physical observation of Pira dressing unusually and descending the stairs. S023 captures behavioral observations consistent with staff reports. S024 confirms conversational information shared by Pira. No internal contradictions exist within her own account, and no deflection tactics or material deception were detected. The sole external tension (CONT004) involves timeline reconciliation with Kit Vale's observations, which does not impugn Mira's direct observational accuracy. Her consistent narrative and natural positioning as an upstairs resident observing a housemate support fairly high reliability.",
+    "factors_assessed": [
+      "observation directness: direct physical observation of subject's preparation and descent",
+      "internal consistency: no contradictions within own statements",
+      "bias: none identified",
+      "deflection: absent",
+      "material deception: absent"
+    ]
+  },
+  {
+    "witness": "Nessa Orr",
+    "grade": "B",
+    "explanation": "Nessa Orr appears to be a Copper Quay Lodge attendant providing firsthand observations of guest behavior including the Orrel party, Rowan Cale, and the Orrel sisters' activities during the relevant period. Her accounts describe observable conduct and interactions that fall within the natural purview of a lodge attendant. While her statements are presented in aggregate form alongside other servants' accounts—creating minor uncertainty about precise individual attribution—there is no indication of material deception, contradictory testimony, or suspicious positioning relative to the events under investigation. As a service employee with routine access to guest areas, she possesses legitimate observational proximity without the hallmarks of an orchestrated informant. The absence of contradictions and behavioral red flags supports baseline reliability.",
+    "factors_assessed": [
+      "observation directness: direct observation of guest behavior as lodge attendant",
+      "bias: minimal - routine employment role with no apparent personal stake",
+      "material deception: none detected",
+      "unnatural access: absent - natural service-worker vantage point",
+      "aggregation caveat: statements presented alongside other servants' accounts introduces minor interpretive uncertainty"
+    ]
+  },
+  {
+    "witness": "Noa Brill",
     "grade": "A",
-    "explanation": "The barmaid provides direct, first-hand corroboration of Niall Corven's presence, appearance, and condition at her establishment. She serves as a neutral third-party observer with no apparent personal stake in the investigation's outcome. No behavioral red flags, contradictions, or self-retractions are attributed to her account. Her testimony contributes objective observational data that helps distinguish Corven from the print-maker near the study window, suggesting accurate perception and reporting.",
+    "explanation": "Noa Brill provides direct analytical observations of physical evidence in a professional forensic capacity. All three statements (S027-S029) reflect consistent technical findings regarding the flechette ammunition type, weapon loading status, and residual cleaning patterns. Her identification of deliberate but incomplete weapon cleaning is internally coherent and corroborates forensic expectations. No contradictions exist within her own statements; the noted causal conflict (CONT003) concerns access to the locked drawer—a circumstantial issue unrelated to Brill's competence as an evidence analyst. Behavior assessment shows consistent conduct with a negligible risk score (0.1). No bias or motive to deceive is indicated. As a trained examiner operating in a laboratory setting, Brill functions as a reliable information channel for technical determinations.",
     "factors_assessed": [
-      "observation directness: direct first-hand observation of patron at her establishment",
-      "vantage and access: appropriate position as barmaid to observe customers and their appearances",
-      "behavioral consistency: no behavioral red flags or evasion documented",
-      "bias and motivation: no apparent personal stake; neutral third-party observer",
-      "internal coherence: consistent account with no self-contradictions or retractions"
+      "observation directness: direct analytical observation of physical evidence and projectiles",
+      "internal consistency: all three statements align with forensic expectations",
+      "deception indicators: none detected; behavior risk score 0.1",
+      "bias/motive: no apparent personal, financial, or emotional stake",
+      "material vs peripheral: no deceptions present in testimony"
     ]
   },
   {
-    "witness": "The lamp-oil seller",
-    "grade": "D",
-    "explanation": "This witness relays secondhand information obtained from a household servant regarding Livia Marr's death. Both statements (S060, S061) confirm he heard about the death from a servant and transmitted this information to Celia Wren. He had no direct observation of the event itself; his account consists entirely of hearsay passed through an intermediary. Additionally, his role as an informant within Celia Wren's intelligence network raises concerns about potential amplification of a pre-existing narrative agenda. No behavioral red flags or self-contradictions were documented for this witness specifically, which prevents a lower grade, but the fundamental limitation of relying exclusively on secondhand sources significantly diminishes his reliability as a direct information source.",
-    "factors_assessed": [
-      "observation directness: purely secondhand hearsay from a servant, no direct observation of the event",
-      "vantage and access: marginal access through trade connections, receiving information indirectly",
-      "bias and motivation: operates as informant within Celia Wren's network with potential narrative alignment concerns",
-      "internal coherence: no self-contradictions documented"
-    ]
-  },
-  {
-    "witness": "Tobin Rusk",
-    "grade": "C",
-    "explanation": "Tobin Rusk provides a direct first-hand auditory account of hearing Aldric's voice from the study at approximately 9:30 PM. There are no contradictions attributed to him personally, and no behavioral red flags such as evasion, concealment, or retractions are documented regarding his own conduct. However, the behavioral record (INC007) identifies a significant contextual risk: the existence of a voice-recording cabinet means the voice he heard could have been a pre-recorded playback rather than live speech from a living Aldric. While this does not implicate Tobin in deception, it substantially reduces confidence in the evidentiary value of his testimony. He appears to have no personal stake or bias, but the indirect nature of what he observed—unable to verify authenticity of the voice—introduces moderate doubt. The issues are present but none are individually disqualifying, warranting a fairly reliable rating.",
-    "factors_assessed": [
-      "observation directness: direct first-hand auditory observation of Aldric's voice, though authenticity uncertain due to recording cabinet capability",
-      "vantage and access: positioned near the study with ability to hear, but unable to verify whether voice was live or recorded",
-      "behavioral consistency: no self-contradictions, retractions, or evasive behavior documented; no behavioral red flags attributed to him personally",
-      "bias and motivation: no apparent personal stake or motive to deceive"
-    ]
-  },
-  {
-    "witness": "Vera Quill",
-    "grade": "D",
-    "explanation": "Vera Quill's statements consist almost entirely of secondhand reports circulating through village gossip networks regarding deaths, possible blackmail, and interpersonal relationships among multiple subjects. The contextual annotations explicitly characterize her contributions as 'speculative, biased, or secondhand' and note that much of her reporting reflects 'village reports' rather than direct observation. Her accounts of Livia Marr's alleged admission about her first husband's death come directly from blackmail-related gossip, not personal knowledge. With no behavioral records or internal contradictions documented, the primary concern is the hearsay-dominated nature of her reporting—she serves as a conduit for unverified village rumors rather than a direct observer of the events she describes.",
-    "factors_assessed": [
-      "observation directness: overwhelmingly secondhand reports from gossip networks rather than direct observation",
-      "bias: explicitly noted as biased in contextual annotation",
-      "internal coherence: no contradictions recorded, but content sourced from unverified village rumors"
-    ]
-  },
-  {
-    "witness": "sales agent",
+    "witness": "Olin Reed",
     "grade": "B",
-    "explanation": "The sales agent provides a direct confirmation of a commercial transaction (Aldric's recent acquisition of a voice-recording cabinet) within their professional capacity. No contradictions, retractions, or behavioral red flags are documented. The agent appears as a neutral third party with no apparent personal stake in the investigation's outcome. While the timing of the sale is described vaguely ('recently'), the core factual confirmation is consistent and straightforward. The risk score associated with INC007 pertains to the evidentiary implications of the recording device, not to any indicator of unreliability in the sales agent's account.",
+    "explanation": "Olin Reed provides consistent testimony regarding the secret binding ceremony, directly identifying participants including Selene as the striking partner. His role as a hired hand called as official witness grants him direct observational access to the event. No contradictions exist between statements S054 and S055, and his behavior assessment shows very low risk (0.1). Minor reservation stems from the unusual nature of a hired outsider being permitted to witness a 'secret' ceremony, raising slight questions about selective inclusion, though this does not constitute clear orchestration indicators. Overall fairly reliable with primarily direct experiential knowledge.",
     "factors_assessed": [
-      "observation directness: direct professional knowledge of customer transaction",
-      "bias: no apparent personal stake or motive to deceive",
-      "internal coherence: no contradictions or retractions in account",
-      "behavioral consistency: no evasive conduct or concealment indicators"
+      "observation directness: direct physical witness to binding ceremony",
+      "consistency: zero contradictions between statements S054-S055",
+      "role appropriateness: hired hand legitimately called as witness",
+      "access concern: minor uncertainty about outsider access to secret ceremony",
+      "bias: minimal apparent motivation to deceive"
+    ]
+  },
+  {
+    "witness": "Orra Kest",
+    "grade": "B",
+    "explanation": "Orra Kest operates as an official investigator conducting direct analytical observations of the crime scene, physical evidence, and documentary sources. All five statements (S006–S010) reflect professional investigative engagement—examining the secured citadel, discovering physical evidence (glow-wick), interpreting material traces (soot-marked scarf), tracking suspect movements, and critically assessing the disputed posthumous confession. No behavioral red flags identified; his questioning of Pira's confession aligns with proper investigative protocol given the contested authenticity flagged by other sources. The internal contradictions (CONT001, CONT005) do not originate from Orra's own statements but represent broader evidentiary conflicts he is documenting. Minor扣分 applies only due to the inherent institutional pressures of serving as an official inquiry agent, though no personal bias or material deception is evident.",
+    "factors_assessed": [
+      "observation directness: direct analytical observation of physical evidence and crime scene",
+      "ways of knowing: professional investigator examining documents, artifacts, and trails",
+      "material deception: none detected",
+      "peripheral concealment: absent",
+      "unnatural access: not applicable; standard investigative role",
+      "deflection tactics: none observed",
+      "bias: mild institutional stake as official inquiry agent, risk score 0.12"
+    ]
+  },
+  {
+    "witness": "Pira Senn",
+    "grade": "D",
+    "explanation": "Pira Senn exhibits significant reliability concerns across multiple dimensions. First, her posthumous confession is explicitly disputed due to form, timing, and surrounding circumstances—a material issue that undermines any direct statements attributed to her. Second, she demonstrates unnatural access clustering: she departed below stairs during the murder window, apparently encountered someone post-killing, and became entangled in a contested confession—all without clear independent corroboration. Third, behavioral indicators suggest potential foreknowledge or involvement: she dressed fully for a purported brief errand, was previously troubled and withdrawn, and received a suspicious protective charm powder. Fourth, internal contradictions create ambiguity about her precise whereabouts and state (last seen alive vs. disappeared). Fifth, her reported claim of having been 'sent away and warned not to tell' functions as a pre-emptive credibility shield. Overall, she appears more likely as an orchestrated information node or compromised source than a straightforward witness.",
+    "factors_assessed": [
+      "observation directness: primarily indirect/third-party accounts of her actions; disputed posthumous confession",
+      "material deception: confession attributed to her is explicitly disputed due to form, timing, and circumstances (high severity)",
+      "unnatural access: suspiciously positioned at multiple critical evidentiary nodes—departure during murder window, post-killing encounter, contested confession",
+      "deflection: claimed silencing ('warned not to tell') serves as implicit credibility shield without verifiable substance",
+      "bias/motivation: anomalous behavior prior to murder (full dress, withdrawal, receipt of suspicious powder); possible advance knowledge or involvement",
+      "internal contradictions: conflicting accounts of her final movements and survival status (CONT002 severity 0.78, CONT004 severity 0.65)"
+    ]
+  },
+  {
+    "witness": "Rowan Cale",
+    "grade": "D",
+    "explanation": "Rowan Cale exhibits severe reliability concerns due to material deception central to the investigation. He deliberately concealed his identity using borrowed names when accessing the citadel (S038), and critically, framed his own secret-binding obligation to Selene as though it concerned a third party (S039)—a direct admission of evasion about his own motive-aligned involvement. The location contradiction (CONT005) further compounds this: he visited the citadel under aliases despite apparent security, suggesting premeditation. With a documented oath-binding to Selene (favored heir) and high motive alignment (INC002, risk 0.90), his concealment behaviors directly serve to protect a personal stake in the inheritance outcome. These are not peripheral indiscretions but systematic deceptions about his role in events threatening Selene's position.",
+    "factors_assessed": [
+      "observation directness: indirect observational reports of subject behavior, not direct testimony",
+      "material deception: framing own binding problem as third-party matter constitutes central evasion",
+      "unnatural access: alias use combined with apparent citadel access creates suspicious information control",
+      "deflection tactics: explicit redirection away from own involvement confirmed in S039",
+      "bias: high motive alignment—oath-bound to Selene with direct financial/personal stake in inheritance outcome"
+    ]
+  },
+  {
+    "witness": "Samel Dorn",
+    "grade": "B",
+    "explanation": "Samel Dorn possesses direct experiential knowledge as the officiant who performed the binding ceremony between Selene Orrel and Rowan Cale. No contradictions are present in the record. The absence of behavioral red flags such as deflection tactics, unnatural access clustering, or material deception supports reliability. While his deceased status prevents direct corroboration, the information aligns consistently with documentary evidence and other witness accounts (S033). A minor reservation applies due to the indirect transmission chain preserving his account, but there is no indication of fabrication or self-serving narrative construction. His role as a shrine-keeper performing a standard ceremonial function provides natural institutional grounding without apparent ulterior motive.",
+    "factors_assessed": [
+      "observation directness: direct physical participation in the binding ceremony as officiant",
+      "materiality: high - binding ceremony is central to establishing motive and estate crisis causation",
+      "concealment: none detected - no contradictions or retraction in record",
+      "bias: minimal - institutional role as shrine-keeper provides neutral framing for ceremonial act",
+      "information preservation: secondary reliance on memory and documents (deceased witness)"
+    ]
+  },
+  {
+    "witness": "Selene Orrel",
+    "grade": "D",
+    "explanation": "Selene Orrel is assessed primarily as a SUBJECT of investigation rather than a direct source. Statements S033 and S034 report on her secret oath-binding and her post-murder attempt to destroy binding proof via Liora Fen—both derived from hearsay and third-party intermediaries. She exhibits strong motive alignment: as Vey's favored foster heir standing to inherit, combined with her forbidden bond to Rowan Cale (whose people's interests Vey opposed), she possessed dual incentives to suppress evidence of the binding. Her active effort to eliminate binding proof after the murder suggests awareness of liability and potential complicity in the larger scheme surrounding Vey's death. The causal conflict regarding the locked weapon drawer further implicates household members with knowledge and access—including Selene. Without direct testimony from Selene herself, these assessments rest on indirect reports filtered through intermediaries, substantially undermining reliability.",
+    "factors_assessed": [
+      "observation directness: hearsay - statements report on Selene's actions sourced from third parties, not direct testimony",
+      "material deception vs peripheral concealment: active evidence destruction effort (S034) indicates concealment of legally relevant relationship; severity elevated by post-murder timing",
+      "motive alignment: high - dual stakes in Vey's removal (inheritance as favored heir + preserving forbidden bond with Rowan); risk scores of 0.88-0.90 documented in INC002/INC003",
+      "structural access: household member with intimate knowledge of Vey's habits and likely access to secured areas",
+      "bias: significant personal, emotional, and financial stakes in outcome of investigation"
+    ]
+  },
+  {
+    "witness": "Sera Voss",
+    "grade": "A",
+    "explanation": "Sera Voss provides direct analytical observations as a forensic physician examining physical evidence (wound, flechette, body positioning). All three statements derive from her professional post-mortem examination of Aric Vey, establishing wound trajectory, ruling out self-infliction, and determining the victim's position at time of death. No contradictions exist, her behavior is assessed as consistent with a negligible risk score of 0.08, and there is no indication of bias, deception, or unnatural access to evidentiary nodes. Her testimony reflects standard forensic medical practice without red flags.",
+    "factors_assessed": [
+      "observation directness: direct analytical observation of physical evidence in professional forensic capacity",
+      "material deception: none detected; no contradictory statements",
+      "peripheral concealment: not applicable; no secondary indiscretions identified",
+      "unnatural access: not applicable; performed standard post-mortem role after death occurred",
+      "deflection tactics: none observed; provided concrete factual findings",
+      "bias: none identified; acting in professional medical capacity with no personal stake evident"
+    ]
+  },
+  {
+    "witness": "Sorin Ash",
+    "grade": "B",
+    "explanation": "Sorin Ash functions as a direct analytical observer of documentary and historical records concerning Rowan Cale's background, travel, and social connections. His two statements (S048, S049) provide corroborated intelligence on Cale's pre-citadel activities, correspondence, and relationship networks without internal contradiction. No behavioral red flags, evasion tactics, or material deception are attributed to Ash himself. While his role is investigative rather than eyewitness to the core event, his systematic documentation of motive-relevant background information carries reasonable reliability. Minor reservation stems from secondhand analytical nature rather than direct sensory observation of the primary incident.",
+    "factors_assessed": [
+      "observation directness: direct analytical observation of historical records and documented travel/correspondence",
+      "material deception: none identified in witness's own statements",
+      "peripheral concealment: not applicable to this witness",
+      "deflection tactics: none observed",
+      "bias: no apparent personal, financial, or emotional stake in outcome",
+      "consistency: zero contradictions across statements"
+    ]
+  },
+  {
+    "witness": "Tavia Orrel",
+    "grade": "D",
+    "explanation": "Tavia Orrel exhibits significant reliability concerns. She made a partial admission of destroying/concealing evidence (S037) while simultaneously refusing to explain the ward-key and torn fragments (S036)—a classic retraction pattern stopping short of full disclosure. A severe internal contradiction exists: she admitted destroying/concealing evidence yet investigators recovered both the ward-key and torn fragments (CONT001, severity 0.85), raising questions about whether her admissions are truthful or fabricated. Her 'association with the spring caster' positions her unnaturally close to the murder weapon without explaining her role. Although her stated motive (protecting Selene and family name) offers some benign explanation, the scale of concealment documented by surveillance suggests possible self-protective deception beyond mere family loyalty. The combination of material-level evasion, contradictory claims about evidence destruction versus physical recovery, and suspicious clustering at key evidentiary nodes substantially degrades her reliability as an information source.",
+    "factors_assessed": [
+      "observation directness: self-incriminating admissions during investigation interviews, partially direct but incomplete",
+      "material deception: likely present—admission of destroying evidence conflicts with physical recovery of same items",
+      "unnatural access: suspiciously positioned near murder weapon and key locked-interior evidence",
+      "retraction pattern: partial admission strategy, refusing to explain specific evidence despite general acknowledgment",
+      "bias: strong familial loyalty motive to protect Selene and shield family reputation"
     ]
   }
 ]

@@ -6,7 +6,9 @@
       "name": "Dr. James Sheppard",
       "statement": "Narrator, village doctor, first medical observer of Mrs. Ferrars’s death, dinner guest at Fernly, apparent discoverer of Ackroyd’s murder, recorder of interviews, and final confessor. He reports Mrs. Ferrars’s veronal death, Ackroyd’s disclosures about Mrs. Ferrars’s confession and blackmail, the arrival of her letter, his own departure at 8:50 p.m., the stranger near the gates, the telephone call summoning him back, the crime scene, and the investigation. His narration omits and falsifies decisive facts: he had blackmailed Mrs. Ferrars, murdered Ackroyd before leaving the study, used the dictaphone to fake Ackroyd’s later voice, staged Ralph’s footprints, made the false telephone call, and retrieved incriminating evidence. His final apologia corrects the deception and confesses the crime.",
       "source_reliability": "E",
-      "information_credibility": "5"
+      "information_credibility": "5",
+      "is_adversary": true,
+      "adversary_role": "primary_suspect"
     },
     {
       "id": "W02",
@@ -55,28 +57,36 @@
       "name": "Flora Ackroyd",
       "statement": "Ackroyd’s niece and Ralph’s supposed fiancee. She initially claims to have seen Ackroyd alive after dinner, strengthening the false later time of death and protecting herself. She later retracts this and confesses that she went to the study to steal money from Ackroyd’s room and did not actually see him alive. She also provides important evidence that the Tunisian dagger was missing from the silver table when she examined it, narrowing the opportunity to someone who had taken it earlier.",
       "source_reliability": "C",
-      "information_credibility": "5"
+      "information_credibility": "5",
+      "is_adversary": true,
+      "adversary_role": "obstructive"
     },
     {
       "id": "W09",
       "name": "Ralph Paton",
       "statement": "Ackroyd’s adopted son and principal false suspect. He is secretly married to Ursula Bourne, is financially dependent on Ackroyd, had quarreled with him, and disappears after the murder, making himself look guilty. When found by Poirot, he states that he wore boots on the fatal night, not the shoes whose prints were found at the study window. This helps prove the footprints were planted. His concealment and flight damage his reliability, but his core exculpatory footwear information is confirmed.",
       "source_reliability": "C",
-      "information_credibility": "2"
+      "information_credibility": "2",
+      "is_adversary": true,
+      "adversary_role": "obstructive"
     },
     {
       "id": "W10",
       "name": "Ursula Bourne",
       "statement": "Fernly parlourmaid, later revealed as Ralph Paton’s secret wife. She explains her concealed marriage to Ralph, her dismissal after Ackroyd learned of it, her meetings with Ralph, and the personal conflict that made Ralph afraid of disinheritance. Her story resolves the mystery of Ralph’s secret woman and supplies an innocent explanation for several suspicious meetings and Ralph’s disappearance.",
       "source_reliability": "B",
-      "information_credibility": "1"
+      "information_credibility": "1",
+      "is_adversary": true,
+      "adversary_role": "obstructive"
     },
     {
       "id": "W11",
       "name": "Miss Russell",
       "statement": "Ackroyd’s housekeeper. She asks Sheppard about drug addiction, rare poisons, and curare, creating suspicion. She later explains that her concern relates to Charles Kent, her illegitimate son, whose drug habit and visit to Fernly she wished to conceal. Her concealment misdirects suspicion, but her later account helps identify Kent’s role as a red herring rather than the murderer.",
       "source_reliability": "C",
-      "information_credibility": "3"
+      "information_credibility": "3",
+      "is_adversary": true,
+      "adversary_role": "obstructive"
     },
     {
       "id": "W12",
@@ -97,7 +107,9 @@
       "name": "Mrs. Cecil Ackroyd",
       "statement": "Ackroyd’s widowed sister-in-law. She provides information about household financial pressures, Flora’s prospects, settlements, and her own dependence on Ackroyd. Her evasions and interest in money make her suspicious, and she conceals self-interested conduct around Ackroyd’s papers, but she ultimately contributes motive context rather than evidence of the murder mechanism.",
       "source_reliability": "C",
-      "information_credibility": "3"
+      "information_credibility": "3",
+      "is_adversary": true,
+      "adversary_role": "obstructive"
     },
     {
       "id": "W15",

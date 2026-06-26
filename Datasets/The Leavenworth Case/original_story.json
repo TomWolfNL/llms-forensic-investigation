@@ -13,7 +13,9 @@
       "name": "James Trueman Harwell",
       "statement": "Private secretary who first reported the murder, described his final dictation session with Leavenworth, the sherry, the partly filled glass, the open door, and hallway sounds. He concealed the decisive letter and his own actions, misdirected suspicion, forged Hannah's confession, poisoned her, and finally confessed that he killed Leavenworth to protect Mary's inheritance and advance his own love for her.",
       "source_reliability": "E",
-      "information_credibility": "1"
+      "information_credibility": "1",
+      "is_adversary": true,
+      "adversary_role": "primary_suspect"
     },
     {
       "id": "w03",
@@ -76,21 +78,27 @@
       "name": "Mary Leavenworth",
       "statement": "Heiress and secret wife of Henry Clavering. At first she minimized knowledge, withheld her marriage, denied or obscured relevant letters and suspicions, and sought to destroy marriage proofs through Mrs. Belden. Later facts showed she had motive and concealment but did not kill Leavenworth; her secrecy helped create false suspicion and gave Harwell his motive.",
       "source_reliability": "D",
-      "information_credibility": "5"
+      "information_credibility": "5",
+      "is_adversary": true,
+      "adversary_role": "obstructive"
     },
     {
       "id": "w12",
       "name": "Eleanore Leavenworth",
       "statement": "Leavenworth's other niece, initially suspected because she had handled pistol matters, was seen near papers, refused to explain the key and letter fragments, and privately admitted destroying or concealing evidence. She concealed facts chiefly to shield Mary and the family, not because she was guilty, and her denial of the murder was true.",
       "source_reliability": "C",
-      "information_credibility": "2"
+      "information_credibility": "2",
+      "is_adversary": true,
+      "adversary_role": "obstructive"
     },
     {
       "id": "w13",
       "name": "Henry Ritchie Clavering",
       "statement": "Mary's secret husband, who had used concealment and alias behavior, corresponded with Leavenworth, appeared near the house, and indirectly disclosed the secret-marriage problem to Raymond as if it concerned another person. He was evasive and self-protective, but the marriage and inheritance facts connected to him were confirmed; he was not the murderer.",
       "source_reliability": "C",
-      "information_credibility": "2"
+      "information_credibility": "2",
+      "is_adversary": true,
+      "adversary_role": "obstructive"
     },
     {
       "id": "w14",
@@ -139,7 +147,9 @@
       "name": "Amy Belden",
       "statement": "Mary's R---- friend and confidante who hid the tin box containing marriage evidence, received Mary's request to destroy proofs, took in Hannah after the murder, heard Hannah say she had been sent away and forbidden to tell what happened, and later gave a full narrative. She concealed evidence and was biased toward Mary, but her central factual disclosures were corroborated.",
       "source_reliability": "C",
-      "information_credibility": "2"
+      "information_credibility": "2",
+      "is_adversary": true,
+      "adversary_role": "obstructive"
     },
     {
       "id": "w21",

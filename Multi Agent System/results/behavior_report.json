@@ -1,72 +1,142 @@
 [
   {
     "issue_id": "INC001",
-    "person": "Dr. Silas Wren",
-    "behavior_type": "unnatural_access",
-    "explanation": "Dr. Wren is present at every single pivotal moment preceding Aldric's murder: he receives Livia's death report, witnesses Aldric's confession about Livia's crimes, observes the arrival of the explosive final letter, departs exactly 10 minutes before the estimated murder window, encounters the 'stranger' at the gate, receives a mysterious summons (which Jonas Kett denies making), and returns to discover the body. His medical expertise provides him intimate knowledge of poisons and compounds. As Aldric's personal physician and neighbor, he has unparalleled access to the victim's schedule, vulnerabilities, and household rhythms. No other witness controls the evidentiary flow to this degree.",
+    "person": "Rowan Cale",
+    "behavior_type": "evasion",
+    "explanation": "Rowan described the secret-binding problem to Niko 'as though it concerned someone else' (S039). This is a direct admission of evasion—he was discussing his own forbidden oath-bound relationship with Selene while framing it as a third-party matter. Combined with his use of a borrowed name when approaching the citadel (S038) and documented travel/preparations for a woman (S049), this demonstrates systematic deception about his own motive-aligned involvement in events threatening Selene's inheritance.",
     "risk_score": 0.85
   },
   {
     "issue_id": "INC002",
-    "person": "Maren Vale",
-    "behavior_type": "retraction",
-    "explanation": "Maren initially claimed to have seen Aldric alive after dinner, which artificially extended his survival window and indirectly strengthened the case against Rowan by supporting a later time-of-death (S016/S049). She later fully retracted this, admitting she only approached the study while stealing money and never actually saw Aldric (S050/S057). This is a direct falsification of testimony — not a clarification, but a fabricated eyewitness claim that would have influenced the timeline analysis and potentially redirected suspicion away from herself and toward Rowan.",
-    "risk_score": 0.88
+    "person": "Rowan Cale",
+    "behavior_type": "motive_alignment",
+    "explanation": "Rowan is secretly oath-bound to Selene Orrel (S033, S072), Vey's favored foster heir. Vey expressed hostility to Rowan's people (S051). If Vey learned of the binding and altered his settlement, Rowan loses everything. His documented agitation, correspondence, and preparations for a woman (S049, S064) align perfectly with a man whose future depends on keeping this secret. His concealment behaviors at the citadel (S018, S038) suggest premeditated involvement in whatever happened that night.",
+    "risk_score": 0.9
   },
   {
     "issue_id": "INC003",
-    "person": "Rowan Vale",
+    "person": "Selene Orrel",
     "behavior_type": "motive_alignment",
-    "explanation": "Rowan's behavioral profile shows near-perfect alignment with financial motive: he is secretly married to Elia Moss (S020/S048), a housemaid — a union that would trigger disinheritance under conventional estate terms. He is financially dependent on Aldric (S018/S029), recently quarreled with him (S033), stood to inherit (S035/S048), and went immediately missing after the murder (S018/S032). His claim that he wore heavy boots rather than the shoes matching the incriminating footprints (S019) conveniently explains away the strongest physical evidence against him. Every element of his timeline behavior maps directly onto a hidden financial motive.",
-    "risk_score": 0.82
+    "explanation": "Selene is Vey's favored foster heir (S033) who would inherit upon Vey's death. Vey's hostility to Rowan's people (S051) meant his secret binding to Rowan threatened both her love interest AND her inheritance position. After learning the truth about the binding, Vey meant to summon his legal steward and alter his settlement (S069). Selene's attempted destruction of binding proof through Liora Fen (S034) and her message to Liora requesting proof destruction (S047, S057) demonstrate active effort to protect her interests by eliminating evidence that would provoke Vey's legal response.",
+    "risk_score": 0.88
   },
   {
     "issue_id": "INC004",
-    "person": "Dame Perrin Vale",
-    "behavior_type": "evasion",
-    "explanation": "Dame Perrin spoke about the family's financial dependence on Aldric (S029), establishing her awareness of monetary stakes, yet simultaneously concealed self-interested conduct involving Aldric's papers (S030). She also stands to benefit financially under Aldric's will (S035). Her evasion regarding her own conduct — specifically what she was doing with Aldric's documents — is a deliberate deflection. Rather than explaining her interest in the papers, she allows Inspector Hale to treat Rowan as the obvious suspect while obscuring her own financial exposure.",
-    "risk_score": 0.75
+    "person": "Tavia Orrel",
+    "behavior_type": "retraction",
+    "explanation": "Tavia privately admitted destroying or concealing evidence (S037) but simultaneously refused to explain the ward-key and torn fragments (S036). This represents a partial admission that stops short of full disclosure. Being 'associated with the spring caster' (S035) while refusing to account for key evidence creates a psychological tension suggesting she knows more than she's willing to reveal. The gap between her admission of destruction and her refusal to explain specific evidence implies additional concealment beyond what she's acknowledged.",
+    "risk_score": 0.82
   },
   {
     "issue_id": "INC005",
-    "person": "Mistress Iona Sable",
+    "person": "Tavia Orrel",
     "behavior_type": "unnatural_access",
-    "explanation": "Mistress Sable asked Dr. Wren specifically about addiction, rare poisons, and paralyzing toxins (S023) — a line of questioning that demonstrates advance knowledge of the METHOD of Livia's death (sleeping compound overdose, per S001). Since Livia's cause of death was known to investigators, Sable's targeted questions about poisons suggest she was either confirming her own suspicions OR probing for information to use for her own purposes. Her connection to Niall Corven (S024/S042), the 'troubled young man' she was secretly concerned about, links her to the stranger seen near the estate gates. Her behavior is not merely eccentric — it reflects operational knowledge of toxicological methods.",
+    "explanation": "Deven Holt, a watch agent specifically assigned to surveil Tavia (S040), observed her enter a chamber not her own and handle something near the grate (S041). During this covert observation, an object fell audibly (S042). Later, Deven helped recover the broken-handled ward-key and torn message fragments she had concealed (S043). This pattern—surveillance-detected access to unauthorized spaces, manipulation of objects in hidden locations, followed by recovery of concealed evidence—suggests deliberate, repeated access to materials relevant to the murder.",
     "risk_score": 0.78
   },
   {
     "issue_id": "INC006",
-    "person": "Jonas Kett",
-    "behavior_type": "evasion",
-    "explanation": "Jonas Kett delivered the evening post including Livia's explosive letter (S012) and reported detailed observations of the study after the body was discovered (S013). Critically, he denies making the telephone call that summoned Dr. Wren back to the estate (S014). Yet Wren WAS summoned and DID return. Someone made that call. Kett's denial either means he knows who made it and is protecting them, or he is lying about his own whereabouts that night. His refusal to account for the call's origin is a conspicuous gap in the timeline of Wren's return.",
-    "risk_score": 0.72
+    "person": "Tavia Orrel",
+    "behavior_type": "innocent_concealment",
+    "explanation": "Tavia admits destroying/concealing evidence but states her aim was shielding Selene and protecting the family name (S037). As Selene's aunt figure in this household, protecting her from consequences of the forbidden binding aligns with family loyalty. However, the scale of her concealment—ward-key, torn message fragments, multiple concealment episodes detected by surveillance—raises questions about whether 'protection' is the complete explanation or whether she's also concealing her own direct involvement in Vey's death.",
+    "risk_score": 0.45
   },
   {
     "issue_id": "INC007",
-    "person": "Tobin Rusk / Aldric's Secretary",
+    "person": "Lucan Marris",
     "behavior_type": "unnatural_access",
-    "explanation": "Both Tobin Rusk (S015) and Aldric's secretary (S051) independently heard Aldric's voice from the study at approximately 9:30 PM stating he wished not to be disturbed. However, a sales agent confirmed Aldric had recently obtained a voice-recording cabinet (S052). This means the 'live' voice heard at 9:30 PM could have been a pre-recorded playback — potentially played AFTER Aldric was already dead. Whoever had access to both the recording cabinet and the study had the means to simulate Aldric's continued life well past his actual death, manipulating the timeline evidence relied upon by investigators.",
-    "risk_score": 0.8
+    "explanation": "Marris was Vey's confidential cipher aide present in the maproom during the entire evening work session (S001, S068). He described the amber cordial and partly filled cup (S002), observed the open inner door connecting maproom to sleep chamber (S003), and heard 'indistinct passage sounds' (S004)—the exact passage through which the fatal shot was fired according to Voss (S013). His trusted position gave him legitimate access to the murder location. He helped report the murder afterward (S005). As the last person with Vey before death and someone with access to the passage area, his testimony controls the narrative of the killing.",
+    "risk_score": 0.72
   },
   {
     "issue_id": "INC008",
-    "person": "Niall Corven",
-    "behavior_type": "innocent_concealment",
-    "explanation": "Niall Corven matches the description of the 'unfamiliar young man' Dr. Wren encountered at the estate gates (S025/S042). He has a history of drug use (S026) and was seen loitering near the estate. However, he admits to secret visits (S027) and is connected to Mistress Sable (S024/S042), who explains her questions about poisons stemmed from private concern about a 'troubled young man' in her past (S024). The barmaid at the Copper Finch corroborated his movements, appearance, and worn boots (S063), distinguishing him from whoever made the heavier prints near the study window (S064). His concealment appears to stem from a private family matter involving Sable, not criminal intent.",
-    "risk_score": 0.25
+    "person": "Pira Senn",
+    "behavior_type": "retraction",
+    "explanation": "The confession attributed to Pira after her death is disputed 'because of its form, timing, and surrounding circumstances' (S062). Orra Kest questioned this confession (S010). Pira told Liora she had been 'sent away and warned not to tell what happened' (S059). The combination of a disputed posthumous confession plus her claim of being silenced suggests her supposed confession may be fabricated, coerced, or unreliable. This leaves the question of what actually happened to her unresolved.",
+    "risk_score": 0.75
   },
   {
     "issue_id": "INC009",
-    "person": "Celia Wren",
+    "person": "Pira Senn",
     "behavior_type": "motive_alignment",
-    "explanation": "Celia Wren actively spread early reports about Livia's death throughout Bellweather village (S009/S060), promoting the suicide hypothesis driven by guilt (S009). She also reported seeing Rowan with an unidentified woman (S011) — information that later proved to be Rowan's secret wife Elia Moss. As Dr. Wren's wife, Celia occupies a uniquely positioned情报 role. Her network of informants (including Nessa Pike and the lamp-oil seller, S038/S060/S061) gave her early access to case information. Her active dissemination of the suicide narrative — before official findings — served to frame Livia's death as voluntary rather than homicidal, potentially shielding the true perpetrator of Livia's poisoning.",
+    "explanation": "Mira Pell noted that Pira 'dressed fully, took a loose glow-wick' (S025) before going downstairs for what was supposedly a brief errand for a jaw remedy (S020, S024). Full dress for a brief nighttime trip is anomalous. She was described as troubled and withdrawn (S023) in the days preceding the murder. Afterward, she appeared to have 'seen or met someone' after the killing (S061). Kit Vale observed the suspicious powder episode (S046) sent to Pira as a 'protective charm.' Her behavior suggests possible advance knowledge of events or involvement beyond simply being a convenient scapegoat.",
     "risk_score": 0.68
   },
   {
     "issue_id": "INC010",
-    "person": "The Steward",
-    "behavior_type": "evasion",
-    "explanation": "The steward has a documented 'furtive past' (S056) and may have listened at the study door (S056). His secretive background, combined with his position inside the household, gives him both opportunity to overhear Aldric reading Livia's letter (which may name the extortionist) and motive to act on that information. Rather than voluntarily disclosing what he heard, he remains passive and evasive. If he overheard Aldric reading the letter aloud before deciding to finish alone (S003/S054/S058), the steward would know precisely what information Livia's letter contained — and who it named.",
-    "risk_score": 0.7
+    "person": "Liora Fen",
+    "behavior_type": "motive_alignment",
+    "explanation": "Liora hid a lacquer tube containing binding evidence (S056), received Selene's request to destroy the proof (S057), and keeps proof of the Selene-Rowan union (S056). She is connected to Rowan Cale (S049) and provided sanctuary to Pira after the murder (S058). Her role as keeper of the binding proof and recipient of Selene's destruction request positions her as an active participant in the concealment network protecting Selene's inheritance position. Taking in Pira immediately after the murder suggests advance awareness or coordination.",
+    "risk_score": 0.65
+  },
+  {
+    "issue_id": "INC011",
+    "person": "Noa Brill",
+    "behavior_type": "consistent",
+    "explanation": "Noa Brill identified the flechette as third-gauge ammunition fitting a compact spring caster (S027), inspected Vey's weapon and found cells apparently loaded (S028), and explained that cleaning removed residue from the barrel while traces in the rotating chamber still showed a recent shot (S029). This technical finding—that someone deliberately cleaned the weapon but incompletely—is consistent with forensic evidence and does not indicate deception by Brill. It points to the perpetrator's attempt to frame or mislead investigators.",
+    "risk_score": 0.1
+  },
+  {
+    "issue_id": "INC012",
+    "person": "Ilyan Mora",
+    "behavior_type": "consistent",
+    "explanation": "Ilyan Mora searched Vey's sleep chamber (S031) and recovered the spring caster and ammunition from the locked drawer beside the bed (S032)—the normal storage location for Vey's weapon. This is consistent with proper investigative procedure. Finding the weapon in its locked storage location, combined with Brill's finding that it had been recently fired and partially cleaned, suggests someone accessed the locked drawer, used the weapon, attempted to clean it, and returned it.",
+    "risk_score": 0.15
+  },
+  {
+    "issue_id": "INC013",
+    "person": "Orra Kest",
+    "behavior_type": "consistent",
+    "explanation": "Orra Kest serves as an official investigator (S006) who examined the barred citadel (S006), found Pira's dropped glow-wick (S007), interpreted Tavia's soot-marked scarf (S008), traced Rowan's movements and the Northmere trail (S009), and questioned the confession attributed to Pira (S010). His questioning of Pira's disputed confession aligns with his investigative role and the contested nature of that evidence. No behavioral red flags.",
+    "risk_score": 0.12
+  },
+  {
+    "issue_id": "INC014",
+    "person": "Deven Holt",
+    "behavior_type": "consistent",
+    "explanation": "Deven Holt is a watch agent assigned to surveillance duties (S040) who observed Tavia enter a chamber not her own and handle something near the grate (S041, S042). He later helped recover the broken-handled ward-key and torn message fragments she had concealed (S043). His observations are consistent with his surveillance assignment, and his assistance in evidence recovery follows proper protocol. The evidence he helped uncover, however, implicates Tavia in active concealment.",
+    "risk_score": 0.18
+  },
+  {
+    "issue_id": "INC015",
+    "person": "Kit Vale",
+    "behavior_type": "consistent",
+    "explanation": "Kit Vale operated undercover using alias Moth (S044), followed Northmere and Liora Fen leads, gathered inn and village information (S044), saw Pira alive shortly before her death (S045), observed the suspicious powder episode (S046), and recovered papers including Selene's message to Liora (S047). His methods and findings are consistent with covert investigative work. His observation of the powder episode and Pira's status places him on the periphery of the concealment network.",
+    "risk_score": 0.22
+  },
+  {
+    "issue_id": "INC016",
+    "person": "Sera Voss",
+    "behavior_type": "consistent",
+    "explanation": "Sera Voss examined Vey's wound and removed the flechette (S011), ruled out self-infliction based on wound trajectory inconsistency (S012), and established that Vey was seated and leaning forward when struck from behind through the threshold between sleep chamber and maproom (S013). Her forensic findings are consistent with medical evidence and support the conclusion of homicide rather than suicide.",
+    "risk_score": 0.08
+  },
+  {
+    "issue_id": "INC017",
+    "person": "Bram Toller",
+    "behavior_type": "consistent",
+    "explanation": "Bram Toller is the housewarden who barred the citadel at nightfall (S014), found fastenings still secure in the morning (S015), discovered Vey dead in the maproom (S016), saw Tavia collapse and order the body moved (S017), and later revealed Rowan's visits under both false and real names (S018). His security duties and discovery of the body follow naturally from his role. No indication of deception.",
+    "risk_score": 0.1
+  },
+  {
+    "issue_id": "INC018",
+    "person": "Jessa Kade",
+    "behavior_type": "consistent",
+    "explanation": "Jessa Kade first made investigators notice Pira's disappearance (S019), confirmed Pira's jawache and nighttime trip for remedy (S020), reported seeing Tavia leave the maproom area with a paper hidden away (S021), and noted the household knew of Vey's spring caster (S022). Her observation of Tavia with hidden papers aligns with subsequent evidence of Tavia's concealment activities. No behavioral red flags.",
+    "risk_score": 0.15
+  },
+  {
+    "issue_id": "INC019",
+    "person": "Mira Pell",
+    "behavior_type": "consistent",
+    "explanation": "Mira Pell described Pira as troubled and withdrawn (S023), confirmed the jawache (S024), noted Pira dressed fully and took a loose glow-wick (S025), and observed Pira go downstairs to seek Tavia's remedy and not return (S026). Her account of Pira's unusual preparation for a brief errand supports the interpretation that Pira may have had advance knowledge or alternative purposes for her nighttime trip.",
+    "risk_score": 0.2
+  },
+  {
+    "issue_id": "INC020",
+    "person": "Olin Reed",
+    "behavior_type": "consistent",
+    "explanation": "Olin Reed remembered the secret binding ceremony (S054) and identified the striking partner and beautiful young woman as participants, with himself as witness (S055). His testimony correctly identifies Selene as the heir who participated in the binding, correcting any earlier mistaken assumptions. Consistent with his role as a hired hand witness to the ceremony.",
+    "risk_score": 0.1
   }
 ]

@@ -3,6 +3,7 @@ import json
 import logging
 import re
 import time
+import sys
 from typing import Type, Any
 
 from pydantic import BaseModel
@@ -15,7 +16,7 @@ from langchain_core.messages import (
 from utils.llm import create_llm
 
 # Timeout and retry applied to every raw LLM call
-_LLM_CALL_TIMEOUT = 360.0
+_LLM_CALL_TIMEOUT = 200
 _LLM_CALL_RETRIES = 3
 
 try:
@@ -125,6 +126,12 @@ def _is_contradiction_schema(schema: Type[BaseModel]) -> bool:
     return "contradictions" in fields and "analysis_scratchpad" in fields
 
 
+def _is_baseline_schema(schema: Type[BaseModel]) -> bool:
+    """Returns True if schema is the BaselineResult (has evaluations + final_case_summary)."""
+    fields = schema.model_fields
+    return "evaluations" in fields and "final_case_summary" in fields
+
+
 def schema_repair(data: dict, schema: Type[BaseModel]) -> dict:
     """
     Repairs common LLM schema failures BEFORE Pydantic validation.
@@ -144,12 +151,12 @@ def schema_repair(data: dict, schema: Type[BaseModel]) -> dict:
     # ------------------------------------------------------------------
     if _is_credibility_schema(schema):
 
+        # The 4 new Anomaly Hunter metrics
         _credibility_metric_defaults = {
             "internal_consistency": 0.5,
-            "cross_confirmation": 0.5,
+            "physical_impossibility": 0.5,
+            "orchestration_marker": 0.5,
             "detail_quality": 0.5,
-            "observation_quality": 0.5,
-            "contextual_alignment": 0.5,
         }
         repaired.setdefault("witness", "Unknown Witness")
         repaired.setdefault("evidence", [])
@@ -279,6 +286,44 @@ def schema_repair(data: dict, schema: Type[BaseModel]) -> dict:
             repaired["analysis_scratchpad"] = "Fallback: Failed to parse reasoning."
 
     # ------------------------------------------------------------------
+    # BASELINE MODEL
+    # Has: evaluations (list of WitnessEvaluation), final_case_summary (str)
+    # ------------------------------------------------------------------
+    elif _is_baseline_schema(schema):
+
+        repaired.setdefault("evaluations", [])
+        repaired.setdefault("final_case_summary", "")
+
+        if not isinstance(repaired.get("evaluations"), list):
+            repaired["evaluations"] = []
+
+        if not isinstance(repaired.get("final_case_summary"), str):
+            repaired["final_case_summary"] = str(repaired.get("final_case_summary", ""))
+
+        cleaned = []
+        for ev in repaired["evaluations"]:
+            if not isinstance(ev, dict):
+                continue
+            ev.setdefault("witness", "Unknown")
+            ev.setdefault("reliability_grade", "F")
+            ev.setdefault("credibility_grade", 6)
+            ev.setdefault("reasoning", "")
+            ev.setdefault("prime_suspect_likelihood", 0.0)
+            if ev.get("reliability_grade") not in ("A", "B", "C", "D", "E", "F"):
+                ev["reliability_grade"] = "F"
+            try:
+                ev["credibility_grade"] = max(1, min(6, int(float(ev["credibility_grade"]))))
+            except Exception:
+                ev["credibility_grade"] = 6
+            try:
+                ev["prime_suspect_likelihood"] = max(0.0, min(1.0, float(ev["prime_suspect_likelihood"])))
+            except Exception:
+                ev["prime_suspect_likelihood"] = 0.0
+            cleaned.append(ev)
+
+        repaired["evaluations"] = cleaned
+
+    # ------------------------------------------------------------------
     # GENERIC FALLBACK — pass data through unchanged so valid LLM output
     # for unrecognised schemas is never overwritten with wrong defaults.
     # ------------------------------------------------------------------
@@ -302,13 +347,28 @@ class StructuredAgent:
         self.output_schema = output_schema
         self.llm = create_llm()
 
-    async def invoke(self, payload) -> Any:
+    # Added agent_name parameter for cleaner telemetry dashboards
+    async def invoke(self, payload, agent_name: str = None) -> tuple:
+        
+        # -----------------------------
+        # 0. TELEMETRY INIT
+        # -----------------------------
+        start_time = time.perf_counter()
+        payload_size = sys.getsizeof(str(payload))
+        
+        total_calls = 0
+        successful_calls = 0
+        input_tokens = 0
+        output_tokens = 0
+        
+        # Default to the schema name if no specific agent name is provided
+        if not agent_name:
+            agent_name = self.output_schema.__name__
 
         # -----------------------------
         # 1. INPUT HANDLING
         # -----------------------------
         if isinstance(payload, dict) and "witness" in payload:
-
             system_prompt = f"""
 {self.prompt}
 
@@ -318,9 +378,7 @@ TARGET WITNESS (HARD BOUND)
 You MUST evaluate ONLY:
 Witness = {payload["witness"]}
 """
-
             human_payload = to_clean_json(payload)
-
         else:
             system_prompt = self.prompt
             human_payload = {"input": to_clean_json(payload)}
@@ -340,21 +398,42 @@ Witness = {payload["witness"]}
         ]
 
         # -----------------------------
-        # 3. LLM CALL  (timeout + retry)
+        # 3. LLM CALL & PARSING (With Retries)
         # -----------------------------
-        raw = None
+        parsed_result = None
         last_err: Exception = RuntimeError("No LLM attempts made")
 
         for attempt in range(1, _LLM_CALL_RETRIES + 1):
+            total_calls += 1
             _t0 = time.monotonic()
+            
             try:
-                raw = await asyncio.wait_for(
+                raw_response = await asyncio.wait_for(
                     self.llm.ainvoke(messages),
                     timeout=_LLM_CALL_TIMEOUT
                 )
                 _elapsed = time.monotonic() - _t0
-                log.info(f"[llm] Response received in {_elapsed:.1f}s "
+                log.info(f"[llm] [{agent_name}] Response received in {_elapsed:.1f}s "
                          f"(attempt {attempt}/{_LLM_CALL_RETRIES})")
+
+                # Track Tokens from the raw response
+                if hasattr(raw_response, 'usage_metadata') and raw_response.usage_metadata:
+                    input_tokens += raw_response.usage_metadata.get("input_tokens", 0)
+                    output_tokens += raw_response.usage_metadata.get("output_tokens", 0)
+
+                # Extract content
+                raw_text = raw_response.content if hasattr(raw_response, "content") else raw_response
+
+                # -----------------------------
+                # 4. PARSING & VALIDATION 
+                # -----------------------------
+                # Moved inside the try-block so format failures trigger a retry
+                data = extract_json(raw_text)
+                data = schema_repair(data, self.output_schema)
+                parsed_result = self.output_schema.model_validate(data)
+
+                # If we make it here without an exception, it is a complete success!
+                successful_calls += 1
                 break
 
             except asyncio.TimeoutError:
@@ -362,39 +441,37 @@ Witness = {payload["witness"]}
                 last_err = asyncio.TimeoutError(
                     f"LLM timed out after {_elapsed:.0f}s"
                 )
-                log.warning(f"[llm] Attempt {attempt}/{_LLM_CALL_RETRIES} "
+                log.warning(f"[llm] [{agent_name}] Attempt {attempt}/{_LLM_CALL_RETRIES} "
                             f"timed out after {_elapsed:.0f}s")
 
             except Exception as exc:
                 _elapsed = time.monotonic() - _t0
                 last_err = exc
-                log.warning(f"[llm] Attempt {attempt}/{_LLM_CALL_RETRIES} "
-                            f"failed after {_elapsed:.1f}s: {exc}")
-
-        if raw is None:
-            raise last_err
-
-        if hasattr(raw, "content"):
-            raw = raw.content
+                log.warning(f"[llm] [{agent_name}] Attempt {attempt}/{_LLM_CALL_RETRIES} "
+                            f"failed formatting/validation: {exc}")
 
         # -----------------------------
-        # 4. JSON EXTRACTION
+        # 5. HARD FALLBACK 
         # -----------------------------
-        data = extract_json(raw)
-
-        # -----------------------------
-        # 5. SCHEMA REPAIR (CRITICAL FIX)
-        # -----------------------------
-        data = schema_repair(data, self.output_schema)
-
-        # -----------------------------
-        # 6. FINAL VALIDATION (SAFE)
-        # -----------------------------
-        try:
-            return self.output_schema.model_validate(data)
-
-        except Exception:
-            # HARD FALLBACK (NO SILENT ZERO COLLAPSE ANYMORE)
-            return self.output_schema.model_validate(
+        if successful_calls == 0:
+            log.error(f"[{agent_name}] All {total_calls} attempts failed. Applying empty fallback schema.")
+            parsed_result = self.output_schema.model_validate(
                 schema_repair({}, self.output_schema)
             )
+
+        # -----------------------------
+        # 6. TELEMETRY PACKAGING
+        # -----------------------------
+        end_time = time.perf_counter()
+        
+        telemetry_dict = {
+            "agent_name": agent_name,
+            "input_tokens": input_tokens,
+            "output_tokens": output_tokens,
+            "execution_time_seconds": round(end_time - start_time, 2),
+            "llm_success_ratio": f"{successful_calls}/{total_calls}",
+            "payload_size_bytes": payload_size
+        }
+
+        # Returns the tuple required for Phase 4
+        return parsed_result, telemetry_dict

@@ -1,5 +1,4 @@
 import logging
-
 from agents.base import StructuredAgent
 
 from prompts.attribute_prompt import (
@@ -17,9 +16,7 @@ MAX_ATTRIBUTES_PER_PERSON = 15
 
 
 class AttributeAgent:
-
     def __init__(self):
-
         self.agent = StructuredAgent(
             prompt=ATTRIBUTE_PROMPT,
             output_schema=AttributeResult
@@ -35,17 +32,25 @@ class AttributeAgent:
         ]
 
         merged: dict[str, list] = {}
+        
+        # --- NEW: List to hold telemetry for all batches ---
+        all_telemetry = []
 
         for batch_num, batch in enumerate(batches, 1):
-
             log.info(
                 f"[attribute] Batch {batch_num}/{len(batches)} "
                 f"— {len(batch)} statements"
             )
 
             try:
-                result = await self.agent.invoke(batch)
+                # --- NEW: Unpack the tuple and pass the agent name ---
+                result, telemetry = await self.agent.invoke(batch, "AttributeAgent")
+                
+                # --- NEW: Save the telemetry for this batch ---
+                all_telemetry.append(telemetry)
+                
                 self._merge(result.people, merged)
+                
                 log.info(
                     f"[attribute] Batch {batch_num}/{len(batches)} done "
                     f"— {len(result.people)} people"
@@ -56,7 +61,8 @@ class AttributeAgent:
                     f"[attribute] Batch {batch_num}/{len(batches)} FAILED: {e}"
                 )
 
-        return self._to_list(merged)
+        # --- NEW: Return the parsed result AND the accumulated telemetry list ---
+        return self._to_list(merged), all_telemetry
 
     def _merge(self, people, merged: dict):
         for person in people:
