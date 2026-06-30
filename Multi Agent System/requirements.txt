@@ -14,3 +14,6 @@ tenacity>=9.0
 aiofiles>=24.1
 
 json-repair>=0.30
+
+pandas>=2.0.0
+openpyxl>=3.1.0

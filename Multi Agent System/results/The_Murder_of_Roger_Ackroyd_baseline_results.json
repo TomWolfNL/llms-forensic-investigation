@@ -1,0 +1,190 @@
+{
+  "evaluations": [
+    {
+      "witness": "Dr. Silas Wren (W01)",
+      "reliability_grade": "D",
+      "credibility_grade": 4,
+      "reasoning": "Exhibits classic 'Narrator Trap' characteristics. As village physician and neighbor, he becomes the singular channel through which multiple critical facts flow: Livia's confession, the letter's contents, his departure timing, the mysterious stranger, the telephone summons, and the body discovery. This unnatural clustering at every key evidentiary node\u2014particularly his convenient departure just before the murder window and his equally convenient recall via telephone\u2014creates substantial material evasion concerns. His account positions him as both last person to see Aldric alive AND discoverer of the body, a narratively convenient position that shields him from suspicion while controlling all timing evidence. The 'stranger at the gate' he reports serves as a perfect Phantom Actor deflection, redirecting attention away from his own movements during the critical interval.",
+      "prime_suspect_likelihood": 0.85
+    },
+    {
+      "witness": "Marceau Lorne (W02)",
+      "reliability_grade": "B",
+      "credibility_grade": 3,
+      "reasoning": "Professional investigator functioning as analytical overlay rather than direct witness. His conclusions about the voice-recording cabinet, study window, footprints, display knife, and telephone summons represent sound investigative reasoning based on physical evidence. However, his assessments necessarily depend on the reliability of underlying witness testimony, particularly Wren's contested account. His protective stance toward Rowan Vale suggests professional objectivity rather than bias, but his findings remain contingent on resolving the primary evidentiary paradoxes.",
+      "prime_suspect_likelihood": 0.1
+    },
+    {
+      "witness": "Aldric Vale (W03)",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Pre-mortem informant whose statements reach investigators exclusively through Dr. Wren\u2014a significant filtering vulnerability. His report of Livia's confession about causing her first husband's death and subsequent blackmail is internally consistent with her subsequent overdose, suggesting genuine knowledge. However, his decision to read Livia's identifying letter alone, combined with his death shortly thereafter, creates a convenient evidentiary gap that primarily benefits whoever controlled his access. The single-channel transmission through Wren compounds uncertainty.",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Livia Marr (W04)",
+      "reliability_grade": "E",
+      "credibility_grade": 2,
+      "reasoning": "Cannot testify directly; known only through her confession to Aldric and her final written letter. Her admission of causing her first husband's death and subsequent blackmail victimization is internally coherent with her apparent suicide by overdose\u2014guilty parties facing exposure often choose self-removal. However, her confession could have been coerced, fabricated, or strategically released to misdirect. The posthumous letter naming the blackmailer became inaccessible upon Aldric's murder, which suspiciously parallels her own silencing. Her testimony, while probably authentic regarding her past actions, cannot be independently verified.",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Celia Wren (W05)",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Information network hub mixing genuine observations with village gossip. Her report of Rowan Vale staying at the Blue Heron inn and her observation of Rowan with an unidentified woman provide useful leads, but her sourcing is often secondhand. Most significantly, she assists in establishing that Rowan possessed different footwear from the incriminating prints\u2014this exculpatory detail, emerging from her informal network, conveniently undermines the primary suspect's apparent connection to the crime scene. Her familial link to Dr. Wren raises questions about unconscious corroboration of his narrative.",
+      "prime_suspect_likelihood": 0.15
+    },
+    {
+      "witness": "Jonas Kett (W06)",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Admitted bearer of the evening post including Livia's fateful letter, placing him at the documentary nexus of the case. His report of a shifted chair and altered object arrangement in the study provides valuable physical evidence, but his suspected eavesdropping at the study door and general secretiveness generate material suspicion. His denial of making the telephone summons that recalled Dr. Wren is unverifiable and self-serving. The combination of his access to the letter, his presence near the study, and his evasive demeanor positions him as a viable alternate suspect beyond the obvious Rowan Vale theory.",
+      "prime_suspect_likelihood": 0.45
+    },
+    {
+      "witness": "Tobin Rusk (W07)",
+      "reliability_grade": "B",
+      "credibility_grade": 4,
+      "reasoning": "Provides seemingly solid auditory evidence\u2014hearing Aldric's voice from the study at approximately 9:30 PM stating he wished not to be disturbed. However, this testimony, while representing genuine perception on his part, is physically undermined by the confirmed existence of a voice-recording cabinet recently acquired by Aldric. The voice he heard could have been a playback, meaning Aldric may not have been alive at that moment. His private financial troubles give him motive, but his evidence is technically unreliable as proof of Aldric's survival. The dissonance between his confident assertion ('he heard a voice') and its uncertain provenance exemplifies how sincere witness perception can mislead investigations.",
+      "prime_suspect_likelihood": 0.35
+    },
+    {
+      "witness": "Maren Vale (W08)",
+      "reliability_grade": "D",
+      "credibility_grade": 3,
+      "reasoning": "Initially claims to have seen Aldric alive after dinner, supporting the late-evening survival narrative. Her subsequent retraction\u2014that she merely approached the study while stealing money and did NOT actually see Aldric\u2014represents material deception regarding a central fact. This pattern of initial false claim followed by partial truth is characteristic of compromised witnesses. However, her observation that the ceremonial glass-bladed knife was already missing from the hall display when she investigated carries independent weight, suggesting the weapon was removed before the murder. Her dual status as thief and probable liar damages her reliability, but her timing evidence about the knife's absence may be accurate.",
+      "prime_suspect_likelihood": 0.25
+    },
+    {
+      "witness": "Rowan Vale (W09)",
+      "reliability_grade": "D",
+      "credibility_grade": 3,
+      "reasoning": "Primary apparent suspect based on motive (financial dependency + hidden marriage threatening inheritance), opportunity (quarrel with Aldric), means (footprints matching his shoes near study window), and behavior (disappearance after the murder). However, his claim to have worn heavy boots that night rather than the lighter shoes creating the incriminating prints represents a testable alibi that, if substantiated by Celia Wren's network, would undermine the circumstantial case against him. His secrecy regarding the marriage to Elia Moss is explained innocently by their desire to keep the alliance secret from Aldric. The staged appearance of the footprints\u2014mentioned in the case summary\u2014further complicates his culpability. His evasion and disappearance damage credibility, but the physical evidence against him may have been manufactured.",
+      "prime_suspect_likelihood": 0.4
+    },
+    {
+      "witness": "Elia Moss (W10)",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Secret wife of Rowan Vale offers innocent explanation for previously suspicious elements: the unidentified woman connected to Rowan, their private meetings, and Rowan's fear of disinheritance should Aldric learn of the marriage. Her candor about her own vulnerable position\u2014dismissed after Aldric discovered the marriage\u2014demonstrates honesty rather than concealment. While her testimony benefits her husband's defense, it coheres with other evidence (Celia Wren's observations of Rowan with a woman) and removes a major motive branch (romantic entanglement as murder driver). Her account is probably true, explaining suspicious elements without requiring elaborate fabrication.",
+      "prime_suspect_likelihood": 0.05
+    },
+    {
+      "witness": "Mistress Iona Sable (W11)",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Her probing questions about addiction, rare poisons, and paralyzing toxins create immediate suspicion\u2014she possesses exactly the knowledge profile of someone capable of administering Livia's fatal dose or staging the murder scene. However, her stated reason for these inquiries\u2014a private family matter involving a troubled young man connected to her past\u2014provides plausible innocent explanation. Her connection to Niall Corven, revealed through Madam Fennor's background information, suggests her strange conduct relates to a concealed personal matter rather than the murder conspiracy. The question of whether her poison expertise was deployed in service of the crimes or represents parallel personal concerns remains unresolved.",
+      "prime_suspect_likelihood": 0.3
+    },
+    {
+      "witness": "Niall Corven (W12)",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Rough-looking stranger encountered near the estate gates immediately after Dr. Wren's reported departure initially appears highly incriminating\u2014matching the description Wren gave of the mysterious figure he passed. However, corroborating evidence from the Copper Finch barmaid establishes his separate identity from whoever created the footprints near the study window, and his connection to Mistress Sable anchors his presence to a distinct personal matter. His admission of secret visits to the estate and drug use history creates negative impressions, but these align with his connection to Sable's family concerns rather than participation in the murder plot. His account is probably honest regarding his movements.",
+      "prime_suspect_likelihood": 0.2
+    },
+    {
+      "witness": "Captain Orven Blaise (W13)",
+      "reliability_grade": "B",
+      "credibility_grade": 3,
+      "reasoning": "Houseguest and old friend of Aldric provides observational evidence from his position within the household. His emotional guardedness regarding Maren Vale creates interpersonal suspicion but does not indicate involvement in the crimes. His contributions are described as observational rather than mechanical or decisive, suggesting reliable but limited testimony. No strong motive or opportunity is attributed to him, and his restraint appears emotionally motivated rather than criminally calculated.",
+      "prime_suspect_likelihood": 0.1
+    },
+    {
+      "witness": "Dame Perrin Vale (W14)",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Aldric's widowed sister-in-law speaks to family financial dependencies, inheritance prospects, and household tensions\u2014all areas where she harbors self-interested concerns. Her evasiveness and preoccupation with monetary matters suggest concealment of self-serving conduct, possibly involving Aldric's papers. Financial motive is clearly present, but her evidence primarily illuminates the economic pressures motivating various family members rather than placing her at the crime scene. Her concealment is evident but its precise scope unclear.",
+      "prime_suspect_likelihood": 0.25
+    },
+    {
+      "witness": "Inspector Brannick Hale (W15)",
+      "reliability_grade": "A",
+      "credibility_grade": 3,
+      "reasoning": "Official police investigator responsible for documenting the body, weapon, study conditions, window, footprints, timing evidence, suspects, and searches. His factual collection is inherently reliable as professional documentation, but his interpretive framework\u2014treating Rowan Vale as the likely murderer based on conventional motive-plus-opportunity analysis\u2014may be too direct. The staged appearance of footprints, the voice-recording ambiguity, and the telephone summons manipulation suggest a more sophisticated perpetrator capable of manufacturing evidence. His work is essential but his conclusions provisional pending resolution of the technical anomalies.",
+      "prime_suspect_likelihood": 0.05
+    },
+    {
+      "witness": "Commander Esten Marrick (W16)",
+      "reliability_grade": "A",
+      "credibility_grade": 3,
+      "reasoning": "Senior local authority performing administrative and coordinative functions in the official investigation. Works alongside Inspector Hale and Marceau Lorne without identified personal stake in outcomes. Evidence is procedurally reliable but analytically derivative\u2014the same facts pass through his office after initial collection by field investigators.",
+      "prime_suspect_likelihood": 0.02
+    },
+    {
+      "witness": "Garrick Holm (W17)",
+      "reliability_grade": "A",
+      "credibility_grade": 1,
+      "reasoning": "Aldric's solicitor explaining the terms of his will and financial arrangements. Legal documentation provides authoritative, verifiable information about who stands to benefit from Aldric's death and the structure of financial dependencies. This evidence is confirmed and certain, establishing the motive landscape with precision. Rowan Vale's financial dependency, Maren's inheritance prospects, Dame Perrin's interests\u2014all clarified through documentary evidence rather than testimonial inference.",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Vera Quill (W18)",
+      "reliability_grade": "D",
+      "credibility_grade": 4,
+      "reasoning": "Local gossip and social observer repeating village rumors about Livia Marr, Aldric Vale, Maren, Rowan, possible blackmail, and general movements. Much of her information is speculative, biased, or secondhand\u2014classic village grapevine content. While some gossip may reflect genuine observations, distinguishing accurate from inaccurate portions is impossible without corroboration. Her role is atmospheric and contextual rather than evidential.",
+      "prime_suspect_likelihood": 0.15
+    },
+    {
+      "witness": "Edrin Cale (W19)",
+      "reliability_grade": "E",
+      "credibility_grade": 5,
+      "reasoning": "Card-and-tiles evening participant speculating about blackmail participants. Pure rumor merchant with no firsthand knowledge. His information is explicitly described as speculation rather than observation, making it the lowest-grade testimony in the case. While the existence of blackmail is genuinely supported by other evidence, Cale's specific imputations cannot be credited.",
+      "prime_suspect_likelihood": 0.1
+    },
+    {
+      "witness": "Nessa Pike (W20)",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Wren household maid passing domestic news to Celia Wren about Livia Marr's death. Forms part of Celia's informal information network. Her evidence is minor and largely hearsay\u2014domestic servants exchanging preliminary news rather than substantive testimony. Useful for establishing the timeline of when news spread through Bellweather, but not for establishing facts themselves.",
+      "prime_suspect_likelihood": 0.05
+    },
+    {
+      "witness": "The Lamp-Oil Seller (W21)",
+      "reliability_grade": "D",
+      "credibility_grade": 4,
+      "reasoning": "Unnamed tradesman relaying news of Livia Marr's death to Celia Wren after hearing it from a servant in Livia's household. Tertiary source\u2014information has passed through at least two intermediaries before reaching official channels. Contributes to early news dissemination timeline but adds nothing independently verifiable.",
+      "prime_suspect_likelihood": 0.05
+    },
+    {
+      "witness": "Livia Marr's Kitchen Maid (W22)",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Unnamed servant at Livia Marr's residence serving as the apparent original source of village news about her death. Primary source for the initial report but entirely\u65e0\u540d and unverifiable. Represents the starting point of the information chain rather than substantive evidence in herself. Her role is foundational to the timeline but provides no independent detail.",
+      "prime_suspect_likelihood": 0.05
+    },
+    {
+      "witness": "The Barmaid at the Copper Finch (W23)",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Provides corroboration about Niall Corven's movements, appearance, and poor-quality boots. This third-party verification distinguishes Corven from the person whose prints appeared near Aldric's study window, effectively exculpating him from the footprint evidence. Her testimony transforms Corven from suspicious stranger to explained visitor with legitimate reasons for presence near the estate. Independent observation of his condition and movements strengthens overall case coherence.",
+      "prime_suspect_likelihood": 0.1
+    },
+    {
+      "witness": "The Voice-Cabinet Salesman (W24)",
+      "reliability_grade": "A",
+      "credibility_grade": 1,
+      "reasoning": "Confirms that Aldric Vale recently purchased a voice-recording cabinet. This is the single most important evidentiary fact in the case, transforming the meaning of all auditory testimony. If a voice-recording device existed in Aldric's possession, then the voice heard from the study at half-past-nine could have been a playback rather than live speech\u2014meaning Aldric may have been dead or incapacitated when the voice declared he wished not to be disturbed. Documentary confirmation of the device's acquisition is absolute and certain, making this witness's testimony pivotal to resolving the central mystery.",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Madam Fennor (W25)",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Provides background connecting Mistress Sable and Niall Corven, revealing their hidden relationship and explaining Corven's otherwise suspicious visits to the estate. Her information supports the hypothesis that Sable's strange conduct regarding poisons and the stranger at the gate belong to a separate concealed family matter rather than participation in the murder conspiracy. By anchoring the Sable-Corven connection to legitimate personal concerns, she removes them from the primary suspect pool and redirects attention toward whoever orchestrated the murder evidence.",
+      "prime_suspect_likelihood": 0.05
+    }
+  ],
+  "final_case_summary": "The primary 'Narrator' in this case is Dr. Silas Wren (W01), whose testimony exhibits severe 'Narrator Trap' characteristics. Every critical evidentiary element flows through him: Livia's confession, the letter's contents, his departure timing, the mysterious stranger at the gate, the telephone summons that recalled him, and his discovery of the body. This unnatural concentration of information channels creates the 'Narrative Paradox': Wren presents himself as a concerned neighbor and helpful witness while simultaneously controlling the entire evidentiary timeline. His convenient positioning\u2014as last person to see Aldric alive and sole discoverer of the murder\u2014mirrors classic misdirection patterns where the apparent narrator is actually the orchestrator. The physical evidence strongly suggests a manipulated timeline: the voice-recording cabinet (W24) means the voice reportedly heard at 9:30 PM may have been a playback; the staged-looking footprints imply manufactured incrimination of Rowan Vale; the telephone summons has no confirmed originator; and the missing object in the study suggests evidence tampering. The true killer required intimate knowledge of Aldric's habits, access to the voice-recording technology, ability to stage footprints, opportunity to remove the ceremonial knife, and capacity to fabricate the return summons\u2014all pointing toward someone embedded in the household economy. Wren's medical knowledge of poisons (relevant to Livia's death), his access to the study, his control of the timeline, and his systematic channeling of all key information make him the most probable architect of both murders and the subsequent cover-up, with secondary suspicion falling on household insiders like Jonas Kett (W06) who had comparable access and opportunity.",
+  "telemetry_log": [
+    {
+      "agent_name": "BaselineAgent",
+      "input_tokens": 3420,
+      "output_tokens": 6523,
+      "execution_time_seconds": 140.79,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 24738
+    }
+  ]
+}

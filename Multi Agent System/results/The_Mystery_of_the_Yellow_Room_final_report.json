@@ -1,0 +1,3193 @@
+{
+  "timeline": [
+    {
+      "event_id": "E001",
+      "statement_ids": [
+        "S010"
+      ],
+      "time": "late afternoon",
+      "location": "pavilion grounds",
+      "subject": "Dr. Orin Vell",
+      "action": "was briefly separated from Selene after speaking with the estate watchman",
+      "context": "Afternoon separation before the attacks",
+      "witnesses": [
+        "Dr. Orin Vell"
+      ]
+    },
+    {
+      "event_id": "E002",
+      "statement_ids": [
+        "S043"
+      ],
+      "time": "around eleven",
+      "location": "near rail stop",
+      "subject": "watchman",
+      "action": "last saw the watchman around eleven while arranging for luggage to be sent to a nearby rail stop",
+      "context": "Final documented sighting of watchman alive",
+      "witnesses": [
+        "Edwin Graves"
+      ]
+    },
+    {
+      "event_id": "E003",
+      "statement_ids": [
+        "S044"
+      ],
+      "time": "evening of the first crime",
+      "location": "city cane dealer's shop",
+      "subject": "yellow reed cane buyer",
+      "action": "sold a yellow reed cane to a man resembling Cassian Mor",
+      "context": "Potentially misleading evidence connecting Mor to the crime",
+      "witnesses": [
+        "Marius Reed"
+      ]
+    },
+    {
+      "event_id": "E004",
+      "statement_ids": [
+        "S012"
+      ],
+      "time": "before the first attack",
+      "location": null,
+      "subject": "Selene Vell",
+      "action": "borrowed Old Tobin's pistol",
+      "context": "Precautionary measure before being assaulted",
+      "witnesses": [
+        "Selene Vell"
+      ]
+    },
+    {
+      "event_id": "E005",
+      "statement_ids": [
+        "S005"
+      ],
+      "time": "at midnight",
+      "location": "Amber Chamber entrance",
+      "subject": "Selene Vell",
+      "action": "observes Selene enter the Amber Chamber and lock and bolt the door",
+      "context": "First part of the locked-room incident",
+      "witnesses": [
+        "Tobin Quill, called Old Tobin"
+      ]
+    },
+    {
+      "event_id": "E006",
+      "statement_ids": [
+        "S008"
+      ],
+      "time": "until midnight",
+      "location": "laboratory",
+      "subject": "Selene Vell",
+      "action": "worked with Selene until midnight",
+      "context": "Evening routine before the incident",
+      "witnesses": [
+        "Dr. Orin Vell"
+      ]
+    },
+    {
+      "event_id": "E007",
+      "statement_ids": [
+        "S006"
+      ],
+      "time": "immediately after midnight cries",
+      "location": "Amber Chamber",
+      "subject": "Amber Chamber interior",
+      "action": "helps break down the door and finds overturned furniture, blood, footprints, kerchief, cap, and missing pistol",
+      "context": "Discovery scene upon entering the chamber",
+      "witnesses": [
+        "Tobin Quill, called Old Tobin"
+      ]
+    },
+    {
+      "event_id": "E008",
+      "statement_ids": [
+        "S026"
+      ],
+      "time": "Later that night, shortly after Selene locked herself in",
+      "location": "Amber Chamber",
+      "subject": "Amber Chamber door",
+      "action": "Helps force the Amber Chamber door",
+      "context": "Emergency response to cries from within the sealed room",
+      "witnesses": [
+        "Garron Bell"
+      ]
+    },
+    {
+      "event_id": "E009",
+      "statement_ids": [
+        "S009"
+      ],
+      "time": "after midnight",
+      "location": "Amber Chamber",
+      "subject": "Amber Chamber",
+      "action": "confirms the chamber door had to be forced and appeared sealed beforehand",
+      "context": "Confirms the locked-room aspect",
+      "witnesses": [
+        "Dr. Orin Vell"
+      ]
+    },
+    {
+      "event_id": "E010",
+      "statement_ids": [
+        "S014"
+      ],
+      "time": null,
+      "location": "Amber Chamber",
+      "subject": "unknown assailant",
+      "action": "was assaulted by a man",
+      "context": "Core factual admission amid her incomplete account",
+      "witnesses": [
+        "Selene Vell"
+      ]
+    },
+    {
+      "event_id": "E011",
+      "statement_ids": [
+        "S011"
+      ],
+      "time": null,
+      "location": null,
+      "subject": null,
+      "action": "admits she feared someone",
+      "context": "Acknowledges awareness of danger prior to attacks",
+      "witnesses": [
+        "Selene Vell"
+      ]
+    },
+    {
+      "event_id": "E012",
+      "statement_ids": [
+        "S013"
+      ],
+      "time": null,
+      "location": null,
+      "subject": null,
+      "action": "noticed suspicious shadows",
+      "context": "Visual observation during threat situation",
+      "witnesses": [
+        "Selene Vell"
+      ]
+    },
+    {
+      "event_id": "E013",
+      "statement_ids": [
+        "S020"
+      ],
+      "time": "after discovery of incident",
+      "location": "Amber Chamber",
+      "subject": "crime scene",
+      "action": "records the sealed Amber Chamber with intact windows and shutters",
+      "context": "Official documentation of the locked-room conditions",
+      "witnesses": [
+        "Magistrate Halden Prout"
+      ]
+    },
+    {
+      "event_id": "E014",
+      "statement_ids": [
+        "S021"
+      ],
+      "time": "during initial investigation",
+      "location": "vestibule casement",
+      "subject": "crime scene",
+      "action": "documents blood at the vestibule casement along with bullets, wounds, and footprints",
+      "context": "Evidence linking to the intruder's entry/exit",
+      "witnesses": [
+        "Magistrate Halden Prout"
+      ]
+    },
+    {
+      "event_id": "E015",
+      "statement_ids": [
+        "S023"
+      ],
+      "time": "during investigation",
+      "location": "Amber Chamber",
+      "subject": "Amber Chamber structure",
+      "action": "examined and sounded the walls, ceiling, and floor finding no hidden passage, trapdoor, sliding panel, hollow wall, or structural escape route",
+      "context": "Technical examination ruling out architectural escape routes",
+      "witnesses": [
+        "Clerk Merrow Fenn"
+      ]
+    },
+    {
+      "event_id": "E016",
+      "statement_ids": [
+        "S030"
+      ],
+      "time": "After the locked-room disturbance",
+      "location": "Amber Chamber",
+      "subject": "Amber Chamber window",
+      "action": "Confirms the window could not have served as the escape route at midnight",
+      "context": "Inspection with Old Tobin to determine escape possibility",
+      "witnesses": [
+        "Mira Bell"
+      ]
+    },
+    {
+      "event_id": "E017",
+      "statement_ids": [
+        "S022"
+      ],
+      "time": null,
+      "location": "Amber Chamber",
+      "subject": "attacker",
+      "action": "proposes theory that an attacker may have hidden in the room before escaping by an impossible route",
+      "context": "Initial working hypothesis about the method of attack",
+      "witnesses": [
+        "Magistrate Halden Prout"
+      ]
+    },
+    {
+      "event_id": "E018",
+      "statement_ids": [
+        "S025"
+      ],
+      "time": "after Selene improved",
+      "location": null,
+      "subject": "Selene Vell",
+      "action": "allows questioning when Selene improves",
+      "context": "Conditional cooperation with the investigation",
+      "witnesses": [
+        "Dr. Lys Farrow"
+      ]
+    },
+    {
+      "event_id": "E019",
+      "statement_ids": [
+        "S025"
+      ],
+      "time": null,
+      "location": null,
+      "subject": "Selene Vell's injuries",
+      "action": "identifies pressure marks showing near strangulation and documents a serious temple injury not necessarily caused by a pistol blow",
+      "context": "Medical analysis distinguishing injury types and possible causes",
+      "witnesses": [
+        "Dr. Lys Farrow"
+      ]
+    },
+    {
+      "event_id": "E020",
+      "statement_ids": [
+        "S018"
+      ],
+      "time": null,
+      "location": null,
+      "subject": "case evidence",
+      "action": "supplies theories and interprets clues",
+      "context": "Official investigative approach",
+      "witnesses": [
+        "Inspector Valen Rusk"
+      ]
+    },
+    {
+      "event_id": "E021",
+      "statement_ids": [
+        "S019"
+      ],
+      "time": null,
+      "location": null,
+      "subject": "Cassian Mor",
+      "action": "builds a case against Cassian Mor",
+      "context": "Primary suspect pursued by authorities",
+      "witnesses": [
+        "Inspector Valen Rusk"
+      ]
+    },
+    {
+      "event_id": "E022",
+      "statement_ids": [
+        "S032"
+      ],
+      "time": "After the watchman's murder",
+      "location": "Lantern Stag Inn",
+      "subject": "murdered watchman",
+      "action": "provides local gossip about the murdered watchman",
+      "context": "Innkeeper sharing community information",
+      "witnesses": [
+        "Bram Hocket"
+      ]
+    },
+    {
+      "event_id": "E023",
+      "statement_ids": [
+        "S033"
+      ],
+      "time": "Before and after the murder",
+      "location": "Lantern Stag Inn/local area",
+      "subject": "watchman",
+      "action": "reveals hostility toward the watchman",
+      "context": "Personal animosity making him a suspect",
+      "witnesses": [
+        "Bram Hocket"
+      ]
+    },
+    {
+      "event_id": "E024",
+      "statement_ids": [
+        "S035"
+      ],
+      "time": "Initial stages of investigation",
+      "location": "Lantern Stag Inn",
+      "subject": "watchman",
+      "action": "initially accuses the watchman of being involved in the earlier attack",
+      "context": "Early accusation before watchman's own death",
+      "witnesses": [
+        "Bram Hocket"
+      ]
+    },
+    {
+      "event_id": "E025",
+      "statement_ids": [
+        "S036"
+      ],
+      "time": "years prior to the crime",
+      "location": "various",
+      "subject": "Tessa Hocket",
+      "action": "was secretly involved with the watchman",
+      "context": "Hidden affair discovered during investigation",
+      "witnesses": [
+        "Tessa Hocket"
+      ]
+    },
+    {
+      "event_id": "E026",
+      "statement_ids": [
+        "S037"
+      ],
+      "time": "night of the crime",
+      "location": "manor grounds",
+      "subject": "Tessa Hocket",
+      "action": "came to the manor grounds disguised in a black shawl",
+      "context": "Concealing her identity during visit",
+      "witnesses": [
+        "Tessa Hocket"
+      ]
+    },
+    {
+      "event_id": "E027",
+      "statement_ids": [
+        "S038"
+      ],
+      "time": "during her visit to the manor",
+      "location": "manor grounds",
+      "subject": "unknown person",
+      "action": "used birdlike cries as a signal",
+      "context": "Communication method with another party",
+      "witnesses": [
+        "Tessa Hocket"
+      ]
+    },
+    {
+      "event_id": "E028",
+      "statement_ids": [
+        "S039"
+      ],
+      "time": "moment after the watchman's death",
+      "location": "near the watchman's body",
+      "subject": "killer",
+      "action": "saw a fleeing shadow after the watchman was killed",
+      "context": "Observed perpetrator or accomplice escaping",
+      "witnesses": [
+        "Tessa Hocket"
+      ]
+    },
+    {
+      "event_id": "E029",
+      "statement_ids": [
+        "S040"
+      ],
+      "time": "after the murder",
+      "location": "manor court",
+      "subject": "watchman's body",
+      "action": "found the body and was helped away by Old Tobin",
+      "context": "Discovery requiring departure assistance",
+      "witnesses": [
+        "Tessa Hocket"
+      ]
+    },
+    {
+      "event_id": "E030",
+      "statement_ids": [
+        "S007"
+      ],
+      "time": "after the watchman's death",
+      "location": "estate grounds",
+      "subject": "innkeeper's wife",
+      "action": "conceals helping an innkeeper's wife leave the grounds",
+      "context": "Suspicious concealment related to the night's events",
+      "witnesses": [
+        "Tobin Quill, called Old Tobin"
+      ]
+    },
+    {
+      "event_id": "E031",
+      "statement_ids": [
+        "S028"
+      ],
+      "time": "during later manor watch",
+      "location": "manor grounds",
+      "subject": "fleeing figure",
+      "action": "hears shots and fires at a fleeing figure",
+      "context": "Stationed on watch duty by Kest",
+      "witnesses": [
+        "Garron Bell"
+      ]
+    },
+    {
+      "event_id": "E032",
+      "statement_ids": [
+        "S029"
+      ],
+      "time": "during the shooting incident",
+      "location": "narrow court",
+      "subject": "second person in the court",
+      "action": "insists he could not have overlooked a second person",
+      "context": "Corroborating his account of the shooting",
+      "witnesses": [
+        "Garron Bell"
+      ]
+    },
+    {
+      "event_id": "E033",
+      "statement_ids": [
+        "S027"
+      ],
+      "time": "before the crimes",
+      "location": "near the pavilion",
+      "subject": "Garron and Mira Bell",
+      "action": "were illegally trapping game",
+      "context": "Explains their suspicious presence at the scene",
+      "witnesses": [
+        "Garron Bell"
+      ]
+    },
+    {
+      "event_id": "E034",
+      "statement_ids": [
+        "S034"
+      ],
+      "time": "ongoing operation",
+      "location": "Lantern Stag Inn",
+      "subject": "Garron and Mira Bell",
+      "action": "indirectly confirms the Bells' poaching through the inn's supply of game",
+      "context": "Evidence linking poachers to inn's provisions",
+      "witnesses": [
+        "Bram Hocket"
+      ]
+    },
+    {
+      "event_id": "E035",
+      "statement_ids": [
+        "S046"
+      ],
+      "time": "about half past ten",
+      "location": "Bracken Halt railway station",
+      "subject": "Cassian Mor",
+      "action": "identifies Cassian Mor as arriving by train at about half past ten on the night of the later manor attack",
+      "context": "Creates damaging gap in Mor's alibi; Kest believes timing may have been engineered",
+      "witnesses": [
+        "Railway Porter at Bracken Halt"
+      ]
+    },
+    {
+      "event_id": "E036",
+      "statement_ids": [
+        "S045"
+      ],
+      "time": "after Selene collected the letter",
+      "location": "Northgate Post Office",
+      "subject": "poste-restante letter",
+      "action": "reports a man resembling Cassian Mor asked about a poste-restante letter after Selene had already collected it",
+      "context": "Suggests someone manipulating the letter trail using Mor's appearance",
+      "witnesses": [
+        "Northgate Post Clerk"
+      ]
+    },
+    {
+      "event_id": "E037",
+      "statement_ids": [
+        "S031"
+      ],
+      "time": "after Kest's request",
+      "location": "Selene's room at the manor",
+      "subject": "eyeglasses",
+      "action": "finds eyeglasses that become important evidence",
+      "context": "Search conducted at Kest's behest",
+      "witnesses": [
+        "Mira Bell"
+      ]
+    },
+    {
+      "event_id": "E038",
+      "statement_ids": [
+        "S041"
+      ],
+      "time": "night of the crime",
+      "location": "Nanny Voss's residence",
+      "subject": "chapel ghost ferret",
+      "action": "the ferret remained with her",
+      "context": "Ferret was confined indoors during the incident",
+      "witnesses": [
+        "Nanny Voss"
+      ]
+    },
+    {
+      "event_id": "E039",
+      "statement_ids": [
+        "S042"
+      ],
+      "time": "night of the crime",
+      "location": "outside her dwelling",
+      "subject": "cry sound",
+      "action": "heard an identical cry outside on the night of the crime while the animal was in her lap",
+      "context": "Proves the cry was imitated by a person rather than made by the animal",
+      "witnesses": [
+        "Nanny Voss"
+      ]
+    },
+    {
+      "event_id": "E040",
+      "statement_ids": [
+        "S047"
+      ],
+      "time": "shortly after the incident",
+      "location": "public newspaper",
+      "subject": "amber chamber affair",
+      "action": "publishes the first detailed public account of the Amber Chamber affair",
+      "context": "Includes Old Tobin's interview, magistrate's comments, sealed-room facts, Chapel Ghost story, Nanny Voss's statement, and expected arrival of Inspector Rusk; sensational, incomplete, shaped by rumor",
+      "witnesses": [
+        "Anonymous Gazette Correspondent"
+      ]
+    },
+    {
+      "event_id": "E041",
+      "statement_ids": [
+        "S002"
+      ],
+      "time": null,
+      "location": "Alderfen Manor",
+      "subject": "evidence against Cassian Mor",
+      "action": "studies staged evidence against Cassian Mor",
+      "context": "Investigation of planted or misleading clues",
+      "witnesses": [
+        "Jory Kest"
+      ]
+    },
+    {
+      "event_id": "E042",
+      "statement_ids": [
+        "S003"
+      ],
+      "time": null,
+      "location": "Alderfen Manor",
+      "subject": null,
+      "action": "accompanies Kest to investigate the estate",
+      "context": "Assisting the investigation",
+      "witnesses": [
+        "Eamon Vale"
+      ]
+    },
+    {
+      "event_id": "E043",
+      "statement_ids": [
+        "S004"
+      ],
+      "time": null,
+      "location": "city",
+      "subject": "reed cane",
+      "action": "verifies the purchase of a distinctive reed cane through a city dealer",
+      "context": "Evidence verification supporting the investigation",
+      "witnesses": [
+        "Eamon Vale"
+      ]
+    },
+    {
+      "event_id": "E044",
+      "statement_ids": [
+        "S017"
+      ],
+      "time": null,
+      "location": "Alderfen Manor",
+      "subject": "investigation access",
+      "action": "helps Kest gain access to the estate",
+      "context": "Cooperation with the investigation despite being a suspect",
+      "witnesses": [
+        "Cassian Mor"
+      ]
+    },
+    {
+      "event_id": "E045",
+      "statement_ids": [
+        "S015"
+      ],
+      "time": null,
+      "location": null,
+      "subject": "Selene Vell's past",
+      "action": "knows more about Selene's hidden past than he will publicly admit",
+      "context": "Information he guards despite growing suspicion",
+      "witnesses": [
+        "Cassian Mor"
+      ]
+    },
+    {
+      "event_id": "E046",
+      "statement_ids": [
+        "S016"
+      ],
+      "time": null,
+      "location": null,
+      "subject": null,
+      "action": "understands a cryptic phrase connected to that history",
+      "context": "Shared understanding with Selene regarding her past",
+      "witnesses": [
+        "Cassian Mor"
+      ]
+    },
+    {
+      "event_id": "E047",
+      "statement_ids": [
+        "S001"
+      ],
+      "time": "~midnight (disputed)",
+      "location": "Amber Chamber",
+      "subject": "sealed-room attack",
+      "action": "argues the sealed-room attack may not have happened at the assumed time",
+      "context": "Investigative conclusion challenging official timeline",
+      "witnesses": [
+        "Jory Kest"
+      ]
+    },
+    {
+      "event_id": "E048",
+      "statement_ids": [
+        "S048"
+      ],
+      "time": "before the formal hearing",
+      "location": null,
+      "subject": "Jory Kest",
+      "action": "received sealed note naming the person Kest believes responsible",
+      "context": "Wren holds this note as a precaution should Kest fail to return",
+      "witnesses": [
+        "Editor Silas Wren"
+      ]
+    },
+    {
+      "event_id": "E049",
+      "statement_ids": [
+        "S049"
+      ],
+      "time": "if Kest does not return",
+      "location": null,
+      "subject": "sealed note",
+      "action": "prepared to produce the sealed note",
+      "context": "Contingency plan in case Kest fails to return from gathering evidence",
+      "witnesses": [
+        "Editor Silas Wren"
+      ]
+    },
+    {
+      "event_id": "E050",
+      "statement_ids": [
+        "S050"
+      ],
+      "time": "before departure",
+      "location": "Alderfen Manor",
+      "subject": "Jory Kest",
+      "action": "reached a definite solution regarding responsibility",
+      "context": "Confirmed by Wren's role; Kest departed to gather proof from Selene's overseas past",
+      "witnesses": [
+        "Editor Silas Wren"
+      ]
+    },
+    {
+      "event_id": "E051",
+      "statement_ids": [
+        "S051"
+      ],
+      "time": "during investigation",
+      "location": "laboratory pavilion",
+      "subject": "pavilion at Alderfen Manor",
+      "action": "inspected construction for concealed panels, trapdoors, ceiling cracks, underground outlets, or hidden passages",
+      "context": "Expert consultation sought to determine if structural means could explain the apparent locked-room assault",
+      "witnesses": [
+        "Master Builder Corvin Hale"
+      ]
+    },
+    {
+      "event_id": "E052",
+      "statement_ids": [
+        "S052"
+      ],
+      "time": "after inspection",
+      "location": "laboratory pavilion",
+      "subject": "hidden passage or structural route",
+      "action": "no concealed route was found",
+      "context": "Absence of structural explanation supports questioning whether the locked-room assault truly occurred while the room was locked",
+      "witnesses": [
+        "Master Builder Corvin Hale"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "contradiction_id": "CONT001",
+      "type": "physical_evidence_conflict",
+      "event_ids": [
+        "E005",
+        "E007",
+        "E008",
+        "E009",
+        "E013",
+        "E015",
+        "E016",
+        "E047",
+        "E051",
+        "E052"
+      ],
+      "explanation": "Event E005 (Tobin), E007 (Tobin), E008 (Garron Bell), E009 (Dr. Orin), E013 (Magistrate Prout), E015 (Clerk Fenn), E016 (Mira Bell), E051-E052 (Master Builder Hale) ALL confirm the Amber Chamber was sealed with intact windows/shutters and structurally impossible to escape through. Yet Event E047 (Jory Kest) explicitly argues the sealed-room attack 'may not have happened at the assumed time.' This represents a direct conflict between overwhelming physical evidence confirming the locked room and Kest's investigative conclusion challenging the timeline. Either the attack was staged, the room was never actually locked, or Kest has identified evidence of a conspiracy that contradicts the official narrative.",
+      "severity": 0.92
+    },
+    {
+      "contradiction_id": "CONT002",
+      "type": "action_conflict",
+      "event_ids": [
+        "E028",
+        "E029"
+      ],
+      "explanation": "Event E028 (Tessa Hocket) claims she saw 'a fleeing shadow' MOMENT AFTER the watchman was killed, implying she observed from a distance. Event E029 (Tessa Hocket) claims she FOUND THE BODY and was helped away by Old Tobin. These accounts are mutually exclusive in terms of proximity: seeing a distant shadow fleeing suggests Tessa was far from the body, while finding the body requires近距离接触. One account must be false or embellished—either Tessa was a passive observer who only saw a shadow flee, or she was present at the body and actively involved in its discovery.",
+      "severity": 0.88
+    },
+    {
+      "contradiction_id": "CONT003",
+      "type": "identity_conflict",
+      "event_ids": [
+        "E038",
+        "E039"
+      ],
+      "explanation": "Event E038 (Nanny Voss) states the chapel ghost ferret REMAINED WITH HER on the night of the crime. Event E039 (Nanny Voss) states she heard an IDENTICAL cry OUTSIDE her dwelling while the animal was in her lap. Since the ferret was confirmed indoors with Voss, the identical cry she heard externally could NOT have been the ferret—it was human-imitated. This proves the 'Chapel Ghost' cry used as a signal (per E027) was a person mimicking the ferret, not the animal itself.",
+      "severity": 0.85
+    },
+    {
+      "contradiction_id": "CONT004",
+      "type": "action_conflict",
+      "event_ids": [
+        "E004",
+        "E007"
+      ],
+      "explanation": "Event E004 (Selene Vell) confirms she borrowed Old Tobin's pistol BEFORE the first attack as a precautionary measure. Event E007 (Tobin Quill) documents that among the items found in the Amber Chamber after the attack was a MISSING PISTOL. If Selene borrowed the pistol for protection and it was in her possession during the attack, the question arises: Did the attacker take it? And if so, why would Selene borrow a weapon that ultimately aided her attacker? Alternatively, did Selene bring the pistol into the chamber and lose it to the assailant?",
+      "severity": 0.78
+    },
+    {
+      "contradiction_id": "CONT005",
+      "type": "action_conflict",
+      "event_ids": [
+        "E022",
+        "E023",
+        "E024"
+      ],
+      "explanation": "Event E022 (Bram Hocket) shares local gossip ABOUT the murdered watchman. Event E023 (Bram Hocket) reveals HOSTILITY TOWARD the watchman. Event E024 (Bram Hocket) INITIALLY ACCUSES the watchman of being involved in the EARLIER ATTACK. Bram's shifting stance—from accusing the victim of prior wrongdoing, to expressing open hostility, to now providing gossip about the deceased—is suspicious. His accusations against the watchman (who is now dead and cannot defend himself) combined with his known animosity make him both a hostile witness and a potential suspect in the watchman's murder.",
+      "severity": 0.72
+    },
+    {
+      "contradiction_id": "CONT006",
+      "type": "identity_conflict",
+      "event_ids": [
+        "E035",
+        "E041"
+      ],
+      "explanation": "Event E035 (Railway Porter) places Cassian Mor at Bracken Halt railway station at approximately 10:30 PM on the night of the manor attack. Event E041 (Jory Kest) explicitly studies STAGED EVIDENCE against Cassian Mor, and Event E035 notes Kest believes the timing 'may have been ENGINEERED.' This creates a conflict: Either Mor genuinely arrived at 10:30 and has an alibi, or the timing was manipulated to create a false placement. If Kest believes the evidence was staged, the porter's testimony becomes suspect—either the porter is lying about the timing, or someone arranged for Mor to be seen there deliberately.",
+      "severity": 0.71
+    },
+    {
+      "contradiction_id": "CONT007",
+      "type": "action_conflict",
+      "event_ids": [
+        "E026",
+        "E027",
+        "E028",
+        "E029"
+      ],
+      "explanation": "Event E026 (Tessa Hocket) came to the manor GROUNDSDISGUISED in a black shawl. Event E027 (Tessa Hocket) used BIRDLIKE CRIES AS A SIGNAL. Event E028 (Tessa Hocket) saw a fleeing shadow after the murder. Event E029 (Tessa Hocket) found the body and was helped away. Combined, these reveal that Tessa: (1) deliberately concealed her identity, (2) communicated using signals, (3) was present at the exact moment of the murder, and (4) has an unexplained presence on the grounds. Her disguise and signaling behavior strongly suggest premeditation—she was not a casual visitor but someone with a specific purpose connected to the murder.",
+      "severity": 0.68
+    },
+    {
+      "contradiction_id": "CONT008",
+      "type": "action_conflict",
+      "event_ids": [
+        "E033",
+        "E034"
+      ],
+      "explanation": "Event E033 (Garron Bell) admits to illegal GAME TRAPPING near the pavilion BEFORE the crimes. Event E034 (Bram Hocket) INDIRECTLY CONFIRMS the Bells' poaching through the inn's supply of game. While both events align on the fact of poaching, the context matters: The Bells were caught trespassing and committing wildlife crimes at the exact location where Dr. Orin was separated from Selene (E001). Their 'explained' presence becomes suspicious when combined with their subsequent involvement in the locked-room incident (E008) and the shooting (E031-E032).",
+      "severity": 0.62
+    },
+    {
+      "contradiction_id": "CONT009",
+      "type": "identity_conflict",
+      "event_ids": [
+        "E003",
+        "E036",
+        "E043"
+      ],
+      "explanation": "Event E003 (Marius Reed) sold a yellow reed cane to a man RESEMBLING Cassian Mor. Event E036 (Post Clerk) reports a man RESEMBLING Cassian Mor asked about a poste-restante letter AFTER Selene had already collected it. Event E043 (Eamon Vale) verified the purchase of a distinctive reed cane through a city dealer. Two separate incidents involve men 'resembling' Mor appearing after key events (cane sale, letter inquiry). This pattern suggests EITHER Mor uses his resemblance to implicate others, OR someone is systematically impersonating Mor to create false evidence trails. The repeated use of 'resembling' rather than positive identification is notable.",
+      "severity": 0.65
+    },
+    {
+      "contradiction_id": "CONT010",
+      "type": "action_conflict",
+      "event_ids": [
+        "E045",
+        "E046",
+        "E050"
+      ],
+      "explanation": "Event E045 (Cassian Mor) knows more about Selene's HIDDEN PAST than he will publicly admit. Event E046 (Cassian Mor) understands a CRYPTIC PHRASE connected to that history. Event E050 (Editor Wren) confirms Kest reached a DEFINITE SOLUTION regarding responsibility and departed to gather proof from Selene's OVERSEAS PAST. Mor's guarded knowledge about Selene's past, combined with Kest's determination to investigate that overseas past, suggests Mor may be concealing information directly relevant to the crimes—or worse, that Selene's past contains elements that motivated the attacks.",
+      "severity": 0.58
+    }
+  ],
+  "attributes": [
+    {
+      "person": "Jory Kest",
+      "attributes": [
+        {
+          "claim": "Is an investigator who studies evidence and challenges conclusions",
+          "source": "S001,S002",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Operates as an investigator",
+          "source": "S050",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Maintains a working relationship with Editor Silas Wren",
+          "source": "S048",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Eamon Vale",
+      "attributes": [
+        {
+          "claim": "Accompanies investigators and verifies evidence through city contacts",
+          "source": "S003,S004",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Tobin Quill",
+      "attributes": [
+        {
+          "claim": "Known as 'Old Tobin' among the household staff",
+          "source": "S005,S006,S007",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Assisted in breaking down the Amber Chamber door",
+          "source": "S006",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Later concealed helping an innkeeper's wife leave the grounds",
+          "source": "S007",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "person": "Selene Vell",
+      "attributes": [
+        {
+          "claim": "Works alongside Dr. Vell in the laboratory",
+          "source": "S008",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Was briefly separated from Dr. Vell in the afternoon",
+          "source": "S010",
+          "confidence": 0.8
+        },
+        {
+          "claim": "has a hidden past known to Cassian Mor",
+          "source": "S015",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Was the victim of a near strangulation attack",
+          "source": "S025",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Suffered a serious temple injury",
+          "source": "S025",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Dr. Orin Vell",
+      "attributes": [
+        {
+          "claim": "Is a physician or scientist conducting laboratory work",
+          "source": "S008,S009",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Has authority over the Amber Chamber",
+          "source": "S009",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "person": "Cassian Mor",
+      "attributes": [
+        {
+          "claim": "Is suspected due to staged evidence against him",
+          "source": "S002",
+          "confidence": 0.5
+        },
+        {
+          "claim": "knows more about Selene's hidden past than he publicly admits",
+          "source": "S015",
+          "confidence": 0.5
+        },
+        {
+          "claim": "cooperates with investigators despite being a suspect",
+          "source": "S017",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Physically resembles a man who purchased a yellow reed cane",
+          "source": "S044",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Physically resembles a man who inquired about a poste-restante letter",
+          "source": "S045",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "person": "Innkeeper's wife",
+      "attributes": [
+        {
+          "claim": "Left the estate grounds after the watchman's death",
+          "source": "S007",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "person": "Old Tobin",
+      "attributes": [
+        {
+          "claim": "Is experienced in inspecting structural features such as windows",
+          "source": "S030",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Assisted Tessa Hocket after the body was discovered",
+          "source": "S040",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Inspector Valen Rusk",
+      "attributes": [
+        {
+          "claim": "leads the criminal investigation",
+          "source": "S018",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Magistrate Halden Prout",
+      "attributes": [
+        {
+          "claim": "holds official legal authority to document crime scenes",
+          "source": "S020",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Is the presiding magistrate investigating the case",
+          "source": "S021",
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "person": "Kest",
+      "attributes": [
+        {
+          "claim": "Holds supervisory authority over manor watch personnel",
+          "source": "S028",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Has authority to direct searches at the manor",
+          "source": "S031",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Clerk Merrow Fenn",
+      "attributes": [
+        {
+          "claim": "Is a clerk trained in structural examination techniques",
+          "source": "S023",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Dr. Lys Farrow",
+      "attributes": [
+        {
+          "claim": "Is the attending physician responsible for Selene Vell's care",
+          "source": "S024",
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "person": "Garron Bell",
+      "attributes": [
+        {
+          "claim": "Is husband to Mira Bell",
+          "source": "S027",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Has been involved in illegal trapping activity with his wife",
+          "source": "S027",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Serves under Kest in manor duties",
+          "source": "S028",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Mira Bell",
+      "attributes": [
+        {
+          "claim": "Is wife to Garron Bell",
+          "source": "S027",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Has been involved in illegal trapping activity with her husband",
+          "source": "S027",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Associated with the Bells family involved in poaching",
+          "source": "S034",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Bram Hocket",
+      "attributes": [
+        {
+          "claim": "Is the innkeeper of Lantern Stag Inn",
+          "source": "S032",
+          "confidence": 1.0
+        },
+        {
+          "claim": "Exhibits hostility toward the watchman",
+          "source": "S033",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Accused the watchman of involvement in the earlier attack",
+          "source": "S035",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Tessa Hocket",
+      "attributes": [
+        {
+          "claim": "Had a secret romantic relationship with the watchman years prior",
+          "source": "S036",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Wears a black shawl when visiting the manor grounds",
+          "source": "S037",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Uses birdlike cries as a signal",
+          "source": "S038",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Watchman",
+      "attributes": [
+        {
+          "claim": "Was the murdered victim",
+          "source": "S032",
+          "confidence": 1.0
+        },
+        {
+          "claim": "Was previously accused by Bram of involvement in an earlier attack",
+          "source": "S035",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "person": "Selene",
+      "attributes": [
+        {
+          "claim": "Occupies a room at the manor where evidence was found",
+          "source": "S031",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Has an overseas past that Jory Kest sought to investigate",
+          "source": "S050",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Garron",
+      "attributes": [
+        {
+          "claim": "Connected to the Bells family involved in poaching",
+          "source": "S034",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "person": "Nanny Voss",
+      "attributes": [
+        {
+          "claim": "Keeps the Chapel Ghost ferret at her residence",
+          "source": "S041",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Silas Wren",
+      "attributes": [
+        {
+          "claim": "Serves as editor of the Gazette",
+          "source": "S048",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Corvin Hale",
+      "attributes": [
+        {
+          "claim": "Is a Master Builder by trade",
+          "source": "S051",
+          "confidence": 1.0
+        },
+        {
+          "claim": "Provides expert architectural consultation",
+          "source": "S051",
+          "confidence": 0.8
+        }
+      ]
+    }
+  ],
+  "behavior_report": [
+    {
+      "issue_id": "INC001",
+      "person": "Jory Kest",
+      "behavior_type": "unnatural_access",
+      "explanation": "Kest functions as the central narrator-trap: he challenges the official timeline (S001), controls the sealed note naming the culprit (S048), directs searches at the manor (S031), stations watchmen (S028), and departed to prove Selene's overseas past (S050). His role places him at every decision point in the investigation while maintaining private knowledge of the solution. The sealed note contingency suggests he anticipates danger - either because he knows the truth and expects retaliation, or because he IS the architect of the narrative.",
+      "risk_score": 0.85
+    },
+    {
+      "issue_id": "INC002",
+      "person": "Tobin Quill (Old Tobin)",
+      "behavior_type": "retraction",
+      "explanation": "Old Tobin initially observed Selene lock the Amber Chamber (S005) and reported the crime scene evidence (S006), presenting as cooperative. However, S007 reveals he CONCEALED helping an innkeeper's wife leave the grounds after the watchman's death. This is a material omission - he assisted someone in fleeing immediately after a murder without reporting it. Combined with S040 where he also helped Tessa Hocket away from the body, Tobin demonstrates repeated pattern of facilitating departures of persons connected to the murder.",
+      "risk_score": 0.82
+    },
+    {
+      "issue_id": "INC003",
+      "person": "Selene Vell",
+      "behavior_type": "evasion",
+      "explanation": "Selene admits she feared someone before the attack (S011) and was assaulted by a man (S014), yet her account is notably incomplete. She borrowed Old Tobin's pistol as a precaution (S012), noticed suspicious shadows (S013), yet failed to provide identifying details of her attacker. Her hidden past is known to Cassian Mor (S015) but unexplained to investigators. The combination of foreknowledge (fear), preparation (borrowing weapon), and selective disclosure suggests she knows more than she's revealing about the circumstances of her assault.",
+      "risk_score": 0.75
+    },
+    {
+      "issue_id": "INC004",
+      "person": "Cassian Mor",
+      "behavior_type": "motive_alignment",
+      "explanation": "Multiple pieces of staged evidence align suspiciously well against Cassian Mor: he physically resembles the man who bought the yellow reed cane (S044), resembles the man inquiring about the poste-restante letter (S045), and is the target of Inspector Rusk's case-building (S019). Yet he cooperates with Kest to gain estate access (S017) and knows Selene's hidden past (S015). Either he is being framed with perfect accuracy, or his cooperation masks deeper involvement. The staged nature of evidence (S002) combined with his knowledge of Selene's past creates strong motive-alignment concern.",
+      "risk_score": 0.78
+    },
+    {
+      "issue_id": "INC005",
+      "person": "Tessa Hocket",
+      "behavior_type": "unnatural_access",
+      "explanation": "Tessa exhibits multiple suspicious behaviors: she came to the manor grounds disguised in a black shawl (S037), used birdlike cries as signals (S038), saw a fleeing shadow immediately after the watchman's death (S039), found the body (S040), and needed Old Tobin's help to leave. Her secret romantic involvement with the watchman (S036) predates the crime. Her presence during the exact moment of the murder, combined with covert entry methods and communication signals, suggests she was not merely coincidentally present but had planned attendance at the scene.",
+      "risk_score": 0.88
+    },
+    {
+      "issue_id": "INC006",
+      "person": "Bram Hocket",
+      "behavior_type": "evasion",
+      "explanation": "Bram exhibits classic deflection behavior: he openly expresses hostility toward the watchman (S033), initially accused the watchman of involvement in the earlier attack (S035), and indirectly confirms the Bells' poaching through inn supplies (S034). Rather than providing substantive alibi information or evidence about the murder, he focuses on shifting suspicion onto the victim's prior conduct. His early accusation of the watchman before the watchman's own death suggests either foreknowledge of events or projection of guilt.",
+      "risk_score": 0.72
+    },
+    {
+      "issue_id": "INC007",
+      "person": "Editor Silas Wren",
+      "behavior_type": "unnatural_access",
+      "explanation": "Wren receives Kest's sealed note naming the person believed responsible (S048) and holds it as a precaution should Kest not return (S049). As editor of the Gazette, he also facilitated publication of the first detailed public account (S047). His role combines media influence with private knowledge of Kest's suspected culprit. The contingency arrangement suggests Kest either fears for his safety while gathering overseas proof (S050) or is ensuring the accusation survives even if he cannot personally deliver it.",
+      "risk_score": 0.68
+    },
+    {
+      "issue_id": "INC008",
+      "person": "Garron Bell",
+      "behavior_type": "consistent",
+      "explanation": "Garron's presence aligns with his stated activities: illegally trapping game near the pavilion explains his location (S027). Being stationed by Kest during the manor watch (S028) justifies his role in firing at a fleeing figure. His insistence that he couldn't have overlooked a second person (S029) corroborates his account of the shooting incident. While connected to the poaching operation confirmed by Bram (S034), his testimony shows internal consistency with his admitted activities.",
+      "risk_score": 0.25
+    },
+    {
+      "issue_id": "INC009",
+      "person": "Mira Bell",
+      "behavior_type": "consistent",
+      "explanation": "Mira's actions follow logically from her circumstances: accompanying Old Tobin to inspect the Amber Chamber window (S030) makes sense given their shared involvement in the poaching activity near the pavilion. Searching Selene's room at Kest's request (S031) represents authorized investigative action. Finding the eyeglasses as important evidence fits her plausible access to domestic spaces. No contradiction exists between her attributes and her stated actions.",
+      "risk_score": 0.2
+    },
+    {
+      "issue_id": "INC010",
+      "person": "Dr. Lys Farrow",
+      "behavior_type": "consistent",
+      "explanation": "As attending physician (S024), Dr. Farrow's medical findings are professionally appropriate: documenting pressure marks showing near strangulation and a serious temple injury not necessarily caused by a pistol blow (S025). These observations serve diagnostic purposes independent of the broader mystery. Conditional cooperation regarding Selene's questioning reflects appropriate patient-care boundaries. No behavioral anomalies detected.",
+      "risk_score": 0.15
+    },
+    {
+      "issue_id": "INC011",
+      "person": "Magistrate Halden Prout",
+      "behavior_type": "consistent",
+      "explanation": "Prout performs standard judicial documentation: recording the sealed Amber Chamber with intact windows and shutters (S020), documenting blood at the vestibule casement along with bullets, wounds, and footprints (S021). His theory proposing an attacker may have hidden in the room before escaping by an impossible route (S022) represents reasonable investigative speculation. Official authority and procedural compliance are evident throughout.",
+      "risk_score": 0.18
+    },
+    {
+      "issue_id": "INC012",
+      "person": "Clerk Merrow Fenn",
+      "behavior_type": "consistent",
+      "explanation": "Fenn's technical expertise appropriately applies to the case: examining and sounding walls, ceiling, and floor for hidden passages, trapdoors, sliding panels, hollow walls, or structural escape routes (S023). His findings directly inform the locked-room question. Professional competence matches stated role as clerk trained in structural examination techniques.",
+      "risk_score": 0.12
+    },
+    {
+      "issue_id": "INC013",
+      "person": "Master Builder Corvin Hale",
+      "behavior_type": "consistent",
+      "explanation": "Hale's expert consultation follows professional protocol: inspecting pavilion construction for concealed panels, trapdoors, ceiling cracks, underground outlets, or hidden passages (S051), concluding no concealed route existed (S052). His findings support the investigation's architectural determinations. Expert opinion aligns with his credentials as Master Builder.",
+      "risk_score": 0.1
+    },
+    {
+      "issue_id": "INC014",
+      "person": "Eamon Vale",
+      "behavior_type": "consistent",
+      "explanation": "Vale's supportive role matches his attributes: accompanying Kest to investigate the estate (S003) and verifying the purchase of a distinctive reed cane through a city dealer (S004). Both actions reflect assistance to the lead investigator through established contacts. No contradictions between stated role and demonstrated behavior.",
+      "risk_score": 0.22
+    },
+    {
+      "issue_id": "INC015",
+      "person": "Dr. Orin Vell",
+      "behavior_type": "consistent",
+      "explanation": "Dr. Vell's account maintains internal consistency: confirming he worked with Selene until midnight (S008), confirming the Amber Chamber door had to be forced and appeared sealed (S009), and noting brief separation from Selene in the afternoon after speaking with the estate watchman (S010). Laboratory authority over the Amber Chamber (S009) explains his relevant testimony. No discrepancies detected.",
+      "risk_score": 0.18
+    },
+    {
+      "issue_id": "INC016",
+      "person": "Nanny Voss",
+      "behavior_type": "consistent",
+      "explanation": "Voss's testimony provides crucial exculpatory evidence: the Chapel Ghost ferret remained with her (S041), proving the cry heard on the night of the crime was human imitation rather than animal vocalization (S042). Her account directly contradicts any supernatural explanation while confirming the locked-room assault scenario. No suspicious behavior patterns identified.",
+      "risk_score": 0.08
+    },
+    {
+      "issue_id": "INC017",
+      "person": "Edwin Graves",
+      "behavior_type": "consistent",
+      "explanation": "Graves provides straightforward alibi testimony: last seeing the watchman around eleven while arranging luggage transport to a nearby rail stop (S043). This establishes the latest confirmed sighting of the victim alive and contributes to timeline reconstruction. No ulterior motives or suspicious behaviors indicated.",
+      "risk_score": 0.14
+    },
+    {
+      "issue_id": "INC018",
+      "person": "Marius Reed",
+      "behavior_type": "consistent",
+      "explanation": "Reed's testimony identifies a potentially misleading evidentiary connection: selling a yellow reed cane to a man resembling Cassian Mor on the evening of the first crime (S044). While this creates circumstantial evidence against Mor, Reed accurately reports the transaction as he witnessed it. No indication of fabrication or exaggeration on his part.",
+      "risk_score": 0.28
+    },
+    {
+      "issue_id": "INC019",
+      "person": "Northgate Post Clerk",
+      "behavior_type": "consistent",
+      "explanation": "The clerk reports that a man resembling Cassian Mor asked about a poste-restante letter after Selene had already collected it (S045). This testimony suggests impersonation rather than confirming Mor's direct involvement. Accurate reporting of chronological sequence and inquiry content. No behavioral concerns.",
+      "risk_score": 0.24
+    },
+    {
+      "issue_id": "INC020",
+      "person": "Railway Porter at Bracken Halt",
+      "behavior_type": "consistent",
+      "explanation": "The porter identifies Cassian Mor arriving by train at about half past ten on the night of the later manor attack (S046). Though this creates a damaging alibi gap, the identification represents accurate observation of physical resemblance. Kest's belief that timing may have been engineered (S046) introduces doubt about the identification's reliability, but the witness himself appears credible.",
+      "risk_score": 0.32
+    }
+  ],
+  "credibility_metrics": [
+    {
+      "witness": "Anonymous Gazette Correspondent",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "No self-contradiction exists within the correspondent's published account. Multiple sourced elements (Old Tobin, magistrate, Nanny Voss) align coherently. However, the 'shaped by rumor' characterization introduces epistemic uncertainty without creating logical conflict.",
+          "score": 0.67
+        },
+        {
+          "type": "detail_quality",
+          "description": "Account demonstrates solid specificity with named sources and enumerated facts (sealed-room, Chapel Ghost story, expected Inspector Rusk arrival). The 'first detailed public account' framing indicates thoroughness, tempered by acknowledged incompleteness and sensationalist framing.",
+          "score": 0.61
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Published material references tangible persons and documented statements rather than pure phantom events. The Chapel Ghost animal story carries slight unverifiable character, but the account fundamentally rests on identifiable sources. No over-reliance on convenient anonymous tips or untraceable communications.",
+          "score": 0.62
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Newspaper publication shortly after an incident is entirely feasible. Timeline permits such reporting. No physical evidence contradicts the act of publishing. The account's accuracy regarding facts reported remains separate from the physical act of publication itself.",
+          "score": 0.82
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.67,
+        "physical_impossibility": 0.82,
+        "orchestration_marker": 0.62,
+        "detail_quality": 0.61
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.68
+    },
+    {
+      "witness": "Bram Hocket",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Shifting stance across multiple statements: initially accuses the deceased watchman of prior wrongdoing (S035), expresses open hostility toward him (S033), then provides gossip about the murdered man (S032). This pattern indicates self-serving narrative adaptation rather than consistent testimony.",
+          "score": 0.48
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Behavior exhibits classic deflection: focusing accusations on a dead victim who cannot respond, while simultaneously confirming the Bells' poaching activity (S034) which implicates others in criminal conduct. Accusations appear strategically timed to redirect investigative attention.",
+          "score": 0.52
+        },
+        {
+          "type": "detail_quality",
+          "description": "Statements lack specific temporal markers, precise locations, named sources, or verifiable particulars. References to 'local gossip,' 'earlier attack,' and 'ongoing operation' provide no actionable detail for corroboration or verification.",
+          "score": 0.35
+        },
+        {
+          "type": "internal_consistency",
+          "description": "While Bram's account of the Bells' poaching (S034) aligns with Garron Bell's admission (E033), this alignment is undermined by his broader pattern of hostile deflection toward the deceased watchman, raising questions about selective confirmation.",
+          "score": 0.55
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.51,
+        "physical_impossibility": 0.71,
+        "orchestration_marker": 0.52,
+        "detail_quality": 0.35
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.522
+    },
+    {
+      "witness": "Cassian Mor",
+      "evidence": [
+        {
+          "type": "detail_quality",
+          "description": "Two of three statements contain no temporal or spatial anchors; S015 and S016 rely exclusively on vague abstractions ('hidden past,' 'cryptic phrase') with no verifiable specifics, reducing reproducibility and verifiability.",
+          "score": 0.35
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "The recurring theme of concealed knowledge—'guarded information,' 'shared understanding of cryptic phrase'—describes an information dynamic rather than observable actions, creating reliance on unverifiable private communication between Mor and Selene.",
+          "score": 0.52
+        },
+        {
+          "type": "internal_consistency",
+          "description": "S015 and S016 do not conflict with each other; both reference complementary aspects of concealed knowledge about Selene's past. However, the consistency exists because neither statement commits to falsifiable claims.",
+          "score": 0.71
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical contradictions detected. S017 (aiding Kest's access to Alderfen Manor) is plausible cooperative behavior. Timeline integrity cannot be assessed due to absent timestamps in S015/S016.",
+          "score": 0.64
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.71,
+        "physical_impossibility": 0.64,
+        "orchestration_marker": 0.52,
+        "detail_quality": 0.35
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.555
+    },
+    {
+      "witness": "Clerk Merrow Fenn",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Statement S023 aligns with eight corroborating events (E005, E007, E008, E009, E013, E016, E051, E052) confirming the Amber Chamber was sealed and structurally escape-proof. The sole challenge from E047 concerns timeline assumptions, not physical impossibility of escape routes. No self-contradiction detected.",
+          "score": 0.84
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Fenn's technical examination finding no hidden passage, trapdoor, sliding panel, hollow wall, or structural escape route is fully consistent with physical evidence of sealed windows/shutters. The timeline dispute does not undermine the physical integrity of his findings.",
+          "score": 0.88
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "No phantom events invoked. Statement describes direct personal examination of the Amber Chamber using standard structural assessment techniques (sounding walls, ceiling, floor). Findings are verifiable through repeat examination.",
+          "score": 0.91
+        },
+        {
+          "type": "detail_quality",
+          "description": "Good specificity regarding method (examined/sounded walls, ceiling, floor) and comprehensive enumeration of excluded escape mechanisms (hidden passage, trapdoor, sliding panel, hollow wall, structural escape route). Location clearly identified. Time reference ('during investigation') could be more precise.",
+          "score": 0.74
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.84,
+        "physical_impossibility": 0.88,
+        "orchestration_marker": 0.91,
+        "detail_quality": 0.74
+      },
+      "credibility_grade": 1,
+      "weighted_score": 0.843
+    },
+    {
+      "witness": "Dr. Lys Farrow",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Statements S024 and S025 address distinct domains—investigation cooperation and medical findings—with no conflicting elements. Behavioral assessment confirms professional appropriateness across both statements.",
+          "score": 0.78
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Medical findings are clinically plausible. Documenting pressure marks from near strangulation and noting that a temple injury may have non-pistol-blow etiology represents standard differential diagnosis. No physical evidence or timeline constraints contradict these observations.",
+          "score": 0.82
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Claims are grounded in direct medical examination rather than phantom events. No reliance on unverifiable third-party accounts, anonymous communications, or convenient deflections. Findings serve legitimate diagnostic purposes.",
+          "score": 0.88
+        },
+        {
+          "type": "detail_quality",
+          "description": "S025 offers specific anatomical findings (throat pressure marks, temple injury) and reasoned causation analysis. However, S024 lacks temporal specificity ('when Selene improves' is indefinite) and location context remains absent throughout.",
+          "score": 0.68
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.78,
+        "physical_impossibility": 0.82,
+        "orchestration_marker": 0.88,
+        "detail_quality": 0.68
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.79
+    },
+    {
+      "witness": "Dr. Orin Vell",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Three statements (S008-S010) describe non-overlapping temporal windows (late afternoon, until midnight, after midnight) and distinct locations (pavilion grounds, laboratory, Amber Chamber) with no self-contradiction. Behavior flag INC015 confirms no discrepancies detected.",
+          "score": 0.82
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Statement S009 confirms the Amber Chamber door 'had to be forced' and 'appeared sealed,' aligning with the overwhelming physical evidence from eight independent sources (E005, E007, E008, E013, E015, E016, E051, E052). No timeline or physical impossibility detected in his account.",
+          "score": 0.78
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "No reliance on phantom events or unverifiable deflections. Statements reference identifiable individuals (Selene, estate watchman), verifiable locations (laboratory, Amber Chamber, pavilion grounds), and concrete actions (forced door, brief separation during conversation). Account does not shift blame to unknown actors.",
+          "score": 0.68
+        },
+        {
+          "type": "detail_quality",
+          "description": "Provides moderate specificity: precise temporal markers ('until midnight', 'after midnight', 'late afternoon'), named location (Amber Chamber, laboratory, pavilion grounds), and specific action descriptors ('door had to be forced', 'briefly separated'). Lacks exact timestamps or granular sensory details.",
+          "score": 0.71
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.82,
+        "physical_impossibility": 0.78,
+        "orchestration_marker": 0.68,
+        "detail_quality": 0.71
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.748
+    },
+    {
+      "witness": "Eamon Vale",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Vale's statements (S003, S004) present no self-contradiction. Both depict a consistent supportive investigative role aligned with his attributed function. Behavior flag INC014 confirms consistency between stated role and demonstrated conduct.",
+          "score": 0.74
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical impossibilities detected. Accompanying an investigator to observe premises and verifying a purchase through a city dealer are routine, plausible activities. The identity conflict in CONT009 concerns resemblance ambiguity, not physical constraint violations.",
+          "score": 0.82
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Neither statement relies on phantom events or unverifiable summoning. Vale describes tangible actions—physical accompaniment and verifiable dealer contact—that produce documented outcomes. No deflection pattern or convenient narrative convenience detected.",
+          "score": 0.64
+        },
+        {
+          "type": "detail_quality",
+          "description": "Both statements lack temporal specificity (time fields are null). Location is broad ('city', 'Alderfen Manor'). Actions described generically without granular action sequences, precise timestamps, sensory details, or corroborating particulars that would strengthen evidentiary weight.",
+          "score": 0.42
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.74,
+        "physical_impossibility": 0.82,
+        "orchestration_marker": 0.64,
+        "detail_quality": 0.42
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.655
+    },
+    {
+      "witness": "Editor Silas Wren",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Wren's three statements form a coherent sequence: receipt of sealed note (S048), contingency commitment (S049), and confirmation of Kest's resolved departure (S050). No self-contradiction or retraction appears within the statement set.",
+          "score": 0.74
+        },
+        {
+          "type": "detail_quality",
+          "description": "Wren provides moderate specificity—location given for one action (Alderfen Manor), temporal qualifiers offered ('before formal hearing,' 'before departure'), and clear action descriptions. However, critical details remain unspecified: exact timing, precise location of note delivery, and contents of the sealed document.",
+          "score": 0.61
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "The sealed-note-as-insurance mechanism carries theatrical hallmarks: a document held in reserve, revealed only upon a contingent failure, functioning as a narrative device rather than spontaneous testimony. Combined with Wren's editorial role publishing the first detailed public account (S047), the arrangement suggests coordinated positioning within the broader investigative narrative.",
+          "score": 0.52
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical or temporal impossibility detected. Receiving a sealed note, holding it as precaution, and confirming another's departure are all plausible actions. The contradiction identified (CONT010) concerns Cassian Mor's potential concealed knowledge—not a physical impossibility in Wren's own account.",
+          "score": 0.71
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.74,
+        "physical_impossibility": 0.71,
+        "orchestration_marker": 0.52,
+        "detail_quality": 0.61
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.645
+    },
+    {
+      "witness": "Edwin Graves",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Statement S043 presents no internal conflict; aligns with behavioral assessment noting straightforward alibi testimony with no contradictory accounts or retractions.",
+          "score": 0.76
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "The described activity—last seeing the watchman around eleven while arranging luggage transport—is temporally and physically plausible. No timeline impossibilities or physical evidence challenges identified.",
+          "score": 0.81
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "No reliance on phantom events detected. Statement describes a concrete, verifiable activity (luggage arrangement at a known location) rather than deflecting to unverifiable sources such as anonymous contacts or unidentified individuals.",
+          "score": 0.84
+        },
+        {
+          "type": "detail_quality",
+          "description": "Moderate specificity achieved: includes approximate time ('around eleven'), general location ('nearby rail stop'), and clear action ('arranging luggage'). Lacks precise timestamps, exact locations, or corroborating identifiers that would strengthen evidentiary value.",
+          "score": 0.66
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.76,
+        "physical_impossibility": 0.81,
+        "orchestration_marker": 0.84,
+        "detail_quality": 0.66
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.768
+    },
+    {
+      "witness": "Garron Bell",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Garron's four statements form a coherent narrative: he admits to poaching near the pavilion (S027), was stationed by Kest during watch duty (S028), fired at a fleeing figure upon hearing shots (S028), and insists he could not have missed a second person in the narrow court (S029). INC008 confirms behavioral consistency with low risk score (0.25). No self-retraction or internal contradiction detected across his accounts.",
+          "score": 0.78
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "While CONT001 flags severe conflict (0.92) regarding the Amber Chamber timeline—specifically Kest's assertion that the sealed-room attack may not have occurred at the assumed time—this contradiction originates from Kest's investigative theory, not from Garron's own statements. Garron's account of helping force the door (S026) remains physically plausible and aligns with multiple corroborating witnesses (E005, E007, E009, E013, E015, E016, E051-E052) who confirm the chamber was sealed. The physical impossibility gate does not apply here.",
+          "score": 0.71
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Garron's testimony relies on verifiable, tangible actions: admitting to poaching (confirmed by Bram via E034), performing assigned watch duties under Kest's direction, and firing at an observed fleeing figure. No phantom events (anonymous messages, unidentified strangers, untraceable summons) appear in his statements. All referenced actors and locations are identifiable.",
+          "score": 0.64
+        },
+        {
+          "type": "detail_quality",
+          "description": "Moderate specificity achieved: temporal markers ('later that night,' 'before the crimes,' 'during later manor watch'), clear locations ('Amber Chamber,' 'near the pavilion,' 'narrow court'), and explicit actions ('helps force,' 'illegally trapping,' 'fires at'). However, some contextual gaps exist regarding precise timing sequences and the identity of the fleeing figure.",
+          "score": 0.66
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.78,
+        "physical_impossibility": 0.71,
+        "orchestration_marker": 0.64,
+        "detail_quality": 0.66
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.698
+    },
+    {
+      "witness": "Inspector Valen Rusk",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Statements S018 and S019 do not conflict. S018 describes investigative methodology while S019 describes the resulting case-building outcome. No retraction or self-contradiction present.",
+          "score": 0.68
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical impossibility detected. Statements describe investigative reasoning and case development—procedural assertions that do not create timeline conflicts or challenge physical evidence.",
+          "score": 0.62
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "While behavioral flag INC004 raises concerns about staged evidence aligning against Cassian Mor, the statements themselves (S018, S019) do not rely on phantom events or unverifiable summons. The orchestration concern pertains to the broader case dynamics rather than Rusk's stated role.",
+          "score": 0.55
+        },
+        {
+          "type": "detail_quality",
+          "description": "Both statements lack specificity—no timestamps, locations, or concrete actions specified. S018 offers general procedural language; S019 merely states an outcome without evidentiary particulars. Neither statement provides verifiable anchor points.",
+          "score": 0.38
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.68,
+        "physical_impossibility": 0.62,
+        "orchestration_marker": 0.55,
+        "detail_quality": 0.38
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.557
+    },
+    {
+      "witness": "Jory Kest",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Statement S001 directly contradicts ten independent corroborating events (E005, E007, E008, E009, E013, E015, E016, E051-E052) confirming the Amber Chamber was sealed. However, Kest's theory distinguishes between WHEN the attack occurred versus WHETHER the room was sealed, allowing partial accommodation. The contradiction is severe (0.92) but not a complete self-retraction.",
+          "score": 0.38
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Kest does not claim the room was physically breachable—he questions the TIMING of the attack within the sealed environment. This avoids hard physical impossibility, but the extreme weight of contradictory evidence (ten witnesses/events confirming sealed state) undermines the plausibility of any alternative timeline that would fit the known physical constraints.",
+          "score": 0.42
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Kest's theories rely heavily on phantom mechanisms: attacks happening at unverified times, evidence being 'staged,' timing being 'engineered' to place Cassian Mor falsely. No concrete mechanism explains WHO staged what or HOW the engineering occurred. His own behavioral profile (INC001) shows control over multiple investigation decision-points, raising the possibility he projects orchestration to deflect from himself.",
+          "score": 0.6
+        },
+        {
+          "type": "detail_quality",
+          "description": "Both statements lack specific actionable details. S001 offers only '~midnight (disputed)' without explaining why midnight is wrong or proposing an alternative. S002 lists categories studied ('footprints, pistol shots, blood') but provides no specific findings, anomalies, or conclusions from his examination. Vague reference to 'staged evidence' without identifying what was staged or how diminishes evidentiary value.",
+          "score": 0.48
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.38,
+        "physical_impossibility": 0.42,
+        "orchestration_marker": 0.6,
+        "detail_quality": 0.48
+      },
+      "credibility_grade": 4,
+      "weighted_score": 0.47
+    },
+    {
+      "witness": "Magistrate Halden Prout",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "All three statements form a coherent investigative sequence: documentation of sealed room (S020), cataloging of physical evidence (S021), and formulation of working hypothesis (S022). No self-contradiction detected within the witness's own accounts.",
+          "score": 0.77
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "The sealed-room finding is corroborated by nine independent sources (E005, E007, E008, E009, E015, E016, E051, E052 plus E013). The contradiction raised by E047 concerns timeline accuracy, not physical feasibility of the room being sealed. Theory of escape via 'impossible route' is acknowledged as speculative.",
+          "score": 0.54
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "No phantom events detected. Statements reference verifiable physical evidence: intact windows/shutters, blood, bullets, wounds, footprints. The theory of hidden attacker is grounded in documented room conditions rather than relying on unverifiable phantom actors.",
+          "score": 0.88
+        },
+        {
+          "type": "detail_quality",
+          "description": "Good specificity regarding location (Amber Chamber, vestibule casement) and enumerated evidence types. However, temporal precision is weak—S022 lacks any timestamp. Raw text excerpts provide concrete nouns but limited contextual framing.",
+          "score": 0.66
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.77,
+        "physical_impossibility": 0.54,
+        "orchestration_marker": 0.88,
+        "detail_quality": 0.66
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.713
+    },
+    {
+      "witness": "Marius Reed",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Reed's statement (S044) is internally coherent: he accurately reports witnessing a transaction he personally conducted. Behavior flag INC018 confirms no fabrication or exaggeration on his part. The broader pattern conflicts noted in CONT009 involve multiple witnesses using 'resembling' language, not internal inconsistency within Reed's own account.",
+          "score": 0.74
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical impossibilities present. A vendor selling merchandise to a customer at a licensed shop during business hours is entirely plausible. The timeline (evening of first crime) and venue (city cane dealer's shop) present no logistical contradictions. The event is a routine commercial transaction.",
+          "score": 0.82
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "While Reed's individual account involves a real, verifiable transaction (not a phantom event), CONT009 reveals a suspicious pattern: two separate incidents feature men 'resembling' Mor appearing after key events (cane sale, poste-restante inquiry). This systematic use of doppelganger-type figures suggests orchestrated evidence construction, though Reed himself is not the orchestrator—merely a conduit whose accurate testimony serves a staged narrative.",
+          "score": 0.52
+        },
+        {
+          "type": "detail_quality",
+          "description": "Strong specificity: precise location (city cane dealer's shop), temporal marker (evening of the first crime), concrete object (yellow reed cane), and subject characterization (man resembling Cassian Mor). Deducted slightly for reliance on visual resemblance rather than positive identification, which introduces interpretive ambiguity.",
+          "score": 0.68
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.74,
+        "physical_impossibility": 0.82,
+        "orchestration_marker": 0.52,
+        "detail_quality": 0.68
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.69
+    },
+    {
+      "witness": "Master Builder Corvin Hale",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "S051 and S052 form a coherent professional sequence: requested inspection → conducted inspection → reported findings. No retraction, ambiguity, or self-contradiction present.",
+          "score": 0.86
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Hale's findings (absence of concealed routes) align with and corroborate physical evidence from E005, E007, E008, E009, E013, E015, E016. His structural assessment is consistent with the confirmed locked-room conditions. No timeline or physical impossibility detected.",
+          "score": 0.84
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Testimony describes actual inspection activities with verifiable methodology. No reliance on phantom events, anonymous messages, or unverifiable deflections. Findings are grounded in observable architectural reality.",
+          "score": 0.89
+        },
+        {
+          "type": "detail_quality",
+          "description": "Provides specific location (laboratory pavilion), explicit scope of inspection (concealed panels, trapdoors, ceiling cracks, underground outlets, hidden passages), and definitive conclusion (no route found). Professional framing adds appropriate credentialing context.",
+          "score": 0.76
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.86,
+        "physical_impossibility": 0.84,
+        "orchestration_marker": 0.89,
+        "detail_quality": 0.76
+      },
+      "credibility_grade": 1,
+      "weighted_score": 0.837
+    },
+    {
+      "witness": "Mira Bell",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Mira's two statements complement each other coherently. S030 reports observational findings from a joint inspection, while S031 describes conducting an authorized search at Kest's direction. Behavior flag INC009 confirms her actions align logically with her circumstances, showing no self-contradiction.",
+          "score": 0.78
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "S030 aligns with overwhelming physical evidence (E005, E007, E008, E009, E013, E015, E016, E051-E052) confirming the Amber Chamber was sealed with intact windows. S031 describes finding tangible physical evidence (eyeglasses) during a documented search—no timeline or physical impossibility detected.",
+          "score": 0.74
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Neither statement relies on phantom events. S030 records direct visual confirmation during inspection; S031 documents discovering physical evidence during an authorized search. Both describe verifiable real-world actions with traceable outcomes.",
+          "score": 0.82
+        },
+        {
+          "type": "detail_quality",
+          "description": "Statements provide moderate specificity: locations named (Amber Chamber, Selene's room), roles clarified (accompanying Tobin, acting at Kest's request), and outcomes noted (confirming impossibility, finding eyeglasses). However, lacks precise timestamps and lacks descriptive detail about how the inspections/searches were conducted.",
+          "score": 0.61
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.78,
+        "physical_impossibility": 0.74,
+        "orchestration_marker": 0.82,
+        "detail_quality": 0.61
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.737
+    },
+    {
+      "witness": "Nanny Voss",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "S041 and S042 do not contradict each other; they are complementary. The confirmation that the ferret remained indoors (S041) logically supports the observation that an identical cry heard outside (S042) must have been human imitation. No self-retraction or conflicting accounts from this witness.",
+          "score": 0.81
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical or timeline impossibilities detected. The scenario is plausible: ferret confined indoors with Voss, distinct cry audible from outside. No technological circumvention or physical evidence undermines her account.",
+          "score": 0.84
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Claims are grounded in direct sensory experience (sight and sound) at her own residence. No reliance on phantom events, anonymous messages, or unverifiable third-party communications. The testimony references tangible, locatable phenomena.",
+          "score": 0.86
+        },
+        {
+          "type": "detail_quality",
+          "description": "Provides specific subject identification (chapel ghost ferret), clear temporal framing (night of the crime), defined locations (residence vs. outside), and explicit physical state (animal in her lap). Moderate specificity with actionable contextual details.",
+          "score": 0.71
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.81,
+        "physical_impossibility": 0.84,
+        "orchestration_marker": 0.86,
+        "detail_quality": 0.71
+      },
+      "credibility_grade": 1,
+      "weighted_score": 0.805
+    },
+    {
+      "witness": "Northgate Post Clerk",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "No self-contradiction within the clerk's statement; accurately reports observation of a man resembling Mor arriving after Selene collected the letter. The pattern of 'resembling' identifications across multiple events (CONT009) raises broader investigative concerns but does not indicate inconsistency in the clerk's account.",
+          "score": 0.68
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical or temporal impossibility. A person can legitimately enter a post office and inquire about correspondence after it has been collected. The chronological sequence is plausible and aligns with other documented events.",
+          "score": 0.8
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "This is a concrete, verifiable event at a known location (Northgate Post Office) involving direct observation by the clerk—not a phantom event relying solely on unverifiable claims. While the 'resembling Mor' descriptor raises questions about potential impersonation schemes, the core event (someone inquired about the letter) is tangible.",
+          "score": 0.62
+        },
+        {
+          "type": "detail_quality",
+          "description": "Provides specific location (Northgate Post Office), clear action (inquiry about poste-restante letter), and accurate chronological sequencing (after Selene's collection). However, lacks precise timestamp and relies on comparative identity ('resembling') rather than descriptive specifics, which limits evidentiary weight.",
+          "score": 0.58
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.68,
+        "physical_impossibility": 0.8,
+        "orchestration_marker": 0.62,
+        "detail_quality": 0.58
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.67
+    },
+    {
+      "witness": "Railway Porter at Bracken Halt",
+      "evidence": [
+        {
+          "type": "orchestration_marker",
+          "description": "Kest explicitly believes the timing 'may have been ENGINEERED' — the porter's identification of Mor fits a pattern of potentially staged evidence designed to create a false placement. While the porter may be accurately reporting what he observed, the observation itself could have been deliberately arranged by actors seeking to implicate Mor.",
+          "score": 0.47
+        },
+        {
+          "type": "internal_consistency",
+          "description": "The witness provides a consistent account without self-contradiction. Behavior assessment rates risk at only 0.32, indicating reliable reporting from the witness's own perspective. The concern lies not in the witness contradicting himself, but in external manipulation of his testimony.",
+          "score": 0.78
+        },
+        {
+          "type": "detail_quality",
+          "description": "Statement includes moderately specific details: approximate time ('about half past ten'), location (Bracken Halt railway station), action (arriving by train), and subject identification (Cassian Mor). The use of 'about' introduces minor temporal uncertainty, but core elements are adequately specified.",
+          "score": 0.68
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical impossibilities identified. A person arriving by train at approximately 10:30 PM at a railway station is entirely plausible. Timeline permits such arrival on the night of the manor attack.",
+          "score": 0.85
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.78,
+        "physical_impossibility": 0.85,
+        "orchestration_marker": 0.47,
+        "detail_quality": 0.68
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.695
+    },
+    {
+      "witness": "Selene Vell",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Core admissions (fear, weapon acquisition, assault) are internally aligned, but the pistol's fate remains logically unresolved per CONT004, and her evasive behavior (INC003) regarding a hidden past and lack of attacker identification introduces significant informational gaps suggesting selective disclosure.",
+          "score": 0.57
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No direct physical impossibility exists within her stated actions—the timeline of borrowing a pistol before the attack is plausible. However, the unresolved question of the pistol's presence at the crime scene (per CONT004) creates ambiguity rather than certainty.",
+          "score": 0.68
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Heavy reliance on unverifiable elements: 'suspicious shadows' with no specificity, an unnamed attacker described only as 'a man,' and a deliberately hidden past (known to Cassian Mor but undisclosed to investigators). These phantom details deflect from verifiable facts while shifting investigative focus away from her own potential knowledge.",
+          "score": 0.48
+        },
+        {
+          "type": "detail_quality",
+          "description": "Minimal specificity throughout: S011 identifies only 'someone'; S012 provides subject and timing but no location; S013 offers only 'suspicious shadows' with no descriptive content; S014 names location but provides no temporal anchor, physical description, or behavioral sequence. Critical identifying details of the assailant are conspicuously absent.",
+          "score": 0.38
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.57,
+        "physical_impossibility": 0.68,
+        "orchestration_marker": 0.48,
+        "detail_quality": 0.38
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.527
+    },
+    {
+      "witness": "Tessa Hocket",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Severe self-contradiction: S039 claims she saw a 'fleeing shadow' from a distance moments after the killing (passive observer role), while S040 claims she found the body directly (close-proximity active discovery). These accounts are mutually exclusive—one cannot simultaneously observe from afar and discover the body firsthand. Severity score of 0.88 indicates high probability that one statement is fabricated or significantly embellished.",
+          "score": 0.22
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Logical impossibility in the claimed sequence: If Tessa was positioned near enough to witness a shadow fleeing immediately after the fatal moment, she should have been aware of the body's location. Instead, she claims to have subsequently 'found' the body—an action requiring search and discovery of something unknown. Additionally, her disguised entry, use of coded signals, and presence at the precise murder moment suggest premeditation inconsistent with an innocent bystander who happened upon a scene.",
+          "score": 0.31
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Multiple behavioral markers suggest coordinated activity: disguised entry (black shawl), pre-arranged signal system (birdlike cries), secret romantic involvement with the victim predating the crime, and facilitated departure via Old Tobin. While each element individually plausible, their convergence raises concerns about Tessa's role extending beyond mere observation. No phantom events (unverifiable messages or mysterious strangers) identified; however, the 'fleeing shadow' she claims to have seen remains unsubstantiated and potentially deflects attention from her own可疑 presence.",
+          "score": 0.45
+        },
+        {
+          "type": "detail_quality",
+          "description": "Moderate specificity: Provides concrete descriptors (black shawl, birdlike cries, Old Tobin as facilitator, shadow fleeing northward). However, lacks precise timestamps for key moments, exact positioning on manor grounds, and clear sequencing of how she transitioned from observing the murder to discovering the body. Critical ambiguity remains regarding what prompted her presence that night and whether her signal was response-based or initiated contact.",
+          "score": 0.52
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.22,
+        "physical_impossibility": 0.31,
+        "orchestration_marker": 0.45,
+        "detail_quality": 0.52
+      },
+      "credibility_grade": 4,
+      "weighted_score": 0.375
+    },
+    {
+      "witness": "Tobin Quill, called Old Tobin",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "No direct self-contradiction within statements; however, behavioral flag INC002 reveals pattern of concealing individuals connected to the murder (innkeeper's wife, Tessa Hocket), suggesting possible material omissions beyond stated testimony.",
+          "score": 0.68
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Account aligns with overwhelming physical evidence (E005-E052) confirming sealed Amber Chamber with intact windows/shutters. No timeline or physical impossibility detected in his direct observations.",
+          "score": 0.78
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Testimony relies on observable events (locked door, cries for help, forced entry, physical evidence) corroborated by multiple witnesses. Does not depend solely on phantom events, though his concealment activities raise questions about full disclosure.",
+          "score": 0.52
+        },
+        {
+          "type": "detail_quality",
+          "description": "High specificity: precise time (midnight), explicit actions (enter, lock, bolt, break down door), enumerated evidence list (furniture, blood, footprints, kerchief, cap, missing pistol). Details are concrete and verifiable.",
+          "score": 0.74
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.68,
+        "physical_impossibility": 0.78,
+        "orchestration_marker": 0.52,
+        "detail_quality": 0.74
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.68
+    }
+  ],
+  "reliability_grades": [
+    {
+      "witness": "Anonymous Gazette Correspondent",
+      "grade": "D",
+      "explanation": "This witness serves as a journalistic compiler of second-hand accounts rather than a direct observer. The published account aggregates multiple sources (Old Tobin, magistrate, Nanny Voss) and explicitly admits being 'shaped by rumor' and 'sensational.' The institutional connection to Editor Wren—who holds sealed investigative notes and coordinates publication—suggests the correspondent operates within a structured information-release pipeline rather than independent reporting. No contradictions or direct fabrication detected, but the heavy reliance on hearsay, combined with clear sensationalist motivation and limited direct access to core events, substantially undermines reliability as an information source.",
+      "factors_assessed": [
+        "observation directness: hearsay compilation of multiple third-party accounts",
+        "bias: moderate institutional/sensationalist motivation",
+        "unnatural access: operates within editorial-controlled information flow with Wren",
+        "materiality: publishes significant public accounts shaping narrative"
+      ]
+    },
+    {
+      "witness": "Bram Hocket",
+      "grade": "D",
+      "explanation": "Bram Hocket presents as a deflective narrator with limited direct observational value. His statements consist primarily of hearsay (local gossip about the murdered watchman), self-serving attitudinal declarations (open hostility toward the victim), and indirect analytical inferences (confirming poaching through inn supply chains). Most critically, INC006 documents classic deflection behavior: he shifts investigative focus onto the deceased watchman's prior alleged misconduct rather than providing substantive alibi or crime-relevant evidence. His early accusation of the watchman before the watchman's own death raises concerns of either foreknowledge or projection of culpability. Combined with his position as innkeeper—potentially benefiting commercially from the Bells' patronage—and his unexplained informational access to multiple evidentiary nodes (victim character, poaching confirmation), Bram functions less as a reliable witness and more as an orchestrating influence on the investigation's trajectory.",
+      "factors_assessed": [
+        "observation directness: predominantly hearsay and attitudinal statements; minimal direct observation of core events",
+        "deflection tactics: documented classic deflection behavior per INC006; redirects suspicion toward deceased victim",
+        "unnatural access: clusters at multiple evidentiary nodes (watchman characterization, poaching confirmation) without primary witnessing role",
+        "bias: documented personal animosity toward the watchman; potential financial stake through inn-Bell relationship",
+        "material deception risk: no explicit fabrication detected, but strategic omission and deflection pattern undermines reliability"
+      ]
+    },
+    {
+      "witness": "Cassian Mor",
+      "grade": "D",
+      "explanation": "Mor exhibits significant reliability concerns stemming from guarded material knowledge. He possesses undisclosed information about Selene's hidden past (S015, S016) that investigation CONT010 indicates may contain elements motivating the attacks—a matter of central evidentiary relevance. His 'cryptic phrase' understanding positions him unnaturally at a key informational node without clear legitimate reason for concealment. While he cooperates with estate access (S017), this cooperative behavior coexists with systematic non-disclosure of potentially dispositive facts. The staged evidence alignment (INC004) creates ambiguity: either he is being framed with improbable precision, or his cooperation masks deeper complicity. The absence of outright fabrication prevents a Grade E classification, but his posture as a selective information gatekeeper—particularly regarding facts directly probed by investigators—substantially undermines his utility as a reliable source.",
+      "factors_assessed": [
+        "observation directness: indirect - possesses private knowledge rather than direct event observation",
+        "material concealment: guarded information about Selene's past with apparent material relevance to crimes",
+        "unnatural access: suspiciously positioned at key evidentiary node (hidden past, cryptic phrase comprehension)",
+        "cooperation paradox: assists investigation while withholding potentially dispositive information",
+        "bias: personal/stakes unclear but significant interest in controlling Selene's narrative"
+      ]
+    },
+    {
+      "witness": "Clerk Merrow Fenn",
+      "grade": "A",
+      "explanation": "Clerk Fenn provides direct analytical observation of the Amber Chamber structure, professionally examining walls, ceiling, and floor through sounding techniques to rule out hidden passages and escape routes. His findings align with the overwhelming physical evidence consensus from nine other sources (E005, E007, E008, E009, E013, E015, E016, E051, E052). Behavior analysis confirms consistent, role-appropriate conduct with negligible risk indicators. No contradictions originate from Fenn's own statements—the single identified conflict stems from Jory Kest's timeline challenge, which Fenn's findings do not support. No bias, deception, deflection tactics, or unnatural access patterns detected.",
+      "factors_assessed": [
+        "observation directness: direct analytical examination of physical structures using professional sounding techniques",
+        "consistency: findings corroborate nine independent sources confirming sealed-room status",
+        "role appropriateness: technical expertise matched to assigned examination task",
+        "deception indicators: none detected",
+        "bias/motivation: none identified",
+        "deflection tactics: absent",
+        "unnatural access: not applicable—standard procedural role"
+      ]
+    },
+    {
+      "witness": "Dr. Lys Farrow",
+      "grade": "A",
+      "explanation": "Dr. Farrow provides direct analytical medical observations as the attending physician, documenting specific physical findings (pressure marks indicating near strangulation, temple injury characteristics) that serve legitimate diagnostic purposes. Her conditional cooperation regarding patient questioning reflects appropriate professional boundaries rather than evasiveness. No contradictions identified, no behavioral anomalies detected, and no apparent motive to deceive. Her role positions her as a neutral forensic observer with specialized knowledge of the victim's injuries.",
+      "factors_assessed": [
+        "observation directness: direct analytical observation of injuries in professional medical capacity",
+        "material deception: none detected; straightforward medical documentation",
+        "unnatural access: not applicable; observations serve diagnostic purposes independent of the broader mystery",
+        "deflection tactics: none observed; no attempts to redirect investigative attention",
+        "bias: minimal; professional obligation to document injuries accurately provides neutral orientation"
+      ]
+    },
+    {
+      "witness": "Dr. Orin Vell",
+      "grade": "B",
+      "explanation": "Dr. Vell provides consistently corroborated testimony with direct observational basis. All three statements reflect first-hand experience: confirmed work with Selene until midnight (S008), direct inspection of the Amber Chamber showing forced entry and prior sealing (S009), and personal account of afternoon separation near the pavilion (S010). Internal consistency is high with zero discrepancies detected across statements. Critically, his confirmation of the sealed-room condition aligns with eight other independent witnesses including Tobin, Garron Bell, Magistrate Prout, Clerk Fenn, Mira Bell, and Master Builder Hale—demonstrating strong external corroboration. A moderate concern exists due to his spousal relationship with Selene Vell, introducing potential emotional bias, yet this does not appear to manifest in any observable distortion of his accounts. No deflection tactics, material deception, or suspicious access patterns detected. Overall, Dr. Vell functions as a reliable primary source whose testimony substantially coheres with the physical evidence consensus.",
+      "factors_assessed": [
+        "observation directness: direct personal observation across all three statements",
+        "corroboration: strong alignment with eight independent witnesses on sealed-room condition",
+        "internal consistency: zero discrepancies across statements, risk score 0.18",
+        "bias: moderate emotional stake as spouse to subject Selene Vell",
+        "material deception: none detected",
+        "unnatural access: plausible laboratory authority explains proximity to key evidence"
+      ]
+    },
+    {
+      "witness": "Eamon Vale",
+      "grade": "B",
+      "explanation": "Eamon Vale demonstrates fairly reliable sourcing characteristics. His statements reflect direct participatory observation during the estate investigation (S003) and evidence verification through established contacts (S004). His behavior is internally consistent with his stated supportive role to the lead investigator, carrying a low risk score of 0.22. While the broader identity conflict (CONT009) involving men resembling Cassian Mor introduces uncertainty into the evidentiary chain, Vale himself shows no signs of material deception, deflection tactics, or suspicious clustering at evidentiary nodes beyond what his assisting role would naturally explain. His reliance on dealer testimony for the cane verification represents minor indirectness, but this is typical for evidence corroboration tasks. No significant bias indicators were identified beyond standard investigative alignment.",
+      "factors_assessed": [
+        "observation directness: direct participatory observation during estate investigation; minor indirectness via dealer verification for cane purchase",
+        "material deception: none detected",
+        "peripheral concealment: none detected",
+        "unnatural access: present at key evidentiary nodes but explained by investigative assistant role",
+        "deflection tactics: none observed",
+        "bias: mild institutional alignment as investigative assistant; otherwise neutral",
+        "consistency: behavior aligns with stated role; no internal contradictions"
+      ]
+    },
+    {
+      "witness": "Editor Silas Wren",
+      "grade": "D",
+      "explanation": "Wren exhibits significant 'unnatural access' concerns. While his statements describe factual custodial actions (receiving and holding a sealed note), his role combines two critical positions: (1) editor of the Gazette who facilitated the first detailed public account, and (2) custodian of the sealed accusation naming the suspected culprit. This dual positioning—controlling both the flow of information to the public AND holding the key accusatory document—places him at a suspicious evidentiary nexus. His statements are entirely derivative of Kest's actions (hearsay-based), offering no independent observation of the core events. The contingency arrangement for producing the note suggests awareness of potential danger during Kest's overseas investigation, raising questions about whether Wren serves merely as a messenger or as an active orchestrator of the investigative narrative.",
+      "factors_assessed": [
+        "observation directness: purely hearsay/custodial role, no direct observation of core events",
+        "unnatural access: high risk (0.68) - controls media narrative while holding accusatory evidence",
+        "bias: moderate institutional stake as Gazette editor with professional interest in story outcomes",
+        "material deception: none detected in own statements, though role enables narrative manipulation",
+        "structural position: suspiciously positioned at key evidentiary node combining information gatekeeping with evidence custody"
+      ]
+    },
+    {
+      "witness": "Edwin Graves",
+      "grade": "B",
+      "explanation": "Edwin Graves provides direct physical observation testimony regarding the final confirmed sighting of the watchman around eleven near a rail stop while arranging luggage transport. His account is internally consistent with no contradictions identified, and his behavior is assessed as straightforward with a low risk score (0.14). There are no indicators of material deception, deflection tactics, or unnatural access patterns. As a neutral party providing factual timeline testimony, his reliability is solid though not absolute—minor uncertainties inherent in any witness recollection warrant a 'usually reliable' rather than 'completely reliable' classification.",
+      "factors_assessed": [
+        "observation directness: direct physical observation of watchman around eleven",
+        "material deception: none detected; consistent account",
+        "unnatural access: no suspicious clustering at evidentiary nodes",
+        "deflection tactics: none observed; straightforward testimony",
+        "bias: no personal, financial, or emotional stake identified"
+      ]
+    },
+    {
+      "witness": "Garron Bell",
+      "grade": "B",
+      "explanation": "Garron Bell presents as a fairly reliable source with direct observational access to multiple physical events. His statements show internal consistency—he admits to illegal trapping which explains his presence, was legitimately stationed by Kest during the watch, and provides first-hand accounts of forcing the Amber Chamber door and firing at a fleeing figure. The contradictions noted do not implicate Bell directly; CONT001 concerns Kest's challenge to timelines while CONT008 actually corroborates Bell's own admission of poaching. His behavior assessment indicates consistency (risk score 0.25) with no deflection tactics or suspicious clustering at evidentiary nodes. Minor concerns include his self-incriminating admission of wildlife crimes creating some bias, and his reliance on Kest for placement during the shooting incident. Overall, his testimony derives primarily from direct physical participation and sensory observation without indicators of material deception or narrative orchestration.",
+      "factors_assessed": [
+        "observation directness: direct physical participation in forcing Amber Chamber door and firing at fleeing figure",
+        "observation directness: direct auditory observation of gunshots during manor watch",
+        "bias: moderate self-interest from prior illegal trapping admission",
+        "consistency: internal coherence across all four statements",
+        "material deception: none detected—self-admissions are candid",
+        "deflection: absent—no attempts to redirect blame to phantom actors",
+        "unnatural access: not applicable—presence explained by admitted poaching activities and legitimate assignment by Kest"
+      ]
+    },
+    {
+      "witness": "Inspector Valen Rusk",
+      "grade": "D",
+      "explanation": "Inspector Rusk demonstrates direct analytical competence in evidence interpretation and theory development (S018), and pursues a primary suspect through official channels (S019). However, behavior analysis (INC004) reveals a critically concerning pattern: multiple pieces of 'staged evidence' align suspiciously well against Cassian Mor, including physical resemblance matches to covert purchases and inquiries. The high risk score (0.78) indicates strong circumstantial indicators of investigative orchestration—evidence clustering at key nodes that benefits the prosecution theory while Rusk himself controls the interpretive framework. This constitutes 'Unnatural Access': the witness occupies a position where he shapes both the evidence flow and its interpretation, creating conditions favorable to confirmation bias or deliberate framing. Institutional role provides motive to secure convictions. Without independent corroboration of the evidentiary chain, reliability is substantially compromised.",
+      "factors_assessed": [
+        "observation directness: direct analytical evaluation of evidence and suspect development",
+        "material deception: no direct contradiction detected, but staged evidence pattern raises fabrication concerns",
+        "unnatural access: high risk indicator - evidence suspiciously clusters around single suspect while witness controls interpretation",
+        "bias: moderate institutional stake in successful prosecution outcomes",
+        "structural position: official investigator controlling evidentiary flow and narrative construction"
+      ]
+    },
+    {
+      "witness": "Jory Kest",
+      "grade": "D",
+      "explanation": "Jory Kest exhibits significant narrator-trap characteristics with severe implications for reliability. While he possesses direct analytical access to physical evidence (S002), his role as the central orchestrator of the investigation—directing searches, controlling sealed notes, staging watchmen, and departing to pursue selective investigative paths—places him at every critical decision node while maintaining private knowledge of the solution. His primary statement (S001) directly contradicts overwhelming physical evidence from nine independent sources confirming the sealed-room impossibility (CONT001, severity 0.92), suggesting either deliberate obfuscation or investigative framing. The identity conflict surrounding Cassian Mor's staged evidence (CONT006) further indicates Kest may be engineering the evidentiary narrative rather than observing it naturally. His departure to prove Selene's overseas past reveals directional bias in the investigation. These factors collectively indicate unreliable sourcing consistent with systematic orchestration.",
+      "factors_assessed": [
+        "observation directness: direct analytical observation of physical evidence and staged materials",
+        "material deception: analytical conclusions directly contradict nine independent physical evidence confirmations of sealed-room conditions",
+        "unnatural access: central narrator-trap positioning at all major investigative decision points with private knowledge of solutions; risk score 0.85",
+        "deflection: alternative timeline argument potentially redirects investigative attention from confirmed physical reality",
+        "bias: directional investigative agenda targeting specific individuals (Selene's past) while managing evidence flows"
+      ]
+    },
+    {
+      "witness": "Magistrate Halden Prout",
+      "grade": "B",
+      "explanation": "Magistrate Prout demonstrates reliable source characteristics through direct analytical observation of the crime scene as part of his official judicial duties. His documentation of the sealed Amber Chamber (S020) and physical evidence at the vestibule casement (S021) reflects direct, first-hand observation of material conditions corroborated by multiple other witnesses (E005, E007, E008, E009, E015, E016, E051-E052). His working hypothesis regarding an attacker hiding in the room (S022) represents reasonable investigative speculation typical of law enforcement officials, not fabrication. Behavior analysis shows consistency with a low risk score of 0.18, indicating no significant personal stakes or deceptive patterns. The sole contradiction (CONT001) involves Jory Kest's challenge to the timeline, but Prout's own observations align with the prevailing physical evidence consensus. Minor扣分 consideration applies because his theory element ventures beyond pure observation into interpretive territory, warranting the 'usually reliable' rather than highest classification.",
+      "factors_assessed": [
+        "observation directness: direct analytical observation of crime scene conditions and physical evidence as part of official judicial documentation duties",
+        "material deception: none detected; statements are internally consistent and procedurally sound",
+        "unnatural access: appropriate institutional access as magistrate; no suspicious clustering or control of information flow",
+        "deflection tactics: none observed; no attempts to redirect attention to phantom subjects",
+        "bias: minimal institutional bias; risk score of 0.18 indicates low personal stake",
+        "corroboration: statements align with multiple independent witnesses confirming sealed room conditions"
+      ]
+    },
+    {
+      "witness": "Marius Reed",
+      "grade": "B",
+      "explanation": "Marius Reed provides direct firsthand observation of a commercial transaction—a cane sale to a customer resembling Cassian Mor. His account is internally consistent, behaviorally stable (risk score 0.28), and shows no fabrication indicators. The 'resembling' qualifier demonstrates appropriate epistemic caution rather than evasiveness. No bias, financial stake beyond ordinary commerce, or deflection tactics present. Minor reservation derives solely from the inherent uncertainty of visual resemblance identification, which does not undermine the factual accuracy of his reported experience.",
+      "factors_assessed": [
+        "observation directness: direct personal observation of cane sale transaction",
+        "material deception: none detected; account is consistent and accurate",
+        "peripheral concealment: absent; no secondary indiscretions concealed",
+        "unnatural access: not applicable; routine commercial witness without suspicious information control",
+        "deflection tactics: none observed; straightforward cooperative testimony",
+        "bias: minimal; standard commercial interest with no investigative stakes"
+      ]
+    },
+    {
+      "witness": "Master Builder Corvin Hale",
+      "grade": "A",
+      "explanation": "Master Builder Hale provided direct analytical observation of the laboratory pavilion's physical structure, professionally inspecting for concealed routes and finding none. His findings align with six other witnesses confirming the Amber Chamber was sealed. No deception indicators, deflection tactics, or unnatural access patterns detected. His conclusions corroborate the locked-room narrative rather than undermining it. Behavior marked consistently professional with negligible risk score (0.1). As a credentialed expert conducting systematic physical examination, his testimony carries high evidentiary value.",
+      "factors_assessed": [
+        "observation directness: direct analytical observation of physical structure during professional inspection",
+        "material deception: none detected; findings consistent with multi-witness consensus",
+        "unnatural access: absent; appropriately consulted as expert responder to investigation request",
+        "deflection tactics: none observed; provided definitive conclusions",
+        "bias: minimal; professional engagement with no apparent personal stakes",
+        "corroboration: supported by E005, E007, E008, E009, E013, E015, E016 confirming locked-room conditions"
+      ]
+    },
+    {
+      "witness": "Mira Bell",
+      "grade": "B",
+      "explanation": "Mira Bell demonstrates consistent, logical behavior aligned with her circumstances. Both statements reflect direct participatory roles—accompanying Old Tobin in the Amber Chamber inspection and conducting an authorized search of Selene's room at Kest's behest. Her discovery of eyeglasses aligns with plausible domestic access. No material deception, deflection tactics, or unnatural access patterns were detected. Behavior analysis (INC009) confirms her actions follow naturally from her circumstances with minimal risk score (0.2). While she operates under Kest's direction, this reflects authorized investigative structure rather than suspicious orchestration. Minor consideration: her association with Old Tobin (poaching context) introduces slight potential bias, but this does not materially affect the reliability of her factual observations.",
+      "factors_assessed": [
+        "observation directness: direct participatory observation during Amber Chamber inspection; authorized search yielding physical evidence",
+        "consistency: behavior log confirms logical alignment between circumstances and stated actions",
+        "material deception: none detected",
+        "unnatural access: absent - presence at scenes explained by legitimate circumstances",
+        "bias: minor - association with Old Tobin creates marginal interest consideration but does not compromise factual reporting"
+      ]
+    },
+    {
+      "witness": "Nanny Voss",
+      "grade": "A",
+      "explanation": "Nanny Voss provides highly reliable direct observational testimony. Both statements derive from first-hand sensory experience: S041 reflects direct knowledge of the ferret's location under her immediate custody, and S042 constitutes direct auditory perception of external sounds while the animal was present. These statements are internally consistent and mutually reinforcing—they establish that the ferret cry heard externally was human-imitation rather than animal vocalization. No contradictions within her own account exist; the flagged 'identity_conflict' actually represents logical corroboration across her statements. Behavior assessment shows consistency with no suspicious patterns (risk score 0.08). No evident bias, financial stake, or motive to deceive. Her testimony serves as exculpatory evidence regarding the locked-room assault scenario.",
+      "factors_assessed": [
+        "observation directness: direct physical and perceptual observation of both ferret location and external sound",
+        "internal consistency: statements are mutually reinforcing rather than contradictory",
+        "bias: none identified—no personal stake or motive to fabricate",
+        "behavior: consistent testimony with low risk score (0.08)",
+        "material deception: absent—provides coherent account supporting investigation"
+      ]
+    },
+    {
+      "witness": "Northgate Post Clerk",
+      "grade": "B",
+      "explanation": "The clerk provides direct observational testimony of a customer interaction at their workplace—a man resembling Cassian Mor inquired about a poste-restante letter after Selene had already collected it. Behavior assessment (INC019) explicitly rates the clerk as consistent with low risk (0.24), noting accurate reporting of chronological sequence. No deception, deflection tactics, or unnatural access patterns detected; the clerk occupies a natural position to observe postal inquiries. The sole limitation is identification by resemblance ('resembling') rather than positive confirmation, which introduces minor epistemic uncertainty but does not undermine the fundamental reliability of the report.",
+      "factors_assessed": [
+        "observation directness: direct first-hand observation of customer inquiry at workplace",
+        "identification precision: reports by resemblance rather than positive ID (minor limitation)",
+        "deception indicators: none detected",
+        "access pattern: natural institutional role at post office",
+        "consistency: behavior rated consistent with low risk (0.24)"
+      ]
+    },
+    {
+      "witness": "Railway Porter at Bracken Halt",
+      "grade": "B",
+      "explanation": "The porter provides direct physical observation identifying Cassian Mor arriving at Bracken Halt at approximately 10:30 PM. His behavioral profile shows consistent reporting with low personal risk (0.32), suggesting genuine perception rather than self-interested fabrication. However, the severe identity conflict (CONT006, severity 0.71) raised by Jory Kest—who believes the timing may have been engineered—introduces material doubt about whether the porter's testimony reflects organic observation or investigative orchestration. The porter occupies a strategically valuable evidentiary position (key alibi-destroying timestamp) without apparent motive to lie, but the possibility of external manipulation cannot be excluded. Grade B reflects a witness who is probably honest in his perceptions but whose reliability depends heavily on whether he was exploited as part of a frame-up rather than acting independently.",
+      "factors_assessed": [
+        "observation directness: direct physical observation of individual matching subject description arriving at station",
+        "material deception: none detected within porter's own statements",
+        "unnatural access: moderate concern - porter occupies key evidentiary node creating damaging alibi gap; staging hypothesis not resolved",
+        "bias: no personal stake detected in current record",
+        "external manipulation risk: elevated due to engineered timing hypothesis raised by investigator Kest"
+      ]
+    },
+    {
+      "witness": "Selene Vell",
+      "grade": "D",
+      "explanation": "Selene Vell demonstrates direct experiential knowledge of the assault (being assaulted, borrowing a pistol, observing shadows), but exhibits a concerning pattern of selective disclosure. Despite foreknowledge of danger (feared someone), taking defensive precautions (borrowing a pistol), and witnessing suspicious activity, she fails to provide identifying details of her attacker. A significant material contradiction exists regarding the disposition of the borrowed pistol—it vanished from the Amber Chamber yet was intended for her protection. Additionally, her undisclosed connection to Cassian Mor and the existence of a 'hidden past' unexplained to investigators strongly suggest she possesses material information beyond what she has disclosed. The convergence of foreknowledge, preparation, and selective omission indicates probable material concealment rather than mere memory gaps.",
+      "factors_assessed": [
+        "observation directness: direct personal experience of core events (assault, borrowing pistol, visual observation)",
+        "material contradiction: unresolved discrepancy regarding pistol's disposition post-attack (severity 0.78)",
+        "evasion pattern: foreknowledge combined with selective non-disclosure of attacker identity",
+        "concealed information: undisclosed past connection to Cassian Mor unknown to investigators",
+        "bias: potential personal/emotional stake in undisclosed history"
+      ]
+    },
+    {
+      "witness": "Tessa Hocket",
+      "grade": "D",
+      "explanation": "Tessa Hocket presents as unreliable due to severe internal contradictions regarding her proximity to the murder (seeing a distant 'fleeing shadow' versus discovering the body at close range), premeditated covert behavior (disguised entry, coded birdlike signals), and material involvement with the victim (secret affair). Her presence at the precise moment of the murder, combined with deliberate concealment measures and contradictory accounts of her role, indicates potential complicity and undermines her utility as an objective source. The 0.88 severity contradiction between her observational accounts is particularly damaging to reliability.",
+      "factors_assessed": [
+        "observation directness: direct witness to events but internally contradictory accounts",
+        "material deception: proximity contradiction (distant shadow vs. body discovery) suggests fabrication or embellishment",
+        "unnatural access: disguised entry, coded signals, presence at exact murder moment, secret affair with victim",
+        "bias: emotional entanglement with deceased watchman creates motive and compromised objectivity",
+        "credibility gap: mutually exclusive narratives about her role during the murder"
+      ]
+    },
+    {
+      "witness": "Tobin Quill, called Old Tobin",
+      "grade": "C",
+      "explanation": "Old Tobin provides fairly reliable direct observation testimony regarding the core locked-room events (S005, S006) - he physically witnessed Selene seal the Amber Chamber and participated in discovering the crime scene, both corroborated by multiple independent witnesses. However, his reliability is significantly undermined by a pattern of concealment: he failed to report helping an innkeeper's wife leave the grounds after the watchman's death (S007) and similarly facilitated Tessa Hocket's departure from the body. These omissions suggest potential bias or complicity with persons connected to the murder. While his direct observations align with physical evidence (CONT001 supports his account of the sealed room), the unexplained pattern of assisting flight after a killing elevates concern. His connection to the missing pistol via prior lending (CONT004) adds peripheral ambiguity but does not directly contradict his stated observations.",
+      "factors_assessed": [
+        "observation directness: direct physical observation of core events (locking mechanism, crime scene discovery)",
+        "material concealment: repeated facilitation of departures of murder-connected persons without reporting",
+        "corroboration: consistent with multi-witness physical evidence on locked-room scenario",
+        "peripheral ambiguity: indirect connection to missing pistol through prior lending",
+        "pattern concern: systematic non-disclosure of assistance to individuals fleeing the scene"
+      ]
+    }
+  ],
+  "debug_trace": [
+    {
+      "witness": "Edwin Graves",
+      "stats": {
+        "statement_count": 1,
+        "statement_ids": [
+          "S043"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Editor Silas Wren",
+      "stats": {
+        "statement_count": 3,
+        "statement_ids": [
+          "S048",
+          "S049",
+          "S050"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Marius Reed",
+      "stats": {
+        "statement_count": 1,
+        "statement_ids": [
+          "S044"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Railway Porter at Bracken Halt",
+      "stats": {
+        "statement_count": 1,
+        "statement_ids": [
+          "S046"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Tobin Quill, called Old Tobin",
+      "stats": {
+        "statement_count": 3,
+        "statement_ids": [
+          "S005",
+          "S006",
+          "S007"
+        ],
+        "contradiction_count": 2,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Tessa Hocket",
+      "stats": {
+        "statement_count": 5,
+        "statement_ids": [
+          "S036",
+          "S037",
+          "S038",
+          "S039",
+          "S040"
+        ],
+        "contradiction_count": 2,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Bram Hocket",
+      "stats": {
+        "statement_count": 4,
+        "statement_ids": [
+          "S032",
+          "S033",
+          "S034",
+          "S035"
+        ],
+        "contradiction_count": 2,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Clerk Merrow Fenn",
+      "stats": {
+        "statement_count": 1,
+        "statement_ids": [
+          "S023"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Mira Bell",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S030",
+          "S031"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Cassian Mor",
+      "stats": {
+        "statement_count": 3,
+        "statement_ids": [
+          "S015",
+          "S016",
+          "S017"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Magistrate Halden Prout",
+      "stats": {
+        "statement_count": 3,
+        "statement_ids": [
+          "S020",
+          "S021",
+          "S022"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Northgate Post Clerk",
+      "stats": {
+        "statement_count": 1,
+        "statement_ids": [
+          "S045"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Dr. Lys Farrow",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S024",
+          "S025"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Selene Vell",
+      "stats": {
+        "statement_count": 4,
+        "statement_ids": [
+          "S011",
+          "S012",
+          "S013",
+          "S014"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Garron Bell",
+      "stats": {
+        "statement_count": 4,
+        "statement_ids": [
+          "S026",
+          "S027",
+          "S028",
+          "S029"
+        ],
+        "contradiction_count": 2,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Master Builder Corvin Hale",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S051",
+          "S052"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Eamon Vale",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S003",
+          "S004"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Anonymous Gazette Correspondent",
+      "stats": {
+        "statement_count": 1,
+        "statement_ids": [
+          "S047"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Jory Kest",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S001",
+          "S002"
+        ],
+        "contradiction_count": 2,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Nanny Voss",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S041",
+          "S042"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Inspector Valen Rusk",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S018",
+          "S019"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Dr. Orin Vell",
+      "stats": {
+        "statement_count": 3,
+        "statement_ids": [
+          "S008",
+          "S009",
+          "S010"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    }
+  ],
+  "telemetry_log": [
+    {
+      "agent_name": "StatementExtractionAgent",
+      "input_tokens": 2446,
+      "output_tokens": 4288,
+      "execution_time_seconds": 109.64,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 14314
+    },
+    {
+      "agent_name": "StatementExtractionAgent",
+      "input_tokens": 2388,
+      "output_tokens": 4130,
+      "execution_time_seconds": 105.37,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 13618
+    },
+    {
+      "agent_name": "StatementExtractionAgent",
+      "input_tokens": 1616,
+      "output_tokens": 1223,
+      "execution_time_seconds": 32.04,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 7262
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 1604,
+      "output_tokens": 1256,
+      "execution_time_seconds": 34.26,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4009
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 1375,
+      "output_tokens": 1054,
+      "execution_time_seconds": 27.51,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3028
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 1602,
+      "output_tokens": 1259,
+      "execution_time_seconds": 33.19,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4150
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 1502,
+      "output_tokens": 1658,
+      "execution_time_seconds": 45.25,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3445
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 1725,
+      "output_tokens": 1538,
+      "execution_time_seconds": 37.28,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4626
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 749,
+      "output_tokens": 547,
+      "execution_time_seconds": 12.34,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1163
+    },
+    {
+      "agent_name": "TimelineAgent",
+      "input_tokens": 5871,
+      "output_tokens": 5608,
+      "execution_time_seconds": 150.59,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 20216
+    },
+    {
+      "agent_name": "BehavioralConsistencyAgent",
+      "input_tokens": 8401,
+      "output_tokens": 4710,
+      "execution_time_seconds": 113.13,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 26275
+    },
+    {
+      "agent_name": "TimelineContradictionAgent",
+      "input_tokens": 5871,
+      "output_tokens": 4244,
+      "execution_time_seconds": 303.56,
+      "llm_success_ratio": "1/2",
+      "payload_size_bytes": 16344
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 960,
+      "output_tokens": 939,
+      "execution_time_seconds": 23.49,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1529
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1704,
+      "output_tokens": 958,
+      "execution_time_seconds": 24.6,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 8350
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1770,
+      "output_tokens": 1107,
+      "execution_time_seconds": 27.7,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 9208
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1150,
+      "output_tokens": 1152,
+      "execution_time_seconds": 28.15,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2079
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 966,
+      "output_tokens": 801,
+      "execution_time_seconds": 20.64,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1479
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1332,
+      "output_tokens": 1131,
+      "execution_time_seconds": 27.83,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2597
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1141,
+      "output_tokens": 1170,
+      "execution_time_seconds": 29.63,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2066
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1462,
+      "output_tokens": 1177,
+      "execution_time_seconds": 29.38,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 6686
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 849,
+      "output_tokens": 779,
+      "execution_time_seconds": 20.2,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 976
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1785,
+      "output_tokens": 1243,
+      "execution_time_seconds": 32.18,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4463
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 991,
+      "output_tokens": 966,
+      "execution_time_seconds": 25.2,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1467
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1655,
+      "output_tokens": 1367,
+      "execution_time_seconds": 35.28,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 8016
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1349,
+      "output_tokens": 1523,
+      "execution_time_seconds": 39.79,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2805
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1242,
+      "output_tokens": 1543,
+      "execution_time_seconds": 39.36,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2565
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1259,
+      "output_tokens": 1052,
+      "execution_time_seconds": 28.47,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2667
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1410,
+      "output_tokens": 956,
+      "execution_time_seconds": 24.34,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3126
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1148,
+      "output_tokens": 1064,
+      "execution_time_seconds": 29.34,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3860
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1247,
+      "output_tokens": 953,
+      "execution_time_seconds": 24.67,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2594
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1109,
+      "output_tokens": 995,
+      "execution_time_seconds": 27.73,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3826
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1299,
+      "output_tokens": 1182,
+      "execution_time_seconds": 32.25,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2491
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1842,
+      "output_tokens": 1028,
+      "execution_time_seconds": 28.12,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 9080
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1607,
+      "output_tokens": 1097,
+      "execution_time_seconds": 30.85,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3747
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1131,
+      "output_tokens": 690,
+      "execution_time_seconds": 17.27,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1529
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1875,
+      "output_tokens": 822,
+      "execution_time_seconds": 21.14,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 8350
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1941,
+      "output_tokens": 1047,
+      "execution_time_seconds": 26.19,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 9208
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1321,
+      "output_tokens": 676,
+      "execution_time_seconds": 17.27,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2079
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1137,
+      "output_tokens": 630,
+      "execution_time_seconds": 14.49,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1479
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1503,
+      "output_tokens": 848,
+      "execution_time_seconds": 22.17,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2597
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1312,
+      "output_tokens": 882,
+      "execution_time_seconds": 21.25,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2066
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1633,
+      "output_tokens": 800,
+      "execution_time_seconds": 20.81,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 6686
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1020,
+      "output_tokens": 681,
+      "execution_time_seconds": 16.72,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 976
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1956,
+      "output_tokens": 870,
+      "execution_time_seconds": 23.0,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4463
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1162,
+      "output_tokens": 1039,
+      "execution_time_seconds": 25.51,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1467
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1826,
+      "output_tokens": 811,
+      "execution_time_seconds": 21.38,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 8016
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1520,
+      "output_tokens": 960,
+      "execution_time_seconds": 24.72,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2805
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1413,
+      "output_tokens": 767,
+      "execution_time_seconds": 19.73,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2565
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1430,
+      "output_tokens": 842,
+      "execution_time_seconds": 21.67,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2667
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1581,
+      "output_tokens": 774,
+      "execution_time_seconds": 20.66,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3126
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1319,
+      "output_tokens": 760,
+      "execution_time_seconds": 19.38,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3860
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1418,
+      "output_tokens": 669,
+      "execution_time_seconds": 18.06,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2594
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1280,
+      "output_tokens": 877,
+      "execution_time_seconds": 21.56,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3826
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1470,
+      "output_tokens": 836,
+      "execution_time_seconds": 22.46,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2491
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 2013,
+      "output_tokens": 719,
+      "execution_time_seconds": 19.65,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 9080
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1778,
+      "output_tokens": 1016,
+      "execution_time_seconds": 25.93,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3747
+    }
+  ]
+}

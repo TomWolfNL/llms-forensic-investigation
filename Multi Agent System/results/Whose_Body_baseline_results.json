@@ -1,0 +1,239 @@
+{
+  "evaluations": [
+    {
+      "witness": "Marquis Ivo Quill (W01)",
+      "reliability_grade": "D",
+      "credibility_grade": 4,
+      "reasoning": "Quill demonstrates 'Unnatural Access' through suspicious clustering at every major evidentiary node: he personally conducted the bath-house autopsy examination, traced the nose-clamps to their source, investigated the Anatomists' College, pursued the infirmary trail, and coordinated with multiple witnesses. His photographic assistant (Bram Vell) functioned as his operational arm, gathering intelligence from Sol's household. This degree of omnipresence across the evidentiary landscape constitutes a classic Narrator Trap\u2014controlling information flow while remaining technically an 'amateur.' His detailed forensic observations are plausible individually, but their cumulative pattern serves to construct a narrative that exonerates certain parties while implicating others. His mother's social role (W10) further extends his network into motive-establishment. No red herring exists here; Quill IS the narrative architecture.",
+      "prime_suspect_likelihood": 0.35
+    },
+    {
+      "witness": "Bram Vell (W02)",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Vell's technical contributions (photography, fingerprint analysis, footprint recording) possess inherent verifiability, earning moderate reliability. However, his infiltration of Sol's household as a 'casual servant acquaintance' introduces contamination risk\u2014servants may perform for perceived masters. His reporting of Harlan Greaves's account (W29) is hearsay filtered through social performance. The auburn/dark hair mixture he documented is physically valuable but was collected under conditions favoring selective preservation. Partial directness with substantial interpretive overlay.",
+      "prime_suspect_likelihood": 0.15
+    },
+    {
+      "witness": "Detective Mara Fen (W03)",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Official investigator with legitimate institutional access to Vale's disappearance and Ashgate Crescent evidence. Her collaboration with Quill suggests alignment of investigative interests, but her professional standing provides baseline dependability. She initially treated cases as possibly separate\u2014a sign of independent assessment rather than narrative coordination. Minor concern: her eventual acceptance of Quill's infirmary/college trail may reflect collaborative framing rather than independent verification.",
+      "prime_suspect_likelihood": 0.05
+    },
+    {
+      "witness": "Dr. Edrin Sol (W04)",
+      "reliability_grade": "E",
+      "credibility_grade": 5,
+      "reasoning": "Material deception detected: Sol gave medical evidence compressing/simplifying the timeline in ways conflicting with Dr. Norr's assessment (W24)\u2014a direct internal inconsistency. He denied missing college cadavers despite strong counter-evidence (W27, W28). His claim that Vale visited him for medical reasons and LEFT ALIVE is unverifiable Phantom Actor testimony that conveniently resolves the central mystery. His household exhibited anomalous activity (Monday visitor, nocturnal house-college movement, 3 AM bath) per his own servants. Prior romantic attachment to Lady Mira establishes clear motive. His anatomical expertise provided means. He represents the primary 'Phantom Actor' architect\u2014not controlling the narrative like Quill, but populating it with convenient explanations that deflect suspicion.",
+      "prime_suspect_likelihood": 0.6
+    },
+    {
+      "witness": "Captain Halric Sable (W05)",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Officer of first instance with direct access to the crime scene and initial arrests. His assumption that the corpse was 'probably Vale' reflects institutional bias rather than evidence-based reasoning. Window-sill marks and glove-smear observations are factual, but his failure to pursue alternative entry routes (roof access) allowed the case to develop along lines favorable to other narratives. Partially direct, partially compromised by premature closure.",
+      "prime_suspect_likelihood": 0.1
+    },
+    {
+      "witness": "Corwin Nale (W06)",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Initial discoverer with confused/false account of his night\u2014admitted to visiting illegal gaming cellar, receiving bruise, returning at 1:30 AM. His confusion about returning from a 'book-buying trip' shows deflection, but subsequent honest admission of the gaming cellar reduces suspicion of active fabrication. The open bath-room window and his non-knowledge of the corpse are straightforward. Peripheral liar on minor matters, not central orchestrator.",
+      "prime_suspect_likelihood": 0.05
+    },
+    {
+      "witness": "Dame Elspeth Nale (W07)",
+      "reliability_grade": "D",
+      "credibility_grade": 4,
+      "reasoning": "Elderly mother with poor hearing providing marginal domestic context. Testimony confused due to sensory limitations. Appealed to Quill after son's arrest\u2014potential gratitude-driven bias in subsequent cooperation. Primarily establishes household composition rather than substantive evidence.",
+      "prime_suspect_likelihood": 0.02
+    },
+    {
+      "witness": "Tessa Brindle (W08)",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Initially contradicted herself about Nale's return, then admitted attending Masons' Masquerade with Perri Glain, returning ~2 AM. Her admission of probable window-opening explains the entry vector without malice. Early lies were self-protective rather than designed to misdirect investigation\u2014she feared implication in a stranger's death. Fairly reliable on core facts after correction.",
+      "prime_suspect_likelihood": 0.03
+    },
+    {
+      "witness": "Perri Glain (W09)",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Voluntary corroborator of Tessa's alibi with no apparent motive for false testimony. Saw nothing suspicious in street. Provides clean external validation of Tessa's timeline, reducing suspicion around the open window. High plausibility of truthful account.",
+      "prime_suspect_likelihood": 0.02
+    },
+    {
+      "witness": "Dowager Marchioness Selda Quill (W10)",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Social informant relaying initial body report and establishing Lady Mira-Sol romantic history. Her provision of motive-relevant background is valuable socially but comes through filter of family investment (son's investigation). The romantic triangle information is probably accurate historically but frames the narrative toward Sol as suspect.",
+      "prime_suspect_likelihood": 0.05
+    },
+    {
+      "witness": "Mistress Alian Rusk (W11)",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Rector's wife providing neutral notification function\u2014telephoned Nale's distress about the corpse and inability to attend church-roof inspection. Straightforward trigger for Quill's involvement. No apparent motive for distortion. Clean transmission of initial alert.",
+      "prime_suspect_likelihood": 0.01
+    },
+    {
+      "witness": "Master Orren Vale (W12)",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Indirect source through diary, habits, and belongings. Diary establishes household routine, Lady Mira's absence, Sol's visits, and Calder Vane's dinner. His physical description and habitual items (lenses, latchkey, clothes) form the comparison standard for impersonation analysis. Diary entries are contemporaneous documents with high inherent reliability, though interpretation flows through investigators.",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Irene Saff (W13)",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Cook who saw 'a man apparently resembling Vale' arrive at midnight and let himself in. Crucial supporting evidence for Vale's return, but identification is perceptual ('apparently resembling') rather than certain. Could have been deceived by careful impersonation. Direct observation of ambiguous event.",
+      "prime_suspect_likelihood": 0.08
+    },
+    {
+      "witness": "Milo Tern (W14)",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Vale's valet with intimate knowledge of employer's habits and possessions. Found bed 'appeared slept in' but all valuables remained\u2014including BOTH PAIRS OF LENSES. Emphasized Vale's extreme shortsightedness, making voluntary departure without lenses 'unlikely.' Strong negative evidence against normal departure. Direct, knowledgeable, internally consistent.",
+      "prime_suspect_likelihood": 0.02
+    },
+    {
+      "witness": "Nessa Coil (W15)",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Housemaid noting pillow placement anomaly (toward middle/wall rather than Vale's usual side). Helps establish staging of the bed to simulate occupation. Direct observation of detail inconsistent with Vale's habits, pointing toward impersonation. Reliable on domestic specifics.",
+      "prime_suspect_likelihood": 0.02
+    },
+    {
+      "witness": "Vale's Supper Companions (W16)",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Multiple witnesses confirming Vale's healthy, cheerful demeanor before his secret appointment. Makes pre-planned disappearance less likely\u2014Vale appeared satisfied with upcoming mineral-rights transaction. Group testimony with reduced individual distortion risk.",
+      "prime_suspect_likelihood": 0.01
+    },
+    {
+      "witness": "Lorian Fesk (W17)",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Club acquaintance providing financial context: Vale's centrality to mineral-rights deal, speculators depending on him, Calder Vane as rival. Establishes possible financial motive for Vane but also flags this as potential red herring. Social background information with moderate specificity.",
+      "prime_suspect_likelihood": 0.05
+    },
+    {
+      "witness": "Calder Vane (W18)",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Acknowledged commercial benefit from Vale's absence but denied personal hostility. Physical traits and investigative responses weakened suspicion against him. His secretary Sorin Ash (W19) became relevant for auburn hairs, but later comparisons made his connection doubtful. Financial motive exists but behavioral evidence doesn't support active foul play.",
+      "prime_suspect_likelihood": 0.15
+    },
+    {
+      "witness": "Sorin Ash (W19)",
+      "reliability_grade": "D",
+      "credibility_grade": 4,
+      "reasoning": "Auburn-haired secretary whose physical appearance matched hair traces found at the scene. Initially circumstantial suspect for the mixed auburn/dark hair evidence. Later fingerprint comparisons allegedly diminished his connection. Represents a convenient physical-match candidate who was ruled out through investigation\u2014potentially a constructed red herring or genuine secondary suspect.",
+      "prime_suspect_likelihood": 0.12
+    },
+    {
+      "witness": "Maeron Pith (W20)",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Owner of the silver nose-clamps, identified them as his lost property from a crowded rail-platform crush. Explained sentimental chain of ownership. Denied relevant enemies, initially feared blackmail. His account explains how the clamps could become separated from him and appear on a corpse\u2014plausible accidental/planted clue rather than intrinsic proof of identity. Voluntary cooperation after Jorlan Meek validated investigator legitimacy.",
+      "prime_suspect_likelihood": 0.02
+    },
+    {
+      "witness": "Jorlan Meek (W21)",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Validated Quill's legitimacy to Pith, enabling nose-clamp identification. Pure facilitation role\u2014no apparent motive for false validation. Clean corroborative function.",
+      "prime_suspect_likelihood": 0.01
+    },
+    {
+      "witness": "Unnamed Bellfounder Road Woman (W22)",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Street witness seeing well-dressed bearded man in sea-otter coat and high felt hat near Bellfounder Row ~9:15 PM, asking directions to canal-side terrace. Places a Vale-resembling figure near the discovery site BEFORE the body appeared. Anonymous status reduces accountability but increases neutrality. Direct observation of unspecified individual.",
+      "prime_suspect_likelihood": 0.1
+    },
+    {
+      "witness": "Unnamed Companion of the Bellfounder Road Woman (W23)",
+      "reliability_grade": "D",
+      "credibility_grade": 4,
+      "reasoning": "Former Ashgate socialite identifying the bearded man as Orren Vale by reputation and appearance. Identification is hearsay-through-companion AND anonymous\u2014both layers reduce reliability. Materially important if accurate but vulnerable to mistaken recognition or social presumption. Second-order testimony with identity assertion.",
+      "prime_suspect_likelihood": 0.15
+    },
+    {
+      "witness": "Dr. Pavel Norr (W24)",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Medical inquest witness disagreeing with Sol on timing\u2014suggesting fatal neck injury may have occurred DAYS before death rather than same night. Conflicts with Sol's compressed timeline. Independent medical opinion challenging the official narrative. Direct professional assessment with internal consistency.",
+      "prime_suspect_likelihood": 0.01
+    },
+    {
+      "witness": "Crispin Fallow (W25)",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "College attendant explaining official cadaver-receiving procedures and insisting no teaching subject appeared missing. His assurance does not eliminate substitution possibility\u2014his knowledge is procedural, not audit-based. Institutional denial that proves nothing about actual inventory integrity.",
+      "prime_suspect_likelihood": 0.08
+    },
+    {
+      "witness": "Chelsea Ward Infirmary Medical Officer (W26)",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Documented unknown vagrant injured by falling scaffold planks, showing neurological symptoms, dying Monday, delivered to Anatomists' College via Dr. Sol's arrangement. Provides concrete trail: rough laborer with neck injury matching the bath-corpse profile. Documentary evidence with institutional backing. Connects to the infirmary-to-college pipeline that enabled the swap.",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Lenox Marr (W27)",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Medical student recalling dissection of a middle-aged, rheumatic, sedentary, WELL-FED man inconsistent with pauper category. Remembered senior doctor removing the head separately. Memory-based testimony raising doubt about whether dissected body matched the infirmary vagrant. Recollection of anomaly that challenges official narrative.",
+      "prime_suspect_likelihood": 0.02
+    },
+    {
+      "witness": "Arven Prill (W28)",
+      "reliability_grade": "D",
+      "credibility_grade": 4,
+      "reasoning": "Second-hand witness recalled by Marr as joking during dissection that the body looked too prosperous for a pauper. Hearsay-on-hearsay: Marr remembering Prill's comment. Supports the cadaver anomaly but through double-layered reduction. Marginal corroboration value.",
+      "prime_suspect_likelihood": 0.02
+    },
+    {
+      "witness": "Harlan Greaves (W29)",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Sol's manservant describing Monday-evening male visitor, visitor's ~10 PM departure, Sol's nocturnal house-college movements, and 3 AM bath noise. Information gathered by Vell undercover\u2014possible social performance factor. Did not understand significance of details, suggesting authentic recounting rather than calculated narrative. Anomalous household activity confirmed independently.",
+      "prime_suspect_likelihood": 0.2
+    },
+    {
+      "witness": "Marda Greaves (W30)",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Sol's cook corroborating household arrangement and disturbance from late bath. Secondary confirmation of conditions described by husband Harlan. Validates environment for Sol's opportunity to act.",
+      "prime_suspect_likelihood": 0.1
+    },
+    {
+      "witness": "Lady Mira Vale (W31)",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Authorized continued investigation and believed in kidnapping/ransom theory. Her past connection to Sol is historically important background, not current testimony. Emotional stake in husband's safety motivates cooperation. Background informant on relational dynamics.",
+      "prime_suspect_likelihood": 0.03
+    },
+    {
+      "witness": "Coroner Jabez Morn (W32)",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Presided over inquest, challenged weak police assumptions, directed jury toward open finding. Exposed facts undermining initial theory without solving the case. Institutional check on investigative bias. Professional neutrality with fact-exposure function.",
+      "prime_suspect_likelihood": 0.01
+    }
+  ],
+  "final_case_summary": "The PRIMARY NARRATOR is Marquis Ivo Quill (W01). Despite presenting as an amateur investigator with direct observational access (legitimizing his reliability grade), Quill exhibits the cardinal marker of Narrative Control: his presence clusters at EVERY major evidentiary node\u2014the bath-house examination, the Ashgate Crescent investigation, the nose-clamp provenance, the Anatomists' College inquiry, and the infirmary cadaver trail. His valet Bram Vell operated as his instrument within Sol's household. Together, they constructed a narrative arc that implicated Dr. Sol (motive-rich, anatomically capable, temporally anomalous) while exonerating themselves and redirecting from alternative explanations.\n\nThe NARRATIVE PARADOX lies in the disconnect between Quill's HIGH INFORMATION CREDIBILITY (detailed forensic specificity, physical evidence collection) and his LOW SOURCE RELIABILITY (omnipresent access, orchestrated investigation scope). The very thoroughness that makes his observations credible simultaneously renders his narrative position suspect. Like a museum curator who alone controls every exhibit and its label, Quill's competence is undeniable\u2014but his selectivity in what evidence to foreground (Sol's romantic history, the cadaver anomaly, the 3 AM bath) versus what to contextualize away (alternative entry routes, other suspects' elimination) reveals strategic narrative architecture beneath forensic surface.\n\nDr. Edrin Sol (W04) functions as the PRIMARY PHANTOM ACTOR\u2014not in the sense of being uninvolved, but in the sense that his convenient testimony ('Vale left my office alive,' 'no cadaver is missing') populated the narrative with reassuring assertions that lack corroboration. His material deceptions (timeline compression, cadaver denial) constitute active obstruction, but he operates WITHIN the narrative space Quill illuminates rather than CONSTRUCTING it. The paradox resolves thus: Quill is the master builder; Sol is the convenient building\u2014or at least, the building the construction plan requires.",
+  "telemetry_log": [
+    {
+      "agent_name": "BaselineAgent",
+      "input_tokens": 4584,
+      "output_tokens": 6041,
+      "execution_time_seconds": 154.86,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 17520
+    }
+  ]
+}

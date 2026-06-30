@@ -1,0 +1,2976 @@
+{
+  "timeline": [
+    {
+      "event_id": "E001",
+      "statement_ids": [
+        "S038"
+      ],
+      "time": "Before sale to Cassian",
+      "location": "Unknown",
+      "subject": "Madame Orsina Vaal",
+      "action": "Previously held ownership of the opals",
+      "context": "Former keeper of the stones before current possession",
+      "witnesses": [
+        "Madame Orsina Vaal"
+      ]
+    },
+    {
+      "event_id": "E002",
+      "statement_ids": [
+        "S039"
+      ],
+      "time": "Around time of sale",
+      "location": "Near sale location",
+      "subject": "Pale-haired figure",
+      "action": "Observed suspicious men and believed a pale-haired figure directed them",
+      "context": "Warning issued about future danger to a woman traveler",
+      "witnesses": [
+        "Madame Orsina Vaal"
+      ]
+    },
+    {
+      "event_id": "E003",
+      "statement_ids": [
+        "S036",
+        "S037"
+      ],
+      "time": "At time of sale",
+      "location": "Capital city",
+      "subject": "Barek Slin",
+      "action": "Sold opals to Cassian Vale as intermediary",
+      "context": "Original acquisition of the disputed stones",
+      "witnesses": [
+        "Barek Slin"
+      ]
+    },
+    {
+      "event_id": "E004",
+      "statement_ids": [
+        "S007"
+      ],
+      "time": "Before the journey",
+      "location": "Capital city",
+      "subject": "Opal collar",
+      "action": "Reported the purchase and gifting of the opal collar to Liora",
+      "context": "Acquired through two discreet foreign intermediaries",
+      "witnesses": [
+        "Cassian Vale"
+      ]
+    },
+    {
+      "event_id": "E005",
+      "statement_ids": [
+        "S008",
+        "S016"
+      ],
+      "time": "Before the journey",
+      "location": null,
+      "subject": "Arden Vale",
+      "action": "Reported Arden's financial motive related to Liora's failing marriage",
+      "context": "Arden's desperate finances and affair with Serafine were known to several people",
+      "witnesses": [
+        "Cassian Vale",
+        "Serafine Dax"
+      ]
+    },
+    {
+      "event_id": "E006",
+      "statement_ids": [
+        "S009"
+      ],
+      "time": "Before the journey",
+      "location": "Capital city",
+      "subject": "Unknown criminals",
+      "action": "Confirmed an earlier attempted robbery targeting the jewels in the capital",
+      "context": "Danger shifted from Cassian to Liora after the failed robbery",
+      "witnesses": [
+        "Cassian Vale"
+      ]
+    },
+    {
+      "event_id": "E007",
+      "statement_ids": [
+        "S010",
+        "S017"
+      ],
+      "time": "Before the journey",
+      "location": null,
+      "subject": "Lord Marcian Vey",
+      "action": "Had prior knowledge of Lord Marcian Vey",
+      "context": "Directed early suspicion toward Marcian alongside Arden",
+      "witnesses": [
+        "Cassian Vale",
+        "Serafine Dax"
+      ]
+    },
+    {
+      "event_id": "E008",
+      "statement_ids": [
+        "S019"
+      ],
+      "time": "Before the journey",
+      "location": null,
+      "subject": "Lord Marcian Vey",
+      "action": "Intended to obtain the opal collar by substituting an imitation",
+      "context": "Polished nobleman with a reputation for exploiting wealthy women",
+      "witnesses": [
+        "Lord Marcian Vey"
+      ]
+    },
+    {
+      "event_id": "E009",
+      "statement_ids": [
+        "S011"
+      ],
+      "time": "At capital departure",
+      "location": "Capital station",
+      "subject": "Selma Reed",
+      "action": "Was left behind in the capital when the train departed",
+      "context": "Claims she was accidentally separated from Liora at departure",
+      "witnesses": [
+        "Selma Reed"
+      ]
+    },
+    {
+      "event_id": "E010",
+      "statement_ids": [
+        "S006"
+      ],
+      "time": "During the journey",
+      "location": "Silver Comet",
+      "subject": "Liora Vale",
+      "action": "Hinted to Elena that she was traveling toward a private romantic meeting",
+      "context": "Concealed her renewed connection with Lord Marcian Vey",
+      "witnesses": [
+        "Liora Vale"
+      ]
+    },
+    {
+      "event_id": "E011",
+      "statement_ids": [
+        "S021"
+      ],
+      "time": "Immediately after capital stop",
+      "location": "Silver Comet corridor",
+      "subject": "Woman believed to be Liora",
+      "action": "Spoke with a woman he believed to be Liora, who said her attendant had been left behind",
+      "context": "Central to determining whether Liora was alive after the capital stop or someone was impersonating her",
+      "witnesses": [
+        "Oren Tal"
+      ]
+    },
+    {
+      "event_id": "E012",
+      "statement_ids": [
+        "S022"
+      ],
+      "time": "Immediately after capital stop",
+      "location": "Silver Comet",
+      "subject": "Liora's berth",
+      "action": "Requested that only one berth be prepared and ordered that she not be awakened",
+      "context": "Consistent with the woman's request during the same encounter",
+      "witnesses": [
+        "Oren Tal"
+      ]
+    },
+    {
+      "event_id": "E013",
+      "statement_ids": [
+        "S012"
+      ],
+      "time": "After capital stop",
+      "location": "Liora's compartment",
+      "subject": "Unknown man",
+      "action": "Saw a man in Liora's compartment",
+      "context": "Initially suggested the man may have been Lord Marcian; later implications pointed toward Arden",
+      "witnesses": [
+        "Selma Reed"
+      ]
+    },
+    {
+      "event_id": "E014",
+      "statement_ids": [
+        "S002"
+      ],
+      "time": "Pre-murder",
+      "location": "Silver Comet (unspecified car)",
+      "subject": "Liora Vale",
+      "action": "Spoke with Liora before the murder",
+      "context": "Fellow passenger who helped identify the victim",
+      "witnesses": [
+        "Elena Marlow"
+      ]
+    },
+    {
+      "event_id": "E015",
+      "statement_ids": [
+        "S004"
+      ],
+      "time": "Near the junction",
+      "location": "Outside Liora's compartment",
+      "subject": "Arden Vale",
+      "action": "Saw Arden enter Liora's compartment near the junction",
+      "context": "Places Arden at the scene shortly before or after the murder",
+      "witnesses": [
+        "Elena Marlow"
+      ]
+    },
+    {
+      "event_id": "E016",
+      "statement_ids": [
+        "S015"
+      ],
+      "time": "Near the junction",
+      "location": "Liora's compartment",
+      "subject": "Liora Vale",
+      "action": "Saw what he believed was Liora asleep and left without waking her",
+      "context": "Critical disputed claim: did he see Liora alive or a body?",
+      "witnesses": [
+        "Arden Vale"
+      ]
+    },
+    {
+      "event_id": "E017",
+      "statement_ids": [
+        "S003"
+      ],
+      "time": "Post-junction",
+      "location": "Liora's compartment",
+      "subject": "Red leather jewel case",
+      "action": "Reported that the red leather jewel case was missing",
+      "context": "Key missing evidence indicating the theft motive",
+      "witnesses": [
+        "Elena Marlow"
+      ]
+    },
+    {
+      "event_id": "E018",
+      "statement_ids": [
+        "S023"
+      ],
+      "time": "Later in journey",
+      "location": "Liora's compartment",
+      "subject": "Liora Vale",
+      "action": "Later discovered the body",
+      "context": "Steward responsible for finding the victim",
+      "witnesses": [
+        "Oren Tal"
+      ]
+    },
+    {
+      "event_id": "E019",
+      "statement_ids": [
+        "S001"
+      ],
+      "time": null,
+      "location": null,
+      "subject": null,
+      "action": "Investigates the Silver Comet murder focusing on the damaged face, post-capital-stop timing, and possible disguise",
+      "context": "Private consulting detective questioning theories against Arden Vale and Lord Marcian Vey",
+      "witnesses": [
+        "Marius Pell"
+      ]
+    },
+    {
+      "event_id": "E020",
+      "statement_ids": [
+        "S024"
+      ],
+      "time": "Early investigation phase",
+      "location": "Police inquiry setting",
+      "subject": "Elena",
+      "action": "Took Elena's testimony",
+      "context": "Part of coordinating the early inquiry",
+      "witnesses": [
+        "Inspector Ravel Dorn"
+      ]
+    },
+    {
+      "event_id": "E021",
+      "statement_ids": [
+        "S025"
+      ],
+      "time": "Upon arrival at crime scene",
+      "location": "Silver Comet express",
+      "subject": "Train incident scene",
+      "action": "Recorded scene and medical details",
+      "context": "Official investigation documentation",
+      "witnesses": [
+        "Inspector Ravel Dorn"
+      ]
+    },
+    {
+      "event_id": "E022",
+      "statement_ids": [
+        "S026"
+      ],
+      "time": "Initial investigation phase",
+      "location": "Unknown",
+      "subject": "Lord Marcian",
+      "action": "Officially suspected Lord Marcian",
+      "context": "First direction of official suspicion",
+      "witnesses": [
+        "Inspector Ravel Dorn"
+      ]
+    },
+    {
+      "event_id": "E023",
+      "statement_ids": [
+        "S041",
+        "S043"
+      ],
+      "time": "Initial questioning",
+      "location": "Marcian's residence",
+      "subject": "Lord Marcian",
+      "action": "Initially claimed Marcian arrived at the villa before himself",
+      "context": "False alibi supporting Lord Marcian",
+      "witnesses": [
+        "Hector Plume",
+        "Mara Plume"
+      ]
+    },
+    {
+      "event_id": "E024",
+      "statement_ids": [
+        "S013",
+        "S014",
+        "S018"
+      ],
+      "time": "Investigation phase",
+      "location": null,
+      "subject": "Arden Vale",
+      "action": "Admitted entering Liora's compartment near the junction",
+      "context": "First denied entry, then admitted privately",
+      "witnesses": [
+        "Selma Reed",
+        "Arden Vale",
+        "Serafine Dax"
+      ]
+    },
+    {
+      "event_id": "E025",
+      "statement_ids": [
+        "S020"
+      ],
+      "time": "Investigation phase",
+      "location": null,
+      "subject": "Lord Marcian Vey",
+      "action": "Gave a questionable account of his movements, supported by servants who initially provided a false alibi",
+      "context": "Linked to the false jewels; evidence suggests theft rather than necessarily murder",
+      "witnesses": [
+        "Lord Marcian Vey"
+      ]
+    },
+    {
+      "event_id": "E026",
+      "statement_ids": [
+        "S042",
+        "S044"
+      ],
+      "time": "Under questioning/pressure",
+      "location": "Marcian's residence",
+      "subject": "Lord Marcian",
+      "action": "Admitted under pressure that Marcian arrived later",
+      "context": "Truth revealed under interrogation, destroying Marcian's alibi",
+      "witnesses": [
+        "Hector Plume",
+        "Mara Plume"
+      ]
+    },
+    {
+      "event_id": "E027",
+      "statement_ids": [
+        "S027"
+      ],
+      "time": "Later investigation phase",
+      "location": "Unknown",
+      "subject": "Arden Vale",
+      "action": "Shifted official suspicion to Arden",
+      "context": "Changed direction of official suspicion",
+      "witnesses": [
+        "Inspector Ravel Dorn"
+      ]
+    },
+    {
+      "event_id": "E028",
+      "statement_ids": [
+        "S030",
+        "S031"
+      ],
+      "time": "During private investigation",
+      "location": "Capital area",
+      "subject": "Arden Vale",
+      "action": "Discovered Arden's significant debts and financial misconduct",
+      "context": "Financial motive investigation for Cassian Vale",
+      "witnesses": [
+        "Brant Kells"
+      ]
+    },
+    {
+      "event_id": "E029",
+      "statement_ids": [
+        "S032"
+      ],
+      "time": "During investigation",
+      "location": "Coastal area",
+      "subject": "Marius Pell",
+      "action": "Gave Marius Pell guarded information",
+      "context": "Cautious disclosure to investigator",
+      "witnesses": [
+        "Nestor Kalvani"
+      ]
+    },
+    {
+      "event_id": "E030",
+      "statement_ids": [
+        "S033",
+        "S034",
+        "S035"
+      ],
+      "time": "During investigation",
+      "location": "Kalvani network",
+      "subject": "Stolen opals",
+      "action": "Confirmed stolen opals passed through his circle",
+      "context": "Indirect confirmation of criminal network involvement",
+      "witnesses": [
+        "Nestor Kalvani",
+        "Talia Kalvani"
+      ]
+    },
+    {
+      "event_id": "E031",
+      "statement_ids": [
+        "S040"
+      ],
+      "time": "During investigation discussion",
+      "location": "Unknown",
+      "subject": "Suspect",
+      "action": "Provided background about a suspect's old injury and wartime hospital connection",
+      "context": "May relate to disguise capability, movement ability, or past jewel theft",
+      "witnesses": [
+        "Nadia Bellwether"
+      ]
+    },
+    {
+      "event_id": "E032",
+      "statement_ids": [
+        "S028"
+      ],
+      "time": "Legal proceedings phase",
+      "location": "Magistrate court",
+      "subject": "Serafine",
+      "action": "Evaluated Serafine's sworn accusation",
+      "context": "Formal legal evaluation of accusation against Arden",
+      "witnesses": [
+        "Magistrate Corvin Hale"
+      ]
+    },
+    {
+      "event_id": "E033",
+      "statement_ids": [
+        "S029"
+      ],
+      "time": "During legal proceedings",
+      "location": "Magistrate court",
+      "subject": "Arden Vale",
+      "action": "Found legal case against Arden sufficient for arrest",
+      "context": "Determined case warranted arrest despite uncertainty",
+      "witnesses": [
+        "Magistrate Corvin Hale"
+      ]
+    },
+    {
+      "event_id": "E034",
+      "statement_ids": [
+        "S005"
+      ],
+      "time": "Unspecified",
+      "location": null,
+      "subject": "Unknown person",
+      "action": "Connected an old newspaper clipping about a hospital jewel robbery to one of the people around the case",
+      "context": "Links a past jewel theft to a suspect in the current case",
+      "witnesses": [
+        "Elena Marlow"
+      ]
+    },
+    {
+      "event_id": "E035",
+      "statement_ids": [
+        "S045"
+      ],
+      "time": null,
+      "location": null,
+      "subject": "Jules Ardent",
+      "action": "is a theatrical agent",
+      "context": "Provides information about Serafine's professional circle",
+      "witnesses": [
+        "Jules Ardent"
+      ]
+    },
+    {
+      "event_id": "E036",
+      "statement_ids": [
+        "S046"
+      ],
+      "time": null,
+      "location": null,
+      "subject": "Serafine",
+      "action": "was rumored to have been seen wearing a remarkable opal",
+      "context": "Supports tracing possible movement of stolen stone after the murder",
+      "witnesses": [
+        "Jules Argent"
+      ]
+    },
+    {
+      "event_id": "E037",
+      "statement_ids": [
+        "S047"
+      ],
+      "time": null,
+      "location": null,
+      "subject": "Miss Calla Wren",
+      "action": "is an elderly collector of society cuttings",
+      "context": "Her papers led Elena to discover relevant historical documents",
+      "witnesses": [
+        "Miss Calla Wren"
+      ]
+    },
+    {
+      "event_id": "E038",
+      "statement_ids": [
+        "S048"
+      ],
+      "time": null,
+      "location": null,
+      "subject": "Elena Marlow",
+      "action": "was led by Miss Wren's papers to an old report",
+      "context": "Connection point establishing Elena's access to historical case information",
+      "witnesses": [
+        "Miss Calla Wren"
+      ]
+    },
+    {
+      "event_id": "E039",
+      "statement_ids": [
+        "S049"
+      ],
+      "time": null,
+      "location": "wartime convalescent hospital",
+      "subject": "wartime convalescent hospital jewel robbery",
+      "action": "jewel robbery occurred",
+      "context": "Clipping links past events, a suspect's earlier presence, and a pattern of jewel theft",
+      "witnesses": [
+        "Miss Calla Wren"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "contradiction_id": "CONT001",
+      "type": "identity_conflict",
+      "event_ids": [
+        "E011",
+        "E012",
+        "E016"
+      ],
+      "explanation": "Event E011 and E012 (Oren Tal's testimony) establish that a woman believed to be Liora was awake, coherent, and actively communicating immediately after the capital stop—she mentioned her attendant being left behind and ordered one berth prepared with no disturbances. However, Event E016 (Arden Vale's testimony) claims he saw 'what he believed was Liora asleep' near the junction and left without waking her. These accounts cannot both be accurate regarding the same person at approximately the same time—one depicts Liora as alert and communicative, the other as unconscious/asleep. Someone is either mistaken about who they saw, or one account is fabricated.",
+      "severity": 0.92
+    },
+    {
+      "contradiction_id": "CONT002",
+      "type": "action_conflict",
+      "event_ids": [
+        "E023",
+        "E026"
+      ],
+      "explanation": "Event E023 records that Hector and Mara Plume initially CLAIMED Lord Marcian arrived at the villa before themselves, providing him with a false alibi. Event E026 shows that UNDER PRESSURE OF QUESTIONING, these same witnesses ADMITTED that Marcian actually arrived LATER. This constitutes a documented retraction of their original testimony, confirming they deliberately lied to support Marcian's alibi. Their revised statement directly contradicts their initial claim and undermines Marcian's defense.",
+      "severity": 0.97
+    },
+    {
+      "contradiction_id": "CONT003",
+      "type": "action_conflict",
+      "event_ids": [
+        "E015",
+        "E024"
+      ],
+      "explanation": "Event E015 (Elena Marlow's testimony) explicitly states she SAW Arden Vale ENTER Liora's compartment near the junction. Event E024 indicates that Arden FIRST DENIED entering the compartment, and only admitted doing so privately later under pressure. This is a direct contradiction between a witness's positive observation and the subject's initial denial. Either Elena is lying/mistaken, or Arden knowingly lied to investigators initially.",
+      "severity": 0.88
+    },
+    {
+      "contradiction_id": "CONT004",
+      "type": "physical_evidence_conflict",
+      "event_ids": [
+        "E013",
+        "E016"
+      ],
+      "explanation": "Event E013 (Selma Reed's testimony) reports seeing AN UNKNOWN MAN in Liora's compartment after the capital stop—the context notes this 'later pointed toward Arden.' Event E016 has Arden claiming he personally saw Liora ASLEEP and left without disturbing her. If Selma correctly identified Arden as the unknown man in the compartment, then Arden was present in the room where Liora was supposedly still alive. Yet Arden's account omits any mention of encountering anyone else or the circumstances of his visit, raising questions about what actually transpired inside.",
+      "severity": 0.75
+    }
+  ],
+  "attributes": [
+    {
+      "person": "Marius Pell",
+      "attributes": [
+        {
+          "claim": "Is a private consulting detective",
+          "source": "S001",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Has received guarded information from Nestor Kalvani",
+          "source": "S032",
+          "confidence": 0.8
+        },
+        {
+          "claim": "May possess knowledge regarding the criminal known as the Pale Fox",
+          "source": "S032",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "person": "Elena Marlow",
+      "attributes": [
+        {
+          "claim": "Is a fellow passenger on the Silver Comet",
+          "source": "S002",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Liora Vale",
+      "attributes": [
+        {
+          "claim": "Has a distinctive mark on her person",
+          "source": "S002",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Has dark hair and a particular build",
+          "source": "S002",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Possibly related to Arden Vale",
+          "source": "S015",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Had romantic plans involving Lord Marcian",
+          "source": "S017",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "person": "Arden Vale",
+      "attributes": [
+        {
+          "claim": "Has a financial motive stemming from Liora's failing marriage",
+          "source": "S008",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Is having an affair with Serafine",
+          "source": "S008",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Financially desperate",
+          "source": "S016",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Has spoken as though Liora's death would solve his problems",
+          "source": "S016",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Involved with Serafine Dax",
+          "source": "S016",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Entered Liora's compartment near the junction",
+          "source": "S014",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Subject of official suspicion following initial investigation",
+          "source": "S027",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Had a sworn accusation made against them by Serafine",
+          "source": "S028",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Faced sufficient legal grounds for arrest according to Magistrate Hale",
+          "source": "S029",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Has significant accumulated debts",
+          "source": "S030",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Engaged in financial misconduct",
+          "source": "S030",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Is undergoing marital separation proceedings",
+          "source": "S031",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Experiencing financial desperation related to divorce",
+          "source": "S031",
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "person": "Lord Marcian Vey",
+      "attributes": [
+        {
+          "claim": "Has a concealed romantic connection with Liora Vale",
+          "source": "S006",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Polished nobleman",
+          "source": "S019",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Reputation for exploiting wealthy women",
+          "source": "S019",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Attempted to substitute an imitation for the opal collar",
+          "source": "S019",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Cassian Vale",
+      "attributes": [
+        {
+          "claim": "Purchased and gifted opals to Liora through foreign intermediaries",
+          "source": "S007",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Purchased opals through an intermediary in the capital",
+          "source": "S036",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Selma Reed",
+      "attributes": []
+    },
+    {
+      "person": "Unknown Man",
+      "attributes": []
+    },
+    {
+      "person": "Serafine Dax",
+      "attributes": [
+        {
+          "claim": "Is a dancer",
+          "source": "S016",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Romantically involved with Arden Vale",
+          "source": "S016",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "person": "Liora",
+      "attributes": [
+        {
+          "claim": "Has an attendant who traveled with her",
+          "source": "S021",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Oren Tal",
+      "attributes": [
+        {
+          "claim": "Is a steward on the Silver Comet express train",
+          "source": "S023",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Responsible for passenger accommodations on the train",
+          "source": "S022",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Elena",
+      "attributes": [
+        {
+          "claim": "Provided testimony to authorities during initial investigation",
+          "source": "S024",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Lord Marcian",
+      "attributes": [
+        {
+          "claim": "Was initially suspected by official investigators",
+          "source": "S026",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "person": "Serafine",
+      "attributes": [
+        {
+          "claim": "Made a sworn formal accusation against Arden Vale",
+          "source": "S028",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Inspector Ravel Dorn",
+      "attributes": [
+        {
+          "claim": "Is a police inspector conducting the investigation",
+          "source": "S024",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Coordinates the early phases of the inquiry",
+          "source": "S024",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Records crime scene and medical examination details",
+          "source": "S025",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Investigates both train robbery and crime-of-passion theories",
+          "source": "S025",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "person": "Magistrate Corvin Hale",
+      "attributes": [
+        {
+          "claim": "Is a magistrate presiding over legal proceedings",
+          "source": "S028",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Evaluates sworn accusations presented before the court",
+          "source": "S028",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Assesses medical timing evidence and motive evidence",
+          "source": "S029",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Brant Kells",
+      "attributes": [
+        {
+          "claim": "Conducts private investigations independently",
+          "source": "S030",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Nestor Kalvani",
+      "attributes": [
+        {
+          "claim": "Operates a criminal network in the coastal area",
+          "source": "S034",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Has had stolen opals pass through his criminal circle",
+          "source": "S033",
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "person": "Talia Kalvani",
+      "attributes": [
+        {
+          "claim": "Is the daughter of Nestor Kalvani",
+          "source": "S034",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Has confirmed criminal network involvement in opal transfer",
+          "source": "S034",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Knows that a woman delivered the stolen jewels",
+          "source": "S035",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Barek Slin",
+      "attributes": [
+        {
+          "claim": "Acted as an intermediary in the opal sale to Cassian Vale",
+          "source": "S036",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Participated in a secretive sale with fear of surveillance",
+          "source": "S037",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Madame Orsina Vaal",
+      "attributes": [
+        {
+          "claim": "Was the previous holder of the opals before Cassian acquired them",
+          "source": "S038",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Observed suspicious men near the sale location",
+          "source": "S039",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Believes a pale-haired figure was directing the suspicious men",
+          "source": "S039",
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "person": "Nadia Bellwether",
+      "attributes": [
+        {
+          "claim": "Possesses background knowledge of a suspect's old injury",
+          "source": "S040",
+          "confidence": 0.7
+        },
+        {
+          "claim": "Has information connecting a suspect to a wartime hospital",
+          "source": "S040",
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "person": "Jules Ardent",
+      "attributes": [
+        {
+          "claim": "Is a theatrical agent",
+          "source": "S045",
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "person": "Miss Calla Wren",
+      "attributes": [
+        {
+          "claim": "Is an elderly collector of society cuttings",
+          "source": "S047",
+          "confidence": 1.0
+        }
+      ]
+    }
+  ],
+  "behavior_report": [
+    {
+      "issue_id": "INC001",
+      "person": "Arden Vale",
+      "behavior_type": "retraction",
+      "explanation": "Arden first DENIED entering Liora's compartment, then PRIVATELY ADMITTED doing so near the junction (S014). This reversal under pressure suggests he was concealing something during initial questioning. Combined with his documented financial desperation (S016, S030) and explicit statements that Liora's death would solve his problems (S016), the retraction elevates suspicion significantly.",
+      "risk_score": 0.85
+    },
+    {
+      "issue_id": "INC002",
+      "person": "Arden Vale",
+      "behavior_type": "motive_alignment",
+      "explanation": "Arden's financial motive is exceptionally well-aligned with the crime: desperate accumulated debts (S030), ongoing financial misconduct (S030), marital separation proceedings (S031), and affair with Serafine requiring resources (S016). Every action in his timeline - entering the compartment, claiming he saw Liora 'asleep' - serves to position himself as merely present, not culpable. Perfect alignment between his desperate circumstances and the theft-homicide pattern.",
+      "risk_score": 0.88
+    },
+    {
+      "issue_id": "INC003",
+      "person": "Lord Marcian Vey",
+      "behavior_type": "retraction",
+      "explanation": "Lord Marcian's servants Hector and Mara Plume initially provided a FALSE ALIBI placing Marcian at the villa BEFORE the murder timeframe (S041, S043). Under questioning pressure, BOTH retracted and admitted Marcian actually arrived LATER (S042, S044). This coordinated false testimony strongly implies Marcian needed cover for his true whereabouts during the critical murder window. His plan to substitute imitation opals (S019) establishes theft motive independent of murder.",
+      "risk_score": 0.82
+    },
+    {
+      "issue_id": "INC004",
+      "person": "Serafine Dax",
+      "behavior_type": "motive_alignment",
+      "explanation": "Serafine's accusation against Arden (S018) must be evaluated against her documented emotional entanglement: she is romantically involved with Arden (S016), and her statement is explicitly colored by 'jealousy and anger' (S016). However, she made a formal SWORN accusation (S028), lending it legal weight. The tension: her motive to harm Arden (jealousy) aligns with truthful accusation motive (protecting herself from humiliation). Dual motive vector makes her testimony volatile but not inherently false.",
+      "risk_score": 0.72
+    },
+    {
+      "issue_id": "INC005",
+      "person": "Elena Marlow",
+      "behavior_type": "unnatural_access",
+      "explanation": "Elena demonstrates suspicious omnipresence at key evidentiary moments: she helped IDENTIFY the damaged body (S002), REPORTED the missing jewel case (S003), SAW Arden enter Liora's compartment (S004), CONNECTED the newspaper clipping about hospital jewel robbery (S005), and was LED BY MISS WREN'S PAPERS to crucial historical evidence (S048). She functions less as a passenger-witness and more as an investigative collaborator, raising questions about her true role in the narrative flow.",
+      "risk_score": 0.68
+    },
+    {
+      "issue_id": "INC006",
+      "person": "Selma Reed",
+      "behavior_type": "evasion",
+      "explanation": "Selma claims she was LEFT BEHIND at the capital when the train departed (S011), yet later testifies she SAW a man in Liora's compartment (S012). These statements create a physical impossibility - she could not have witnessed compartment activity from the platform. Her identification of the man shifted between possibly Lord Marcian and possibly Arden (S012), and her recognition of the cigarette case (S013) came during investigation phase rather than immediate aftermath. Significant reliability concerns.",
+      "risk_score": 0.78
+    },
+    {
+      "issue_id": "INC007",
+      "person": "Hector Plume",
+      "behavior_type": "retraction",
+      "explanation": "As Lord Marcian's servant, Hector initially CLAIMED Marcian arrived at the villa EARLIER than himself (S041), providing alibi cover. Under interrogation pressure, he ADMITTED Marcian arrived LATER (S042), destroying the alibi. This retraction pattern mirrors coordinated deception - he was likely instructed to lie about Marcian's timeline.",
+      "risk_score": 0.8
+    },
+    {
+      "issue_id": "INC008",
+      "person": "Mara Plume",
+      "behavior_type": "retraction",
+      "explanation": "Mara supported Hector's INITIAL FALSE ALIBI for Lord Marcian (S043), reinforcing the deception. After the truth emerged, she 'later corroborates the corrected arrival time' (S044). Like Hector, her initial falsehood served Marcian's interests, suggesting either instruction or collusion in covering his true whereabouts.",
+      "risk_score": 0.79
+    },
+    {
+      "issue_id": "INC009",
+      "person": "Talia Kalvani",
+      "behavior_type": "consistent",
+      "explanation": "Talia confirms stolen opals passed through her father Nestor's criminal network (S034) and specifically states the person who DELIVERED THE JEWELS WAS A WOMAN (S035). This evidence directly contradicts theories assuming single male perpetrators (Arden alone, Marcian alone) and supports either female accomplice involvement or impersonation scenario where a woman retrieved the loot. Her testimony is internally consistent and corroborated by network confirmation.",
+      "risk_score": 0.35
+    },
+    {
+      "issue_id": "INC010",
+      "person": "Oren Tal",
+      "behavior_type": "unnatural_access",
+      "explanation": "As train steward, Oren has legitimate access to compartments, but his multiple touchpoints warrant scrutiny: he SPOKE WITH a woman he BELIEVED TO BE LIORA after the capital stop (S021), ORDERED one berth prepared and NOT TO BE DISTURBED (S022), and LATER DISCOVERED THE BODY (S023). If Liora was already dead when he spoke with the woman, he interacted with either an imposter or witnessed the real Liora alive - both scenarios have major implications for the murder timing.",
+      "risk_score": 0.65
+    },
+    {
+      "issue_id": "INC011",
+      "person": "Serafine Dax",
+      "behavior_type": "motive_alignment",
+      "explanation": "Beyond jealousy, Serafine has potential MATERIAL INTEREST: rumors place her WEARING A REMARKABLE OPAL (S046). If authentic, this suggests either pre-existing ownership, post-murder receipt, or deliberate display to provoke response. Combined with her sworn accusation (S028), she occupies dual positions as accuser AND potential beneficiary or conspirator. Her dance profession (S016) also provides disguise/improvisation capability.",
+      "risk_score": 0.7
+    },
+    {
+      "issue_id": "INC012",
+      "person": "Cassian Vale",
+      "behavior_type": "motive_alignment",
+      "explanation": "Cassian purchased the opals through discreet foreign intermediaries (S007, S036) and reportedly had PRIOR KNOWLEDGE of Lord Marcian Vey (S010). He directed early suspicion toward BOTH Marcian and Arden (S010), positioning himself as cooperative while simultaneously muddying the waters. His role as original purchaser creates inheritance/relationship motive if Liora's death benefited him, though no direct evidence of foul play on his part exists.",
+      "risk_score": 0.55
+    },
+    {
+      "issue_id": "INC013",
+      "person": "Barek Slin",
+      "behavior_type": "evasion",
+      "explanation": "As intermediary for the opal sale to Cassian (S036), Barek CONFIRMS the secretive nature of the transaction, FEAR OF SURVEILLANCE, and presence of STREET CRIMINALS directed by an OLDER PALE-HAIRED MAN (S037). His emphasis on external watchers ('directed by someone else') may serve to distance himself from premeditation while still confirming criminal network interest predated the murder. Self-serving framing detected.",
+      "risk_score": 0.58
+    },
+    {
+      "issue_id": "INC014",
+      "person": "Madame Orsina Vaal",
+      "behavior_type": "motive_alignment",
+      "explanation": "Orsina was previous holder of the opals (S038) and OBSERVED SUSPICIOUS MEN near the sale location (S039). She BELIEVES a PALE-HAIRED FIGURE directed them and WARNED that the stones would become 'especially dangerous once given to a woman traveling with them' (S039). This warning proves prophetic - the stones DID become dangerous. Her prior ownership and predictive accuracy suggest either genuine foresight or involvement in orchestrating the theft-for-profit scheme.",
+      "risk_score": 0.62
+    },
+    {
+      "issue_id": "INC015",
+      "person": "Nestor Kalvani",
+      "behavior_type": "evasion",
+      "explanation": "Nestor gave Marius Pell only GUARDED INFORMATION suggesting Pale Fox involvement (S032), then LATER INDIRECTLY confirmed opals passed through his circle (S033). His reluctance suggests either code of silence within criminal networks or personal stake in the outcome. The gradual admission pattern - partial disclosure followed by reluctant confirmation - indicates strategic information control rather than full cooperation.",
+      "risk_score": 0.6
+    },
+    {
+      "issue_id": "INC016",
+      "person": "Miss Calla Wren",
+      "behavior_type": "unnatural_access",
+      "explanation": "Miss Wren is described as an 'elderly collector of society cuttings' (S047) whose papers LED ELENA to an old report (S048) about a wartime hospital jewel robbery (S049). While her role appears passive, she functions as a narrative catalyst - her archives conveniently contain precisely the historical evidence needed to connect current suspects to past crimes. Either remarkable coincidence or intentional curation of evidence pointing toward specific conclusions.",
+      "risk_score": 0.52
+    },
+    {
+      "issue_id": "INC017",
+      "person": "Nadia Bellwether",
+      "behavior_type": "consistent",
+      "explanation": "Nadia provides background about a suspect's OLD INJURY and WARTIME HOSPITAL CONNECTION (S040), potentially relating to disguise capability, mobility limitations, or participation in past jewel theft. This information could explain how a suspect evaded detection or assumed another's identity. No retraction or evasion detected - her contribution fills evidentiary gaps rather than creating contradictions.",
+      "risk_score": 0.4
+    },
+    {
+      "issue_id": "INC018",
+      "person": "Inspector Ravel Dorn",
+      "behavior_type": "consistent",
+      "explanation": "Inspector Dorn officially SUSPECTED LORD MARCIAN FIRST (S026), then SHIFTED to Arden (S027). This evolution suggests either new evidence or successful misdirection by Marcian's defense. As official investigator, his changing suspicion may reflect genuine evidentiary development OR manipulation by sophisticated suspects. No personal retraction detected - his shifts track external evidence patterns.",
+      "risk_score": 0.38
+    },
+    {
+      "issue_id": "INC019",
+      "person": "Magistrate Corvin Hale",
+      "behavior_type": "consistent",
+      "explanation": "Magistrate Hale EVALUATED Serafine's SWORN ACCUSATION (S028) and found the legal case against Arden SUFFICIENT FOR ARREST (S029), considering medical timing and motive evidence. His assessment represents institutional validation of the prosecution theory. No personal behavioral flags - he performs expected judicial function.",
+      "risk_score": 0.32
+    },
+    {
+      "issue_id": "INC020",
+      "person": "Brant Kells",
+      "behavior_type": "consistent",
+      "explanation": "Private investigator Brant Kells UNCORKED Arden's DEBTS, MISCONDUCT, and FINANCIAL PERIL (S030) and identified his VULNERABILITY IN SEPARATION PROCEEDINGS (S031). His findings directly support the financial motive theory. No behavioral anomalies - he operates as expected professional asset for Cassian's side.",
+      "risk_score": 0.34
+    }
+  ],
+  "credibility_metrics": [
+    {
+      "witness": "Arden Vale",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Initial denial followed by private admission under pressure represents classic deceptive retraction. Combined with direct conflict between his account (Liora asleep) and Oren Tal's corroborated testimony (Liora alert and communicative post-capital stop), the internal coherence is severely compromised.",
+          "score": 0.38
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "His claim of finding Liora asleep directly contradicts E011/E012 establishing she was awake and communicating moments earlier. Additionally, his selective account omits encounter with Selma Reed's 'unknown man,' creating material gaps in the physical sequence of events.",
+          "score": 0.52
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "While the account does not rely on phantom events per se, the convenient framing ('believed was Liora') introduces ambiguity about identity verification. The omission of Selma's presence and the unexplained reason for entry raise deflection patterns consistent with orchestrated testimony.",
+          "score": 0.58
+        },
+        {
+          "type": "detail_quality",
+          "description": "Provides basic directional details (compartment, action taken) but lacks temporal precision, fails to explain purpose of entry, omits encounter with Selma Reed's figure, and uses hedging language ('believed was') that weakens evidentiary value.",
+          "score": 0.48
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.38,
+        "physical_impossibility": 0.52,
+        "orchestration_marker": 0.58,
+        "detail_quality": 0.48
+      },
+      "credibility_grade": 4,
+      "weighted_score": 0.49
+    },
+    {
+      "witness": "Barek Slin",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "S036 and S037 are mutually reinforcing; both describe the same opal transaction from different angles (transaction mechanics vs. environmental conditions). No self-contradiction present withinBare k's own account.",
+          "score": 0.78
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No timeline conflicts or physical impossibilities detected. Sale in capital before journey is geographically and temporally coherent. Claims describe observable phenomena (surveillance fear, street criminals) without contradicting known constraints.",
+          "score": 0.74
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Reference to 'older pale-haired man' directing criminals constitutes a partially phantom attribution—describes a third party without verification pathway. Combined with INC013's noted self-serving framing (externalizing blame via 'directed by someone else'), the claim conveniently redirects investigative focus away from Barek's own network involvement.",
+          "score": 0.52
+        },
+        {
+          "type": "detail_quality",
+          "description": "Good specificity on transactional elements (role as intermediary, location, temporal anchor). However, the critical identifying detail of the 'older pale-haired man' lacks corroborating attributes (name, relationship, means of identification), reducing verifiability despite descriptive intent.",
+          "score": 0.61
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.78,
+        "physical_impossibility": 0.74,
+        "orchestration_marker": 0.52,
+        "detail_quality": 0.61
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.662
+    },
+    {
+      "witness": "Brant Kells",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Both statements (S030, S031) align coherently as part of a single financial motive investigation targeting Arden Vale. No self-contradiction detected; behavior flag INC020 explicitly marks him as consistent with professional PI operations.",
+          "score": 0.82
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Investigative findings regarding debts, financial misconduct, and legal vulnerability are procedurally plausible. No timeline conflicts or physical evidence challenges these claims. Statements reflect standard document-based investigation.",
+          "score": 0.78
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Claims rest on substantive investigative work uncovering verifiable financial records, not phantom events. Findings corroborate independent evidence (S016, INC001, INC002) showing genuine motive alignment. No reliance on unverifiable anonymous sources or convenient coincidences.",
+          "score": 0.76
+        },
+        {
+          "type": "detail_quality",
+          "description": "Statements specify subject (Arden Vale), scope (financial investigation), and outcome categories (debts, misconduct, vulnerability). However, lacks granular specifics such as exact debt amounts, document types discovered, interview dates, or precise locations where evidence was obtained.",
+          "score": 0.62
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.82,
+        "physical_impossibility": 0.78,
+        "orchestration_marker": 0.76,
+        "detail_quality": 0.62
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.745
+    },
+    {
+      "witness": "Cassian Vale",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "No direct contradictions exist between S007-S010. Statements align on timeline ('before the journey') and subject matter. However, the behavioral flag (INC012) reveals a pattern of strategic positioning—purchasing through discreet intermediaries while directing suspicion at multiple parties—which introduces indirect inconsistency in narrative framing rather than factual self-conflict.",
+          "score": 0.68
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "All described actions are physically plausible: purchasing goods through intermediaries, reporting known motives, confirming prior criminal activity, and possessing prior knowledge of individuals. No physical evidence or timeline conflicts challenge these claims. The 'before the journey' temporal anchor is consistent across statements.",
+          "score": 0.78
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Two concerning elements: (1) 'discreet foreign intermediaries' provide a convenient but unverifiable procurement trail for the opals, and (2) 'prior knowledge of Lord Marcian Vey' has unexplained provenance. Combined with strategic redirection of suspicion toward both Arden and Marcian, these constitute phantom-adjacent mechanisms that obscure Cassian's own position while appearing cooperative.",
+          "score": 0.52
+        },
+        {
+          "type": "detail_quality",
+          "description": "Statements contain limited specificity. Location data is inconsistent (null vs. 'capital city'). Temporal reference is vague ('before the journey' without precise timing). Actions are characterized generally ('reported,' 'confirmed') without describing observable behaviors. Raw texts are terse summaries rather than detailed accounts. Only the robbery confirmation provides a concrete external anchor.",
+          "score": 0.48
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.68,
+        "physical_impossibility": 0.78,
+        "orchestration_marker": 0.52,
+        "detail_quality": 0.48
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.615
+    },
+    {
+      "witness": "Elena Marlow",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "No self-contradiction within Elena's own statements; however, her testimony directly conflicts with Arden Vale's initial denial of entering the compartment (CONT003, severity 0.88), creating an external verification challenge rather than internal incoherence.",
+          "score": 0.62
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "All reported observations are physically plausible: identifying a body by build/hair/distinctive marks, noting a missing item, witnessing someone enter a compartment, and connecting historical newspaper clips. No timeline impossibilities identified.",
+          "score": 0.78
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Elena exhibits 'suspicious omnipresence' (INC005, risk 0.68) across five distinct evidentiary moments: body identification, missing jewel case report, sighting Arden's entry, newspaper clipping connection, and accessing Miss Wren's papers. This pattern positions her as an 'investigative collaborator' rather than a passive witness, suggesting potential coordination or selective emphasis.",
+          "score": 0.48
+        },
+        {
+          "type": "detail_quality",
+          "description": "Moderate specificity: S002 includes location ('Silver Comet') and distinguishing features; S004 specifies action and approximate location ('near the junction'); S003 and S005 lack precise timestamps. Details are sufficient but not highly granular.",
+          "score": 0.58
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.62,
+        "physical_impossibility": 0.78,
+        "orchestration_marker": 0.48,
+        "detail_quality": 0.58
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.615
+    },
+    {
+      "witness": "Hector Plume",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Documented full retraction under interrogation pressure - initially claimed Marcian arrived earlier (alibi), then admitted he arrived later. Self-contradicting testimony with 0.97 severity confirms deliberate falsehood.",
+          "score": 0.18
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Coordinated false alibi provision alongside fellow servant Mara Plume (INC003). Pattern indicates instruction-based deception to cover Marcian's movements during the murder window.",
+          "score": 0.71
+        },
+        {
+          "type": "detail_quality",
+          "description": "Moderate specificity - identifies subject (Lord Marcian), location (villa/residence), and action (arrival timing). However lacks precise timestamps or additional contextual details that would strengthen the account.",
+          "score": 0.46
+        },
+        {
+          "type": "internal_consistency",
+          "description": "Risk score of 0.80 (INC007) corroborates calculated deception pattern consistent with servant loyalty to employer rather than spontaneous fabrication.",
+          "score": 0.22
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.19,
+        "physical_impossibility": 0.54,
+        "orchestration_marker": 0.69,
+        "detail_quality": 0.47
+      },
+      "credibility_grade": 4,
+      "weighted_score": 0.472
+    },
+    {
+      "witness": "Inspector Ravel Dorn",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Statements form a coherent investigative narrative: initial suspicion directed at Lord Marcian (S026), followed by evidentiary shift to Arden Vale (S027). Behavior analysis confirms no personal retraction—shifts align with external evidence patterns rather than self-contradiction.",
+          "score": 0.78
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "All described actions are routine investigative procedures: taking testimony, recording scene/medical details, formal suspicion designation. No timeline conflicts or physically implausible claims detected across the statement set.",
+          "score": 0.87
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "No reliance on phantom events. Suspicion shifts appear traceable to evidentiary developments during investigation phases. Statements reference documentable official processes rather than convenient unverifiable triggers.",
+          "score": 0.71
+        },
+        {
+          "type": "detail_quality",
+          "description": "Moderate specificity achieved. Temporal markers exist ('early investigation phase', 'upon arrival') and location specified for train scene. However, critical statements S026/S027 lack precise timestamps and locations, reducing verifiability.",
+          "score": 0.52
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.78,
+        "physical_impossibility": 0.87,
+        "orchestration_marker": 0.71,
+        "detail_quality": 0.52
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.72
+    },
+    {
+      "witness": "Jules Ardent",
+      "evidence": [
+        {
+          "type": "detail_quality",
+          "description": "Statement contains only categorical identity (theatrical agent) without temporal, spatial, or behavioral specifics; no concrete action described beyond occupational role.",
+          "score": 0.38
+        },
+        {
+          "type": "internal_consistency",
+          "description": "No contradictory accounts or self-retraction observed; single statement remains coherent within its limited scope.",
+          "score": 0.71
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Occupational identity claim is not subject to physical or temporal falsification; no evidentiary challenges present.",
+          "score": 0.67
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Claim does not rely on phantom events, unverifiable communications, or suspicious deflections; straightforward biographical descriptor.",
+          "score": 0.76
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.71,
+        "physical_impossibility": 0.67,
+        "orchestration_marker": 0.76,
+        "detail_quality": 0.38
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.63
+    },
+    {
+      "witness": "Jules Argent",
+      "evidence": [
+        {
+          "type": "orchestration_marker",
+          "description": "Entirely dependent on unnamed 'rumors' with no identifiable source, time, or location. Classic phantom evidence that cannot be verified or challenged.",
+          "score": 0.28
+        },
+        {
+          "type": "detail_quality",
+          "description": "No temporal or spatial specificity whatsoever. Only 'rumors' cited as provenance; 'remarkable opal' provides minimal descriptive value.",
+          "score": 0.22
+        },
+        {
+          "type": "internal_consistency",
+          "description": "Single statement contains no self-contradiction. However, the behavioral inference (INC011) layers interpretive framing onto an already thin evidentiary base.",
+          "score": 0.68
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Not physically impossible, but the total absence of verifiable parameters prevents independent corroboration or falsification.",
+          "score": 0.55
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.68,
+        "physical_impossibility": 0.55,
+        "orchestration_marker": 0.28,
+        "detail_quality": 0.22
+      },
+      "credibility_grade": 4,
+      "weighted_score": 0.432
+    },
+    {
+      "witness": "Liora Vale",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "No self-contradiction detected. The dual-layer narrative (concealing true connection while hinting at alternative motive) is logically coherent.",
+          "score": 0.68
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "A whispered hint during travel is physically plausible. No timeline conflicts or logistical impossibilities identified.",
+          "score": 0.82
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "While the 'hint' introduces a convenient narrative shift suggesting a romantic motive, it describes an actual verbal exchange rather than a phantom event. Partial deflection marker present due to concealed true connection.",
+          "score": 0.52
+        },
+        {
+          "type": "detail_quality",
+          "description": "Location ('Silver Comet') is specific, but temporal reference ('during the journey') is vague. The action is characterized as a 'hint' rather than documented verbatim speech, reducing specificity.",
+          "score": 0.48
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.68,
+        "physical_impossibility": 0.82,
+        "orchestration_marker": 0.52,
+        "detail_quality": 0.48
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.625
+    },
+    {
+      "witness": "Lord Marcian Vey",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Servants Hector and Mara Plume initially provided a coordinated false alibi placing Lord Marcian at the villa before the murder timeframe, then both retracted under questioning pressure, admitting he arrived later. This pattern of coordinated false testimony followed by retraction signals deliberate deception regarding his true whereabouts during the critical murder window.",
+          "score": 0.21
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Two servants independently constructed identical false alibis supporting Lord Marcian's account, then both recanted when confronted. This level of coordination suggests active instruction or rehearsal rather than independent misremembering, indicating possible orchestration of false testimony.",
+          "score": 0.38
+        },
+        {
+          "type": "detail_quality",
+          "description": "Statement S019 vaguely references 'before the journey' with no specific date, time, or location. Statement S020 describes 'questionable account of movements' without specifying what those movements were, where he went, or why they were questioned. Both statements lack concrete temporal markers or actionable specifics.",
+          "score": 0.32
+        },
+        {
+          "type": "internal_consistency",
+          "description": "His stated intention to substitute an imitation opal collar (S019) aligns suspiciously well with the subsequent theft evidence, suggesting premeditation consistent with his known character as a polished nobleman who exploits wealthy women. While internally coherent, this alignment raises questions about opportunistic involvement.",
+          "score": 0.48
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.34,
+        "physical_impossibility": 0.68,
+        "orchestration_marker": 0.38,
+        "detail_quality": 0.32
+      },
+      "credibility_grade": 4,
+      "weighted_score": 0.43
+    },
+    {
+      "witness": "Madame Orsina Vaal",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "No self-contradiction detected between S038 (prior ownership) and S039 (observed suspicious men and warning). Statements complement rather than conflict.",
+          "score": 0.78
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Observing suspicious men near a sale location and issuing verbal warnings are physically plausible actions. No timeline conflicts or physical evidence challenges these claims.",
+          "score": 0.74
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "While the 'pale-haired figure' is unverifiable, Orsina directly observed suspicious men herself (not purely phantom). However, her prior ownership + predictive accuracy on the woman's danger raises orchestration concerns per INC014.",
+          "score": 0.52
+        },
+        {
+          "type": "detail_quality",
+          "description": "S038 lacks any specific location or precise timing. S039 provides contextual placement ('around time of sale', 'near sale location') but omits identifying details of the pale-haired figure or the threatened woman traveler.",
+          "score": 0.48
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.78,
+        "physical_impossibility": 0.74,
+        "orchestration_marker": 0.52,
+        "detail_quality": 0.48
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.63
+    },
+    {
+      "witness": "Magistrate Corvin Hale",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Statements S028 and S029 form a coherent judicial sequence: evaluating Serafine's sworn accusation (S028) followed by determining the case sufficient for arrest (S029). Both statements align with expected magistrate function. Behavior flag INC019 confirms consistent performance of official duties with no self-contradiction.",
+          "score": 0.76
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical impossibilities present. Hale's statements reflect legal-judicial determinations based on evidence evaluation (medical timing, motive evidence) rather than claims about physical events. The referenced evidence is being weighed, not contradicted by observable fact.",
+          "score": 0.81
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "No phantom events or deflection patterns detected in Hale's statements. His conclusions derive from institutional evaluation of submitted evidence (sworn accusation, medical timing, motive). While Serafine's testimony carries complexity (INC004, INC011), this does not implicate Hale in orchestrating false narratives—merely processing them through proper channels.",
+          "score": 0.68
+        },
+        {
+          "type": "detail_quality",
+          "description": "Moderate specificity achieved through identification of key evidentiary elements considered: 'estimated medical timing' and 'motive evidence.' However, lacks precise timestamps, exact location within courthouse, or explicit citation of which evidence items were weighed. General 'legal proceedings phase' framing limits granularity.",
+          "score": 0.59
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.76,
+        "physical_impossibility": 0.81,
+        "orchestration_marker": 0.68,
+        "detail_quality": 0.59
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.71
+    },
+    {
+      "witness": "Mara Plume",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Documented retraction confirmed: Mara initially supported false alibi (S043) but later contradicted own statement by corroborating corrected arrival time (S044). Contradiction CONT002 confirms coordinated admission under questioning pressure that original testimony was deliberately false.",
+          "score": 0.18
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Behavior INC003 and INC008 confirm coordinated false testimony with Hector—both initially provided identical false alibis for Lord Marcian, then both retracted under pressure. Pattern indicates instructed or collusive deception to cover Marcian's whereabouts during murder window.",
+          "score": 0.31
+        },
+        {
+          "type": "detail_quality",
+          "description": "Statements lack precision—no specific timestamps, exact locations, or granular actions described. Generic references to 'first false alibi' and 'corrected arrival time' without supporting particulars reduce verifiability.",
+          "score": 0.52
+        },
+        {
+          "type": "internal_consistency",
+          "description": "Risk score 0.79 (INC008) flags Mara specifically for initial falsehood serving Marcian's interests, followed by reluctant correction—behavioral inconsistency consistent with coerced recantation rather than voluntary truth-telling.",
+          "score": 0.22
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.2,
+        "physical_impossibility": 0.68,
+        "orchestration_marker": 0.31,
+        "detail_quality": 0.52
+      },
+      "credibility_grade": 4,
+      "weighted_score": 0.428
+    },
+    {
+      "witness": "Marius Pell",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "No self-contradictions detected in S001; investigative focus on multiple angles (damaged face, timing, disguise, opal collar) represents coherent parallel inquiry paths rather than conflicting claims.",
+          "score": 0.78
+        },
+        {
+          "type": "detail_quality",
+          "description": "Statement provides thematic overview of investigative focus but lacks specific timestamps, concrete action sequences, named sources consulted, or documented findings. Describes approach rather than verifiable specifics.",
+          "score": 0.45
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "No phantom events attributed to Marius Pell. However, behavioral flag INC015 indicates he received only 'guarded information' from Nestor Kalvani regarding Pale Fox involvement, suggesting potential downstream contamination of investigative conclusions from strategically withheld intelligence.",
+          "score": 0.62
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical impossibilities or timeline conflicts identified within Marius Pell's stated investigative activities. Focus on post-capital-stop timing, physical evidence examination (damaged face, false opal collar), and disguise theory represent logical investigative reasoning.",
+          "score": 0.71
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.78,
+        "physical_impossibility": 0.71,
+        "orchestration_marker": 0.62,
+        "detail_quality": 0.45
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.64
+    },
+    {
+      "witness": "Miss Calla Wren",
+      "evidence": [
+        {
+          "type": "orchestration_marker",
+          "description": "Behavior flag INC016 identifies Miss Wren as a 'narrative catalyst' whose archives 'conveniently contain precisely the historical evidence needed.' Her papers led Elena directly to connecting current suspects to past crimes—a passive but suspiciously well-positioned role in directing investigative focus.",
+          "score": 0.48
+        },
+        {
+          "type": "detail_quality",
+          "description": "All three statements lack temporal specificity (timestamps null across all). Only S049 provides a named location ('wartime convalescent hospital'). Descriptions use vague terms like 'society cuttings,' 'old report,' and 'ancient hospital jewel robbery' without dates, names, or precise identifiers.",
+          "score": 0.38
+        },
+        {
+          "type": "internal_consistency",
+          "description": "No self-contradiction detected. Statements align: she is a collector (S047), her papers were accessed (S048), and those papers contained relevant historical documentation (S049). Consistent role throughout the narrative chain.",
+          "score": 0.82
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical impossibility present. Documentary references to historical events are logically feasible. The concern lies not in physical implausibility but in the convenient availability of evidence (addressed under orchestration_marker).",
+          "score": 0.71
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.82,
+        "physical_impossibility": 0.71,
+        "orchestration_marker": 0.48,
+        "detail_quality": 0.38
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.597
+    },
+    {
+      "witness": "Nadia Bellwether",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Statement S040 presents background information about a suspect's injury and hospital connection without internal conflict. Behavior flag INC017 confirms consistent provision of information with no retraction or evasion detected.",
+          "score": 0.74
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Historical background about an old injury and wartime hospital connection is temporally and physically plausible. No physical evidence contradicts this narrative; it aligns logically with potential disguise or mobility explanations.",
+          "score": 0.68
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Information serves to redirect investigative focus toward another suspect via contextual background. However, it does not rely on phantom events—references to actual medical history and institutional connections provide verifiable anchors.",
+          "score": 0.61
+        },
+        {
+          "type": "detail_quality",
+          "description": "Statement lacks specificity regarding exact timing, precise location, named individuals, or concrete actions. References to 'old injury' and 'wartime hospital' are general descriptors without corroborating particulars that would strengthen evidentiary weight.",
+          "score": 0.42
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.74,
+        "physical_impossibility": 0.68,
+        "orchestration_marker": 0.61,
+        "detail_quality": 0.42
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.612
+    },
+    {
+      "witness": "Nestor Kalvani",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "S032 and S033 do not contradict each other. Both statements align on criminal network involvement—the guarded mention of Pale Fox (S032) is logically compatible with the subsequent indirect confirmation of opals passing through his circle (S033). No self-retraction or conflicting accounts are present.",
+          "score": 0.68
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No timeline conflicts exist between 'during investigation' and 'later in investigation.' The actions described—providing guarded information and making indirect confirmations—are physically and logically plausible events. No physical evidence undermines these claims.",
+          "score": 0.78
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "The reference to 'the Pale Fox,' an unnamed master criminal, introduces a partially phantom element that deflects focus away from verifiable actors. However, S033 provides a tangible confirmation regarding stolen opals passing through his circle, grounding the account in something concrete beyond mere suggestion.",
+          "score": 0.52
+        },
+        {
+          "type": "detail_quality",
+          "description": "Statements include general temporal markers ('during investigation,' 'later') and location references ('coastal area/network'), but lack specifics such as exact dates, precise locations, quantities of opals, or identities of additional participants. The subject matter is identifiable but lacks granular detail.",
+          "score": 0.48
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.68,
+        "physical_impossibility": 0.78,
+        "orchestration_marker": 0.52,
+        "detail_quality": 0.48
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.615
+    },
+    {
+      "witness": "Oren Tal",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Oren's three statements (S021-S023) form a logically coherent sequential narrative: he conversed with the woman, acted on her instructions, then discovered the body. No self-contradiction exists within his own account. However, the external contradiction with Arden Vale's testimony (CONT001, severity 0.92) presents a significant challenge—this conflict does not stem from inconsistency within Oren's statements but rather from irreconcilable accounts of the same person's state (alert vs. asleep) at the same approximate time.",
+          "score": 0.68
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical impossibilities exist within Oren's account. As a steward, he had legitimate access to compartments. The described sequence—speaking with a passenger, arranging berths, and later discovering a deceased occupant—is physically plausible. The core uncertainty involves identity verification (whether the woman was truly Liora) rather than any violation of physical law or timeline impossibility.",
+          "score": 0.76
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "All three events described by Oren involve tangible, verifiable actions: a verbal exchange with identifiable content, explicit orders to staff regarding berth preparation, and the discovery of a body (which would produce forensic evidence). None rely on phantom events, anonymous messages, or unverifiable encounters. The account centers on observable conduct rather than convenient narrative devices.",
+          "score": 0.81
+        },
+        {
+          "type": "detail_quality",
+          "description": "Moderate specificity across statements. S021 provides verbatim dialogue ('her attendant had been left behind'), establishing linguistic distinctiveness. S022 specifies action type (ordered berth preparation) and explicit instruction (not to be disturbed). However, S023 uses vague temporal marker ('later') without precise timing, duration, or environmental description of the discovery scene. Location references are adequate but lack granular detail.",
+          "score": 0.61
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.68,
+        "physical_impossibility": 0.76,
+        "orchestration_marker": 0.81,
+        "detail_quality": 0.61
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.715
+    },
+    {
+      "witness": "Selma Reed",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "S011 claims she was left behind at the capital platform while S012 claims she saw a man in Liora's compartment—a direct self-contradiction. She cannot simultaneously be on the platform and observe interior compartment activity. Additionally, her identification of the unknown man shifted between Lord Marcian and Arden, indicating unstable recall or external influence.",
+          "score": 0.14
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "The behavioral flag (INC006) confirms a critical physical impossibility: Selma claims separation at the capital platform (S011) yet testifies to witnessing a man in Liora's compartment afterward (S012). From the platform, she would lack line-of-sight access to observe compartment interiors on a departing train. This is not merely inconsistent—it is geometrically impossible.",
+          "score": 0.08
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "The unknown man description functions as a phantom event—initially attributed to possible Lord Marcian, then redirected toward Arden. Combined with the cigarette case explanation (S013) surfacing during formal investigation rather than contemporaneously, these elements suggest post-hoc narrative construction. The shifting attribution pattern serves to redirect investigative focus.",
+          "score": 0.21
+        },
+        {
+          "type": "detail_quality",
+          "description": "While locations (capital station, compartment) and general sequence are mentioned, key temporal markers are absent or vague ('at capital departure,' 'after capital stop'). Specific times, distances, lighting conditions, and interaction details are missing. The unstable identification further degrades specificity—'possibly Marcian, possibly Arden' fails to meet evidentiary standards.",
+          "score": 0.31
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.14,
+        "physical_impossibility": 0.08,
+        "orchestration_marker": 0.21,
+        "detail_quality": 0.31
+      },
+      "credibility_grade": 5,
+      "weighted_score": 0.185
+    },
+    {
+      "witness": "Serafine Dax",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Serafine's three statements form a coherent narrative: Arden expressed desire for Liora's death (S016), Liora had plans with Marcian (S017), and she observed Arden leaving Liora's compartment after death (S018). These statements do not contradict each other and collectively establish motive, opportunity, and her observational basis for the accusation.",
+          "score": 0.74
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical impossibility exists in her claimed observation. The train compartment layout would permit visual access. However, her emotional coloring (jealousy/anger per behavioral flag INC004) raises perceptual reliability concerns, and the opal reference (INC011) introduces potential material interest that could color her testimony—not disproving her observation, but reducing confidence in its interpretation.",
+          "score": 0.61
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Serafine's accusation does not rely on phantom events. She reports direct personal observation of Arden leaving the compartment (S018), references documented statements about Arden's mindset (S016), and mentions Liora's known plans (S017). Unlike phantom-based deflections, her claims are anchored to observable actions and verifiable relationships, though her emotional investment warrants scrutiny.",
+          "score": 0.68
+        },
+        {
+          "type": "detail_quality",
+          "description": "S016 and S017 lack temporal and spatial specificity—no timestamps or locations provided. S018 offers more substantive detail (observation of Arden exiting the compartment), but remains vague regarding exact timing relative to the junction and her precise viewing position. The opal reference (INC011) adds peripheral detail but does not strengthen core claims.",
+          "score": 0.52
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.74,
+        "physical_impossibility": 0.61,
+        "orchestration_marker": 0.68,
+        "detail_quality": 0.52
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.638
+    },
+    {
+      "witness": "Talia Kalvani",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "S034 and S035 are mutually reinforcing statements. Both address the same incident (opals passing through the family network) and S035 provides additional evidentiary detail (female deliverer) that complements rather than conflicts with S034. No retractions or self-contradictions noted.",
+          "score": 0.78
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical or timeline impossibilities identified. The described chain of custody (opals → father's network → female deliverer) represents a logistically feasible criminal distribution pattern. No technological or physical evidence undermines these claims.",
+          "score": 0.68
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "While the female deliverer's identity remains unspecified, this does not constitute a phantom event. The witness provides direct knowledge of the network involvement (through her father) and personally observed the deliverer's gender. The gap in identification appears genuine rather than manufactured deflection.",
+          "score": 0.62
+        },
+        {
+          "type": "detail_quality",
+          "description": "Moderate specificity achieved. Statements confirm network involvement (S034) and perpetrator gender (S035), providing actionable investigative leads. However, critical details such as timing, exact location of transfer, and full description of the female deliverer remain absent, limiting evidential weight.",
+          "score": 0.55
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.78,
+        "physical_impossibility": 0.68,
+        "orchestration_marker": 0.62,
+        "detail_quality": 0.55
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.657
+    }
+  ],
+  "reliability_grades": [
+    {
+      "witness": "Arden Vale",
+      "grade": "D",
+      "explanation": "Arden Vale exhibits significant unreliability markers. He initially denied entering Liora's compartment—a material fact—before privately admitting under pressure (INC001), suggesting conscious concealment. His core claim of seeing Liora 'asleep' directly contradicts Oren Tal's testimony (CONT001, severity 0.92) establishing Liora was awake and communicative moments earlier. Multiple independent witnesses place him in the compartment (CONT003, CONT004), yet his account omits all contact with others or circumstances of his presence. Combined with documented financial desperation and explicit statements that Liora's death would resolve his problems, the convergence of material deception, contradicted eyewitness claims, and clear motive renders him not usually reliable as an information source.",
+      "factors_assessed": [
+        "material deception: initial denial of compartment entry, later admission under pressure",
+        "observation directness: self-serving account contradicted by multiple witnesses including Oren Tal (awake/comunicative) and Elena Marlow (observed entry)",
+        "unnatural access: family connection, financial stake, presence at critical juncture",
+        "peripheral omission: failed to disclose encounter with anyone despite Selma Reed placing unknown male in compartment",
+        "bias: documented financial desperation, explicit statement that Liora's death solves his problems",
+        "deflection: account systematically minimizes involvement while contradicting established facts"
+      ]
+    },
+    {
+      "witness": "Barek Slin",
+      "grade": "C",
+      "explanation": "Barek Slin provides direct testimony as the actual intermediary in the opal transaction (S036), giving him firsthand knowledge of the sale mechanics. His statements corroborate the secretive nature of the deal and confirm criminal pre-interest in the stones. However, his consistent emphasis on external direction by 'an older pale-haired man' (S037) exhibits self-serving framing designed to distance himself from premeditation while still providing useful intelligence. No internal contradictions exist between his two statements. The primary concern is peripheral self-protection rather than material fabrication—he confirms the facts but frames them favorably to his own position. Overall fairly reliable as a source of transactional details, though his motivation to minimize personal culpability warrants moderate scrutiny.",
+      "factors_assessed": [
+        "observation directness: direct experiential knowledge as transaction intermediary",
+        "material accuracy: no internal contradictions between statements",
+        "self-serving framing: emphasis on external direction to distance from premeditation",
+        "bias: moderate self-protective motivation to avoid complicity framing",
+        "corroboration: aligns with other sources on secretive sale context"
+      ]
+    },
+    {
+      "witness": "Brant Kells",
+      "grade": "B",
+      "explanation": "Brant Kells functions as a direct analytical observer in his professional capacity as a private investigator, uncovering financial documentation regarding Arden Vale's debts and vulnerabilities. His observations are internally consistent (INC020 confirms no behavioral anomalies, risk score 0.34) and align with independent evidence (financial desperation corroborated by S016). Minor reservation stems from his disclosed professional engagement on behalf of Cassian Vale, representing a moderate financial stake typical of hired investigators. No contradictions, deflections, or signs of material deception detected. His role as a structured professional actor with clear structural access to financial records supports reliability within expected parameters.",
+      "factors_assessed": [
+        "observation directness: direct analytical observation of financial documents as licensed investigator",
+        "bias: moderate financial stake as hired professional asset for Cassian Vale",
+        "consistency: no internal contradictions, aligned with corroborating evidence (S016)",
+        "structural access: legitimate professional role with documented authority to investigate financial records"
+      ]
+    },
+    {
+      "witness": "Cassian Vale",
+      "grade": "D",
+      "explanation": "Cassian Vale presents significant reliability concerns despite some direct knowledge. He directly purchased the opals through 'discreet foreign intermediaries,' raising transparency issues. More critically, he exhibits unnaturally broad informational access—he knows the earlier robbery attempt, Arden's financial desperation, and has prior knowledge of Lord Marcian Vey—positioning himself at multiple key evidentiary nodes. His behavior of directing suspicion simultaneously toward both Arden and Marcian constitutes a deflection tactic that muddies investigative waters. Combined with his status as original purchaser creating potential inheritance/relationship motive, his reliability is substantially compromised. No contradictions recorded, suggesting consistency, but consistent撒谎 is still unreliable.",
+      "factors_assessed": [
+        "observation directness: mixed - direct for purchase (S007), likely conversational/hearsay for others' motives (S008, S009)",
+        "material deception vs peripheral concealment: indirect concealment via discreet intermediaries; no direct contradiction but suspicious information control",
+        "unnatural access: high risk - clusters at multiple evidentiary nodes (purchaser, robbery knowledge, suspect knowledge)",
+        "deflection tactics: directs suspicion toward multiple parties (Marcian AND Arden) simultaneously",
+        "bias: moderate personal stake - original purchaser with potential inheritance/relationship motive if Liora's death benefited him"
+      ]
+    },
+    {
+      "witness": "Elena Marlow",
+      "grade": "D",
+      "explanation": "Elena Marlow presents multiple indicators of 'narrator trap' syndrome—she directly observed key events (identifying the body, witnessing Arden enter the compartment, reporting the missing jewel case) yet simultaneously functions as an investigative collaborator who connects newspaper clippings to suspects and accesses Miss Wren's papers for crucial evidence. While her individual observations are direct and physically grounded, her suspicious omnipresence across all major evidentiary nodes (severity 0.88 contradiction with Arden; risk score 0.68 for unnatural access) raises serious questions about whether she is a genuine witness or an orchestrated information conduit. The high-severity contradiction with Arden's initial denial further complicates her reliability. These factors collectively suggest she is not a usual reliable source.",
+      "factors_assessed": [
+        "observation directness: direct physical observation of body identification, Arden entering compartment, and missing jewel case",
+        "material contradiction: high-severity (0.88) conflict between her positive sighting of Arden and his initial denial",
+        "unnatural access: suspicious omnipresence at all key evidentiary moments with investigative collaborator role (risk 0.68)",
+        "deflection tactics: none identified but investigative collaboration pattern raises concerns",
+        "bias: no explicit bias detected but collaborative role warrants scrutiny"
+      ]
+    },
+    {
+      "witness": "Hector Plume",
+      "grade": "D",
+      "explanation": "Hector Plume initially provided a materially false alibi for Lord Marcian, claiming Marcian arrived at the villa earlier than himself (S041). Under interrogation pressure, he retracted and admitted Marcian arrived later (S042), directly contradicting his own prior statement. This represents material deception on a core investigative issue—the victim's whereabouts during the murder window—with a documented severity score of 0.97. His status as Marcian's servant establishes a significant loyalty-based bias, and the coordinated retraction alongside fellow servant Mara Plume indicates probable orchestration of false testimony. While he eventually told the truth under pressure, his initial willingness to fabricate alibi evidence severely compromises his reliability as an information source.",
+      "factors_assessed": [
+        "observation directness: direct physical observation of Marcian's arrivals/departures as household servant",
+        "material deception: severe - initial false alibi covering critical murder timeframe; subsequently retracted under pressure",
+        "bias: high - clear employment dependency on Lord Marcian creating loyalty-driven motivation to deceive",
+        "coordination: documented parallel false testimony with Mara Plume suggesting orchestrated deception",
+        "integrity compromise: demonstrated willingness to provide knowingly false statements to investigators"
+      ]
+    },
+    {
+      "witness": "Inspector Ravel Dorn",
+      "grade": "B",
+      "explanation": "Inspector Dorn demonstrates reliable sourcing through direct analytical observation in his official investigative capacity. He directly observed and recorded the crime scene and medical details, took testimony from witnesses, and documented evolving suspicions across multiple phases. His shift in official suspicion from Lord Marcian to Arden tracks external evidence patterns without signs of fabrication or undue influence. No contradictions were identified, and his behavior remains consistent with standard investigative methodology. While institutional investigators carry inherent organizational pressures, there is no evidence of personal bias, material deception, or suspicious control over evidentiary flows. His positioning at key investigative nodes reflects legitimate professional authority rather than orchestrative access.",
+      "factors_assessed": [
+        "observation directness: direct analytical observation of crime scene and official documentation",
+        "ways of knowing: direct physical observation of scene, direct conversational access to witness testimony",
+        "material deception: none detected",
+        "peripheral concealment: not applicable",
+        "unnatural access: no suspicious clustering; access consistent with official role",
+        "deflection tactics: none observed",
+        "bias: mild institutional pressure inherent to law enforcement role, no personal stake identified",
+        "consistency: behavior aligns with evidence progression, no contradictory retractions"
+      ]
+    },
+    {
+      "witness": "Jules Ardent",
+      "grade": "F",
+      "explanation": "Only minimal biographical descriptor provided ('theatrical agent'). No substantive testimony about observable events, conversations, or factual claims exists in the record. Without actual witness statements describing events, there is no basis upon which to assess observation directness, truthfulness, bias, or any other reliability factor. Source reliability cannot be judged from this input.",
+      "factors_assessed": [
+        "insufficient substantive testimony"
+      ]
+    },
+    {
+      "witness": "Jules Argent",
+      "grade": "D",
+      "explanation": "Jules Argent provides only a single statement (S046) transmitting unverified rumors that Serafine was seen wearing a remarkable opal. This constitutes hearsay upon hearsay—the witness relays secondhand gossip rather than direct observation. There are no contradictions to assess, nor any behavioral indicators directly attributed to Jules. Without personal vantage point, first-hand knowledge, or demonstrated access to material evidence, Jules functions merely as a rumor conduit. The lack of directness, absence of corroboration, and reliance on unsubstantiated whispers severely limit reliability as an information source.",
+      "factors_assessed": [
+        "observation directness: pure hearsay - relaying rumors without personal knowledge",
+        "materiality: unclear relevance; opal reference may be tangential",
+        "bias/motivation: unknown stakes, no declared interest",
+        "structural access: no evidence of privileged position or investigative role",
+        "information quality: single uncorroborated rumor transmission"
+      ]
+    },
+    {
+      "witness": "Liora Vale",
+      "grade": "C",
+      "explanation": "Single statement indicates Liora Vale concealed her renewed romantic connection with Lord Marcian Vey while hinting to Elena about a private meeting, thereby potentially establishing motive for emotional conflict and jewel theft. While she provides direct self-reporting of her own actions, the concealment of a personal relationship raises questions about transparency. No contradictions or behavioral anomalies documented to further assess veracity. Limited data constrains comprehensive evaluation; however, the nature of the concealment—though personal—appears connected to potential investigative motive, warranting a moderate reliability assessment.",
+      "factors_assessed": [
+        "observation directness: direct self-reporting of own conversational actions",
+        "concealment type: personal romantic connection concealed from travel companion",
+        "materiality: concealment linked to potential motive for emotional conflict and theft",
+        "data sufficiency: single statement, no contradictions or behavioral observations available",
+        "bias: personal romantic interest creates potential selective disclosure concern"
+      ]
+    },
+    {
+      "witness": "Lord Marcian Vey",
+      "grade": "D",
+      "explanation": "Lord Marcian Vey's reliability is substantially undermined by coordinated material deception. His servants Hector and Mara Plume initially provided a fabricated alibi placing him at the villa before the murder—a falsehood both retracted under interrogation, revealing systematic effort to obscure his true whereabouts during the critical murder window. This represents material evasion concerning his exact location when the crime occurred. Additionally, his stated intent to acquire the opal collar through substitution (S019) establishes a theft motive independent of murder, yet his evasive account raises questions about whether his activities extended beyond mere theft. The high risk score (0.82) for the false alibi coordination signals serious investigative concern. As a suspect whose own statements frame a limited narrative while external evidence contradicts his presented account, his reliability as an information source is markedly diminished.",
+      "factors_assessed": [
+        "material deception: coordinated false alibi from servants retracted under pressure, concealing true whereabouts during murder window",
+        "observation directness: self-reported intentions only; no direct observation of core event offered",
+        "unnatural access: orchestrated servant testimony to control alibi narrative",
+        "bias: established motive through planned opal substitution scheme",
+        "deflection: servants' false testimony redirected investigative focus away from Marcian's actual timeline"
+      ]
+    },
+    {
+      "witness": "Madame Orsina Vaal",
+      "grade": "D",
+      "explanation": "Orsina Vaal presents a complex reliability picture marked by direct observational knowledge but significant red flags. While she offers firsthand accounts of her prior ownership (S038) and direct observation of suspicious men near the sale (S039), her position at multiple critical evidentiary nodes—previous owner, proximate observer, prophetic warner—constitutes a textbook 'narrator trap.' Her warning about the stones becoming 'especially dangerous once given to a woman traveling with them' proved accurate, which could indicate genuine foresight OR involvement in orchestrating the theft-for-profit scheme. The absence of contradictions does not offset the structural concern: she uniquely controls the flow of information regarding ownership history, suspect identification, and predictive threat assessment. Her financial stake as former seller who profited from the transaction further undermines neutrality. These factors collectively degrade her reliability to 'Not usually reliable.'",
+      "factors_assessed": [
+        "observation directness: direct physical observation of suspicious men; direct personal knowledge of prior ownership",
+        "material deception: none detected, no contradictions or retractions",
+        "unnatural access: severe concern - witness occupies multiple key evidentiary nodes (owner, observer, prophet, intelligence source)",
+        "deflection tactics: moderate - identifies 'pale-haired figure' as director, though verifiable details sparse",
+        "bias: moderate-to-severe financial stake as former owner who sold the stones"
+      ]
+    },
+    {
+      "witness": "Magistrate Corvin Hale",
+      "grade": "B",
+      "explanation": "Magistrate Hale demonstrates high reliability as a source due to direct analytical observation of evidence within his official judicial capacity. He appropriately evaluated Serafine's sworn accusation and determined the legal case warranted arrest, considering medical timing and motive evidence. No personal behavioral anomalies were identified; he performed expected institutional functions without apparent self-interest or deflection tactics. Minor reservation stems from reliance on Serafine's testimony, who carries documented emotional entanglement with Arden, but this reflects standard judicial evaluation rather than a flaw in Hale's own reliability.",
+      "factors_assessed": [
+        "observation directness: direct analytical evaluation of evidence and testimonies in official judicial capacity",
+        "institutional authority: appropriate structural access to evaluate legal cases and authorize arrests",
+        "bias: minimal personal stake - performs expected governmental function",
+        "material deception: none identified",
+        "deflection tactics: none observed",
+        "evidentiary dependency: relies partly on Serafine's testimony which carries emotional complication, but this affects case strength rather than witness reliability"
+      ]
+    },
+    {
+      "witness": "Mara Plume",
+      "grade": "E",
+      "explanation": "Mara Plume initially provided materially deceptive testimony by supporting Hector's false alibi for Lord Marcian, claiming Marcian arrived at the villa before the murder timeframe. Under questioning pressure, she retracted and admitted the corrected arrival time. This documented reversal confirms deliberate coordination with Hector to furnish a false alibi—central to the investigation as it concerns Marcian's whereabouts during the murder window. Her role as Marcian's servant establishes clear bias and potential motive to follow instructions. The systematic nature of the initial deception, combined with its material relevance to the murder investigation, renders her unreliable as an information source despite subsequent correction.",
+      "factors_assessed": [
+        "observation directness: direct household access to arrivals/departures, but corrupted by deliberate falsehood",
+        "material deception: affirmative false alibi testimony directly concerning murder timeframe—not peripheral",
+        "coordinated deception: synchronized false testimony with Hector suggests instructed or collusive cover-up",
+        "bias: employee relationship with Lord Marcian creating loyalty conflict and instruction risk",
+        "retraction pattern: initial falsehood followed by admission under pressure confirms awareness of deception"
+      ]
+    },
+    {
+      "witness": "Marius Pell",
+      "grade": "B",
+      "explanation": "Marius Pell functions as a private consulting detective conducting analytical review of existing theories and evidence regarding the Silver Comet murder. His role involves questioning suspect theories and evaluating investigative angles (damaged face, timing, disguise, false opal collar) rather than providing direct eyewitness testimony. No contradictions or deceptive behavior are attributed to him personally. The behavioral concern (INC015) pertains to Nestor Kalvani's evasiveness toward Marius, not Marius orchestrating information flow. As a professional analyst, he carries moderate professional stake typical of consulting roles. Overall fairly reliable as an information source on investigative reasoning, though his value lies in analytical synthesis rather than direct observation of the crime itself.",
+      "factors_assessed": [
+        "observation directness: direct analytical evaluation of theories and evidence as consulting detective",
+        "material deception: none identified",
+        "peripheral concealment: not applicable to subject",
+        "unnatural access: no suspicious clustering at evidentiary nodes observed",
+        "deflection tactics: none observed",
+        "bias: moderate professional stake as private consultant"
+      ]
+    },
+    {
+      "witness": "Miss Calla Wren",
+      "grade": "C",
+      "explanation": "Miss Wren serves as a passive archival source rather than a direct witness to any operative events. Her statements describe the contents and provenance of her society cuttings collection, which Elena accessed to uncover historical evidence. While no contradictions exist and there is no indication of material deception, her role exhibits mild unnatural access concerns flagged in INC016: her archives conveniently contain precisely the historical evidence needed to connect present suspects to past crimes. This raises questions about whether her collecting patterns are organically assembled or strategically curated. As a hearsay-based narrator of documentary sources rather than a direct observer of events, her reliability falls into the fair range.",
+      "factors_assessed": [
+        "observation directness: no direct observation; acts as archival conduit for secondhand documentary sources",
+        "material deception: none detected; no contradictions in statements",
+        "unnatural access: moderate concern per INC016; archives function as narrative catalyst containing suspiciously pertinent historical evidence",
+        "bias: potential interest in society scandal collection, though no direct personal stake in investigation outcomes"
+      ]
+    },
+    {
+      "witness": "Nadia Bellwether",
+      "grade": "C",
+      "explanation": "Nadia Bellwether provides background information about a suspect's old injury and wartime hospital connection (S040). This constitutes hearsay—she is relaying historical background about a third party's medical history and institutional associations rather than reporting direct observations of the core incident under investigation. No contradictions were identified; her behavior is marked as consistent, filling evidentiary gaps without apparent evasion. However, the nature of 'providing background' indicates secondhand knowledge transmission rather than direct sensory observation. Without confirmation of her specific access to verified sources (medical records, personal familiarity), her reliability rests on the credibility of her informational chain. Grade C reflects fairly reliable status tempered by the hearsay nature of her contribution.",
+      "factors_assessed": [
+        "observation directness: hearsay - providing background information about third-party medical history and institutional connections",
+        "consistency: consistent behavior noted, no contradictions or retractions",
+        "information quality: fills evidentiary gaps regarding suspect's possible disguise capability, mobility, or past involvement",
+        "source verification: unclear whether background information derives from verifiable first-hand sources or indirect accounts",
+        "deception indicators: none detected - risk score 0.4"
+      ]
+    },
+    {
+      "witness": "Nestor Kalvani",
+      "grade": "D",
+      "explanation": "Nestor Kalvani demonstrates direct knowledge of criminal activity (opals passing through his circle) but exhibits strategic information control characteristic of someone with a personal stake in the outcome. His initial 'guarded' disclosure regarding the Pale Fox, followed by reluctant indirect confirmation, reveals a graduated admission pattern typical of witnesses protecting themselves while offering minimal cooperation. The evasion behavior (INC015) combined with potential criminal network affiliation creates substantial motivation to withhold or shape information. While his admissions carry weight given his proximity to the criminal activity, his reliability as an information source is compromised by apparent code-of-silence dynamics and self-protective disclosure strategies.",
+      "factors_assessed": [
+        "observation directness: direct insider knowledge of criminal network operations",
+        "material concealment: strategic information control on material criminal facts",
+        "deflection: references external actor ('Pale Fox') without independent verification",
+        "bias: high personal stake due to potential criminal liability within own circle",
+        "cooperation quality: guarded, graduated disclosure pattern inconsistent with full cooperation"
+      ]
+    },
+    {
+      "witness": "Oren Tal",
+      "grade": "B",
+      "explanation": "Oren Tal presents as a fairly reliable source with minor reservations. His statements derive primarily from direct conversational engagement (S021) and direct personal action (S022) regarding the encounter with the woman believed to be Liora. As train steward, his access to compartments is structurally legitimate rather than suspicious. No evident bias or motive to fabricate was identified. The primary concern is the identity conflict (CONT001) involving competing accounts of Liora's state post-capital stop—this reflects witness inconsistency or misidentification risk rather than indicators of deliberate deception. His subsequent discovery of the body (S023) falls within expected steward responsibilities. Overall, the witness demonstrates reliable ways of knowing with acceptable corroboration potential, though the unresolved identity discrepancy introduces minor reservations about accuracy.",
+      "factors_assessed": [
+        "observation directness: direct conversational and direct action - first-hand engagement with the woman believed to be Liora",
+        "structural access: legitimate steward role with authorized compartment access",
+        "material deception: none detected - no evidence of fabricating or retracting central facts",
+        "peripheral concealment: absent - no secondary indiscretions or cover-up patterns observed",
+        "deflection tactics: none - provided concrete factual accounts without directing attention to phantom subjects",
+        "bias and motivation: minimal - no apparent personal, financial, or emotional stake in outcome",
+        "unresolved contradiction: identity conflict with Arden Vale's account regarding Liora's state post-capital stop (severity 0.92) represents witness error risk rather than fabrication indicator"
+      ]
+    },
+    {
+      "witness": "Selma Reed",
+      "grade": "E",
+      "explanation": "Selma Reed presents a fundamentally compromised account. Her core statements contain a physical impossibility—she claims simultaneously to have been left behind at the Capital station (S011) while also witnessing a man in Liora's compartment (S012)—which undermines her entire observational credibility. Her identification of the unknown man shifted between Lord Marcian and Arden, indicating instability or manipulation in her testimony. Additionally, her recognition of the cigarette case occurred during the investigation phase rather than immediately after the events, suggesting post-hoc construction rather than genuine recollection. These factors collectively indicate systematic unreliability consistent with investigative orchestration or deliberate fabrication.",
+      "factors_assessed": [
+        "observation directness: physically impossible claims - cannot simultaneously be left behind at station and observe compartment interior",
+        "material deception: core timeline fabricated - foundational contradiction invalidates all related testimony",
+        "unnatural access: occupies multiple key evidentiary positions (separation from victim, suspect sighting, evidence identification)",
+        "deflection tactics: identification shifted between two named suspects depending on investigative direction",
+        "temporal inconsistency: cigarette case recognition during investigation phase rather than contemporaneous observation"
+      ]
+    },
+    {
+      "witness": "Serafine Dax",
+      "grade": "D",
+      "explanation": "Serafine Dax presents significant reliability concerns despite possessing one potentially direct observation (S018 - witnessing Arden leave Liora's compartment). Her testimony is undermined by multiple compounding factors: (1) romantic entanglement with the accused creates severe emotional bias explicitly flagged as 'jealousy and anger'; (2) two of three statements constitute hearsay regarding others' statements/plans rather than direct observation; (3) dual motive vector - both the capacity and apparent motivation to falsely accuse Arden, alongside potential material interest evidenced by the remarkable opal (S046); (4) occupation as dancer provides disguise/improvisation narrative plausibility. While her formal sworn accusation (S028) lends procedural weight, it simultaneously places her in the highly suspicious position of occupying dual roles as both accuser and potential beneficiary or conspirator. The combination of emotional volatility, hearsay reliance, and material interest substantially degrades her reliability as an information channel.",
+      "factors_assessed": [
+        "observation directness: mixed - one direct visual observation (S018) offset by hearsay on financial matters (S016) and others' plans (S017)",
+        "material deception vs peripheral concealment: no confirmed deception detected, but emotional coloring of testimony is explicitly acknowledged",
+        "unnatural access: moderate concern - dual role as jealous lover-accuser and potential material beneficiary positions her at key evidentiary nodes",
+        "deflection tactics: not observed",
+        "bias and motivation: severe - romantic involvement with accused, documented jealousy and anger, potential material interest via remarkable opal, dual motive vector for truthfulness and fabrication"
+      ]
+    },
+    {
+      "witness": "Talia Kalvani",
+      "grade": "C",
+      "explanation": "Talia Kalvani provides statements corroborating criminal distribution through her father's network (S034) and identifying the jewel deliverer as female (S035). While she demonstrates direct access to family network intelligence, her reliability is significantly compromised by a severe conflict of interest—her own father operates the criminal network under investigation. Her testimony is internally consistent and lacks contradictions, but the familial entanglement creates substantial motivation concerns. Additionally, her role as a network insider raises questions about whether she is a genuine cooperating witness or a strategically positioned source. These mixed indicators support a fairly reliable but not fully credible rating.",
+      "factors_assessed": [
+        "observation directness: direct access to family criminal network operations",
+        "conflict of interest: severe - father is primary suspect/network operator",
+        "internal consistency: statements are mutually reinforcing with no contradictions",
+        "materiality: substantive evidence contradicting solo perpetrator theories",
+        "orchestration risk: moderate - positioned within the investigated network"
+      ]
+    }
+  ],
+  "debug_trace": [
+    {
+      "witness": "Arden Vale",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S014",
+          "S015"
+        ],
+        "contradiction_count": 3,
+        "behavior_count": 2
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Magistrate Corvin Hale",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S028",
+          "S029"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Hector Plume",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S041",
+          "S042"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Madame Orsina Vaal",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S038",
+          "S039"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Talia Kalvani",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S034",
+          "S035"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Elena Marlow",
+      "stats": {
+        "statement_count": 4,
+        "statement_ids": [
+          "S002",
+          "S003",
+          "S004",
+          "S005"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Marius Pell",
+      "stats": {
+        "statement_count": 1,
+        "statement_ids": [
+          "S001"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Inspector Ravel Dorn",
+      "stats": {
+        "statement_count": 4,
+        "statement_ids": [
+          "S024",
+          "S025",
+          "S026",
+          "S027"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Brant Kells",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S030",
+          "S031"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Miss Calla Wren",
+      "stats": {
+        "statement_count": 3,
+        "statement_ids": [
+          "S047",
+          "S048",
+          "S049"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Jules Argent",
+      "stats": {
+        "statement_count": 1,
+        "statement_ids": [
+          "S046"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Barek Slin",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S036",
+          "S037"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Nadia Bellwether",
+      "stats": {
+        "statement_count": 1,
+        "statement_ids": [
+          "S040"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Selma Reed",
+      "stats": {
+        "statement_count": 3,
+        "statement_ids": [
+          "S011",
+          "S012",
+          "S013"
+        ],
+        "contradiction_count": 2,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Liora Vale",
+      "stats": {
+        "statement_count": 1,
+        "statement_ids": [
+          "S006"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Lord Marcian Vey",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S019",
+          "S020"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Nestor Kalvani",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S032",
+          "S033"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Serafine Dax",
+      "stats": {
+        "statement_count": 3,
+        "statement_ids": [
+          "S016",
+          "S017",
+          "S018"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 2
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Oren Tal",
+      "stats": {
+        "statement_count": 3,
+        "statement_ids": [
+          "S021",
+          "S022",
+          "S023"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Jules Ardent",
+      "stats": {
+        "statement_count": 1,
+        "statement_ids": [
+          "S045"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Cassian Vale",
+      "stats": {
+        "statement_count": 4,
+        "statement_ids": [
+          "S007",
+          "S008",
+          "S009",
+          "S010"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Mara Plume",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S043",
+          "S044"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    }
+  ],
+  "telemetry_log": [
+    {
+      "agent_name": "StatementExtractionAgent",
+      "input_tokens": 2519,
+      "output_tokens": 4675,
+      "execution_time_seconds": 103.49,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 7547
+    },
+    {
+      "agent_name": "StatementExtractionAgent",
+      "input_tokens": 2335,
+      "output_tokens": 3631,
+      "execution_time_seconds": 81.28,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 6669
+    },
+    {
+      "agent_name": "StatementExtractionAgent",
+      "input_tokens": 1914,
+      "output_tokens": 1653,
+      "execution_time_seconds": 34.88,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4968
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 1572,
+      "output_tokens": 982,
+      "execution_time_seconds": 24.82,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3967
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 1588,
+      "output_tokens": 1251,
+      "execution_time_seconds": 227.65,
+      "llm_success_ratio": "1/2",
+      "payload_size_bytes": 3939
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 1495,
+      "output_tokens": 1276,
+      "execution_time_seconds": 29.55,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3695
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 1548,
+      "output_tokens": 1566,
+      "execution_time_seconds": 36.16,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3975
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 1350,
+      "output_tokens": 954,
+      "execution_time_seconds": 21.77,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3047
+    },
+    {
+      "agent_name": "TimelineAgent",
+      "input_tokens": 5363,
+      "output_tokens": 5260,
+      "execution_time_seconds": 122.49,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 18459
+    },
+    {
+      "agent_name": "BehavioralConsistencyAgent",
+      "input_tokens": 8115,
+      "output_tokens": 6574,
+      "execution_time_seconds": 163.37,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 25180
+    },
+    {
+      "agent_name": "TimelineContradictionAgent",
+      "input_tokens": 13740,
+      "output_tokens": 6507,
+      "execution_time_seconds": 161.77,
+      "llm_success_ratio": "1/3",
+      "payload_size_bytes": 12296
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1475,
+      "output_tokens": 1162,
+      "execution_time_seconds": 27.98,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 6762
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1136,
+      "output_tokens": 948,
+      "execution_time_seconds": 24.38,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2023
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1201,
+      "output_tokens": 873,
+      "execution_time_seconds": 20.71,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2339
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1173,
+      "output_tokens": 1251,
+      "execution_time_seconds": 30.7,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2082
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1351,
+      "output_tokens": 1257,
+      "execution_time_seconds": 30.58,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2803
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1254,
+      "output_tokens": 1011,
+      "execution_time_seconds": 26.09,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2516
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1116,
+      "output_tokens": 723,
+      "execution_time_seconds": 17.72,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2010
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 725,
+      "output_tokens": 675,
+      "execution_time_seconds": 17.37,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 437
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 866,
+      "output_tokens": 734,
+      "execution_time_seconds": 17.65,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1003
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 757,
+      "output_tokens": 952,
+      "execution_time_seconds": 24.64,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 566
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1148,
+      "output_tokens": 1055,
+      "execution_time_seconds": 25.91,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2138
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1021,
+      "output_tokens": 1015,
+      "execution_time_seconds": 25.62,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1579
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1250,
+      "output_tokens": 1082,
+      "execution_time_seconds": 27.57,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2535
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1230,
+      "output_tokens": 828,
+      "execution_time_seconds": 19.58,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2426
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 897,
+      "output_tokens": 787,
+      "execution_time_seconds": 20.78,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1249
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1207,
+      "output_tokens": 891,
+      "execution_time_seconds": 21.58,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2341
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 880,
+      "output_tokens": 745,
+      "execution_time_seconds": 20.17,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1138
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 962,
+      "output_tokens": 1009,
+      "execution_time_seconds": 22.47,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1399
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1328,
+      "output_tokens": 1276,
+      "execution_time_seconds": 28.98,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 5378
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1406,
+      "output_tokens": 1065,
+      "execution_time_seconds": 29.78,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 6226
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1679,
+      "output_tokens": 1068,
+      "execution_time_seconds": 29.49,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4222
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 976,
+      "output_tokens": 882,
+      "execution_time_seconds": 24.42,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1433
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1646,
+      "output_tokens": 842,
+      "execution_time_seconds": 19.98,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 6762
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1307,
+      "output_tokens": 839,
+      "execution_time_seconds": 21.31,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2023
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1372,
+      "output_tokens": 722,
+      "execution_time_seconds": 17.13,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2339
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1344,
+      "output_tokens": 865,
+      "execution_time_seconds": 22.0,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2082
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1522,
+      "output_tokens": 760,
+      "execution_time_seconds": 18.15,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2803
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1425,
+      "output_tokens": 879,
+      "execution_time_seconds": 22.67,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2516
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1287,
+      "output_tokens": 721,
+      "execution_time_seconds": 16.7,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2010
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 896,
+      "output_tokens": 547,
+      "execution_time_seconds": 14.08,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 437
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1037,
+      "output_tokens": 691,
+      "execution_time_seconds": 17.64,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1003
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 928,
+      "output_tokens": 1034,
+      "execution_time_seconds": 26.05,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 566
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1319,
+      "output_tokens": 864,
+      "execution_time_seconds": 20.86,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2138
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1192,
+      "output_tokens": 973,
+      "execution_time_seconds": 25.34,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1579
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1421,
+      "output_tokens": 695,
+      "execution_time_seconds": 16.4,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2535
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1401,
+      "output_tokens": 851,
+      "execution_time_seconds": 22.42,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2426
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1068,
+      "output_tokens": 790,
+      "execution_time_seconds": 18.84,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1249
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1378,
+      "output_tokens": 792,
+      "execution_time_seconds": 20.94,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2341
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1051,
+      "output_tokens": 804,
+      "execution_time_seconds": 18.86,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1138
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1133,
+      "output_tokens": 683,
+      "execution_time_seconds": 18.15,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1399
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1499,
+      "output_tokens": 950,
+      "execution_time_seconds": 23.11,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 5378
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1577,
+      "output_tokens": 770,
+      "execution_time_seconds": 20.76,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 6226
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1850,
+      "output_tokens": 952,
+      "execution_time_seconds": 20.87,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4222
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1147,
+      "output_tokens": 685,
+      "execution_time_seconds": 13.21,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1433
+    }
+  ]
+}

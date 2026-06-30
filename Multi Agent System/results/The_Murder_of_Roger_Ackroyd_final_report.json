@@ -1,0 +1,2408 @@
+{
+  "timeline": [
+    {
+      "event_id": "E001",
+      "statement_ids": [
+        "S001"
+      ],
+      "time": "Before Aldric's murder",
+      "location": "Bellweather",
+      "subject": "Livia Marr",
+      "action": "died from a sleeping compound overdose",
+      "context": "Her death preceded Aldric's murder and raised suspicion about causes",
+      "witnesses": [
+        "Dr. Silas Wren"
+      ]
+    },
+    {
+      "event_id": "E002",
+      "statement_ids": [
+        "S010"
+      ],
+      "time": "Before her death",
+      "location": "Unspecified (private confession to Aldric)",
+      "subject": "Livia Marr",
+      "action": "admitted to causing her first husband's death",
+      "context": "Basis for subsequent blackmail",
+      "witnesses": [
+        "Livia Marr"
+      ]
+    },
+    {
+      "event_id": "E003",
+      "statement_ids": [
+        "S011"
+      ],
+      "time": "After first husband's death",
+      "location": "Unknown",
+      "subject": "unknown blackmailer",
+      "action": "had been blackmailed after confessing to Aldric",
+      "context": "Extortion motivated by her confession",
+      "witnesses": [
+        "Livia Marr"
+      ]
+    },
+    {
+      "event_id": "E004",
+      "statement_ids": [
+        "S012"
+      ],
+      "time": "Before her death",
+      "location": "Unknown",
+      "subject": "final letter",
+      "action": "wrote a final letter intended to reveal the blackmailer's identity",
+      "context": "Decisive evidence that became unavailable",
+      "witnesses": [
+        "Livia Marr"
+      ]
+    },
+    {
+      "event_id": "E005",
+      "statement_ids": [
+        "S013"
+      ],
+      "time": "Shortly after Livia's death",
+      "location": "Bellweather village",
+      "subject": "Livia Marr",
+      "action": "spread early reports about Livia's death from a sleeping compound",
+      "context": "Initial public information about the death",
+      "witnesses": [
+        "Celia Wren"
+      ]
+    },
+    {
+      "event_id": "E006",
+      "statement_ids": [
+        "S014"
+      ],
+      "time": "After Livia's death",
+      "location": "Bellweather village",
+      "subject": "Livia Marr",
+      "action": "suspected Livia died by suicide because of guilt",
+      "context": "Alternative theory about Livia's death",
+      "witnesses": [
+        "Celia Wren"
+      ]
+    },
+    {
+      "event_id": "E007",
+      "statement_ids": [
+        "S015"
+      ],
+      "time": "During investigation period",
+      "location": "Blue Heron inn",
+      "subject": "Rowan Vale",
+      "action": "learned that Rowan Vale had been staying at the Blue Heron inn",
+      "context": "Whereabouts of the main suspect",
+      "witnesses": [
+        "Celia Wren"
+      ]
+    },
+    {
+      "event_id": "E008",
+      "statement_ids": [
+        "S043"
+      ],
+      "time": "Recently (before the murder)",
+      "location": "Not specified",
+      "subject": "voice-recording cabinet",
+      "action": "Confirmed Aldric Vale purchased a voice-recording cabinet",
+      "context": "Raises the possibility that the voice heard from the study at half past nine was recorded rather than spoken live",
+      "witnesses": [
+        "The voice-cabinet salesman"
+      ]
+    },
+    {
+      "event_id": "E009",
+      "statement_ids": [
+        "S026"
+      ],
+      "time": "Ongoing",
+      "location": "Aldric's household",
+      "subject": "Rowan Vale",
+      "action": "was financially dependent on Aldric",
+      "context": "Potential motive consideration",
+      "witnesses": [
+        "Rowan Vale"
+      ]
+    },
+    {
+      "event_id": "E010",
+      "statement_ids": [
+        "S027"
+      ],
+      "time": "Recently before murder",
+      "location": "Unspecified",
+      "subject": "Rowan Vale",
+      "action": "had quarreled with Aldric",
+      "context": "Established animosity",
+      "witnesses": [
+        "Rowan Vale"
+      ]
+    },
+    {
+      "event_id": "E011",
+      "statement_ids": [
+        "S029"
+      ],
+      "time": "Ongoing secret relationship",
+      "location": "Aldric's estate",
+      "subject": "Elia Moss",
+      "action": "secretly married to Rowan Vale",
+      "context": "Hidden relationship now exposed",
+      "witnesses": [
+        "Elia Moss"
+      ]
+    },
+    {
+      "event_id": "E012",
+      "statement_ids": [
+        "S030"
+      ],
+      "time": "After Aldric learned of marriage",
+      "location": "Aldric's estate",
+      "subject": "Elia Moss",
+      "action": "was dismissed after Aldric learned of her marriage to Rowan",
+      "context": "Termination consequence of discovery",
+      "witnesses": [
+        "Elia Moss"
+      ]
+    },
+    {
+      "event_id": "E013",
+      "statement_ids": [
+        "S032"
+      ],
+      "time": "Ongoing",
+      "location": "Household dynamics",
+      "subject": "Rowan Vale",
+      "action": "feared disinheritance due to the marriage becoming known",
+      "context": "Why Rowan feared Aldric learning the truth",
+      "witnesses": [
+        "Elia Moss"
+      ]
+    },
+    {
+      "event_id": "E014",
+      "statement_ids": [
+        "S017"
+      ],
+      "time": "Evening before murder",
+      "location": "Aldric's estate",
+      "subject": "evening post",
+      "action": "brought in the evening post, including Livia Marr's letter",
+      "context": "Delivered the crucial letter to Aldric",
+      "witnesses": [
+        "Jonas Kett"
+      ]
+    },
+    {
+      "event_id": "E015",
+      "statement_ids": [
+        "S002",
+        "S008"
+      ],
+      "time": "Evening before murder",
+      "location": "Aldric's study",
+      "subject": "Livia Marr",
+      "action": "confessed to causing her first husband's death and being blackmailed",
+      "context": "Livia's confession to Aldric",
+      "witnesses": [
+        "Dr. Silas Wren",
+        "Aldric Vale"
+      ]
+    },
+    {
+      "event_id": "E016",
+      "statement_ids": [
+        "S003",
+        "S009"
+      ],
+      "time": "Evening before murder",
+      "location": "Aldric's study",
+      "subject": "Livia Marr's letter",
+      "action": "received Livia's final letter that may identify the extortionist, began reading it aloud, then chose to finish it alone",
+      "context": "Letter potentially identified the extortionist",
+      "witnesses": [
+        "Dr. Silas Wren",
+        "Aldric Vale"
+      ]
+    },
+    {
+      "event_id": "E017",
+      "statement_ids": [
+        "S004"
+      ],
+      "time": "Ten minutes before 9:00 PM",
+      "location": "Aldric's study",
+      "subject": "Dr. Silas Wren",
+      "action": "departed from Aldric's study",
+      "context": "Departure marked a key point in the timeline",
+      "witnesses": [
+        "Dr. Silas Wren"
+      ]
+    },
+    {
+      "event_id": "E018",
+      "statement_ids": [
+        "S005"
+      ],
+      "time": "~9:00 PM (shortly after departure)",
+      "location": "near estate gates",
+      "subject": "unfamiliar young man",
+      "action": "passed an unfamiliar young man",
+      "context": "Person of interest seen leaving the premises",
+      "witnesses": [
+        "Dr. Silas Wren"
+      ]
+    },
+    {
+      "event_id": "E019",
+      "statement_ids": [
+        "S020",
+        "S021"
+      ],
+      "time": "~9:30 PM",
+      "location": "Study",
+      "subject": "Aldric Vale",
+      "action": "heard Aldric's voice from the study saying he did not wish to be disturbed",
+      "context": "Evidence that could prove Aldric was alive at this time",
+      "witnesses": [
+        "Tobin Rusk"
+      ]
+    },
+    {
+      "event_id": "E020",
+      "statement_ids": [
+        "S006",
+        "S019"
+      ],
+      "time": "Later that night",
+      "location": "Estate",
+      "subject": "telephone call",
+      "action": "received telephone summons that brought him back to the estate",
+      "context": "Summons that interrupted his departure",
+      "witnesses": [
+        "Dr. Silas Wren",
+        "Jonas Kett"
+      ]
+    },
+    {
+      "event_id": "E021",
+      "statement_ids": [
+        "S007"
+      ],
+      "time": "After telephone summons",
+      "location": "Aldric's study",
+      "subject": "Aldric Vale",
+      "action": "found Aldric dead inside the study",
+      "context": "Body discovered upon return",
+      "witnesses": [
+        "Dr. Silas Wren"
+      ]
+    },
+    {
+      "event_id": "E022",
+      "statement_ids": [
+        "S038"
+      ],
+      "time": "Upon discovery of the body",
+      "location": "Aldric Vale's study",
+      "subject": "Murder scene",
+      "action": "Recorded the body, weapon, study door, window, and footprints",
+      "context": "Official crime scene documentation forming the basis of the investigation",
+      "witnesses": [
+        "Inspector Brannick Hale"
+      ]
+    },
+    {
+      "event_id": "E023",
+      "statement_ids": [
+        "S018"
+      ],
+      "time": "After body discovered",
+      "location": "Aldric's study",
+      "subject": "study",
+      "action": "reported a shifted chair and arrangement of objects on the table",
+      "context": "Physical evidence in the crime scene",
+      "witnesses": [
+        "Jonas Kett"
+      ]
+    },
+    {
+      "event_id": "E024",
+      "statement_ids": [
+        "S022",
+        "S023"
+      ],
+      "time": "After dinner",
+      "location": "Estate",
+      "subject": "Aldric Vale",
+      "action": "claimed to have seen Aldric alive after dinner, then retracted claim, admitting she went near the study while stealing money and did not actually see Aldric",
+      "context": "False statement corrected under scrutiny",
+      "witnesses": [
+        "Maren Vale"
+      ]
+    },
+    {
+      "event_id": "E025",
+      "statement_ids": [
+        "S024"
+      ],
+      "time": "When she went to steal money",
+      "location": "Hall display",
+      "subject": "ceremonial glass-bladed knife",
+      "action": "noticed the ceremonial glass-bladed knife was no longer on the hall display",
+      "context": "Timing of weapon removal becomes important",
+      "witnesses": [
+        "Maren Vale"
+      ]
+    },
+    {
+      "event_id": "E026",
+      "statement_ids": [
+        "S025"
+      ],
+      "time": "After the murder",
+      "location": "Unknown (missing)",
+      "subject": "Rowan Vale",
+      "action": "went missing after the murder",
+      "context": "Main apparent suspect fled the scene",
+      "witnesses": [
+        "Rowan Vale"
+      ]
+    },
+    {
+      "event_id": "E027",
+      "statement_ids": [
+        "S039"
+      ],
+      "time": "Throughout investigation",
+      "location": null,
+      "subject": "Rowan Vale",
+      "action": "treated as the likely murderer based on motive, disappearance, quarrel, and shoe evidence",
+      "context": "Primary suspect pursued for much of the inquiry",
+      "witnesses": [
+        "Inspector Brannick Hale"
+      ]
+    },
+    {
+      "event_id": "E028",
+      "statement_ids": [
+        "S040",
+        "S041"
+      ],
+      "time": "During investigation",
+      "location": null,
+      "subject": "Aldric Vale's will",
+      "action": "clarified how Rowan, Maren, Dame Perrin, and others stand financially",
+      "context": "Clarified inheritance structure affecting all major suspects",
+      "witnesses": [
+        "Garrick Holm"
+      ]
+    },
+    {
+      "event_id": "E029",
+      "statement_ids": [
+        "S033"
+      ],
+      "time": "During investigation",
+      "location": "Vale estate",
+      "subject": "Dr. Silas Wren",
+      "action": "asked Dr. Wren about addiction, rare poisons, and paralyzing toxins",
+      "context": "Her line of questioning created initial suspicion around herself",
+      "witnesses": [
+        "Mistress Iona Sable"
+      ]
+    },
+    {
+      "event_id": "E030",
+      "statement_ids": [
+        "S034"
+      ],
+      "time": null,
+      "location": null,
+      "subject": "troubled young man",
+      "action": "has a private concern relating to a troubled young man from her past",
+      "context": "Explains her suspicious questioning and connects to the stranger seen at the gate",
+      "witnesses": [
+        "Mistress Iona Sable"
+      ]
+    },
+    {
+      "event_id": "E031",
+      "statement_ids": [
+        "S035"
+      ],
+      "time": "Shortly after Dr. Wren departed",
+      "location": "Near Vale estate gates",
+      "subject": "rough-looking stranger",
+      "action": "seen loitering near the estate",
+      "context": "Initial appearance suggested him as a suspect for the murder",
+      "witnesses": [
+        "Niall Corven"
+      ]
+    },
+    {
+      "event_id": "E032",
+      "statement_ids": [
+        "S036",
+        "S037"
+      ],
+      "time": "During investigation",
+      "location": "Vale estate area",
+      "subject": "Niall Corven",
+      "action": "admitted to secretly visiting the estate and is connected to Mistress Sable",
+      "context": "His secret visit connects him to the estate and to Mistress Sable",
+      "witnesses": [
+        "Niall Corven"
+      ]
+    },
+    {
+      "event_id": "E033",
+      "statement_ids": [
+        "S044"
+      ],
+      "time": null,
+      "location": null,
+      "subject": "connection between Sable and Corven",
+      "action": "provided information revealing a hidden connection between Sable and Corven",
+      "context": "Supports the theory that Sable's suspicious conduct and Corven's visit may belong to a concealed private matter separate from the murder",
+      "witnesses": [
+        "Madam Fennor"
+      ]
+    },
+    {
+      "event_id": "E034",
+      "statement_ids": [
+        "S042"
+      ],
+      "time": null,
+      "location": "Copper Finch (establishment)",
+      "subject": "Niall Corven",
+      "action": "corroborated Corven's movements, appearance, and poor boots",
+      "context": "Distinguishes Corven from the person whose footprints appeared near Aldric's study window, weakening theories that he made those marks",
+      "witnesses": [
+        "The barmaid at the Copper Finch"
+      ]
+    },
+    {
+      "event_id": "E035",
+      "statement_ids": [
+        "S031"
+      ],
+      "time": "Various occasions",
+      "location": "Various",
+      "subject": "Rowan Vale",
+      "action": "continued private meetings with Rowan after dismissal",
+      "context": "Explains Rowan's movements and the unidentified woman",
+      "witnesses": [
+        "Elia Moss"
+      ]
+    },
+    {
+      "event_id": "E036",
+      "statement_ids": [
+        "S016"
+      ],
+      "time": "During investigation period",
+      "location": "Unspecified",
+      "subject": "Rowan Vale",
+      "action": "saw or heard Rowan involved with an unidentified woman",
+      "context": "Possible connection to Elia Moss",
+      "witnesses": [
+        "Celia Wren"
+      ]
+    },
+    {
+      "event_id": "E037",
+      "statement_ids": [
+        "S028"
+      ],
+      "time": "Night of the murder",
+      "location": "Estate",
+      "subject": "footwear",
+      "action": "claims he wore heavy boots that night rather than shoes matching the incriminating prints",
+      "context": "Contradicts footprint evidence implicating him",
+      "witnesses": [
+        "Rowan Vale"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "contradiction_id": "CONT001",
+      "type": "physical_evidence_conflict",
+      "event_ids": [
+        "E022",
+        "E027",
+        "E037"
+      ],
+      "explanation": "Event E037 has Rowan Vale explicitly denying the incriminating footwear evidence, stating he wore heavy boots that night rather than shoes matching the prints found at the crime scene (documented in E022). Simultaneously, Event E027 shows Inspector Brannick Hale treating Rowan as the 'likely murderer' BASED IN PART on this very shoe evidence. This creates a direct logical impossibility: either Rowan is lying about his footwear choice, or the police are incorrectly relying on evidence that doesn't match him. Additionally, E034 reveals Niall Corven also had poor boots, providing an alternative explanation for the footprints, which further undermines the certainty placed on Rowan's guilt via this evidence.",
+      "severity": 0.88
+    },
+    {
+      "contradiction_id": "CONT002",
+      "type": "action_conflict",
+      "event_ids": [
+        "E005",
+        "E006"
+      ],
+      "explanation": "Event E005 cites Celia Wren spreading early reports that Livia Marr died from a sleeping compound overdose. Event E006, from the SAME WITNESS (Celia Wren), offers an entirely different theory—that Livia died by suicide because of guilt over causing her first husband's death. A compound overdose and suicide are mutually exclusive causes of death. Either Celia changed her story, is unreliable, or these represent conflicting secondhand reports she disseminated. As the sole source for both claims, her testimony cannot simultaneously support two contradictory death mechanisms.",
+      "severity": 0.82
+    },
+    {
+      "contradiction_id": "CONT003",
+      "type": "identity_conflict",
+      "event_ids": [
+        "E018",
+        "E031",
+        "E032"
+      ],
+      "explanation": "Event E018 describes Dr. Silas Wren passing an 'unfamiliar young man' near the estate gates shortly after 9:00 PM. Event E031 describes Niall Corven as a 'rough-looking stranger' seen loitering near the estate shortly after Dr. Wren departed. Event E032 confirms Corven secretly visited the estate and is connected to Mistress Sable. While these could theoretically describe the same person, the descriptors ('young man' vs 'rough-looking stranger') are sufficiently different to raise questions about identification reliability. More critically, if Dr. Wren passed this individual at 9:00 PM and Corven didn't arrive until 'shortly after,' there is insufficient time gap established for Corven to be the same person Wren encountered. One of these identifications may be incorrect.",
+      "severity": 0.65
+    },
+    {
+      "contradiction_id": "CONT004",
+      "type": "causal_conflict",
+      "event_ids": [
+        "E024",
+        "E019"
+      ],
+      "explanation": "Event E024 contains a retracted claim that Aldric Vale was seen alive after dinner, with the retraction admitting the claimant (presumably Maren Vale per context) only went near the study to steal money and did NOT actually see Aldric. However, E019 documents Tobin Rusk hearing Aldric's VOICE at approximately 9:30 PM stating he did not wish to be disturbed. If the retraction is truthful (Maren did not see Aldric), this is consistent with E019's audio evidence. BUT if Maren's ORIGINAL claim was true (she did see Aldric after dinner), then the 9:30 PM voice recording/playback becomes suspicious—it could indicate someone simulating Aldric's presence while he was already incapacitated or dead. The retraction's validity is therefore central to the murder timeline, creating investigative uncertainty about when Aldric actually died.",
+      "severity": 0.72
+    },
+    {
+      "contradiction_id": "CONT005",
+      "type": "action_conflict",
+      "event_ids": [
+        "E011",
+        "E012",
+        "E035"
+      ],
+      "explanation": "Event E012 states Elia Moss was DISMISSED after Aldric learned of her marriage to Rowan Vale. Event E035 states Elia continued PRIVATE MEETINGS with Rowan AFTER her dismissal. These events are presented as sequential consequences, but logically, if Elia was fired and removed from the household upon discovery of the marriage, ongoing private meetings at the estate (implied by 'continued meetings at Aldric's estate') would be logistically difficult without detection. The timeline implies Elia remained on the estate despite having been dismissed, or that these 'meetings' occurred off-premises—which is not specified. This creates ambiguity about Elia's actual access to the estate and opportunity to participate in the murder.",
+      "severity": 0.58
+    }
+  ],
+  "attributes": [
+    {
+      "person": "Livia Marr",
+      "attributes": [
+        {
+          "claim": "Died from a sleeping compound overdose",
+          "source": "S001",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Caused her first husband's death",
+          "source": "S002",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Was being blackmailed after her first husband's death",
+          "source": "S002",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Wrote a final letter intended to expose her blackmailer",
+          "source": "S003",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Confessed directly to Aldric Vale about her first husband's death",
+          "source": "S010",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Wrote a final letter intended to reveal the blackmailer's identity",
+          "source": "S012",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Died under circumstances initially reported as involving a sleeping compound",
+          "source": "S013",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Was suspected by Celia Wren to have died by suicide driven by guilt",
+          "source": "S014",
+          "confidence": 0.3
+        }
+      ]
+    },
+    {
+      "person": "Aldric Vale",
+      "attributes": [
+        {
+          "claim": "Received Livia Marr's confession about causing her first husband's death",
+          "source": "S002",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Was aware that Livia Marr was being blackmailed",
+          "source": "S002",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Possessed Livia Marr's final letter identifying the extortionist",
+          "source": "S003",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Chose to read Livia's final letter privately rather than with Dr. Wren",
+          "source": "S009",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Occupied his study at approximately 9:30 PM on the night of the murder",
+          "source": "S020",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Used dictation equipment regularly",
+          "source": "S021",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Has a will determining inheritance distribution",
+          "source": "S040",
+          "confidence": 1.0
+        },
+        {
+          "claim": "Owns a voice-recording cabinet",
+          "source": "S043",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Dr. Silas Wren",
+      "attributes": [
+        {
+          "claim": "Is a doctor (physician)",
+          "source": "S001",
+          "confidence": 1.0
+        },
+        {
+          "claim": "Was present in Aldric's study earlier on the evening of the murder",
+          "source": "S004",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Possesses knowledge of addiction",
+          "source": "S033",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Possesses knowledge of rare poisons",
+          "source": "S033",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Possesses knowledge of paralyzing toxins",
+          "source": "S033",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Unfamiliar young man",
+      "attributes": [
+        {
+          "claim": "Was observed near the estate gates shortly after 9:00 PM",
+          "source": "S005",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "person": "unknown blackmailer",
+      "attributes": [
+        {
+          "claim": "Blackmailed Livia Marr after her confession to Aldric",
+          "source": "S011",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "person": "Rowan Vale",
+      "attributes": [
+        {
+          "claim": "Had been staying at the Blue Heron inn",
+          "source": "S015",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Was seen or heard by Celia Wren involved with an unidentified woman",
+          "source": "S016",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Financially dependent on Aldric",
+          "source": "S026",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Had private meetings with Elia Moss",
+          "source": "S031",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Feared disinheritance",
+          "source": "S032",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Subject of primary murder investigation",
+          "source": "S039",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Jonas Kett",
+      "attributes": [
+        {
+          "claim": "Held duties involving delivery of postal items to the estate",
+          "source": "S017",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Denied making the telephone call that summoned Dr. Wren back to the estate",
+          "source": "S019",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Maren Vale",
+      "attributes": [
+        {
+          "claim": "Admitted to stealing money from the estate",
+          "source": "S023",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Elia Moss",
+      "attributes": [
+        {
+          "claim": "Secretly married to Rowan Vale",
+          "source": "S029",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Iona Sable",
+      "attributes": [
+        {
+          "claim": "Connected to a troubled young man from her past",
+          "source": "S034",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Connected to Niall Corven",
+          "source": "S037",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Niall Corven",
+      "attributes": [
+        {
+          "claim": "Appears as a rough-looking individual",
+          "source": "S035",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Visited the Vale estate secretly",
+          "source": "S036",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Has a history of drug use",
+          "source": "S037",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Wears poor quality boots",
+          "source": "S042",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Has a hidden connection to Mistress Sable",
+          "source": "S044",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "person": "Inspector Brannick Hale",
+      "attributes": [
+        {
+          "claim": "Serves as the investigating inspector",
+          "source": "S038",
+          "confidence": 1.0
+        },
+        {
+          "claim": "Conducted official crime scene documentation",
+          "source": "S038",
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "person": "Garrick Holm",
+      "attributes": [
+        {
+          "claim": "Knowledgeable about Aldric Vale's will and financial arrangements",
+          "source": "S040",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Rowan",
+      "attributes": [
+        {
+          "claim": "Is a financial beneficiary of Aldric's estate",
+          "source": "S041",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Maren",
+      "attributes": [
+        {
+          "claim": "Is a financial beneficiary of Aldric's estate",
+          "source": "S041",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Dame Perrin",
+      "attributes": [
+        {
+          "claim": "Is a financial beneficiary of Aldric's estate",
+          "source": "S041",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Mistress Sable",
+      "attributes": [
+        {
+          "claim": "Has a hidden connection to Niall Corven",
+          "source": "S044",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "behavior_report": [
+    {
+      "issue_id": "INC001",
+      "person": "Dr. Silas Wren",
+      "behavior_type": "unnatural_access",
+      "explanation": "Dr. Wren occupies a narrator trap position: present when Livia's explosive letter arrives, departs 10 minutes before the murder window opens, spots an 'unfamiliar young man' at the gate (potential scapegoat), receives a mysterious summons call (caller unidentified), returns to discover the body, and then narrates the entire timeline. His access to every pivotal moment allows him to shape the evidentiary narrative while removing himself from suspicion.",
+      "risk_score": 0.85
+    },
+    {
+      "issue_id": "INC002",
+      "person": "Maren Vale",
+      "behavior_type": "retraction",
+      "explanation": "Initially claimed to have seen Aldric alive after dinner, strengthening the timeline that he survived late into the evening. Under scrutiny, she RETRACTED entirely, admitting she was actually near the study while STEALING MONEY and did not see Aldric at all. This is a classic false alibi construction - she attempted to place herself innocently near the crime scene while establishing Aldric's survival, then abandoned the story when confronted with contradictory evidence.",
+      "risk_score": 0.82
+    },
+    {
+      "issue_id": "INC003",
+      "person": "Rowan Vale",
+      "behavior_type": "motive_alignment",
+      "explanation": "Perfect alignment between stated financial dependency on Aldric, recent quarrel, fear of disinheritance upon secret marriage discovery, and subsequent disappearance after the murder. Every behavioral indicator points to a man with overwhelming financial incentive to prevent Aldric from living long enough to change the will or learn of the marriage. His absence after the murder compounds the motive alignment.",
+      "risk_score": 0.78
+    },
+    {
+      "issue_id": "INC004",
+      "person": "Rowan Vale",
+      "behavior_type": "evasion",
+      "explanation": "Claims he wore heavy boots that night rather than shoes matching the incriminating footprints found near the study. This defensive counter-attribution redirects suspicion away from himself and toward whoever wore the shoes that left those prints. The specificity of his denial ('heavy boots') suggests preparation rather than natural recollection.",
+      "risk_score": 0.72
+    },
+    {
+      "issue_id": "INC005",
+      "person": "Mistress Iona Sable",
+      "behavior_type": "innocent_concealment",
+      "explanation": "Questioned Dr. Wren obsessively about addiction, rare poisons, and paralyzing toxins - behavior that initially seemed deeply suspicious. However, her questioning is EXPLAINED by her private concern about a troubled young man from her past, later revealed to be Niall Corven (with drug history). Her concealment relates to family matters and Corven's welfare, not to the murder itself. Risk score low because her secret has innocent explanation.",
+      "risk_score": 0.25
+    },
+    {
+      "issue_id": "INC006",
+      "person": "Niall Corven",
+      "behavior_type": "evasion",
+      "explanation": "Appeared as a 'rough-looking stranger' loitering near the estate gates immediately after Dr. Wren departed. His secret visit to the estate and connection to Mistress Sable remained hidden until Madam Fennor's background information. His initial presentation as a generic 'stranger' allowed investigators to consider him as a random suspect while concealing his true relationship to the household staff.",
+      "risk_score": 0.68
+    },
+    {
+      "issue_id": "INC007",
+      "person": "Jonas Kett",
+      "behavior_type": "evasion",
+      "explanation": "Delivered the evening post including Livia's crucial final letter, reported the shifted chair and object arrangement at the crime scene, yet DENIES making the telephone call that summoned Dr. Wren back to the estate. As estate staff with access to communications, his denial of the summons call is suspicious deflection. Either he knows who called Wren and is protecting them, or he made the call himself and is lying.",
+      "risk_score": 0.75
+    },
+    {
+      "issue_id": "INC008",
+      "person": "Elia Moss",
+      "behavior_type": "motive_alignment",
+      "explanation": "Secretly married to Rowan Vale, dismissed by Aldric upon discovery of the marriage, continued private meetings with Rowan after termination. Her dismissal creates immediate employment grievance, and her ongoing secret meetings demonstrate continued investment in Rowan's wellbeing and financial prospects. While Rowan's inheritance motive dominates, Elia has independent motive to harm Aldric - silencing the man who discovered and punished their marriage.",
+      "risk_score": 0.7
+    },
+    {
+      "issue_id": "INC009",
+      "person": "Celia Wren",
+      "behavior_type": "evasion",
+      "explanation": "Spread early reports about Livia's death from a sleeping compound and hypothesized suicide driven by guilt. By establishing the suicide narrative early, she potentially shaped subsequent investigations to overlook foul play in Livia's death. Her propagation of the guilt-suicide theory conveniently distracted from examining who might have administered that 'sleeping compound' - whether to silence Livia or through manipulation.",
+      "risk_score": 0.65
+    },
+    {
+      "issue_id": "INC010",
+      "person": "Dr. Silas Wren",
+      "behavior_type": "evasion",
+      "explanation": "Reports passing an 'unfamiliar young man' near the gates but provides no identifying details, allowing this figure to become a convenient scapegoat candidate (later identified as Niall Corven). More critically, he never identifies WHO made the telephone summons calling him back to the estate. This omission is convenient - if he knew who called, refusing to say protects the caller; if he doesn't know, his failure to investigate is suspicious.",
+      "risk_score": 0.8
+    },
+    {
+      "issue_id": "INC011",
+      "person": "Aldric Vale",
+      "behavior_type": "consistent",
+      "explanation": "Owned voice-recording equipment (confirmed by voice-cabinet salesman), used dictation regularly, and was heard speaking from the study at 9:30pm stating he wished not to be disturbed. These facts create the OPPORTUNITY for a third party to manipulate the timeline using recordings, but do not indicate deception on Aldric's part - he is the victim, not a witness providing suspect testimony.",
+      "risk_score": 0.0
+    },
+    {
+      "issue_id": "INC012",
+      "person": "Tobin Rusk",
+      "behavior_type": "consistent",
+      "explanation": "Heard Aldric's voice from the study at 9:30pm saying he did not wish to be disturbed, and explained Aldric's regular use of dictation equipment. His testimony is internally consistent and provides useful context about the voice-recording capability without any apparent motive to deceive. No behavioral flags.",
+      "risk_score": 0.0
+    },
+    {
+      "issue_id": "INC013",
+      "person": "Inspector Brannick Hale",
+      "behavior_type": "consistent",
+      "explanation": "Officially documented the crime scene (body, weapon, door, window, footprints, timing evidence, suspects, searches) and treated Rowan Vale as the likely murderer based on motive, disappearance, quarrel, and shoe evidence. Standard investigative procedure with no indication of deception or improper motive.",
+      "risk_score": 0.0
+    },
+    {
+      "issue_id": "INC014",
+      "person": "Garrick Holm",
+      "behavior_type": "consistent",
+      "explanation": "Explained the terms of Aldric's will and clarified how Rowan, Maren, Dame Perrin, and others stood financially. His testimony serves an informational function for the investigation without any apparent self-serving elements or contradictions.",
+      "risk_score": 0.0
+    },
+    {
+      "issue_id": "INC015",
+      "person": "The barmaid at the Copper Finch",
+      "behavior_type": "consistent",
+      "explanation": "Corroborated Niall Corven's movements, appearance, and poor-quality boots. This external corroboration actually helps distance Corven from the incriminating footprints near the study window, supporting the innocent concealment theory for why Corven was lurking near the estate.",
+      "risk_score": 0.15
+    },
+    {
+      "issue_id": "INC016",
+      "person": "Madam Fennor",
+      "behavior_type": "consistent",
+      "explanation": "Provided background information revealing the hidden connection between Mistress Sable and Niall Corven. This testimony supports the innocent concealment theory - explaining Sable's suspicious behavior through family-related concerns unrelated to the murder.",
+      "risk_score": 0.2
+    },
+    {
+      "issue_id": "INC017",
+      "person": "Voice-cabinet salesman",
+      "behavior_type": "consistent",
+      "explanation": "Confirmed Aldric Vale had recently obtained a voice-recording cabinet. This factual confirmation enables the theory that the 9:30pm voice from the study was a recording, not live speech - a legitimate investigative tool without indicating deception.",
+      "risk_score": 0.0
+    },
+    {
+      "issue_id": "INC018",
+      "person": "Livia Marr",
+      "behavior_type": "consistent",
+      "explanation": "Deceased witness whose confessions were reported through other witnesses. Her admission to causing her first husband's death and subsequent blackmail provides the foundational motive for the entire case. No testimony of her own to evaluate for deception - she is evidence source, not witness.",
+      "risk_score": 0.0
+    },
+    {
+      "issue_id": "INC019",
+      "person": "Maren Vale",
+      "behavior_type": "motive_alignment",
+      "explanation": "Admitted to stealing money from the estate when she went near the study. Financial desperation combined with proximity to the crime scene at the relevant time. Additionally, she is a named beneficiary in Aldric's will (per Garrick Holm). Her theft habit plus inheritance potential creates dual financial motive.",
+      "risk_score": 0.73
+    },
+    {
+      "issue_id": "INC020",
+      "person": "Niall Corven",
+      "behavior_type": "innocent_concealment",
+      "explanation": "Rough-looking stranger with drug history, secret visits to the estate, and connection to Mistress Sable. His concealment relates to personal/family matters via Sable, not to participation in the murder. The barmaid's corroboration of his boot condition distances him from the incriminating footprints. His presence at the gate appears related to Sable's 'troubled young man' concern rather than criminal enterprise.",
+      "risk_score": 0.28
+    }
+  ],
+  "credibility_metrics": [
+    {
+      "witness": "Aldric Vale",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Both statements reference the same timeframe (evening before murder), location (Aldric's study), and subject (Livia Marr), presenting a coherent narrative of Livia's confession followed by her identifying letter. No self-contradiction detected.",
+          "score": 0.78
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "A private confession in a study setting on the eve of the murder is temporally and spatially plausible. The corroborated voice-cabinet acquisition (per INC017) does not undermine the claims—it actually provides a potential mechanism for related events. No physical impossibility flagged.",
+          "score": 0.68
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Neither the confession nor the letter constitutes a 'phantom' event. Both involve identifiable individuals (Livia Marr) and tangible artifacts (the letter) that could theoretically be verified. Claims do not rely exclusively on unverifiable anonymous communications or mysterious strangers.",
+          "score": 0.62
+        },
+        {
+          "type": "detail_quality",
+          "description": "Statements provide specific temporal framing ('evening before murder'), precise location (Aldric's study), and sequential action description (reading aloud then finishing alone). Sufficient specificity to anchor the claims meaningfully.",
+          "score": 0.71
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.78,
+        "physical_impossibility": 0.68,
+        "orchestration_marker": 0.62,
+        "detail_quality": 0.71
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.698
+    },
+    {
+      "witness": "Celia Wren",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "S013 claims Livia died from a sleeping compound overdose while S014 claims she died by suicide due to guilt—mutually exclusive causes of death from the same witness. Severity score of 0.82 indicates a critical self-contradiction that fundamentally undermines the coherence of this witness's account.",
+          "score": 0.18
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical impossibilities detected. Both proposed causes of death (compound overdose and suicide) are individually plausible; however, the witness's dual attribution without resolution raises questions about the accuracy of either narrative.",
+          "score": 0.68
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "S016 references an 'unidentified woman' connected to Rowan Vale—a partially phantom element lacking specificity. While not a complete phantom event, the vagueness allows convenient speculation rather than concrete identification.",
+          "score": 0.52
+        },
+        {
+          "type": "detail_quality",
+          "description": "Moderate specificity overall. Locations provided (Bellweather village, Blue Heron inn) and approximate timing noted. However, S016 lacks location specification and fails to identify the woman involved, reducing evidentiary value.",
+          "score": 0.48
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.18,
+        "physical_impossibility": 0.68,
+        "orchestration_marker": 0.52,
+        "detail_quality": 0.48
+      },
+      "credibility_grade": 4,
+      "weighted_score": 0.465
+    },
+    {
+      "witness": "Dr. Silas Wren",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Wren's seven statements form a logically coherent narrative arc: learning of Livia's confession, receiving her incriminating letter, departing before the murder, encountering a stranger, receiving a summons, and discovering the body. No self-retraction or internal contradiction detected within his own account.",
+          "score": 0.78
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "The stated timeline is physically plausible: departure at ~8:50 PM, encounter near gates at ~9:00 PM, telephone summons, return, and discovery of body. However, the contradiction flagged in CONT003 regarding the identity of the person he passed introduces temporal ambiguity—if Wren departed at 8:50 PM and Corven arrived 'shortly after' 9 PM, the window for them being the same person is narrow and poorly defined.",
+          "score": 0.61
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "While Wren's account includes a 'telephone summons' (an unverifiable mechanism) and an 'unfamiliar young man' (unidentified figure), both elements have corroborating context. The summons is a standard plot device without 'phantom' properties, and the stranger sighting is anchored to a real location and time. Neither element alone deflects blame or manufactures an alibi without supporting evidence.",
+          "score": 0.52
+        },
+        {
+          "type": "detail_quality",
+          "description": "Wren provides strong temporal precision in S004 ('ten minutes before nine') and clear spatial anchors ('Aldric's study', 'estate gates'). However, subject descriptions are notably vague: 'unfamiliar young man' lacks distinguishing features, and critical contextual details (content of Livia's confession, specifics of the telephone summons) are absent or relayed secondhand.",
+          "score": 0.64
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.78,
+        "physical_impossibility": 0.61,
+        "orchestration_marker": 0.52,
+        "detail_quality": 0.64
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.638
+    },
+    {
+      "witness": "Elia Moss",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Statement S030 (dismissal) conflicts logically with S031 (continued private meetings at the estate post-dismissal). The contradiction identified in CONT005 reveals ambiguity about whether Elia retained estate access after termination, creating uncertainty about the sequence of events and her actual status.",
+          "score": 0.52
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No absolute physical impossibility exists—the scenario of clandestine re-entry or off-premises meetings remains plausible. However, the unspecified location of 'continued meetings' undermines confidence in the stated timeline integrity.",
+          "score": 0.68
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Claims center on verifiable elements: a documented marriage, a recorded dismissal, and actual person-to-person meetings. No reliance on phantom events, anonymous messages, or convenient strangers. The narrative does not depend on unverifiable deflections.",
+          "score": 0.78
+        },
+        {
+          "type": "detail_quality",
+          "description": "Core facts are present (marriage, dismissal, ongoing contact, motive for secrecy), but critical specifics are absent—no precise dates, no defined meeting locations, no description of how she circumvented her dismissal to maintain contact. Key ambiguities weaken evidentiary weight.",
+          "score": 0.48
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.52,
+        "physical_impossibility": 0.68,
+        "orchestration_marker": 0.78,
+        "detail_quality": 0.48
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.615
+    },
+    {
+      "witness": "Garrick Holm",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Both statements (S040 and S041) convey identical subject matter—explaining Aldric's will and identifying financial beneficiaries. No self-contradiction detected, and no external contradictions were flagged against this witness.",
+          "score": 0.78
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Claims involve explaining documented legal/financial information (a will). There is no physical impossibility, timeline conflict, or challenge from physical evidence. The content is logically coherent with standard estate proceedings.",
+          "score": 0.71
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "No phantom events present. Statements describe straightforward disclosure of verifiable documentary information (will contents). The information serves investigative clarity rather than deflecting attention through unverifiable mechanisms.",
+          "score": 0.82
+        },
+        {
+          "type": "detail_quality",
+          "description": "Statements provide general subject matter but lack specificity—no precise timestamps, locations, or granular descriptions of the explanation process. Mentions multiple beneficiaries (Rowan, Maren, Dame Perrin) adding some breadth, but lacks concrete detail depth.",
+          "score": 0.52
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.78,
+        "physical_impossibility": 0.71,
+        "orchestration_marker": 0.82,
+        "detail_quality": 0.52
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.708
+    },
+    {
+      "witness": "Inspector Brannick Hale",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Inspector Hale's treatment of Rowan Vale as the likely murderer relies partially on contested footwear evidence (E022), yet Rowan Vale explicitly denies wearing those shoes (E037), creating unresolved tension between the accusation and the defendant's rebuttal. Additionally, E034 provides an alternative explanation (Niall Corven's poor boots), further undermining the certainty of the shoe-based inference.",
+          "score": 0.52
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical or temporal impossibility exists in the recorded actions. The investigator's procedures (recording body, weapon, door, window, footprints) follow standard forensic protocol. The evidentiary dispute concerns weight and attribution of physical evidence, not its physical feasibility.",
+          "score": 0.82
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "While the evidence chain includes identifiable elements (specific events E022, E027, E034, E037) and named individuals (Rowan Vale, Niall Corven), there is a notable pattern of continuing to rely on contested evidence against Rowan despite explicit denial and an alternative suspect explanation. This suggests possible investigative tunnel vision rather than active phantom event creation.",
+          "score": 0.61
+        },
+        {
+          "type": "detail_quality",
+          "description": "Statements include specific subject matter (crime scene elements, suspect characteristics), referenced event IDs, and clear contextual framing. However, the reasoning connecting evidence to conclusions lacks acknowledgment of the competing explanations, reducing transparency regarding the full evidentiary picture.",
+          "score": 0.67
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.52,
+        "physical_impossibility": 0.82,
+        "orchestration_marker": 0.61,
+        "detail_quality": 0.67
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.655
+    },
+    {
+      "witness": "Jonas Kett",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Three distinct statements covering separate events (post delivery, crime scene observation, call denial) show no self-conflict across timelines.",
+          "score": 0.71
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical or temporal impossibilities detected. Statements describe plausible servant duties and observational activities within normal estate operations.",
+          "score": 0.68
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Statements reference verifiable, tangible events (actual mail delivery, documented crime scene, a traceable telephone record). No reliance on phantom actors or convenient unknowns.",
+          "score": 0.62
+        },
+        {
+          "type": "detail_quality",
+          "description": "Moderate specificity overall. S017 identifies location and action clearly; S018 uses vague descriptors ('shifted', 'arrangement'); S019 provides minimal detail beyond the denial itself.",
+          "score": 0.57
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.71,
+        "physical_impossibility": 0.68,
+        "orchestration_marker": 0.62,
+        "detail_quality": 0.57
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.645
+    },
+    {
+      "witness": "Livia Marr",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "The three statements form a logical sequential chain: confession to Aldric (S010) → resulting blackmail (S011) → attempt to expose blackmailer via final letter (S012). No self-contradictory elements detected.",
+          "score": 0.74
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical evidence or timeline impossibilities flagged. The described sequence—confession leading to blackmail, followed by a counter-letter—is temporally and physically plausible. Claims involve only verbal acts and written correspondence.",
+          "score": 0.68
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Central reliance on an unidentified blackmailer whose existence cannot be independently verified. The 'phantom' blackmailer operates through untraceable means, and the decisive evidence (the final letter) is conveniently unavailable. Named recipient Aldric provides some anchor, but the extortionist remains wholly unverifiable.",
+          "score": 0.42
+        },
+        {
+          "type": "detail_quality",
+          "description": "Moderate specificity: Aldric is named as recipient of confession; timing relative to deaths is indicated. However, locations are unspecified ('private,' 'unknown'), the blackmailer's identity is absent, and the letter's content/removal circumstances lack granular detail.",
+          "score": 0.55
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.74,
+        "physical_impossibility": 0.68,
+        "orchestration_marker": 0.42,
+        "detail_quality": 0.55
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.597
+    },
+    {
+      "witness": "Madam Fennor",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "No contradictions within the statement itself; aligns with behavioral flag INC006 regarding Corven's concealment strategy.",
+          "score": 0.72
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical or timeline impossibilities present; statement is informational background rather than a contested physical account.",
+          "score": 0.78
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Revealing a 'hidden connection' between Corven and Sable serves to deflect suspicion from random involvement toward a concealed private relationship—a pattern consistent with orchestrated misdirection, though the information itself does not constitute a phantom event.",
+          "score": 0.52
+        },
+        {
+          "type": "detail_quality",
+          "description": "Critical specifics absent: no timestamp, no location, and the action description ('provides background,' 'helping explain') is vague and non-committal. Lacks concrete details that would permit independent verification.",
+          "score": 0.38
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.72,
+        "physical_impossibility": 0.78,
+        "orchestration_marker": 0.52,
+        "detail_quality": 0.38
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.6
+    },
+    {
+      "witness": "Maren Vale",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Statement S022 (claiming to have seen Aldric alive after dinner) was explicitly retracted in S023, admitting she only went near the study to steal money and did not actually see Aldric. This constitutes a direct self-contradiction within her testimony, triggering the hard gate requirement.",
+          "score": 0.12
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical impossibilities identified in her reported actions (entering estate, approaching study area, observing hall display). The timeline concerns center on Aldric's death window, not on her physical movements being impossible.",
+          "score": 0.68
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Her retraction is a self-admission of fabrication rather than a deflection to a phantom entity (anonymous tipster, unidentified stranger, etc.). While the admission may serve strategic purposes, it does not rely on unverifiable phantom events to explain her presence or actions.",
+          "score": 0.55
+        },
+        {
+          "type": "detail_quality",
+          "description": "Moderate specificity provided: locations named (estate, hall display, study proximity), temporal reference (after dinner, during investigation), and concrete observations (missing knife). However, the retracted primary claim reduces overall reliability of her detailed account.",
+          "score": 0.48
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.12,
+        "physical_impossibility": 0.68,
+        "orchestration_marker": 0.55,
+        "detail_quality": 0.48
+      },
+      "credibility_grade": 4,
+      "weighted_score": 0.458
+    },
+    {
+      "witness": "Mistress Iona Sable",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Statements S033 and S034 are mutually reinforcing rather than contradictory. S033 describes her suspicious questioning while S034 provides a contextual motive, creating a coherent narrative arc.",
+          "score": 0.68
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical or timeline impossibilities detected. Asking medical professionals about toxins during an investigation is a plausible investigative approach.",
+          "score": 0.75
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "The 'troubled young man from her past' explanation functions as a convenient reframing device that deflects suspicion. Key elements remain phantom—neither the young man's identity nor the nature of his connection to current events is specified. The reference to a 'stranger at the gate' adds tangibility but lacks verification.",
+          "score": 0.42
+        },
+        {
+          "type": "detail_quality",
+          "description": "Significant specificity gaps: time is null across all statements, location only confirmed for S033. Subject descriptions are vague ('troubled young man') with no identifying particulars. The causal link between her stated concern and the observed behavior is asserted but not substantiated.",
+          "score": 0.38
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.68,
+        "physical_impossibility": 0.75,
+        "orchestration_marker": 0.42,
+        "detail_quality": 0.38
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.557
+    },
+    {
+      "witness": "Niall Corven",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Corven's own statements form a coherent narrative: he admits to being the rough-looking stranger at the gate (S035/S037), confesses to secret visits (S036), and his connection to Mistress Sable is explained by Madam Fennon as innocent family concern. The contradiction (CONT003) involves third-party descriptor discrepancies ('young man' vs 'rough-looking stranger'), not self-contradiction within Corven's account.",
+          "score": 0.68
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical evidence directly contradicts Corven's statements. The timing ambiguity in CONT003 (Wren at 9PM, Corven 'shortly after') creates minor uncertainty but is not definitively impossible—the barmaid's corroboration of his movements and appearance supports his claimed presence near the estate during the relevant timeframe.",
+          "score": 0.62
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Corven does not rely on phantom events or deflection tactics. He openly admits to being at the estate, owning poor-quality boots (corroborated by barmaid), and having a drug history linked to Sable. Rather than orchestrating events, he becomes a convenient scapegoat due to Wren's vague identification of the 'unfamiliar young man.'",
+          "score": 0.78
+        },
+        {
+          "type": "detail_quality",
+          "description": "Statements provide moderate specificity: location (estate gates), general timing (after Wren departed), and action categories (loitering, secret visit). However, key details remain absent—no precise times, no description of his activities during visits, and no account of his interactions with Sable. The barmaid's corroboration adds external validation but limited new detail.",
+          "score": 0.52
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.68,
+        "physical_impossibility": 0.62,
+        "orchestration_marker": 0.78,
+        "detail_quality": 0.52
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.65
+    },
+    {
+      "witness": "Rowan Vale",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Rowan's four statements form a coherent self-portrait: financially dependent on Aldric, recent quarrel establishing animosity, and post-murder disappearance. No self-contradiction exists within his own account regarding the boot claim—it is a single consistent position taken in response to evidence. Internal conflict arises from external evidence contradicting him, not from inconsistent statements.",
+          "score": 0.68
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Rowan's denial of the incriminating footwear evidence creates a direct conflict with physical evidence (E022). However, E034 identifies Niall Corven as an alternative individual with poor boots, providing a plausible alternate explanation for the footprints. This does not prove Rowan's innocence, but it undermines the certainty of the physical evidence against him, leaving the scenario logically possible rather than physically impossible.",
+          "score": 0.42
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "No phantom events detected. Rowan's account involves verifiable elements: financial dependency on Aldric, a recorded quarrel, documented disappearance, and a specific denial tied to physical evidence. There are no unverifiable anonymous messages, mysterious strangers, or convenient phantom events shifting blame away from him.",
+          "score": 0.85
+        },
+        {
+          "type": "detail_quality",
+          "description": "Statements lack specificity across multiple dimensions. Locations are marked as 'unknown/missing,' 'unspecified,' or 'estate.' Temporal references use vague terms ('after the murder,' 'ongoing,' 'recently'). Actions are stated declaratively without supporting detail. Only the footwear claim contains specificity, but it functions as a defensive rebuttal rather than spontaneous detailed recollection.",
+          "score": 0.32
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.68,
+        "physical_impossibility": 0.42,
+        "orchestration_marker": 0.85,
+        "detail_quality": 0.32
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.568
+    },
+    {
+      "witness": "The barmaid at the Copper Finch",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "No contradictions or retractions present; corroborative account aligns with external evidence regarding Corven's appearance and footwear.",
+          "score": 0.74
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Testimony involves routine barmaid duties—observing patrons and their appearances—at a known location during normal operating hours. No timeline conflicts or physical impossibilities identified.",
+          "score": 0.78
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Account is anchored to a real establishment with identifiable staff. Testimony describes firsthand observations of a patron (Corven) rather than relying on phantom events, anonymous tips, or convenient coincidences.",
+          "score": 0.68
+        },
+        {
+          "type": "detail_quality",
+          "description": "Provides corroboration on 'movements, appearance, and poor boots' but lacks specific timestamps, precise locations within the establishment, or detailed descriptions of interactions. Moderate specificity only.",
+          "score": 0.6
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.74,
+        "physical_impossibility": 0.78,
+        "orchestration_marker": 0.68,
+        "detail_quality": 0.6
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.7
+    },
+    {
+      "witness": "The voice-cabinet salesman",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Statement is straightforward and self-consistent. Salesman confirms a single transaction with Aldric Vale purchasing a voice-recording cabinet. No internal conflicts or retraction present.",
+          "score": 0.82
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Voice-recording cabinets were historically plausible devices. Transaction occurred within a feasible timeframe ('recently') before the murder. No timeline contradictions or physical evidence undermines this claim.",
+          "score": 0.76
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "This is not a phantom event. The witness is a named professional with direct first-hand knowledge of the transaction. The sale is verifiable through their business records if questioned further.",
+          "score": 0.87
+        },
+        {
+          "type": "detail_quality",
+          "description": "Subject (Aldric Vale) clearly identified and action (purchase of recording cabinet) explicitly confirmed. However, lacks precise date/time of purchase and location where transaction occurred, reducing specificity.",
+          "score": 0.61
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.82,
+        "physical_impossibility": 0.76,
+        "orchestration_marker": 0.87,
+        "detail_quality": 0.61
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.765
+    },
+    {
+      "witness": "Tobin Rusk",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "S020 and S021 are complementary rather than contradictory. S020 provides the auditory testimony while S021 offers explanatory context about dictation practices that would allow such a recording to exist. No self-conflict detected within Rusk's own statements.",
+          "score": 0.73
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Hearing a voice through a door or wall is physically mundane. Dictation equipment in a study is entirely plausible. No physical impossibility gates triggered. The uncertainty lies in whether the voice was live or recorded, not in its audibility.",
+          "score": 0.71
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Rusk's reported voice is not a phantom event—he personally heard it at a specific time (~9:30 PM). While the authenticity of the voice (live vs. playback) is contested by CONT004, the event itself is anchored to a verifiable witness experience and specific temporal marker, reducing phantom-event risk compared to purely hearsay claims.",
+          "score": 0.62
+        },
+        {
+          "type": "detail_quality",
+          "description": "Strong specificity: approximate time ('half past nine'), location (study area), and verbatim quote ('did not wish to be disturbed'). Additional context about Aldric's regular dictation habits provides logical framework. Details are concrete and temporally anchored.",
+          "score": 0.66
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.73,
+        "physical_impossibility": 0.71,
+        "orchestration_marker": 0.62,
+        "detail_quality": 0.66
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.68
+    }
+  ],
+  "reliability_grades": [
+    {
+      "witness": "Aldric Vale",
+      "grade": "C",
+      "explanation": "Aldric Vale functions primarily as a hearsay conduit for Livia Marr's confession regarding her first husband's death and ongoing blackmail. While he is a direct conversational witness to Livia's statements, he lacks independent knowledge of the underlying events she described. His possession of the voice-recording cabinet is corroborated by external confirmation and does not indicate deception—it actually supports his account of the 9:30pm incident. No contradictions or material evasions were identified. His reliability is moderate: he provides fair observational access to conversations but cannot independently verify the truth of what Livia disclosed to him.",
+      "factors_assessed": [
+        "observation directness: direct conversational witness to Livia's confession; hearsay for the substance of her claims",
+        "material deception: none identified—no contradictions or retractions present",
+        "unnatural access: moderate clustering around key evidentiary nodes (confession, letter, recording device), but explicable by his social position",
+        "bias: potential emotional investment due to close relationship with subject, but no clear deceptive motive",
+        "corroboration: voice-cabinet purchase confirmed externally, supporting his account"
+      ]
+    },
+    {
+      "witness": "Celia Wren",
+      "grade": "D",
+      "explanation": "Celia Wren functions primarily as an information disseminator rather than a direct observer. Her statements reveal secondhand transmission of competing narratives about Livia Marr's cause of death—a fatal compound overdose versus suicide—which represents a severe material contradiction (severity 0.82) going to the core factual question of the investigation. Additionally, her unexplained access to multiple evidentiary nodes—early death reports, alternative causation theories, Rowan's lodging location, and alleged sightings of Rowan's involvement with an unidentified woman—raises concerns about unnatural positioning within the information flow. Without clear evidence of firsthand observation, she serves as a conduit for potentially orchestrated or internally inconsistent accounts. While no active deflection tactics or explicit bias were identified, the combination of hearsay-dominant testimony, material internal contradictions, and suspicious clustering at key evidentiary points substantially undermines her reliability as a primary source.",
+      "factors_assessed": [
+        "observation directness: predominantly hearsay and secondhand report dissemination; no confirmed direct sensory access to core events",
+        "material contradiction: two mutually exclusive death mechanisms (compound overdose vs. suicide) attributed to same witness with high severity (0.82)",
+        "unnatural access: positioned as information hub across multiple independent evidentiary threads (death reports, suspect location, unidentified woman sighting)",
+        "bias: none explicitly identified in current data"
+      ]
+    },
+    {
+      "witness": "Dr. Silas Wren",
+      "grade": "B",
+      "explanation": "Dr. Wren provides predominantly direct observational testimony across multiple key events: receiving Livia's letter, departing the study, encountering an unknown individual near the gates, returning via telephone summons, and discovering Aldric's body. His account of Aldric's verbal confession (S002) constitutes direct conversational evidence with high reliability. The sole substantive concern is the potential misidentification of the unfamiliar young man (S005) relative to other descriptions of Niall Corven (CONT003), which introduces uncertainty regarding his observational accuracy for that specific encounter. No evidence of material deception, deflection tactics, or unnatural access patterns. Minor bias stems from his social connection to the deceased, but this does not substantially undermine his credibility. Overall, a fairly reliable source with isolated identification concerns.",
+      "factors_assessed": [
+        "observation directness: primarily direct personal and conversational observation across six of seven statements",
+        "material deception: none identified",
+        "peripheral concealment: none identified",
+        "unnatural access: not suspected; positioning at key moments explained by legitimate visit and summons",
+        "deflection tactics: none observed",
+        "bias: minor social stake as acquaintance of victim",
+        "identification reliability: moderate concern regarding description mismatch of unknown individual"
+      ]
+    },
+    {
+      "witness": "Elia Moss",
+      "grade": "D",
+      "explanation": "Elia Moss provides direct testimony regarding her own secret marriage to Rowan Vale and subsequent dismissal, demonstrating first-hand knowledge of her personal circumstances. However, a significant internal contradiction undermines her reliability: she states she was dismissed from Aldric's estate upon discovery of the marriage (S030), yet also claims she continued private meetings with Rowan after dismissal (S031). Logistically, if she was formally terminated and removed from the household, ongoing meetings at the same estate would require covert re-entry or undetected surreptitious presence—both implausible without acknowledgment. This ambiguity about her actual post-dismissal access raises questions about either her stated removal from the premises or the location of those alleged meetings. Additionally, as Rowan's spouse with vested interest in his legal outcome, she carries substantial bias. The contradiction severity score of 0.58 indicates material-level inconsistency affecting her credibility regarding estate access and opportunity during the relevant timeframe.",
+      "factors_assessed": [
+        "observation directness: direct personal knowledge of own marriage and dismissal",
+        "material inconsistency: contradictory account of dismissal versus continued estate presence",
+        "access ambiguity: unexplained ability to continue meetings at estate after formal removal",
+        "bias: spousal loyalty to Rowan Vale creates motive to shape narrative"
+      ]
+    },
+    {
+      "witness": "Garrick Holm",
+      "grade": "B",
+      "explanation": "Garrick Holm provides documentary-contextual information about Aldric Vale's will and financial arrangements affecting multiple suspects. His statements are internally consistent (no contradictions), logically coherent, and serve to clarify the motive landscape rather than obscure it. As an explainer of legal/financial documentation, he demonstrates direct analytical access to the will's terms. No behavioral red flags identified—no attempts at deflection, no suspicious clustering at evidentiary nodes, and no material deception detected. Minor uncertainty remains regarding his precise relationship to the estate (solicitor, executor, or other role), which prevents a Grade A rating, but there is no indication of motivated distortion in his explanations.",
+      "factors_assessed": [
+        "observation directness: direct analytical observation of legal documents (will)",
+        "consistency: zero contradictions across two statements",
+        "deflection: none detected; cooperatively clarified suspect motives",
+        "bias: indeterminate—no stated personal stake, but role ambiguity warrants noting",
+        "access pattern: natural institutional access to estate documentation"
+      ]
+    },
+    {
+      "witness": "Inspector Brannick Hale",
+      "grade": "C",
+      "explanation": "Inspector Hale demonstrates high reliability in direct analytical observation during official crime scene documentation (S038), recording physical evidence in his professional capacity. However, his investigative judgment in treating Rowan Vale as the likely murderer (S039) rests on contested physical evidence—the very shoe evidence Rowan explicitly denies matches his footwear—and ignores an alternative explanation (Niall Corven's poor boots per CONT001). This represents a significant logical gap between observed evidence and prosecutorial conclusion, suggesting possible tunnel vision rather than deliberate fabrication. No behavioral indicators of material deception or deflection tactics present; his bias appears institutional (case closure pressure) rather than personal.",
+      "factors_assessed": [
+        "observation directness: direct analytical observation of crime scene documentation (S038)",
+        "investigative judgment: reliance on contested physical evidence without adequate counter-analysis",
+        "bias: moderate institutional pressure to identify perpetrator",
+        "material inconsistency: logical tension between stated evidence basis and contradicted physical evidence"
+      ]
+    },
+    {
+      "witness": "Jonas Kett",
+      "grade": "B",
+      "explanation": "Jonas Kett provides three statements with direct observational basis. Two statements (S017, S018) reflect first-hand physical observations consistent with his role as estate staff—he handled the mail and observed the study after discovery. The third statement (S019) is a denial regarding the telephone call, which introduces minor uncertainty but does not constitute deflection tactics or redirection to phantom subjects. No contradictions or behavioral anomalies were flagged. His access to the estate appears natural and consistent with servant-level duties rather than suspicious clustering at evidentiary nodes. Overall fairly reliable with only mild reservation stemming from the unverified denial.",
+      "factors_assessed": [
+        "observation directness: direct physical observation for mail delivery and study details",
+        "material deception: none detected; denial is straightforward, not evasive",
+        "unnatural access: absent; routine servant access explains presence at key locations",
+        "deflection tactics: none observed",
+        "bias: mild institutional loyalty as estate employee possible but unsubstantiated"
+      ]
+    },
+    {
+      "witness": "Livia Marr",
+      "grade": "C",
+      "explanation": "Livia Marr's statements describe her own incriminating admission regarding her first husband's death, her victimization by blackmail, and her creation of a revealing letter. While she speaks directly to her own actions and experiences (making these firsthand accounts), the statements are entirely self-serving—positioning her simultaneously as perpetrator and victim—which raises bias concerns. Crucially, the decisive evidence (her final letter) is unavailable, and all information flows exclusively through her without independent corroboration. The sole named recipient (Aldric) provides no recorded counter-statement. Combined with the unverified nature of the blackmail and her death prior to formal disclosure, reliability remains significantly compromised despite the directness of her personal knowledge.",
+      "factors_assessed": [
+        "observation directness: direct self-reporting of own actions and experiences",
+        "material deception: no internal contradictions detected, but self-serving narrative unverified",
+        "unnatural access: witness controls all key evidentiary nodes (confession, blackmail victimhood, missing letter)",
+        "bias: high personal stake in presenting dual narrative as perpetrator-victim",
+        "corroboration: absent—critical evidence unavailable, sole recipient testimony undocumented"
+      ]
+    },
+    {
+      "witness": "Madam Fennor",
+      "grade": "D",
+      "explanation": "Madam Fennor functions as an informational intermediary providing background context about the Sable-Corven connection rather than reporting direct observations of specific events. Her statements constitute hearsay-type information—she explains relationships and historical connections rather than testifying to firsthand sensory observations of relevant occurrences. The absence of any described direct involvement in core events, combined with her role as the sole provider of this 'hidden connection' intelligence, raises questions about her natural access to these facts. Without evidence of how she acquired this knowledge or confirmation through independent sources, her reliability as an information channel is significantly limited.",
+      "factors_assessed": [
+        "observation directness: hearsay - providing background contextual information rather than direct observation of events",
+        "access pattern: appears to control flow of critical relational information about Sable and Corven",
+        "material deception: none detected in provided statements",
+        "bias: unknown motivation for possessing or sharing this information",
+        "corroboration: absent - no independent verification of her claims"
+      ]
+    },
+    {
+      "witness": "Maren Vale",
+      "grade": "D",
+      "explanation": "Maren Vale demonstrates significant unreliability due to material deception. She initially falsely claimed direct visual observation of Aldric alive after dinner—a claim central to establishing the murder timeline—then retracted it under scrutiny, admitting she merely went near the study while stealing money and did not actually see him. This pattern of fabricating direct observations about pivotal timeline elements, combined with admitted criminal conduct (theft) creating clear motive to deflect suspicion, severely undermines confidence in any of her accounts. While her retraction coincidentally aligns with independent audio evidence (E019), this alignment may itself be strategic minimization rather than truthfulness. Her positioning at multiple key evidentiary nodes—claiming to observe both the victim's survival and the missing weapon—further suggests narrative construction rather than reliable observation.",
+      "factors_assessed": [
+        "observation directness: initial claim of direct visual observation of Aldric, later retracted as false",
+        "material deception: fabricated statement about seeing victim alive after dinner, central to murder timeline",
+        "motive to deceive: admitted to theft, creating incentive to manipulate timeline and deflect suspicion",
+        "unnatural access: positioned at multiple critical evidentiary nodes (victim sighting, weapon absence)",
+        "retraction credibility: partial admission under scrutiny may represent strategic minimization rather than full truth"
+      ]
+    },
+    {
+      "witness": "Mistress Iona Sable",
+      "grade": "C",
+      "explanation": "Limited statements available. Mistress Sable exhibits indirect observational status—she is being investigated rather than serving as a primary observer of the core event. Her questions regarding addiction, rare poisons, and paralyzing toxins created investigative suspicion around herself, suggesting either genuine prior knowledge of relevant matters or possible deflection. However, she subsequently offered explanatory context linking her inquiries to a 'troubled young man' from her past, which provides a plausible non-deceptive rationale. No contradictions or behavioral anomalies were recorded. The moderate personal stake in this troubled individual introduces emotional bias, but her voluntary disclosure of this connection suggests transparency rather than concealment. Overall fairly reliable given the explanatory cooperation, though constrained by indirect ways of knowing.",
+      "factors_assessed": [
+        "observation directness: indirect; subject of investigation rather than direct witness to core event",
+        "material deception: none detected; voluntary explanation of suspicious questioning",
+        "peripheral concern: personal connection to troubled young man creates emotional stake",
+        "bias: moderate emotional involvement with referenced individual from her past",
+        "information gap: insufficient behavioral data and contradiction analysis for higher confidence"
+      ]
+    },
+    {
+      "witness": "Niall Corven",
+      "grade": "B",
+      "explanation": "Niall Corven provides direct first-person accounts of his secret estate visit (S036), which constitutes direct conversational knowledge of his own movements. His concealment relates to personal/family matters connected to Mistress Sable—a peripheral issue unrelated to the murder itself—rather than material deception about involvement in the crime. External corroboration from the barmaid (INC015) and Madam Fennor (INC016) supports his stated appearances and explains the context of his presence. The contradiction regarding timing (whether he could be the 'young man' Dr. Wren encountered) raises identification questions, but this reflects ambiguity in third-party descriptions rather than confirmed inconsistency in Corven's own account. Minor reservation stems from his self-interested position as subject of investigation, but no deflection tactics or phantom-subject redirection are evident.",
+      "factors_assessed": [
+        "observation directness: direct conversational account of his own movements via admission",
+        "material deception: none detected; concealment pertains to personal/family matters only",
+        "peripheral concealment: yes - secret visit explained by connection to Mistress Sable",
+        "unnatural access: absent - does not control evidentiary flow",
+        "deflection tactics: none observed",
+        "bias: moderate personal stake as subject of investigation seeking to minimize culpability",
+        "external corroboration: positive - barmaid and Madam Fennor provide supportive context",
+        "contradiction severity: moderate - timing ambiguity but not confirmed fabrication"
+      ]
+    },
+    {
+      "witness": "Rowan Vale",
+      "grade": "D",
+      "explanation": "Rowan Vale presents as a primary suspect whose statements serve predominantly self-exculpatory purposes. Key reliability concerns include: (1) Material contradiction between his claimed footwear (heavy boots) and incriminating shoe prints at the crime scene; (2) Clear motive arising from financial dependency on the victim and recent quarrel; (3) Unexplained disappearance immediately following the murder, creating an unnatural evidentiary position; (4) Active deflection through unverifiable counter-claims against physical evidence. While not definitively established as a fabricator, his testimony lacks external corroboration and consistently conflicts with forensic findings, placing him below standard reliability thresholds.",
+      "factors_assessed": [
+        "observation directness: self-serving statements about own conduct during relevant period",
+        "material deception: contradicted physical footwear evidence central to investigation",
+        "unnatural access: disappeared post-murder, positioned at all key evidentiary gaps",
+        "deflection tactics: offered alternative footwear account without supporting evidence",
+        "bias: strong financial and relational motive to deflect suspicion"
+      ]
+    },
+    {
+      "witness": "The barmaid at the Copper Finch",
+      "grade": "B",
+      "explanation": "The barmaid provides direct observational testimony about Niall Corven's appearance and movements within her establishment. Her role as a barmaid gives her natural, routine access to observe patrons' clothing and presence. The corroborative nature of her account—distinguishing Corven from footprint evidence through direct observation of his poor boots—is consistent with legitimate eyewitness knowledge. No contradictions, deceptive behavior, or unnatural access patterns are evident. Minor reservation stems from limited scope of the single statement; otherwise, she presents as a straightforward observational source.",
+      "factors_assessed": [
+        "observation directness: direct physical observation of patrons including appearance and footwear",
+        "bias: minimal - professional awareness of regular customers poses no conflict",
+        "material deception: none detected",
+        "unnatural access: absent - routine occupational access to establishment patrons"
+      ]
+    },
+    {
+      "witness": "The voice-cabinet salesman",
+      "grade": "B",
+      "explanation": "The salesman provides direct transactional testimony regarding Aldric Vale's purchase of a voice-recording cabinet. As an active participant in the sale, the witness has firsthand knowledge of the transaction. No contradictions or deceptive behavior patterns are present. The witness has no apparent motive to fabricate this information, as confirming a retail sale serves no obvious ulterior interest. The testimony is narrow in scope but reliable within its bounds—it corroborates a potentially significant evidentiary detail without raising suspicion of orchestration or access manipulation.",
+      "factors_assessed": [
+        "observation directness: direct conversational/transactional knowledge of the sale",
+        "material deception: none detected",
+        "unnatural access: not applicable; witness did not orchestrate evidence flow",
+        "deflection tactics: none observed",
+        "bias: minimal; standard commercial transaction with no conflicting interests"
+      ]
+    },
+    {
+      "witness": "Tobin Rusk",
+      "grade": "B",
+      "explanation": "Tobin Rusk provides direct auditory observation of Aldric's voice at approximately 9:30 PM, indicating Aldric was alive at that time. This constitutes primary sensory evidence. His supplementary statement regarding dictation equipment reflects general knowledge of the deceased's habits. No internal contradictions exist within his own statements. No signs of material deception, deflection tactics, or unnatural access patterns were detected. The referenced causal conflict (CONT004) involves another witness's credibility regarding visual sighting versus Rusk's audio observation—these are complementary rather than contradictory accounts. Rusk appears to be a natural witness with incidental proximity to the study area, offering straightforward observational testimony without apparent motive to fabricate.",
+      "factors_assessed": [
+        "observation directness: direct auditory observation of Aldric's voice at 9:30 PM",
+        "internal consistency: no contradictions within own statements",
+        "motive to deceive: none identified; statements appear factual",
+        "unnatural access: absent; witness has natural proximity to location",
+        "deflection tactics: none observed"
+      ]
+    }
+  ],
+  "debug_trace": [
+    {
+      "witness": "The voice-cabinet salesman",
+      "stats": {
+        "statement_count": 1,
+        "statement_ids": [
+          "S043"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Celia Wren",
+      "stats": {
+        "statement_count": 4,
+        "statement_ids": [
+          "S013",
+          "S014",
+          "S015",
+          "S016"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Aldric Vale",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S008",
+          "S009"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "The barmaid at the Copper Finch",
+      "stats": {
+        "statement_count": 1,
+        "statement_ids": [
+          "S042"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Tobin Rusk",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S020",
+          "S021"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Jonas Kett",
+      "stats": {
+        "statement_count": 3,
+        "statement_ids": [
+          "S017",
+          "S018",
+          "S019"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Rowan Vale",
+      "stats": {
+        "statement_count": 4,
+        "statement_ids": [
+          "S025",
+          "S026",
+          "S027",
+          "S028"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 2
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Niall Corven",
+      "stats": {
+        "statement_count": 3,
+        "statement_ids": [
+          "S035",
+          "S036",
+          "S037"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 2
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Dr. Silas Wren",
+      "stats": {
+        "statement_count": 7,
+        "statement_ids": [
+          "S001",
+          "S002",
+          "S003",
+          "S004",
+          "S005",
+          "S006",
+          "S007"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 2
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Inspector Brannick Hale",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S038",
+          "S039"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Garrick Holm",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S040",
+          "S041"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Livia Marr",
+      "stats": {
+        "statement_count": 3,
+        "statement_ids": [
+          "S010",
+          "S011",
+          "S012"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Elia Moss",
+      "stats": {
+        "statement_count": 4,
+        "statement_ids": [
+          "S029",
+          "S030",
+          "S031",
+          "S032"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Mistress Iona Sable",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S033",
+          "S034"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Madam Fennor",
+      "stats": {
+        "statement_count": 1,
+        "statement_ids": [
+          "S044"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Maren Vale",
+      "stats": {
+        "statement_count": 3,
+        "statement_ids": [
+          "S022",
+          "S023",
+          "S024"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 2
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    }
+  ],
+  "telemetry_log": [
+    {
+      "agent_name": "StatementExtractionAgent",
+      "input_tokens": 2537,
+      "output_tokens": 5234,
+      "execution_time_seconds": 81.8,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 14874
+    },
+    {
+      "agent_name": "StatementExtractionAgent",
+      "input_tokens": 2250,
+      "output_tokens": 2793,
+      "execution_time_seconds": 44.08,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 12110
+    },
+    {
+      "agent_name": "StatementExtractionAgent",
+      "input_tokens": 1767,
+      "output_tokens": 1423,
+      "execution_time_seconds": 18.41,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 7890
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 1570,
+      "output_tokens": 1247,
+      "execution_time_seconds": 17.1,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3789
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 1519,
+      "output_tokens": 989,
+      "execution_time_seconds": 13.4,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3582
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 1468,
+      "output_tokens": 1175,
+      "execution_time_seconds": 16.0,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3378
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 1575,
+      "output_tokens": 1325,
+      "execution_time_seconds": 18.15,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4003
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 983,
+      "output_tokens": 1007,
+      "execution_time_seconds": 16.25,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1928
+    },
+    {
+      "agent_name": "TimelineAgent",
+      "input_tokens": 4925,
+      "output_tokens": 8953,
+      "execution_time_seconds": 140.9,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 16516
+    },
+    {
+      "agent_name": "BehavioralConsistencyAgent",
+      "input_tokens": 7219,
+      "output_tokens": 3928,
+      "execution_time_seconds": 54.38,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 21920
+    },
+    {
+      "agent_name": "TimelineContradictionAgent",
+      "input_tokens": 4394,
+      "output_tokens": 4107,
+      "execution_time_seconds": 56.84,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 11640
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 960,
+      "output_tokens": 1249,
+      "execution_time_seconds": 18.71,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1303
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1193,
+      "output_tokens": 831,
+      "execution_time_seconds": 21.7,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4360
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1607,
+      "output_tokens": 1131,
+      "execution_time_seconds": 29.52,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3633
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1208,
+      "output_tokens": 854,
+      "execution_time_seconds": 19.65,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4432
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 962,
+      "output_tokens": 878,
+      "execution_time_seconds": 16.18,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1368
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1073,
+      "output_tokens": 1268,
+      "execution_time_seconds": 27.56,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1887
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 951,
+      "output_tokens": 813,
+      "execution_time_seconds": 16.75,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1214
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 921,
+      "output_tokens": 873,
+      "execution_time_seconds": 20.27,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1126
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 891,
+      "output_tokens": 785,
+      "execution_time_seconds": 17.86,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1146
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1191,
+      "output_tokens": 1083,
+      "execution_time_seconds": 23.9,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4524
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 865,
+      "output_tokens": 887,
+      "execution_time_seconds": 22.06,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 971
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1656,
+      "output_tokens": 1245,
+      "execution_time_seconds": 27.55,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4172
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1431,
+      "output_tokens": 1435,
+      "execution_time_seconds": 32.8,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3207
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 771,
+      "output_tokens": 782,
+      "execution_time_seconds": 14.66,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 637
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 759,
+      "output_tokens": 780,
+      "execution_time_seconds": 18.68,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 595
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1089,
+      "output_tokens": 1367,
+      "execution_time_seconds": 29.49,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3628
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1131,
+      "output_tokens": 859,
+      "execution_time_seconds": 11.3,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1303
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1364,
+      "output_tokens": 932,
+      "execution_time_seconds": 21.59,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4360
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1778,
+      "output_tokens": 829,
+      "execution_time_seconds": 21.78,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3633
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1379,
+      "output_tokens": 755,
+      "execution_time_seconds": 19.7,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4432
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1133,
+      "output_tokens": 761,
+      "execution_time_seconds": 16.68,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1368
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1244,
+      "output_tokens": 770,
+      "execution_time_seconds": 14.1,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1887
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1122,
+      "output_tokens": 832,
+      "execution_time_seconds": 16.9,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1214
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1092,
+      "output_tokens": 980,
+      "execution_time_seconds": 20.78,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1126
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1062,
+      "output_tokens": 769,
+      "execution_time_seconds": 18.79,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1146
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1362,
+      "output_tokens": 908,
+      "execution_time_seconds": 19.47,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4524
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1036,
+      "output_tokens": 799,
+      "execution_time_seconds": 19.96,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 971
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1827,
+      "output_tokens": 1003,
+      "execution_time_seconds": 21.97,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4172
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1602,
+      "output_tokens": 939,
+      "execution_time_seconds": 20.28,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3207
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 942,
+      "output_tokens": 634,
+      "execution_time_seconds": 15.45,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 637
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 930,
+      "output_tokens": 687,
+      "execution_time_seconds": 14.7,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 595
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1260,
+      "output_tokens": 778,
+      "execution_time_seconds": 19.01,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3628
+    }
+  ]
+}

@@ -20,7 +20,9 @@
       "name": "Jacques-Louis Moustier, called Daddy Jacques",
       "statement": "Servant in the pavilion. He says Mathilde entered the Yellow Room at midnight, locked and bolted the door, and soon afterward cried for help while he and Professor Stangerson were in the laboratory. He reports the broken door, the locked window and blinds, the overturned furniture, blood, footprints, handkerchief, cap, and his stolen revolver. Later he conceals that he helped Madame Mathieu leave the grounds after the keeper’s murder.",
       "source_reliability": "C",
-      "information_credibility": "2"
+      "information_credibility": "2",
+      "is_adversary": true,
+      "adversary_role": "obstructive"
     },
     {
       "id": "w04",
@@ -34,21 +36,27 @@
       "name": "Mademoiselle Mathilde Stangerson",
       "statement": "Victim. She admits fearing someone, borrowing Daddy Jacques’s revolver, seeing suspicious shadows, and being attacked by a man. However, she falsely or misleadingly places the attack at midnight and conceals the earlier attack, the identity and motive of Jean Roussel/Ballmeyer, and her secret marriage, in order to protect her father and Darzac.",
       "source_reliability": "D",
-      "information_credibility": "5"
+      "information_credibility": "5",
+      "is_adversary": true,
+      "adversary_role": "obstructive"
     },
     {
       "id": "w06",
       "name": "Monsieur Robert Darzac",
       "statement": "Mathilde’s fiancé. He knows Mathilde’s secret and receives or understands the significance of the phrase about the presbytery and garden. He helps Rouletabille gain access to the Glandier but refuses to explain his absences or reveal Mathilde’s secret even when accused. His silence protects Mathilde but makes him appear guilty.",
       "source_reliability": "C",
-      "information_credibility": "5"
+      "information_credibility": "5",
+      "is_adversary": true,
+      "adversary_role": "obstructive"
     },
     {
       "id": "w07",
       "name": "Frédéric Larsan, actually Ballmeyer, also known as Jean Roussel",
       "statement": "Culprit posing as a celebrated detective. He supplies investigative theories, finds or manipulates evidence, argues against accomplices when useful, frames Darzac, and offers a false solution implicating Darzac. His actions also provide evidence: his cane, eyeglasses, planted traces, false sleep, drugging of Rouletabille, prepared escape spike, flight from court, and hidden identity reveal him as the assailant, blackmailer, and killer.",
       "source_reliability": "E",
-      "information_credibility": "5"
+      "information_credibility": "5",
+      "is_adversary": true,
+      "adversary_role": "primary_suspect"
     },
     {
       "id": "w08",
@@ -90,14 +98,18 @@
       "name": "Daddy Mathieu",
       "statement": "Landlord of the Donjon Inn and husband of Madame Mathieu. He gives local information about the keeper, reveals hostility toward him, confirms the Berniers’ poaching indirectly through the inn’s rabbit supply, and at first accuses the keeper of being the murderer. His jealousy and threats later make him a false suspect in the keeper’s death.",
       "source_reliability": "D",
-      "information_credibility": "4"
+      "information_credibility": "4",
+      "is_adversary": true,
+      "adversary_role": "hostile"
     },
     {
       "id": "w14",
       "name": "Madame Mathieu",
       "statement": "Landlady of the Donjon Inn. She eventually confesses that she was the keeper’s mistress, that she came secretly to the château disguised in a black shawl, used cat-like cries as a signal, saw the fleeing shadow after the keeper’s murder, saw the keeper’s body, and was helped away by Daddy Jacques. Her concealed affair first obscures the case but later explains the phantom and some footprints.",
       "source_reliability": "C",
-      "information_credibility": "2"
+      "information_credibility": "2",
+      "is_adversary": true,
+      "adversary_role": "obstructive"
     },
     {
       "id": "w15",

@@ -1,65 +1,20 @@
 [
   {
+    "person": "Aric Vey",
+    "attributes": [
+      {
+        "claim": "Works as a cipher specialist",
+        "source": "S001",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
     "person": "Lucan Marris",
     "attributes": [
       {
-        "claim": "Is Vey's confidential cipher aide",
+        "claim": "Works as a cipher specialist",
         "source": "S001",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Confidential cipher aide to Aric Vey",
-        "source": "S068",
-        "confidence": 0.8
-      }
-    ]
-  },
-  {
-    "person": "Vey",
-    "attributes": [
-      {
-        "claim": "Maintains a maproom used for cipher work",
-        "source": "S001",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Has a sleep chamber connected to the maproom by an inner door",
-        "source": "S003",
-        "confidence": 0.8
-      },
-      {
-        "claim": "owns a spring caster kept in the household",
-        "source": "S022",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Has a sleep chamber containing stored weapons",
-        "source": "S031",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Owns the spring caster used as murder weapon",
-        "source": "S032",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Has a locked drawer beside the bed in sleep chamber",
-        "source": "S032",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Has longstanding hostility toward Rowan's people",
-        "source": "S051",
-        "confidence": 0.5
-      }
-    ]
-  },
-  {
-    "person": "Orra Kest",
-    "attributes": [
-      {
-        "claim": "Serves as an official investigator",
-        "source": "S006",
         "confidence": 0.8
       }
     ]
@@ -68,14 +23,9 @@
     "person": "Pira",
     "attributes": [
       {
-        "claim": "Possesses a glow-wick",
-        "source": "S007",
+        "claim": "Owned a glow-wick",
+        "source": "S005",
         "confidence": 0.8
-      },
-      {
-        "claim": "Attributed confession under dispute",
-        "source": "S010",
-        "confidence": 0.5
       }
     ]
   },
@@ -84,32 +34,22 @@
     "attributes": [
       {
         "claim": "Owns a soot-marked scarf",
-        "source": "S008",
+        "source": "S006",
         "confidence": 0.8
       },
       {
-        "claim": "Has authority over the body upon discovery",
-        "source": "S017",
-        "confidence": 0.6
-      },
-      {
-        "claim": "Was associated with the spring caster",
-        "source": "S035",
+        "claim": "Is associated with the spring caster used in the killing",
+        "source": "S025",
         "confidence": 0.5
       },
       {
-        "claim": "Possesses a ward-key and torn fragments she refused to explain",
-        "source": "S036",
+        "claim": "Possesses a ward-key and torn document fragments she refused to explain",
+        "source": "S026",
         "confidence": 0.8
       },
       {
         "claim": "Admitted to destroying or concealing evidence",
-        "source": "S037",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Is under surveillance by watch agents",
-        "source": "S040",
+        "source": "S027",
         "confidence": 0.8
       }
     ]
@@ -118,89 +58,49 @@
     "person": "Rowan Cale",
     "attributes": [
       {
-        "claim": "Connected to the Northmere trail",
-        "source": "S009",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Used both a false name and his own name when visiting the citadel",
-        "source": "S018",
-        "confidence": 0.7
-      },
-      {
-        "claim": "Is secretly oath-bound to Selene Orrel",
-        "source": "S033",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Approached the citadel using a borrowed name",
-        "source": "S038",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Described the secret-binding problem evasively to Niko",
-        "source": "S039",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Originated from Vel Orun",
-        "source": "S048",
-        "confidence": 0.7
-      },
-      {
-        "claim": "Had documented travel and correspondence",
-        "source": "S049",
-        "confidence": 0.6
-      },
-      {
-        "claim": "Made preparations for a woman",
-        "source": "S049",
+        "claim": "Associated with the Northmere trail",
+        "source": "S007",
         "confidence": 0.5
       },
       {
-        "claim": "Connected to Liora Fen",
-        "source": "S049",
-        "confidence": 0.6
-      },
-      {
-        "claim": "Entered into a secret binding ceremony with Selene Orrel",
-        "source": "S072",
-        "confidence": 0.8
-      }
-    ]
-  },
-  {
-    "person": "Aric Vey",
-    "attributes": [
-      {
-        "claim": "Is the deceased victim of the shooting",
-        "source": "S013",
+        "claim": "Used a borrowed name to conceal his identity",
+        "source": "S028",
         "confidence": 0.8
       },
       {
-        "claim": "Was positioned at the maproom desk at time of death",
-        "source": "S013",
+        "claim": "Is bound to Selene Orrel by a secret oath-binding",
+        "source": "S023",
         "confidence": 0.8
       },
       {
-        "claim": "Has documented settlement documents",
-        "source": "S050",
-        "confidence": 0.7
+        "claim": "Is evasive about matters concerning himself",
+        "source": "S029",
+        "confidence": 0.5
       },
       {
-        "claim": "Prefers Selene",
-        "source": "S050",
-        "confidence": 0.6
+        "claim": "Has a past in Vel Orun",
+        "source": "S035",
+        "confidence": 0.5
       },
       {
-        "claim": "Owned a six-cell spring caster normally kept in a locked drawer beside his bed",
-        "source": "S070",
-        "confidence": 0.8
+        "claim": "Maintained correspondence from Vel Orun",
+        "source": "S035",
+        "confidence": 0.5
       },
       {
-        "claim": "Has a legal steward handling his affairs",
-        "source": "S071",
-        "confidence": 0.8
+        "claim": "Was making preparations for a woman",
+        "source": "S035",
+        "confidence": 0.5
+      },
+      {
+        "claim": "Has a connection to Liora Fen",
+        "source": "S036",
+        "confidence": 0.5
+      },
+      {
+        "claim": "Returned across the sea",
+        "source": "S036",
+        "confidence": 0.5
       }
     ]
   },
@@ -208,23 +108,8 @@
     "person": "Sera Voss",
     "attributes": [
       {
-        "claim": "Is the examining physician",
-        "source": "S011",
-        "confidence": 0.8
-      }
-    ]
-  },
-  {
-    "person": "Bram Toller",
-    "attributes": [
-      {
-        "claim": "Is the housewarden responsible for citadel security",
-        "source": "S014",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Discovered Aric Vey's body in the maproom",
-        "source": "S016",
+        "claim": "Is a forensic examiner",
+        "source": "S009",
         "confidence": 0.8
       }
     ]
@@ -233,61 +118,83 @@
     "person": "Pira Senn",
     "attributes": [
       {
-        "claim": "Is a household attendant",
-        "source": "S019",
-        "confidence": 0.7
-      },
-      {
-        "claim": "Has a recurring jaw condition requiring nighttime treatment",
-        "source": "S020",
-        "confidence": 0.7
-      },
-      {
-        "claim": "was described as troubled and withdrawn by household staff",
-        "source": "S023",
-        "confidence": 0.5
-      },
-      {
-        "claim": "Was alive shortly before her death",
-        "source": "S045",
+        "claim": "Has a jawache",
+        "source": "S016",
         "confidence": 0.8
       },
       {
-        "claim": "Claims to have been sent away and warned not to speak",
-        "source": "S059",
+        "claim": "Was sent away and warned not to disclose what happened",
+        "source": "S043",
         "confidence": 0.5
       },
       {
-        "claim": "Had a jaw condition requiring pain treatment",
-        "source": "S060",
-        "confidence": 0.5
+        "claim": "Vanished after going below during the night",
+        "source": "S042",
+        "confidence": 0.6
+      },
+      {
+        "claim": "Was taken in by Liora Fen after the murder",
+        "source": "S042",
+        "confidence": 0.7
       }
     ]
   },
   {
-    "person": "Jessa Kade",
+    "person": "Bram Toller",
     "attributes": [
       {
-        "claim": "Is household kitchen staff",
-        "source": "S019",
-        "confidence": 0.6
+        "claim": "Is the citadel keeper",
+        "source": "S012",
+        "confidence": 0.8
       }
     ]
-  },
-  {
-    "person": "Mira Pell",
-    "attributes": []
   },
   {
     "person": "Noa Brill",
-    "attributes": []
+    "attributes": [
+      {
+        "claim": "Is a weapons examiner at Cinderglass Armory",
+        "source": "S021",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "person": "Vey",
+    "attributes": [
+      {
+        "claim": "Owns a spring caster weapon",
+        "source": "S022",
+        "confidence": 0.8
+      },
+      {
+        "claim": "Normally kept his spring caster secured in a locked drawer beside his bed",
+        "source": "S022",
+        "confidence": 0.8
+      },
+      {
+        "claim": "Has a legal steward",
+        "source": "S037",
+        "confidence": 0.5
+      },
+      {
+        "claim": "Intended to alter his settlement",
+        "source": "S037",
+        "confidence": 0.5
+      },
+      {
+        "claim": "Expressed hostility toward Rowan's people",
+        "source": "S038",
+        "confidence": 0.5
+      }
+    ]
   },
   {
     "person": "Ilyan Mora",
     "attributes": [
       {
-        "claim": "Is an investigator conducting searches",
-        "source": "S031",
+        "claim": "Is an evidence recovery operative",
+        "source": "S022",
         "confidence": 0.8
       }
     ]
@@ -296,23 +203,23 @@
     "person": "Selene Orrel",
     "attributes": [
       {
-        "claim": "Is Vey's favored foster heir",
-        "source": "S033",
+        "claim": "Entered into a secret oath-binding with Rowan Cale",
+        "source": "S023",
         "confidence": 0.8
       },
       {
-        "claim": "Is secretly oath-bound to Rowan Cale",
-        "source": "S033",
+        "claim": "Has an inheritance that would be endangered if Vey learned of the binding",
+        "source": "S023",
+        "confidence": 0.5
+      },
+      {
+        "claim": "Attempted to conceal the binding and related communications",
+        "source": "S023",
         "confidence": 0.8
       },
       {
-        "claim": "Attempted to remove proof of the binding through Liora Fen",
-        "source": "S034",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Entered into a secret binding ceremony with Rowan Cale",
-        "source": "S072",
+        "claim": "Sought to remove proof of the binding through Liora Fen",
+        "source": "S024",
         "confidence": 0.8
       }
     ]
@@ -321,43 +228,28 @@
     "person": "Liora Fen",
     "attributes": [
       {
-        "claim": "Resides in Northmere at Via Liora Fen",
-        "source": "S034",
+        "claim": "Was contacted by Selene Orrel to remove binding evidence",
+        "source": "S024",
         "confidence": 0.8
       },
       {
-        "claim": "Was contacted to remove binding proof",
-        "source": "S034",
+        "claim": "Is a respectable widow",
+        "source": "S039",
+        "confidence": 0.5
+      },
+      {
+        "claim": "Maintains a household",
+        "source": "S039",
+        "confidence": 0.5
+      },
+      {
+        "claim": "Is Selene's confidante",
+        "source": "S041",
         "confidence": 0.8
       },
       {
-        "claim": "Connected to Rowan Cale",
-        "source": "S049",
-        "confidence": 0.6
-      },
-      {
-        "claim": "Received message from Selene",
-        "source": "S047",
-        "confidence": 0.7
-      },
-      {
-        "claim": "Is a respectable widow living in Northmere",
-        "source": "S052",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Keeps proof of Selene-Rowan union hidden",
-        "source": "S056",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Received Selene's request to destroy proof of the union",
-        "source": "S057",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Provides sanctuary to Pira Senn after the murder",
-        "source": "S058",
+        "claim": "Resides in Northmere",
+        "source": "S044",
         "confidence": 0.8
       }
     ]
@@ -366,8 +258,8 @@
     "person": "Niko",
     "attributes": [
       {
-        "claim": "Received evasive account of secret-binding from Rowan Cale",
-        "source": "S039",
+        "claim": "Received information about the secret binding from Rowan Cale",
+        "source": "S029",
         "confidence": 0.8
       }
     ]
@@ -376,49 +268,9 @@
     "person": "Deven Holt",
     "attributes": [
       {
-        "claim": "Is a watch agent assigned to surveillance duties",
-        "source": "S040",
+        "claim": "Is a watch agent assigned to observe Tavia Orrel",
+        "source": "S030",
         "confidence": 0.8
-      },
-      {
-        "claim": "Assists in evidence recovery operations",
-        "source": "S043",
-        "confidence": 0.7
-      }
-    ]
-  },
-  {
-    "person": "Tavia",
-    "attributes": [
-      {
-        "claim": "Concealed ward-key and torn message fragments",
-        "source": "S043",
-        "confidence": 0.8
-      }
-    ]
-  },
-  {
-    "person": "Kit Vale",
-    "attributes": [
-      {
-        "claim": "Operates undercover using alias Moth",
-        "source": "S044",
-        "confidence": 0.8
-      },
-      {
-        "claim": "Conducts extended surveillance in Northmere and surrounding areas",
-        "source": "S044",
-        "confidence": 0.7
-      }
-    ]
-  },
-  {
-    "person": "Selene",
-    "attributes": [
-      {
-        "claim": "Sent a message to Liora Fen",
-        "source": "S047",
-        "confidence": 0.7
       }
     ]
   },
@@ -426,24 +278,29 @@
     "person": "Meren Toll",
     "attributes": [
       {
-        "claim": "Serves as senior estate advocate",
-        "source": "S050",
-        "confidence": 0.7
+        "claim": "Is a senior estate advocate",
+        "source": "S037",
+        "confidence": 0.8
+      },
+      {
+        "claim": "Is an old associate of Vey",
+        "source": "S037",
+        "confidence": 0.5
       }
     ]
   },
   {
-    "person": "Olin Reed",
+    "person": "Sorin Ash",
     "attributes": [
       {
-        "claim": "Was a hired hand who witnessed the binding ceremony",
-        "source": "S054",
-        "confidence": 0.8
+        "claim": "Is a foreign investigator",
+        "source": "S035",
+        "confidence": 0.5
       },
       {
-        "claim": "Present as a witness during the binding ceremony",
-        "source": "S055",
-        "confidence": 0.8
+        "claim": "Reported on Rowan Cale's past",
+        "source": "S035",
+        "confidence": 0.5
       }
     ]
   },
@@ -451,33 +308,13 @@
     "person": "Kel Brask",
     "attributes": [
       {
-        "claim": "Metalworker",
-        "source": "S063",
+        "claim": "Is a metalworker",
+        "source": "S044",
         "confidence": 0.8
       },
       {
         "claim": "Lives near Liora Fen",
-        "source": "S063",
-        "confidence": 0.8
-      }
-    ]
-  },
-  {
-    "person": "Marlo Dain",
-    "attributes": [
-      {
-        "claim": "Chair-driver",
-        "source": "S064",
-        "confidence": 0.8
-      }
-    ]
-  },
-  {
-    "person": "Nessa Orr",
-    "attributes": [
-      {
-        "claim": "Copper Quay Lodge attendant",
-        "source": "S066",
+        "source": "S044",
         "confidence": 0.8
       }
     ]
@@ -487,13 +324,18 @@
     "attributes": [
       {
         "claim": "Is deceased",
-        "source": "S072",
+        "source": "S045",
         "confidence": 1.0
       },
       {
-        "claim": "Was a shrine-keeper during life",
-        "source": "S072",
+        "claim": "Was a shrine-keeper",
+        "source": "S045",
         "confidence": 0.8
+      },
+      {
+        "claim": "Performed the secret binding between Selene and Rowan",
+        "source": "S045",
+        "confidence": 0.7
       }
     ]
   }

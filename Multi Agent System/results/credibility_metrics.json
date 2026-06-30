@@ -1,799 +1,662 @@
 [
   {
-    "witness": "Aric Vey",
-    "evidence": [
-      {
-        "type": "internal_consistency",
-        "description": "All four statements form a coherent self-supporting narrative: habitual evening routine in maproom, documented weapon ownership, intention to summon legal steward, and death while actively writing that summons. No self-contradiction exists within Vey's attributed statements.",
-        "score": 0.71
-      },
-      {
-        "type": "physical_impossibility",
-        "description": "While CONT003 identifies a logical gap regarding the killer's access to a locked-drawer weapon, this does not render Vey's own statements physically impossible. The half-written summons note and writing posture were confirmed by physical evidence. The locked-drawer issue challenges the killer's method, not Vey's described state at time of death.",
-        "score": 0.56
-      },
-      {
-        "type": "orchestration_marker",
-        "description": "No phantom events appear in Vey's attributed statements. All claims are anchored to verifiable anchors: documents, physical evidence (locked drawer contents, half-written note), named witnesses (Lucan Marris), and specific locations (maproom, sleep chamber). The narrative relies on real evidence trails rather than convenient unverifiable events.",
-        "score": 0.82
-      },
-      {
-        "type": "detail_quality",
-        "description": "High specificity achieved: named associate (Lucan Marris), precise location (Maproom desk, sleep chamber, locked drawer), defined action (writing summons, customary paperwork), and temporal markers (evening routine, before death). The 'customary' framing provides habitual corroboration while the interrupted summons adds acute situational detail.",
-        "score": 0.74
-      }
-    ],
-    "metrics": {
-      "internal_consistency": 0.71,
-      "physical_impossibility": 0.56,
-      "orchestration_marker": 0.82,
-      "detail_quality": 0.74
-    },
-    "credibility_grade": 2,
-    "weighted_score": 0.708
-  },
-  {
     "witness": "Bram Toller",
     "evidence": [
       {
         "type": "internal_consistency",
-        "description": "All five statements form a coherent sequential narrative: Bram secures the citadel at nightfall, confirms integrity in the morning, discovers the body, witnesses Tavia's reaction, and later provides investigative information about Rowan. No self-contradictions exist within his account.",
-        "score": 0.78
-      },
-      {
-        "type": "physical_impossibility",
-        "description": "No physical or temporal impossibilities detected. The timeline flows logically: nightfall security (S014) → morning verification (S015) → body discovery (S016) → immediate aftermath observation (S017) → subsequent disclosure (S018). All actions align with standard security protocols and expected human responses.",
+        "description": "Statements form a coherent chronological sequence: securing citadel at night (S012), confirming integrity in morning (S013), discovering body (S014), witnessing Tavia's reaction (S015). No self-contradiction or retraction present.",
         "score": 0.88
       },
       {
+        "type": "physical_impossibility",
+        "description": "No physical impossibility detected. Barricading from inside does not preclude persons already being present; fastenings remaining secure merely rules out forced external entry, which aligns with the stated observations.",
+        "score": 0.82
+      },
+      {
         "type": "orchestration_marker",
-        "description": "Bram's statements describe direct personal experiences and observable actions—he barred doors, inspected fastenings, found a body, and witnessed another person's reaction. No reliance on phantom events, anonymous messages, or unverifiable third-party communications.",
-        "score": 0.8
+        "description": "No phantom events detected. All described occurrences involve direct observation by Bram Toller (barricading, checking fastenings, discovering body, witnessing Tavia's collapse). No reliance on unverifiable third-party accounts or convenient off-stage events.",
+        "score": 0.91
       },
       {
         "type": "detail_quality",
-        "description": "Moderate specificity achieved. Statements include temporal markers (nightfall, morning, immediately after, later), locations (citadel exterior/entrance, maproom, sleep chamber), and clear actions. However, precise times, exact durations, and verbatim dialogue are absent, leaving some evidentiary gaps.",
+        "description": "Moderate specificity achieved. Temporal markers provided ('nightfall', 'next morning', 'following morning'), location identified ('citadel exterior', 'maproom'), and concrete actions noted. However, exact timestamps and finer spatial details within the maproom are absent.",
         "score": 0.68
       }
     ],
     "metrics": {
-      "internal_consistency": 0.78,
-      "physical_impossibility": 0.88,
-      "orchestration_marker": 0.8,
+      "internal_consistency": 0.88,
+      "physical_impossibility": 0.82,
+      "orchestration_marker": 0.91,
       "detail_quality": 0.68
     },
-    "credibility_grade": 2,
-    "weighted_score": 0.785
+    "credibility_grade": 1,
+    "weighted_score": 0.823
   },
   {
     "witness": "Deven Holt",
     "evidence": [
       {
         "type": "internal_consistency",
-        "description": "All four statements (S040-S043) form a coherent chronological account: surveillance detection → observation of object handling → audible cue → subsequent evidence recovery. No self-contradiction exists within Deven's own statements.",
-        "score": 0.82
+        "description": "Statements S030 and S031 form a coherent narrative: observed Tavia enter wrong chamber and handle items near grate, heard object fall, then recovered ward-key and fragments. Behavior flag INC012 confirms his official assignment to surveil Tavia, providing legitimate basis for his vantage point. No self-contradiction detected.",
+        "score": 0.72
       },
       {
         "type": "physical_impossibility",
-        "description": "No physical or temporal impossibility detected. A watch agent conducting covert surveillance can observe subject movement, manual interaction with objects, and audible disturbances. Recovery of previously concealed items following their concealment is physically plausible.",
-        "score": 0.74
+        "description": "A designated watch agent observing a subject entering another chamber and handling items near a grate is physically plausible. Hearing an object fall after witnessing manipulation aligns with reasonable spatial positioning. However, the transition from 'observed her handle something' to 'recovered specific items' requires inference—there is mild ambiguity in how he definitively links the fallen objects to her concealment, though corroborating evidence (Tavia's refusal to explain items, admission of destruction) substantiates the connection.",
+        "score": 0.44
       },
       {
         "type": "orchestration_marker",
-        "description": "Claims rest on verifiable, tangible elements: direct visual observation of Tavia's movements, auditory confirmation of an object falling, and participation in recovering physical evidence (ward-key, message fragments). No reliance on phantom events or unverifiable deflections.",
-        "score": 0.79
+        "description": "This is not a phantom event. Deven is a named, professionally assigned watch agent with direct observational access. The evidence consists of concrete physical objects (broken-handled ward-key, torn message fragments) recovered at scene. No reliance on unverifiable third-party communications or unidentified persons. The account is grounded in first-person observation and tangible evidence.",
+        "score": 0.58
       },
       {
         "type": "detail_quality",
-        "description": "Statements provide general contextual framing (assigned surveillance duty, chamber not belonging to subject, grate location) but lack precision. Specific timestamps, exact chamber identification, description of the object handled, and circumstances of the fall are absent. Moderate specificity only.",
-        "score": 0.55
+        "description": "Provides specific location markers ('chamber not her own,' 'near the grate'), action sequence (enter→handle→object fall), and identifies recovered items by type (ward-key, fragments). Temporal reference anchors to 'night of the incident.' Detail level is adequate but lacks granular specificity such as precise timestamps, chamber identification, or exact positioning during observation.",
+        "score": 0.63
       }
     ],
     "metrics": {
-      "internal_consistency": 0.82,
-      "physical_impossibility": 0.74,
-      "orchestration_marker": 0.79,
-      "detail_quality": 0.55
+      "internal_consistency": 0.72,
+      "physical_impossibility": 0.44,
+      "orchestration_marker": 0.58,
+      "detail_quality": 0.63
     },
-    "credibility_grade": 2,
-    "weighted_score": 0.725
+    "credibility_grade": 3,
+    "weighted_score": 0.592
   },
   {
     "witness": "Ilyan Mora",
     "evidence": [
       {
         "type": "internal_consistency",
-        "description": "All three statements form a coherent procedural sequence: commissioned to fetch examiner → executed search of sleep chamber → recovered evidence from locked drawer. No self-contradiction detected within Mora's own accounts.",
+        "description": "No contradictions detected; behavior flagged as 'consistent' with risk score of only 0.06, indicating reliable procedural conduct during evidence recovery.",
         "score": 0.82
       },
       {
         "type": "physical_impossibility",
-        "description": "Finding the weapon in its normal locked storage location is physically plausible. The locked drawer finding is corroborated by other investigative records (EV007). No timeline impossibility exists in Mora's account of his own actions.",
+        "description": "Recovery of weapons from a locked drawer in a sleep chamber is physically plausible; no timeline conflicts or evidence undermining this claim were identified.",
         "score": 0.78
       },
       {
         "type": "orchestration_marker",
-        "description": "No phantom events invoked. Statements describe concrete, observable actions: fetching a named specialist, searching a specific room, recovering physical evidence from a described location. All elements are verifiable and grounded in reality.",
-        "score": 0.91
+        "description": "Claim describes direct physical evidence recovery from a specific, verifiable location—no reliance on phantom events, anonymous sources, or convenient deflections.",
+        "score": 0.88
       },
       {
         "type": "detail_quality",
-        "description": "High specificity achieved: named subject (Vey), precise location (sleep chamber, locked drawer beside bed), explicit object identification (spring caster and ammunition), and clear action verbs (searched, recovered). Details align with proper investigative protocol.",
-        "score": 0.79
+        "description": "Good spatial specificity (sleep chamber, locked drawer beside bed) and item identification (spring caster, ammunition); however, lacks precise timestamp for the search activity.",
+        "score": 0.68
       }
     ],
     "metrics": {
       "internal_consistency": 0.82,
       "physical_impossibility": 0.78,
-      "orchestration_marker": 0.91,
-      "detail_quality": 0.79
+      "orchestration_marker": 0.88,
+      "detail_quality": 0.68
     },
-    "credibility_grade": 1,
-    "weighted_score": 0.825
+    "credibility_grade": 2,
+    "weighted_score": 0.79
   },
   {
     "witness": "Jessa Kade",
     "evidence": [
       {
         "type": "internal_consistency",
-        "description": "All four statements form a coherent, non-contradictory narrative: noticing disappearance, providing legitimate context for Pira's absence, reporting suspicious Tavia behavior, and confirming general weapon knowledge. No self-retraction or conflicting accounts.",
-        "score": 0.78
-      },
-      {
-        "type": "physical_impossibility",
-        "description": "No timeline or physical impossibilities detected. Statements describe observable phenomena (jawache confirmation, visible paper-hiding, common household knowledge) that do not conflict with physical evidence or established timelines.",
+        "description": "Both statements (S016, S017) are mutually supportive—one establishes benign context for Pira while the second independently observes Tavia's suspicious conduct. No self-contradiction exists within the witness's account.",
         "score": 0.74
       },
       {
+        "type": "physical_impossibility",
+        "description": "The described actions—a servant confirming another's ailment and observing a person exiting a room with concealed items—are both physically plausible. No physical evidence or timeline contradiction challenges these accounts.",
+        "score": 0.68
+      },
+      {
         "type": "orchestration_marker",
-        "description": "All statements grounded in verifiable personal observation or documented household knowledge. No reliance on phantom events, anonymous messages, or unverifiable third-party claims. S021 (Tavia with hidden paper) corroborated by later evidence patterns.",
-        "score": 0.82
+        "description": "Neither statement relies on phantom events; both describe concrete, observable behaviors (medical confirmation, visible departure from maproom). However, the corroboration between multiple witnesses raises minor consideration of potential coordinated reporting.",
+        "score": 0.61
       },
       {
         "type": "detail_quality",
-        "description": "Moderate specificity achieved. S021 provides clear location (maproom) and action (hidden paper). S020 includes medical context and stated purpose. S019/S022 remain functional but lack precise timestamps or locations.",
-        "score": 0.61
+        "description": "Moderate specificity achieved—both statements identify subjects (Pira, Tavia), locations (kitchen/premises, maproom), and actions clearly. Temporal markers present ('before disappearance,' 'night/murder period') though precise times absent.",
+        "score": 0.62
       }
     ],
     "metrics": {
-      "internal_consistency": 0.78,
-      "physical_impossibility": 0.74,
-      "orchestration_marker": 0.82,
-      "detail_quality": 0.61
+      "internal_consistency": 0.74,
+      "physical_impossibility": 0.68,
+      "orchestration_marker": 0.61,
+      "detail_quality": 0.62
     },
     "credibility_grade": 2,
-    "weighted_score": 0.737
+    "weighted_score": 0.662
   },
   {
     "witness": "Jorik Penn",
     "evidence": [
       {
         "type": "internal_consistency",
-        "description": "Both statements (S052, S053) align coherently—identifying Liora Fen as a respectable widow and describing her household—both serving the same investigative-enabling purpose. No self-contradiction detected.",
-        "score": 0.78
+        "description": "No contradictions or self-conflicts detected in the statement regarding the identification of Liora Fen.",
+        "score": 0.72
       },
       {
         "type": "physical_impossibility",
-        "description": "No timeline or physical impossibility present. Statements describe routine identification and characterization activities plausible in any location/timeframe.",
-        "score": 0.82
+        "description": "The characterization of Liora Fen as a 'respectable widow' is a subjective assessment with no physical constraints violated; no timeline conflicts present.",
+        "score": 0.88
       },
       {
         "type": "orchestration_marker",
-        "description": "Claims do not rely on phantom events. Both statements reference verifiable roles (providing lodging access, background information) though with minimal operational specificity.",
-        "score": 0.55
+        "description": "The identification served a legitimate investigative function (enabling infiltration route); does not rely on phantom events or unverifiable claims.",
+        "score": 0.78
       },
       {
         "type": "detail_quality",
-        "description": "Statements are notably vague—'identified as respectable widow' and 'described her household' lack temporal anchoring, specific dialogue, or observable behavioral details. Low granularity reduces verifiability.",
-        "score": 0.42
+        "description": "Provides moderate specificity—identifies subject (Liora Fen), location (Northmere), and context—but lacks granular details such as exact timing, method of identification, or supporting rationale.",
+        "score": 0.55
       }
     ],
     "metrics": {
-      "internal_consistency": 0.78,
-      "physical_impossibility": 0.82,
-      "orchestration_marker": 0.55,
-      "detail_quality": 0.42
+      "internal_consistency": 0.72,
+      "physical_impossibility": 0.88,
+      "orchestration_marker": 0.78,
+      "detail_quality": 0.55
     },
-    "credibility_grade": 3,
-    "weighted_score": 0.643
+    "credibility_grade": 2,
+    "weighted_score": 0.732
   },
   {
     "witness": "Kel Brask",
     "evidence": [
       {
         "type": "internal_consistency",
-        "description": "Single observation statement with no self-contradicting elements; no retraction or conflicting accounts from same witness",
+        "description": "No contradictions or self-conflict detected. Statement describes routine neighbor observation without retraction or conflicting accounts.",
         "score": 0.78
       },
       {
         "type": "physical_impossibility",
-        "description": "Observing a person at an upper window is physically plausible; the cited contradiction (CONT001) pertains to Tavia Orrel's evidence handling, not Kel Brask's visual observation",
-        "score": 0.82
+        "description": "Observation of an upper window from a nearby residence is physically plausible. Metalworker's proximity to Liora Fen allows line-of-sight to the property. No physical evidence contradicts the sighting capability.",
+        "score": 0.68
       },
       {
         "type": "orchestration_marker",
-        "description": "Direct first-person observation by the witness himself (metalworker living nearby); not reliant on phantom events, anonymous tips, or unverifiable third-party claims",
-        "score": 0.86
+        "description": "Claim is grounded in identifiable witness testimony (Kel Brask, local metalworker) reporting direct personal observation. Not reliant on phantom events, anonymous tips, or unverifiable third-party sources.",
+        "score": 0.74
       },
       {
         "type": "detail_quality",
-        "description": "Provides general location (upper window of Liora's house) and subject identification ('woman believed to be Pira'), but lacks precise timestamp and action specifics beyond the sighting",
-        "score": 0.62
+        "description": "Provides role (metalworker), relationship to location (living near Liora Fen), subject identification (woman believed to be Pira), precise location element (upper window), and temporal context (investigation period). Lacks specific time of day, viewing duration, or certainty of identity.",
+        "score": 0.61
       }
     ],
     "metrics": {
       "internal_consistency": 0.78,
-      "physical_impossibility": 0.82,
-      "orchestration_marker": 0.86,
-      "detail_quality": 0.62
+      "physical_impossibility": 0.68,
+      "orchestration_marker": 0.74,
+      "detail_quality": 0.61
     },
     "credibility_grade": 2,
-    "weighted_score": 0.77
+    "weighted_score": 0.703
   },
   {
     "witness": "Kit Vale",
     "evidence": [
       {
         "type": "internal_consistency",
-        "description": "No self-contradiction found within Kit Vale's four statements. The apparent tension between EV005 ('did not return') and S045 (saw Pira alive) involves external event documentation, not retraction or internal conflict within his own account. His observations form a coherent investigative narrative.",
-        "score": 0.74
-      },
-      {
-        "type": "physical_impossibility",
-        "description": "All claimed activities—following leads undercover, observing individuals, recovering physical papers—are logistically feasible. No physical evidence or technological record contradicts his operational capabilities. Timeline ambiguity regarding where/how he saw Pira alive does not rise to impossibility.",
-        "score": 0.82
-      },
-      {
-        "type": "orchestration_marker",
-        "description": "Claims rest on observable, recoverable evidence: physical papers, documented message from Selene, witnessed powder episode. No reliance on unverifiable phantom events or convenient anonymous communications. Evidence has material trace.",
+        "description": "All three statements align coherently within a single undercover operation framework—same location (Northmere), same operative identity (Moth), and interconnected subjects (Pira, powder incident, Selene's correspondence). No self-contradicting elements detected.",
         "score": 0.78
       },
       {
+        "type": "physical_impossibility",
+        "description": "The reported actions—observing a person alive, witnessing a powder delivery, recovering physical documents—are all physically plausible activities consistent with an active undercover investigation. No timeline conflicts or physical evidence challenges identified.",
+        "score": 0.68
+      },
+      {
+        "type": "orchestration_marker",
+        "description": "Claims involve tangible investigative actions (direct observation, document recovery) rather than unverifiable phantom events. While 'observing' the powder episode introduces minor verifiability concerns, the overall pattern suggests real operational activity rather than fabricated deflection.",
+        "score": 0.52
+      },
+      {
         "type": "detail_quality",
-        "description": "Provides general scope (locations visited, subjects investigated) but lacks precise timestamps or exact circumstances of key observations. Specificity is moderate—notably lacking granular detail on how/where Pira was encountered alive or how papers were obtained covertly.",
-        "score": 0.61
+        "description": "Location is clearly specified (Northmere area), subject matter is defined, and contextual framing exists (undercover alias 'Moth', lead connections). However, temporal markers remain imprecise ('shortly before,' 'during investigation') and exact action sequences lack granularity.",
+        "score": 0.48
       }
     ],
     "metrics": {
-      "internal_consistency": 0.74,
-      "physical_impossibility": 0.82,
-      "orchestration_marker": 0.78,
-      "detail_quality": 0.61
+      "internal_consistency": 0.78,
+      "physical_impossibility": 0.68,
+      "orchestration_marker": 0.52,
+      "detail_quality": 0.48
     },
-    "credibility_grade": 2,
-    "weighted_score": 0.737
+    "credibility_grade": 3,
+    "weighted_score": 0.615
   },
   {
     "witness": "Liora Fen",
     "evidence": [
       {
         "type": "internal_consistency",
-        "description": "No direct self-contradiction within Liora's four statements; however, tension exists between her role as passive evidence custodian (S056) and active participant in concealment network (INC010 flags her taking in Pira suggests coordination). External contradiction CONT002 creates downstream uncertainty about S059's reliability since it depends on Pira's disputed account.",
-        "score": 0.62
+        "description": "Liora's three statements form a coherent sequential narrative: hiding evidence (S041), sheltering Pira afterward (S042), then hearing Pira's account (S043). No self-contradiction exists between her accounts, and the behavior flag INC009 frames her actions as loyal protection rather than complicity.",
+        "score": 0.73
       },
       {
         "type": "physical_impossibility",
-        "description": "All described actions are physically plausible: hiding evidence at one's residence, receiving written requests, providing sanctuary, and hearing verbal accounts. Temporal sequencing is coherent: pre-murder storage → post-exposure request → immediate post-murder shelter → subsequent conversation. No physical or timeline impossibilities detected.",
-        "score": 0.76
+        "description": "All three claims involve physically mundane actions: concealing an object at one's own home, providing shelter to another person, and overhearing a conversation. No timeline conflicts exist among her statements, and no physical evidence contradicts her account.",
+        "score": 0.84
       },
       {
         "type": "orchestration_marker",
-        "description": "Moderate reliance on unverifiable communications: S057 hinges on a message from Selene (partially corroborated by Kit Vale's recovery of papers per INC015), and S059 is secondhand account of Pira's alleged warnings. Not purely phantom—intermediate actors exist—but the convenient shift of accountability toward silenced parties elevates suspicion.",
-        "score": 0.54
+        "description": "None of Liora's statements rely on phantom events. Each centers on verifiable physical objects (lacquer tube), observable persons (Pira), or documented utterances. The claims describe real actions with identifiable participants rather than convenient anonymous communications or unverifiable summoning.",
+        "score": 0.74
       },
       {
         "type": "detail_quality",
-        "description": "Reasonable specificity: locations named (Northmere, Liora's home), actors identified (lacquer tube, Selene, Pira), temporal markers used ('before,' 'after,' 'immediately following'). Notable gap: exact timing of initial hiding (S056) remains unspecified, and verbatim content of Selene's destruction request or Pira's warning not provided.",
-        "score": 0.64
+        "description": "S041 provides moderate specificity (lacquer tube, residence). S042 offers basic temporal and subject clarity (post-murder, Pira). S043 includes both context (sent away, warned) and cross-reference (fuller account with independent support per context note). Specificity is adequate but not exceptional.",
+        "score": 0.66
       }
     ],
     "metrics": {
-      "internal_consistency": 0.62,
-      "physical_impossibility": 0.76,
-      "orchestration_marker": 0.54,
-      "detail_quality": 0.64
+      "internal_consistency": 0.73,
+      "physical_impossibility": 0.84,
+      "orchestration_marker": 0.74,
+      "detail_quality": 0.66
     },
-    "credibility_grade": 3,
-    "weighted_score": 0.64
+    "credibility_grade": 2,
+    "weighted_score": 0.742
   },
   {
     "witness": "Lucan Marris",
     "evidence": [
       {
         "type": "internal_consistency",
-        "description": "All five statements form a coherent, non-contradictory narrative describing a standard evening work session with ambient observations (amber cordial, open door, passage sounds). No self-retractions or conflicting accounts exist within Marris's own statements.",
-        "score": 0.74
+        "description": "All four statements form a coherent, sequential narrative of an evening routine: completing cipher work, observing ambient items, noting door state, and perceiving passage sounds. No self-contradiction or retraction exists.",
+        "score": 0.82
       },
       {
         "type": "physical_impossibility",
-        "description": "No physical impossibilities detected. The described actions (cipher work, observing a door, hearing passage sounds) are temporally and spatially plausible given his stated presence in the maproom throughout the evening.",
-        "score": 0.68
+        "description": "Routine cipher work, observing a cup of cordial, noticing an open interior door, and hearing muffled passage sounds are all physically plausible activities consistent with a colleague present in the maproom during evening hours. No timeline conflict or physical impossibility detected.",
+        "score": 0.89
       },
       {
         "type": "orchestration_marker",
-        "description": "CRITICAL FLAG: Statements provide only peripheral, vague observations ('indistinct passage sounds') that neither confirm nor deny the murder mechanism, yet establish Marris as a passive bystander. The behavioral analysis confirms he 'controls the narrative of the killing' through strategic framing of his trusted-access role. The vagueness serves to deflect rather than illuminate.",
-        "score": 0.48
-      },
-      {
-        "type": "detail_quality",
-        "description": "Moderate specificity: describes tangible objects (amber cordial, partly filled cup, open inner door) but lacks precise timestamps, action verbs for the critical moment, or any account of the shooting itself. Only generic temporal markers ('evening,' 'during work session').",
-        "score": 0.52
-      }
-    ],
-    "metrics": {
-      "internal_consistency": 0.74,
-      "physical_impossibility": 0.68,
-      "orchestration_marker": 0.48,
-      "detail_quality": 0.52
-    },
-    "credibility_grade": 3,
-    "weighted_score": 0.605
-  },
-  {
-    "witness": "Marlo Dain",
-    "evidence": [
-      {
-        "type": "internal_consistency",
-        "description": "Statements S064 and S065 are mutually reinforcing; both describe Marlo providing information about Rowan's pre-murder activities without internal conflict or retraction.",
+        "description": "While 'indistinct passage sounds' (S004) lacks verifiability, it does not create a phantom event, deflect blame onto another party, or alter the investigative timeline. The vagueness reflects limited auditory perception rather than strategic deflection.",
         "score": 0.71
       },
       {
         "type": "detail_quality",
-        "description": "Reports include specific subject (Rowan Cale), venue (Saffron Gate Inn), and categories of observation (presence, agitation, correspondence, movements, departure). However, precise timestamps are absent ('Before the murder', 'Preceding the murder').",
-        "score": 0.64
-      },
-      {
-        "type": "orchestration_marker",
-        "description": "While statements reference Rowan's 'concealments' and 'apparent departure,' they do not rely solely on phantom events. Information is corroborated by independent Saffron Gate Inn staff accounts, reducing reliance on unverifiable claims.",
-        "score": 0.56
-      },
-      {
-        "type": "physical_impossibility",
-        "description": "No physically impossible claims detected. Observing and reporting another person's presence, agitation, and departure patterns is logistically feasible. Timeline placement is consistent with helping distinguish concealments from the physical murder timeline.",
-        "score": 0.68
+        "description": "Moderate specificity: includes object descriptions (amber cordial, partly filled cup) and spatial references (inner door, passage). However, lacks precise timestamps beyond 'evening,' and S004's 'indistinct sounds' is notably vague, offering minimal investigative utility.",
+        "score": 0.61
       }
     ],
     "metrics": {
-      "internal_consistency": 0.71,
-      "physical_impossibility": 0.68,
-      "orchestration_marker": 0.56,
-      "detail_quality": 0.64
+      "internal_consistency": 0.82,
+      "physical_impossibility": 0.89,
+      "orchestration_marker": 0.71,
+      "detail_quality": 0.61
     },
-    "credibility_grade": 3,
-    "weighted_score": 0.648
+    "credibility_grade": 2,
+    "weighted_score": 0.757
   },
   {
     "witness": "Meren Toll",
     "evidence": [
       {
         "type": "internal_consistency",
-        "description": "S050 and S051 are mutually reinforcing; both characterize Vey consistently—favoring Selene while hostile to Rowan's lineage. No self-contradiction exists within Meren's statements.",
+        "description": "S037 and S038 are mutually reinforcing; both address Vey's inheritance-related motivations without conflict. S037 explains the legal mechanism while S038 provides the animus driving it. External validation via INC016 confirms consistency with his professional role.",
         "score": 0.78
       },
       {
         "type": "physical_impossibility",
-        "description": "No physical evidence or timeline constraints challenge these historical characterizations. Statements describe attitudes and preferences, which cannot be disproven by physical means. Logic remains intact.",
+        "description": "No physical impossibility present. Statements describe intentions, attitudes, and legal strategy—all plausible characterizations of a person's motivations. No timeline contradictions or physical evidence conflicts exist.",
         "score": 0.71
       },
       {
         "type": "orchestration_marker",
-        "description": "While the statements serve a contextual role supporting other actors' motive profiles, they do not themselves rely on phantom events. They are straightforward character attestations without unverifiable conveniences.",
-        "score": 0.62
+        "description": "No phantom events invoked. Testimony derives from personal knowledge as senior estate advocate and old associate. Claims are verifiable through professional records and corroborating accounts (e.g., Selene's concealment behavior aligning with described threat).",
+        "score": 0.69
       },
       {
         "type": "detail_quality",
-        "description": "Both statements lack specific timestamps, precise locations, or actionable specifics. 'Years of association,' 'longstanding attitude,' and 'general stance' indicate vague temporal and spatial framing that limits verifiability.",
-        "score": 0.42
+        "description": "Moderate specificity provided. Clear subject matter (legal summons, settlement alteration, lineage hostility), temporal markers ('after learning,' 'historical'), and relational context (estate relations). Lacks precise timestamps or verbatim quotes, but sufficient for establishing motive chain.",
+        "score": 0.64
       }
     ],
     "metrics": {
       "internal_consistency": 0.78,
       "physical_impossibility": 0.71,
-      "orchestration_marker": 0.62,
-      "detail_quality": 0.42
+      "orchestration_marker": 0.69,
+      "detail_quality": 0.64
     },
-    "credibility_grade": 3,
-    "weighted_score": 0.632
+    "credibility_grade": 2,
+    "weighted_score": 0.705
   },
   {
     "witness": "Mira Pell",
     "evidence": [
       {
         "type": "internal_consistency",
-        "description": "All four statements (S023-S026) form a coherent chronological narrative describing Pira's deteriorating mental state, physical complaint, unusual preparations, and final descent. No self-contradiction exists within Mira's own account.",
+        "description": "Statements S018 and S019 form a logically coherent sequence: Pira prepared and descended, then failed to return. No self-contradiction or retraction present.",
         "score": 0.82
       },
       {
         "type": "physical_impossibility",
-        "description": "The sequence of events is physically plausible: troubled behavior progressing to confirmed ailment, followed by unusual full dress and carrying a glow-wick for a stated brief errand, culminating in descent toward Tavia's quarters. No timeline impossibility or physical impossibility is present in Mira's description.",
+        "description": "No physical evidence or timeline impossibility undermines the account. Dressing fully, taking a glow-wick, and descending stairs are mundane, physically plausible actions.",
         "score": 0.78
       },
       {
         "type": "orchestration_marker",
-        "description": "Mira's statements describe observable, first-hand witnessed behaviors and conditions (behavioral changes, physical state confirmation, visible attire and object, witnessed movement down stairs). No reliance on phantom events, anonymous messages, or unverifiable third-party interactions.",
-        "score": 0.74
-      },
-      {
-        "type": "detail_quality",
-        "description": "Statements include temporal markers ('days before,' 'before departure,' 'night of incident'), location specificity ('upper floor,' 'stairs going down'), and descriptive action details ('dressed fully,' 'loose glow-wick'). Some descriptors remain moderately generic ('troubled and withdrawn') but overall specificity is adequate.",
-        "score": 0.64
-      }
-    ],
-    "metrics": {
-      "internal_consistency": 0.82,
-      "physical_impossibility": 0.78,
-      "orchestration_marker": 0.74,
-      "detail_quality": 0.64
-    },
-    "credibility_grade": 2,
-    "weighted_score": 0.745
-  },
-  {
-    "witness": "Nessa Orr",
-    "evidence": [
-      {
-        "type": "internal_consistency",
-        "description": "No explicit contradictions detected; however, both statements are highly derivative—referencing 'combined with other Northmere servants' statements'—suggesting the witness may be relaying synthesized third-party accounts rather than primary observations.",
-        "score": 0.62
-      },
-      {
-        "type": "physical_impossibility",
-        "description": "Temporal placement ('earlier period,' 'before the murder') is logically consistent with the broader case timeline. No physical impossibilities or timeline conflicts identified.",
-        "score": 0.75
-      },
-      {
-        "type": "orchestration_marker",
-        "description": "Both statements rely on vague collective sourcing ('other Northmere servants' statements') and describe behaviors only generically ('behaved in particular ways'). This pattern—vague attributions to unnamed sources describing unspecified conduct—creates opportunity for narrative alignment post-hoc.",
-        "score": 0.52
-      },
-      {
-        "type": "detail_quality",
-        "description": "Extremely low specificity. Statements provide no concrete times, locations, actions, or identifiable individuals beyond named parties. Raw text consists almost entirely of meta-descriptions ('described...', 'during the period when...') rather than substantive claims.",
-        "score": 0.38
-      }
-    ],
-    "metrics": {
-      "internal_consistency": 0.62,
-      "physical_impossibility": 0.75,
-      "orchestration_marker": 0.52,
-      "detail_quality": 0.38
-    },
-    "credibility_grade": 3,
-    "weighted_score": 0.568
-  },
-  {
-    "witness": "Noa Brill",
-    "evidence": [
-      {
-        "type": "internal_consistency",
-        "description": "All three statements form a coherent forensic sequence: S027 identifies the projectile type, S028 confirms the weapon was loaded, and S029 explains the partial cleaning pattern. No self-contradiction exists within Brill's own accounts.",
-        "score": 0.78
-      },
-      {
-        "type": "physical_impossibility",
-        "description": "Brill's technical findings (third-gauge identification, residue distribution analysis) are forensically plausible and align with standard ballistics examination procedures. The contradiction regarding locked drawer access (CONT003) does not challenge her technical analysis but rather introduces a separate investigative question about weapon acquisition.",
-        "score": 0.74
-      },
-      {
-        "type": "orchestration_marker",
-        "description": "No phantom events present. All claims are grounded in verifiable technical specifics: gauge measurement, cell loading status, and differential residue analysis across barrel versus rotating chamber. These findings are independently reproducible through forensic examination.",
-        "score": 0.88
-      },
-      {
-        "type": "detail_quality",
-        "description": "High specificity achieved: precise gauge classification (third-gauge), equipment type (compact spring caster), dual-location documentation (Cinderglass Armory and laboratory), and granular forensic distinction (barrel residue vs. rotating chamber traces). The incomplete-cleaning conclusion demonstrates analytical sophistication.",
-        "score": 0.82
-      }
-    ],
-    "metrics": {
-      "internal_consistency": 0.78,
-      "physical_impossibility": 0.74,
-      "orchestration_marker": 0.88,
-      "detail_quality": 0.82
-    },
-    "credibility_grade": 1,
-    "weighted_score": 0.805
-  },
-  {
-    "witness": "Olin Reed",
-    "evidence": [
-      {
-        "type": "internal_consistency",
-        "description": "S054 and S055 are mutually reinforcing; both statements align on the core facts of the binding ceremony, participant roles, and Reed's witnessing function. Behavior flag confirms consistency.",
-        "score": 0.82
-      },
-      {
-        "type": "physical_impossibility",
-        "description": "No physical evidence or timeline constraints contradict the reported memory of a past ceremony at the shrine-keeper's house. The account describes a plausible historical event with no technological or logistical impossibilities raised.",
+        "description": "Claims describe observable actions (clothing, object taken, movement between floors, non-return) rather than relying on unverifiable phantom events. No deflection detected.",
         "score": 0.71
       },
       {
-        "type": "orchestration_marker",
-        "description": "The account does not rely on phantom events or unverifiable deflections. Reed's role as a direct eyewitness to the ceremony provides grounded corroboration for the claimed sequence of events.",
-        "score": 0.78
-      },
-      {
         "type": "detail_quality",
-        "description": "Location (shrine-keeper's house) and participant identities are specified, providing useful contextual anchors. However, the critical element of time is deliberately vague ('exact date unknown'), limiting the evidentiary weight.",
+        "description": "Moderate specificity: location transition (upper floor to downstairs), action components (fully dressed, loose glow-wick), temporal frame (night of disappearance), and clear outcome stated. Minor gap: exact timing of descent not pinned.",
         "score": 0.61
       }
     ],
     "metrics": {
       "internal_consistency": 0.82,
-      "physical_impossibility": 0.71,
-      "orchestration_marker": 0.78,
+      "physical_impossibility": 0.78,
+      "orchestration_marker": 0.71,
       "detail_quality": 0.61
     },
     "credibility_grade": 2,
     "weighted_score": 0.73
   },
   {
-    "witness": "Orra Kest",
+    "witness": "Noa Brill",
     "evidence": [
       {
         "type": "internal_consistency",
-        "description": "Orra's five statements form a coherent investigative narrative: examining the secured scene, recovering physical evidence, interpreting forensic traces, tracking suspect movement, and challenging questionable confessions. No self-contradiction exists within his own accounts.",
-        "score": 0.76
+        "description": "Statements S020 and S021 are mutually reinforcing—S020 establishes the ammunition type matched to Vey's weapon, while S021 provides forensic corroboration via residual traces in the rotating chamber. Both statements align without conflict.",
+        "score": 0.88
       },
       {
         "type": "physical_impossibility",
-        "description": "All of Orra's documented actions represent plausible investigative procedures: examining a secured structure, retrieving a dropped object, analyzing textile evidence, and reviewing testimony records. No temporal or physical impossibilities arise from his statements.",
-        "score": 0.84
-      },
-      {
-        "type": "orchestration_marker",
-        "description": "Orra's findings rest on recoverable physical evidence (glow-wick, soot marks, trail documentation) rather than phantom events. His questioning of Pira's confession addresses genuine evidentiary disputes rather than deflecting blame onto unverifiable actors.",
-        "score": 0.69
-      },
-      {
-        "type": "detail_quality",
-        "description": "Orra provides adequate specificity for most claims (barred citadel, Northmere trail, glow-wick identification) but some locations remain unspecified (soot-marked scarf site), reducing overall granularity. Evidence types and investigative actions are clearly named.",
-        "score": 0.64
-      }
-    ],
-    "metrics": {
-      "internal_consistency": 0.76,
-      "physical_impossibility": 0.84,
-      "orchestration_marker": 0.69,
-      "detail_quality": 0.64
-    },
-    "credibility_grade": 2,
-    "weighted_score": 0.733
-  },
-  {
-    "witness": "Pira Senn",
-    "evidence": [
-      {
-        "type": "internal_consistency",
-        "description": "CONT002 reveals severe identity conflict: Liora Fen's account treats Pira's reported words as factual testimony (EV012), yet EV014 explicitly disputes the confession attributed to her. These framings cannot coexist—one must be wrong about treating her statements as reliable.",
-        "score": 0.48
-      },
-      {
-        "type": "internal_consistency",
-        "description": "CONT004 shows action conflict: EV005 frames Pira's descent as definitive non-return, while EV010 confirms she was seen alive shortly before death. Ambiguity exists about where and when precisely she was sighted versus where she ultimately vanished.",
-        "score": 0.51
-      },
-      {
-        "type": "orchestration_marker",
-        "description": "INC008 flags retraction risk: the posthumous confession is disputed due to form, timing, and circumstances. Combined with Pira's claim of being 'sent away and warned,' this suggests the confession may be fabricated, coerced, or otherwise unreliable—a phantom attribution serving external interests.",
-        "score": 0.54
-      },
-      {
-        "type": "orchestration_marker",
-        "description": "INC009 identifies motive alignment concerns: full dress for a brief errand, prior withdrawal, and receipt of a suspicious powder 'charm' suggest possible advance knowledge or involvement beyond innocent bystander. The vague 'seen or met someone after killing' lacks verifiable substance.",
-        "score": 0.57
-      },
-      {
-        "type": "detail_quality",
-        "description": "Moderate specificity: location ('below stairs'), object ('loose glow-wick'), physical condition ('jawache'), and temporal frame ('murder night') are provided. However, key details remain absent—precise timing of sighting, location of post-killing encounter, and circumstances of disputed confession are all unspecified or contested.",
-        "score": 0.58
-      }
-    ],
-    "metrics": {
-      "internal_consistency": 0.49,
-      "physical_impossibility": 0.66,
-      "orchestration_marker": 0.55,
-      "detail_quality": 0.58
-    },
-    "credibility_grade": 3,
-    "weighted_score": 0.57
-  },
-  {
-    "witness": "Rowan Cale",
-    "evidence": [
-      {
-        "type": "internal_consistency",
-        "description": "Direct self-contradiction: Rowan describes the secret-binding problem 'as though it concerned someone else' (S039) — an explicit admission of framing his own situation as a third-party matter. Combined with location ambiguity around citadel visits, there is significant internal inconsistency between his stated framing and the evident reality of his personal stakes.",
-        "score": 0.42
-      },
-      {
-        "type": "physical_impossibility",
-        "description": "No outright physical impossibility exists. The citadel securing (EV003) versus alias visits (EV013) creates logistical tension but allows alternative explanations (pre-barring entry or authorized access). Not definitively disproven, but raises unresolved timing/access questions.",
-        "score": 0.61
-      },
-      {
-        "type": "orchestration_marker",
-        "description": "Strong orchestration indicators: borrowed name usage provides plausible deniability; reframing personal binding obligations as someone else's problem deflects scrutiny. These patterns align with coordinated narrative management rather than organic recollection. However, both actions are admitted rather than purely phantom.",
-        "score": 0.52
-      },
-      {
-        "type": "detail_quality",
-        "description": "Action-specific clarity (concealment method, conversational framing) but weak on temporal and spatial specifics. Locations cited as 'near the citadel' and 'unspecified'; times as 'when approaching' and 'during conversation.' Lacks precise timestamps or corroborating environmental details that would anchor the account.",
-        "score": 0.47
-      }
-    ],
-    "metrics": {
-      "internal_consistency": 0.42,
-      "physical_impossibility": 0.61,
-      "orchestration_marker": 0.52,
-      "detail_quality": 0.47
-    },
-    "credibility_grade": 3,
-    "weighted_score": 0.505
-  },
-  {
-    "witness": "Samel Dorn",
-    "evidence": [
-      {
-        "type": "internal_consistency",
-        "description": "No direct self-contradictions detected. Claim aligns with supporting 'documents' referenced alongside witness memory, providing dual evidentiary basis. The deceased status of the shrine-keeper limits ability to clarify ambiguities but does not create internal conflict.",
-        "score": 0.68
-      },
-      {
-        "type": "physical_impossibility",
-        "description": "Ritual binding ceremonies are historically and culturally plausible in this context. No physical evidence contradicts the claim. Temporal placement ('before the murder') is logically consistent with stated purpose of establishing pre-murder estate complications.",
-        "score": 0.74
-      },
-      {
-        "type": "orchestration_marker",
-        "description": "Secret ceremonies carry inherent unverifiability risk, placing this partially in 'phantom event' territory. However, explicit reference to documentary preservation distinguishes this from purely hearsay accounts. Moderate orchestration concern—not fully phantom but relying heavily on memorial reconstruction.",
-        "score": 0.52
-      },
-      {
-        "type": "detail_quality",
-        "description": "Provides key elements: named participants (Selene Orrel, Rowan Cale), specific location (Shrine), temporal frame (before the murder), and defined action (binding ceremony). Lacks precision regarding exact date/duration, ceremony specifics, or attendee count.",
-        "score": 0.61
-      }
-    ],
-    "metrics": {
-      "internal_consistency": 0.68,
-      "physical_impossibility": 0.74,
-      "orchestration_marker": 0.52,
-      "detail_quality": 0.61
-    },
-    "credibility_grade": 3,
-    "weighted_score": 0.637
-  },
-  {
-    "witness": "Selene Orrel",
-    "evidence": [
-      {
-        "type": "internal_consistency",
-        "description": "S033 establishes the secret binding; S034 describes post-murder efforts to destroy binding proof. These statements do not contradict each other—they form a coherent narrative of concealed relationship followed by cover-up attempt. No self-retraction or conflicting accounts observed.",
-        "score": 0.74
-      },
-      {
-        "type": "physical_impossibility",
-        "description": "No physical impossibility detected in Selene's stated actions. Her statements concern communications and requests (via Liora Fen) rather than physically implausible events. The weapon access issue (CONT003) pertains to the murder mechanism generally, not specifically to her described activities.",
-        "score": 0.71
-      },
-      {
-        "type": "orchestration_marker",
-        "description": "S034 relies on an unverifiable outcome—the actual destruction of binding proof through Liora Fen. The 'phantom' element lies in the completed act of elimination: evidence destroyed cannot be examined. Additionally, the intermediary chain (Selene → Liora → destruction) adds layers of unverifiability to the core claim.",
-        "score": 0.52
-      },
-      {
-        "type": "detail_quality",
-        "description": "Both statements lack critical specificity. S033 has 'unknown' timing and 'unspecified' location. S034 states 'exact timing unclear.' Raw text provides only categorical assertions ('secret oath-bound partner') without anchoring details such as dates, places, witnesses present, or precise circumstances.",
-        "score": 0.32
-      }
-    ],
-    "metrics": {
-      "internal_consistency": 0.74,
-      "physical_impossibility": 0.71,
-      "orchestration_marker": 0.52,
-      "detail_quality": 0.32
-    },
-    "credibility_grade": 3,
-    "weighted_score": 0.573
-  },
-  {
-    "witness": "Sera Voss",
-    "evidence": [
-      {
-        "type": "internal_consistency",
-        "description": "All three statements form a coherent forensic sequence: wound examination (S011), suicide exclusion (S012), and victim positioning reconstruction (S013). No internal contradictions detected; behavior flag INC016 confirms consistency with medical evidence.",
+        "description": "The described scenario is forensically plausible. Partial cleaning that removes barrel residue while leaving traces in the rotating chamber is consistent with actual firearm forensics. No timeline impossibilities or physical contradictions exist.",
         "score": 0.82
       },
       {
-        "type": "physical_impossibility",
-        "description": "The described scenario—a seated victim struck from behind through a doorway threshold—is physically plausible. Forensic wound trajectory analysis is a valid methodology. No timeline conflicts or physical impossibilities identified.",
-        "score": 0.79
-      },
-      {
         "type": "orchestration_marker",
-        "description": "Claims rest on tangible forensic evidence: actual wound examination, recovered flechette projectile, and observable wound trajectory. These are verifiable physical artifacts, not phantom events or convenient deflections.",
-        "score": 0.68
+        "description": "No phantom events detected. Testimony is grounded in direct physical examination of tangible evidence (the flechette and weapon) at a named facility. No reliance on unverifiable anonymous sources or convenient narrative deflections.",
+        "score": 0.12
       },
       {
         "type": "detail_quality",
-        "description": "S013 provides moderate specificity regarding victim positioning and shooter location (threshold between sleep chamber and maproom). However, S011 and S012 lack granular procedural details such as precise timing, measurement data, or examination methodology.",
-        "score": 0.61
+        "description": "Strong technical specificity including gauge classification (third-gauge), mechanism type (compact spring caster, rotating chamber), procedural details (barrel vs. chamber cleaning differential), and institutional location (Cinderglass Armory). Time references are functional but lack precise timestamps.",
+        "score": 0.76
       }
     ],
     "metrics": {
-      "internal_consistency": 0.82,
-      "physical_impossibility": 0.79,
-      "orchestration_marker": 0.68,
-      "detail_quality": 0.61
+      "internal_consistency": 0.88,
+      "physical_impossibility": 0.82,
+      "orchestration_marker": 0.12,
+      "detail_quality": 0.76
     },
-    "credibility_grade": 2,
-    "weighted_score": 0.725
+    "credibility_grade": 3,
+    "weighted_score": 0.645
   },
   {
-    "witness": "Sorin Ash",
+    "witness": "Olin Reed",
     "evidence": [
       {
         "type": "internal_consistency",
-        "description": "Statements S048 and S049 are mutually reinforcing; both document aspects of Rowan Cale's pre-citadel life and connections without any self-contradiction. S048 establishes background in Vel Orun while S049 builds on that foundation with documented activities and relationships.",
+        "description": "No contradictions found in Olin's statements. Behavioral flag INC018 explicitly rates him as 'consistent' with a low risk score of 0.09, indicating reliable recall without self-conflict.",
         "score": 0.78
       },
       {
         "type": "physical_impossibility",
-        "description": "No temporal or physical impossibilities present. Historical record research and documentation of travel/correspondence are routine investigative activities. References to Vel Orun origins and pre-murder period are internally coherent.",
+        "description": "No timeline impossibilities or physical evidence challenges identified. Olin's account of witnessing the ceremony at the shrine-keeper's house presents no logical conflicts with known circumstances.",
         "score": 0.74
       },
       {
         "type": "orchestration_marker",
-        "description": "Claims do not rely on phantom events. Travel, correspondence, and connections are documented through verifiable means. No unverifiable anonymous sources, mysterious strangers, or convenient coincidences shift timelines or alter suspect focus.",
+        "description": "This is not a phantom event claim. Olin describes a concrete, witnessed ceremony with identifiable participants (striking partner, beautiful young woman). His account is corroborated by multiple sources (S040, S045), reducing deflection likelihood.",
         "score": 0.81
       },
       {
         "type": "detail_quality",
-        "description": "Moderate specificity achieved. Locations named (Vel Orun, transit routes), timeframes indicated (historical/pre-citadel, pre-murder), and specific subjects identified (Liora Fen connection, preparations for a woman). However, lacks precise timestamps or granular location data.",
-        "score": 0.68
+        "description": "Provides meaningful specifics: identifies his role as witness, names key participants (striking partner, beautiful young woman), references the secret binding ceremony, and locates the event at the shrine-keeper's house. Moderate granularity without excessive vagueness.",
+        "score": 0.67
       }
     ],
     "metrics": {
       "internal_consistency": 0.78,
       "physical_impossibility": 0.74,
       "orchestration_marker": 0.81,
-      "detail_quality": 0.68
+      "detail_quality": 0.67
     },
     "credibility_grade": 2,
-    "weighted_score": 0.753
+    "weighted_score": 0.75
+  },
+  {
+    "witness": "Orra Kest",
+    "evidence": [
+      {
+        "type": "internal_consistency",
+        "description": "No contradictions within Orra's four statements; they address distinct subjects (glow-wick, scarf, trail movements, confession) without conflicting with each other. The behavioral context about Pira supports rather than undermines S005.",
+        "score": 0.78
+      },
+      {
+        "type": "physical_impossibility",
+        "description": "All four statements describe procedurally plausible actions: recovering physical evidence (glow-wick), interpreting trace evidence (soot marks), tracking trail movements, and questioning document authenticity. No timeline or physical impossibilities identified.",
+        "score": 0.76
+      },
+      {
+        "type": "orchestration_marker",
+        "description": "None of Orra's statements rely on phantom events. Each centers on tangible, traceable evidence or verifiable investigative steps. No unverifiable anonymous sources or convenient coincidences shift accountability.",
+        "score": 0.82
+      },
+      {
+        "type": "detail_quality",
+        "description": "Moderate specificity overall. S005 and S007 include clear subject and location details. S006 lacks location specification. S008 identifies the forum but omits specific grounds for questioning the confession's validity.",
+        "score": 0.66
+      }
+    ],
+    "metrics": {
+      "internal_consistency": 0.78,
+      "physical_impossibility": 0.76,
+      "orchestration_marker": 0.82,
+      "detail_quality": 0.66
+    },
+    "credibility_grade": 2,
+    "weighted_score": 0.755
+  },
+  {
+    "witness": "Rowan Cale",
+    "evidence": [
+      {
+        "type": "internal_consistency",
+        "description": "Both statements describe complementary evasive behaviors (identity concealment and deflection about involvement) that reinforce rather than contradict each other, forming a coherent pattern of self-protection.",
+        "score": 0.68
+      },
+      {
+        "type": "physical_impossibility",
+        "description": "No physical or timeline impossibilities exist. Using borrowed names and framing conversations evasively are plausible human behaviors with no technological or logical barriers.",
+        "score": 0.82
+      },
+      {
+        "type": "orchestration_marker",
+        "description": "While the statements describe potentially deflective framing, they reference real observed behaviors (actual speech to Niko, actual use of alias) rather than relying solely on phantom events. External corroboration noted.",
+        "score": 0.52
+      },
+      {
+        "type": "detail_quality",
+        "description": "Moderate specificity. Location given (citadel proximity) but time references are vague ('when appearing', 'during conversation'). Actions described clearly but without granular supporting details like exact words or timestamps.",
+        "score": 0.47
+      }
+    ],
+    "metrics": {
+      "internal_consistency": 0.68,
+      "physical_impossibility": 0.82,
+      "orchestration_marker": 0.52,
+      "detail_quality": 0.47
+    },
+    "credibility_grade": 3,
+    "weighted_score": 0.623
+  },
+  {
+    "witness": "Samel Dorn",
+    "evidence": [
+      {
+        "type": "internal_consistency",
+        "description": "No self-contradiction detected within S045. The claim presents a coherent historical assertion (binding occurred via deceased shrine-keeper) preserved through both memory and documentary evidence. The behavioral flag regarding Rowan's evasion does not undermine the internal logic of the binding claim itself.",
+        "score": 0.68
+      },
+      {
+        "type": "physical_impossibility",
+        "description": "The 'secret binding' describes a ritualistic/spiritual act rather than a physically falsifiable event. No physical evidence or timeline contradiction challenges the claim. The binding is framed as having already occurred before the murder, creating no chronological impossibility. The supernatural framing is accepted within the narrative framework.",
+        "score": 0.6
+      },
+      {
+        "type": "orchestration_marker",
+        "description": "While the deceased shrine-keeper cannot testify (phantom element), the claim is supported by both witness memory AND documents. The 'secret' nature introduces unverifiability, but corroboration from multiple sources (S040, S045) reduces reliance on a purely phantom event. Partial deflection risk exists but does not constitute complete fabrication.",
+        "score": 0.52
+      },
+      {
+        "type": "detail_quality",
+        "description": "Moderate specificity: subjects identified (Selene, Rowan), actor named (deceased shrine-keeper), temporal ordering established (before murder), and evidentiary basis cited (memory + documents). However, binding location unspecified and procedural details absent. Specific dates/times not provided.",
+        "score": 0.62
+      }
+    ],
+    "metrics": {
+      "internal_consistency": 0.68,
+      "physical_impossibility": 0.6,
+      "orchestration_marker": 0.52,
+      "detail_quality": 0.62
+    },
+    "credibility_grade": 3,
+    "weighted_score": 0.605
+  },
+  {
+    "witness": "Selene Orrel",
+    "evidence": [
+      {
+        "type": "internal_consistency",
+        "description": "Statements S023 and S024 form a logically coherent narrative: she entered a secret binding (S023) and later tried to remove proof upon discovering exposure risk (S024). No self-contradiction exists within her own account. The dual behavioral interpretations (INC003 vs INC004) represent external assessments of motive, not internal conflicts in her statements.",
+        "score": 0.71
+      },
+      {
+        "type": "physical_impossibility",
+        "description": "No timeline impossibility or physical implausibility detected. Secret oath-bindings are plausible in this context. Using an intermediary (Liora Fen) to remove evidence is procedurally reasonable. No physical evidence contradicts her account, nor does the statement create scheduling or logistical impossibilities.",
+        "score": 0.64
+      },
+      {
+        "type": "orchestration_marker",
+        "description": "The claims involve real named individuals (Rowan Cale, Liora Fen) and verifiable actions (requesting proof removal via an intermediary). While the binding itself is secret, the attempts to conceal it leave documentary traces through Liora Fen. Not entirely dependent on phantom events, though the original oath lacks independent corroboration.",
+        "score": 0.52
+      },
+      {
+        "type": "detail_quality",
+        "description": "Moderate specificity: identifies key actors (Selene, Rowan Cale, Liora Fen) and temporal markers (before murder, after exposure risk). However, critical details remain absent—the location of the binding is unknown, the method of the oath is unspecified, and the content of communications through Liora Fen is not detailed. Specific dates, locations, and exact wording of the binding are missing.",
+        "score": 0.57
+      }
+    ],
+    "metrics": {
+      "internal_consistency": 0.71,
+      "physical_impossibility": 0.64,
+      "orchestration_marker": 0.52,
+      "detail_quality": 0.57
+    },
+    "credibility_grade": 3,
+    "weighted_score": 0.61
+  },
+  {
+    "witness": "Sera Voss",
+    "evidence": [
+      {
+        "type": "internal_consistency",
+        "description": "Three statements form a coherent forensic narrative: wound examination (S009) provides physical evidence; position determination (S010) derives logically from wound analysis; perpetrator location (S011) follows from ballistic reconstruction. No self-contradiction detected.",
+        "score": 0.78
+      },
+      {
+        "type": "physical_impossibility",
+        "description": "Standard forensic conclusions from wound examination and projectile analysis. Seated posture at desk, forward lean, and shot origin from room threshold are physically plausible configurations with no temporal or mechanical conflict.",
+        "score": 0.82
+      },
+      {
+        "type": "orchestration_marker",
+        "description": "No phantom events detected. Testimony rests on tangible physical evidence (flechette projectile, wound characteristics, anatomical positioning) and direct observational findings from professional examination—not unverifiable claims or convenient deflections.",
+        "score": 0.88
+      },
+      {
+        "type": "detail_quality",
+        "description": "Strong specificity: precise timing ('post-mortem examination', 'moment of shooting'), explicit locations (Maproom desk, threshold between sleep chamber and maproom), identifiable subjects (Aric Vey), and concrete actions (removed flechette, determined position). Third-gauge calibration adds technical precision.",
+        "score": 0.76
+      }
+    ],
+    "metrics": {
+      "internal_consistency": 0.78,
+      "physical_impossibility": 0.82,
+      "orchestration_marker": 0.88,
+      "detail_quality": 0.76
+    },
+    "credibility_grade": 1,
+    "weighted_score": 0.81
+  },
+  {
+    "witness": "Sorin Ash",
+    "evidence": [
+      {
+        "type": "internal_consistency",
+        "description": "No contradictions within or between S035 and S036. Both statements align coherently—S035 establishes Rowan's background and preparations while S036 confirms his connection to Liora Fen and return journey. The behavior flag INC017 further confirms consistency, noting 'professional investigative work' with corroboration from other sources.",
+        "score": 0.78
+      },
+      {
+        "type": "physical_impossibility",
+        "description": "No timeline impossibilities identified. Claims of travel, correspondence, and movement through Vel Orun and across the sea are physically plausible. No physical evidence contradicts these reports. The statements describe routine investigative observations rather than extraordinary claims requiring special scrutiny.",
+        "score": 0.71
+      },
+      {
+        "type": "orchestration_marker",
+        "description": "No phantom events detected. Sorin's testimony consists of documented investigative findings—verified locations (Vel Orun), confirmed contacts (Liora Fen), and observable actions (travel, correspondence, preparations). There is no reliance on unverifiable anonymous messages, unidentified strangers, or convenient narrative deflections.",
+        "score": 0.84
+      },
+      {
+        "type": "detail_quality",
+        "description": "Moderate specificity achieved. S035 identifies location (Vel Orun), subject (Rowan Cale), and categories of activity (past, travel, correspondence, preparations for a woman). S036 adds connection confirmation and directional movement (return across the sea). While not timestamped with precision, the geographic and relational details provide adequate specificity for investigative purposes.",
+        "score": 0.67
+      }
+    ],
+    "metrics": {
+      "internal_consistency": 0.78,
+      "physical_impossibility": 0.71,
+      "orchestration_marker": 0.84,
+      "detail_quality": 0.67
+    },
+    "credibility_grade": 2,
+    "weighted_score": 0.75
   },
   {
     "witness": "Tavia Orrel",
     "evidence": [
       {
         "type": "internal_consistency",
-        "description": "Statement S037 (admitted destroying/concealing evidence) directly conflicts with documented physical recovery of the same items (ward-key, torn fragments) per EV008. Her simultaneous refusal to explain these items (S036) compounds the inconsistency—she acknowledges concealment but cannot account for evidence that supposedly no longer exists.",
-        "score": 0.32
+        "description": "Three statements form a coherent narrative: Tavia was present in key areas during the relevant timeframe, possessed unexplained critical evidence items, and ultimately admitted to destroying or concealing evidence. No self-contradiction exists within her own statements; the progression from unexplained possession to admission of concealment is logically consistent.",
+        "score": 0.71
       },
       {
         "type": "physical_impossibility",
-        "description": "The core contradiction: if Tavia destroyed or permanently concealed the ward-key and torn fragments, those items could not have been physically recovered by investigators. Either her destruction claim is false/misleading, or the recovery documentation contains inaccuracies. Given her behavioral profile showing deliberate partial disclosures, the former is more probable.",
-        "score": 0.28
+        "description": "No physical impossibilities detected. Observed behaviors (leaving maproom with hidden paper, entering unauthorized chamber, handling items near grate, object falling) are all physically plausible actions. Timeline of movements corroborated by two independent witnesses (Jessa Kade, Deven Holt) aligns with subsequent evidence recovery.",
+        "score": 0.76
       },
       {
         "type": "orchestration_marker",
-        "description": "The 'destruction' narrative functions as a phantom event—conveniently explaining away missing evidence while allowing plausible deniability. The fact that evidence WAS recovered suggests the destruction may have been staged or exaggerated to deflect attention from her actual knowledge of events. Her stated motivation (protecting Selene/family name) provides a sympathetic framing for what may be broader deception.",
-        "score": 0.48
+        "description": "This is not a phantom event scenario. Multiple witnesses provide corroboration across different locations and times. Evidence (ward-key, torn fragments) was actually recovered (S031), establishing physical reality. The private admission (S027) further grounds the claims in verifiable acknowledgment rather than unverifiable accusation.",
+        "score": 0.82
       },
       {
         "type": "detail_quality",
-        "description": "All three statements lack specificity. No precise times, locations, methods of destruction, or sequence of events are provided. S036 simply states 'refusal to explain' without detailing what she said when confronted. S037 uses passive construction ('privately admitted') without describing circumstances, witnesses, or exact nature of concealed items. This vagueness is consistent with a witness constructing a narrative rather than recounting verifiable facts.",
-        "score": 0.31
+        "description": "Moderate specificity. S027 provides strong detail (private admission to investigators, destruction/concealment of evidence). INC001 adds witness corroboration with specific locations (maproom, chamber near grate). However, S025 remains vague ('associated with') and overall statements lack precise timestamps or exact locations for initial acquisition of evidence items.",
+        "score": 0.64
       }
     ],
     "metrics": {
-      "internal_consistency": 0.32,
-      "physical_impossibility": 0.28,
-      "orchestration_marker": 0.48,
-      "detail_quality": 0.31
+      "internal_consistency": 0.71,
+      "physical_impossibility": 0.76,
+      "orchestration_marker": 0.82,
+      "detail_quality": 0.64
     },
-    "credibility_grade": 5,
-    "weighted_score": 0.348
+    "credibility_grade": 2,
+    "weighted_score": 0.733
   }
 ]

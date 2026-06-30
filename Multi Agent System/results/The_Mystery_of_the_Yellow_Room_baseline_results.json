@@ -1,0 +1,169 @@
+{
+  "evaluations": [
+    {
+      "witness": "Jory Kest",
+      "reliability_grade": "D",
+      "credibility_grade": 4,
+      "reasoning": "Kest exhibits unnatural access to multiple evidentiary nodes: footprints, pistol shots, blood, wounded hand, chamber furniture, manor attack, watchman's death, and staged evidence against Cassian Mor. He investigates Selene's hidden Meridia past and controls when his 'final identification' is revealed ('withholds his final identification until he can obtain proof'). This information-withholding pattern constitutes a Narrator Trap\u2014orchestrating the timeline of revelation while maintaining investigative authority over all major evidence streams. His theory about the sealed-room timing is plausible but unproven, and his selective disclosure of findings mirrors the very concealment behaviors he critiques in others.",
+      "prime_suspect_likelihood": 0.25
+    },
+    {
+      "witness": "Eamon Vale",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Vale functions as a secondary narrator who 'accompanies' Kest and 'observes' the pavilion, manor, suspects, and court events. Critically, he 'verifies the purchase of a distinctive reed cane through a city dealer' and 'preserves Kest's explanations without himself solving the case independently.' This dependency on Kest's interpretations, combined with his role as the narrative vehicle for Kest's theories, positions him as a transmission layer rather than an independent source. He provides corroboration for specific facts (cane purchase) but filters all larger conclusions through Kest's framework.",
+      "prime_suspect_likelihood": 0.05
+    },
+    {
+      "witness": "Tobin Quill (Old Tobin)",
+      "reliability_grade": "D",
+      "credibility_grade": 4,
+      "reasoning": "Old Tobin provides direct observation of the midnight incident (Selene locking the door, cries for help, breaking down the door, disordered room, blood, footprints, kerchief, cap, missing pistol) but engages in material concealment: 'He later conceals that he helped an innkeeper's wife leave the grounds after the watchman's death.' This concealment connects him to Tessa Hocket's secret departure and the phantom figure narrative. His early testimony establishes the physical facts of the sealed room, but his later concealment of post-murder movements suggests coordination with other parties or awareness of facts he wishes to suppress.",
+      "prime_suspect_likelihood": 0.15
+    },
+    {
+      "witness": "Dr. Orin Vell",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "As Selene's father and direct eyewitness to the midnight incident, Dr. Vell provides consistent testimony about working with Selene until midnight, Tobin's presence in the laboratory, the forced door, the sealed chamber appearance, two accounted pistol shots, and key control. His brief separation from Selene in the afternoon after speaking with the estate watchman is noted but unexplained. As a close family member with potential motive to protect Selene or the family's reputation, his testimony requires slight calibration, but his observational account of physical facts is internally consistent and corroborated by multiple witnesses.",
+      "prime_suspect_likelihood": 0.1
+    },
+    {
+      "witness": "Selene Vell",
+      "reliability_grade": "D",
+      "credibility_grade": 4,
+      "reasoning": "Selene admits fearing someone, borrowing Old Tobin's pistol, noticing suspicious shadows, and being assaulted by a man\u2014establishing baseline facts. However, she 'gives an incomplete and misleading account of the timing and circumstances, concealing the earlier confrontation and the full reason for her fear in order to protect her father and Cassian Mor.' This represents material deception through strategic omission: the earlier confrontation (which Kest identifies as the 'true' assault) is concealed, shifting the timeline and protecting implicated parties. Her account is partially credible (she was indeed attacked) but fundamentally unreliable regarding when and how the attacks occurred.",
+      "prime_suspect_likelihood": 0.6
+    },
+    {
+      "witness": "Cassian Mor",
+      "reliability_grade": "E",
+      "credibility_grade": 4,
+      "reasoning": "Mor knows more about Selene's hidden past than he will publicly admit and 'understands a cryptic phrase connected to that history.' He helps Kest gain access but 'refuses to explain incriminating absences or reveal Selene's secret even when suspicion falls on him.' His silence actively protects Selene while creating an incriminating vacuum around himself. Combined with the forged evidence trails (resembling Mor at the post office, the cane purchase), this suggests systematic framing orchestrated by parties unknown, with Mor either genuinely innocent and targeted, or complicit in protecting Selene at his own expense. His behavior patterns suggest defensive concealment rather than active guilt.",
+      "prime_suspect_likelihood": 0.35
+    },
+    {
+      "witness": "Inspector Valen Rusk",
+      "reliability_grade": "C",
+      "credibility_grade": 4,
+      "reasoning": "Rusk supplies theories, interprets clues, debates accomplice scenarios, and 'eventually builds a case against Cassian Mor.' Kest believes 'several of his conclusions press the evidence toward a single suspect in ways that are too convenient.' This pattern suggests confirmation bias\u2014fitting evidence to a predetermined narrative rather than following evidence organically. Useful observations exist within his work, but the overall prosecutorial orientation toward Mor undermines his reliability as an unbiased assessor. His theories correlate suspiciously well with the staged evidence designed to implicate Mor.",
+      "prime_suspect_likelihood": 0.05
+    },
+    {
+      "witness": "Magistrate Halden Prout",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Prout records official early facts accurately: sealed Amber Chamber, intact windows and shutters, pavilion layout, blood at vestibule casement, bullets, wounds, footprints, and the theory of a hidden attacker. His error lies in pursuing 'several suspects on circumstantial evidence,' indicating premature commitment to theories before evidence consolidation. His documentary function is reliable; his analytical conclusions are less so. The recorded physical facts remain valuable regardless of his interpretive errors.",
+      "prime_suspect_likelihood": 0.05
+    },
+    {
+      "witness": "Merrow Fenn",
+      "reliability_grade": "A",
+      "credibility_grade": 1,
+      "reasoning": "As registrar, Fenn 'examined or sounded the walls, ceiling, and floor and found no hidden passage, trapdoor, sliding panel, hollow wall, or structural escape route.' This is direct sensory observation conducted professionally, yielding definitive negative results. No deception indicators, no concealment, no unusual access patterns. His testimony is foundational to understanding that the locked-room impossibility must be resolved through timeline manipulation rather than physical escape routes.",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Dr. Lys Farrow",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Farrow provides professional medical assessment: Selene's condition, throat pressure marks showing near-strangulation, and temple injury 'serious but not necessarily caused by a pistol blow.' These observations separate injury facts from assumptions about causation and timing. Her clinical detachment and professional methodology support reliability; her willingness to allow questioning when Selene improves suggests cooperation without apparent concealment motives. Medical testimony helps establish that injuries may not correspond to the officially accepted timeline.",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Garron Bell",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Bell helped force the Amber Chamber door and later admits illegal trapping near the pavilion, explaining suspicious presence. During the later manor watch, he hears shots, fires at a fleeing figure, and 'insists that he could not have overlooked a second person in the narrow court.' His admission of poaching establishes a motive for concealment but also contextualizes his presence innocuously. His testimony about the court shooting is plausible given his position, though self-interest in justifying his watch performance warrants calibration.",
+      "prime_suspect_likelihood": 0.2
+    },
+    {
+      "witness": "Mira Bell",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Mira accompanies Old Tobin to inspect the Amber Chamber window and confirms it 'could not have served as the escape route at midnight.' Later, at Kest's request, she searches Selene's room and finds eyeglasses that become important evidence. Her window inspection provides direct observational corroboration that eliminates a potential escape explanation. Finding the glasses at Kest's behest suggests cooperative witness behavior without apparent ulterior motives.",
+      "prime_suspect_likelihood": 0.05
+    },
+    {
+      "witness": "Bram Hocket",
+      "reliability_grade": "D",
+      "credibility_grade": 4,
+      "reasoning": "Hocket provides local gossip about the murdered watchman, reveals hostility toward him, indirectly confirms the Bells' poaching through inn game supply, and 'initially accuses the watchman of being involved in the earlier attack.' His jealousy and threats make him 'a plausible but possibly misleading suspect.' Hostility toward the victim combined with initial accusatory behavior suggests deflection tactics\u2014redirecting suspicion onto the deceased. His information about local dynamics has value but his motivated narrative requires skepticism.",
+      "prime_suspect_likelihood": 0.4
+    },
+    {
+      "witness": "Tessa Hocket",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Tessa was secretly involved with the watchman, came to manor grounds disguised in a black shawl, used birdlike cries as a signal, saw a fleeing shadow after the watchman was killed, found the body, and was helped away by Old Tobin. Her concealed affair initially confuses the case but later explains the phantom figure and some suspicious sounds and tracks. Her delayed admission of disguise, signaling, and discovery suggests initial concealment followed by eventual truth-telling\u2014this pattern indicates she was protecting herself initially but ultimately provided accurate explanatory information.",
+      "prime_suspect_likelihood": 0.25
+    },
+    {
+      "witness": "Nanny Voss",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Voss was ill, the ferret remained with her, and she 'heard an identical cry outside on the night of the crime while the animal was in her lap.' This establishes that the cry was human-imitative rather than animal-produced, since her ferret was present and not the source. Her illness provides innocent explanation for her presence/absence from other events. Her testimony is straightforward, internally consistent, and provides a crucial negative: the cry was not the Chapel Ghost ferret.",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Edwin Graves",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Graves is a former suitor of Selene who appears at Alderfen, describes his movements, last saw the watchman around eleven while arranging luggage shipment, and is present during the later court scene. Kest's inquiries reveal Graves once loved Selene and 'had fallen into drink,' but 'his role remains distinct from the central scheme.' Peripheral involvement with Selene's past, tangential to the murder, and present at relevant times without clear connection to events makes him a possible distraction\u2014potentially a Phantom Actor introduced to diffuse suspicion.",
+      "prime_suspect_likelihood": 0.15
+    },
+    {
+      "witness": "Marius Reed",
+      "reliability_grade": "B",
+      "credibility_grade": 3,
+      "reasoning": "Reed tells Eamon Vale that 'a man resembling Cassian Mor bought a yellow reed cane like the one later associated with the investigation on the evening of the first crime.' The sale and resemblance are important, but 'the apparent implication against Mor may be misleading.' Reed provides first-hand transactional evidence (he sold the cane) but can only confirm visual resemblance, not positive identification. This creates a convenient evidentiary node supporting the frame against Mor without guaranteeing Mor's actual involvement.",
+      "prime_suspect_likelihood": 0.1
+    },
+    {
+      "witness": "Northgate Post Clerk",
+      "reliability_grade": "B",
+      "credibility_grade": 3,
+      "reasoning": "The clerk reports that 'a man resembling Cassian Mor asked about a poste-restante letter after Selene had already collected it.' This suggests someone may have been 'manipulating the letter trail and using Mor's appearance or name to create suspicion.' Like the cane purchase, this evidence relies on visual resemblance rather than positive identification, pointing toward impersonation or deliberate misdirection rather than Mor's actual presence. The clerk's observation is accurate; its implications require cross-referencing with other evidence.",
+      "prime_suspect_likelihood": 0.05
+    },
+    {
+      "witness": "Railway Porter at Bracken Halt",
+      "reliability_grade": "B",
+      "credibility_grade": 3,
+      "reasoning": "The porter 'identifies Cassian Mor as arriving by train at about half past ten on the night of the later manor attack.' This creates 'a damaging gap in Mor's alibi,' though Kest believes 'the timing may have been engineered to lure Mor away and delay him.' Positive identification based on visual recognition in a transit context carries inherent uncertainty. If Kest's hypothesis about engineered timing is correct, this identification\u2014however sincere\u2014reflects a manipulated situation rather than Mor's voluntary presence.",
+      "prime_suspect_likelihood": 0.1
+    },
+    {
+      "witness": "Anonymous Gazette Correspondent",
+      "reliability_grade": "D",
+      "credibility_grade": 4,
+      "reasoning": "The correspondent publishes 'the first detailed public account of the Amber Chamber affair, including Old Tobin's interview, the magistrate's comments, the sealed-room facts, the Chapel Ghost animal story, and Nanny Voss's statement.' The report 'preserves useful early details but is sensational, incomplete, and shaped by rumor.' Journalism of this type amplifies certain narratives (sealed-room mystery, supernatural elements) while suppressing others, effectively constructing public perception along predetermined lines. The correspondent functions as an amplification layer for the official narrative.",
+      "prime_suspect_likelihood": 0.05
+    },
+    {
+      "witness": "Editor Silas Wren",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Wren receives Jory Kest's sealed note naming the person Kest believes responsible 'before the formal hearing and is prepared to produce it if Kest does not return.' This procedural safeguard confirms that Kest reached a definite solution before departing to gather proof from Selene's overseas past. Wren's role is custodial rather than investigative, but his existence as a failsafe witness adds verifiability to Kest's ultimate accusation. His testimony confirms the existence and content of Kest's pre-departure determination.",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Master Builder Corvin Hale",
+      "reliability_grade": "A",
+      "credibility_grade": 1,
+      "reasoning": "Hale is consulted about the pavilion's construction and expected to inspect for 'concealed panels, trapdoors, ceiling cracks, underground outlets, or hidden passages.' His professional expertise and thorough examination yield definitive findings. Like Fenn's wall-sounding, Hale's structural inspection removes physical escape routes from consideration, reinforcing that the locked-room problem must be solved through timeline manipulation rather than architectural loopholes. Expert testimony with no concealment indicators and exhaustive methodology.",
+      "prime_suspect_likelihood": 0.0
+    }
+  ],
+  "final_case_summary": "The primary 'Narrator' is Jory Kest (w01), who exercises unnatural access across all major evidentiary clusters\u2014footprints, blood, pistol shots, staged evidence, Selene's hidden past\u2014and orchestrates the timeline of revelation through strategic information withholding ('withholds his final identification until he can obtain proof'). Secondary narrator Eamon Vale (w02) functions as a transmission layer, 'preserving Kest's explanations without himself solving the case independently.'\n\nThe 'Narrative Paradox' emerges from the collision between high-reliability witnesses (Fenn, Hale, Dr. Farrow, Mira Bell) who provide physically corroborated, internally consistent testimony establishing the sealed-room impossibility, and the central witnesses (Selene Vell, Old Tobin, Cassian Mor) whose concealment patterns suggest the impossibility was deliberately constructed rather than genuinely inexplicable. Selene's material deception about 'the timing and circumstances'\u2014specifically concealing 'the earlier confrontation'\u2014indicates the locked-room assault did not occur when officially believed. The physical impossibility of escape (confirmed by Fenn and Hale) thus reflects not a genuine mystery requiring supernatural or architectural solutions, but a staged timeline where the 'true' assault occurred earlier, with the midnight locked-room event either fabricated entirely or representing a different sequence of events altogether. The evidence trails implicating Cassian Mor (cane purchase, post office appearance, railway identification)\u2014all based on 'resemblance' rather than positive identification\u2014suggest coordinated framing by parties whose identity remains obscured behind Selene's protective concealment and Kest's delayed disclosure.",
+  "telemetry_log": [
+    {
+      "agent_name": "BaselineAgent",
+      "input_tokens": 3238,
+      "output_tokens": 5982,
+      "execution_time_seconds": 164.92,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 23514
+    }
+  ]
+}

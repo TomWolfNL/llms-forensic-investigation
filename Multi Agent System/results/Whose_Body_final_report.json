@@ -1,0 +1,3902 @@
+{
+  "timeline": [
+    {
+      "event_id": "E001",
+      "statement_ids": [
+        "S014"
+      ],
+      "time": "Years prior to current events",
+      "location": "Social circles",
+      "subject": "Lady Mira Vale's romantic history",
+      "action": "supplied background on Lady Mira Vale's prior attachment",
+      "context": "Established possible personal motive: Lady Mira Vale had once been expected to marry Dr. Edrin Sol before marrying Orren Vale instead",
+      "witnesses": [
+        "Dowager Marchioness Selda Quill"
+      ]
+    },
+    {
+      "event_id": "E002",
+      "statement_ids": [
+        "S024"
+      ],
+      "time": "Permanent condition",
+      "location": "General",
+      "subject": "Orren Vale",
+      "action": "was very short-sighted",
+      "context": "Makes voluntary departure without lenses highly improbable",
+      "witnesses": [
+        "Milo Tern"
+      ]
+    },
+    {
+      "event_id": "E003",
+      "statement_ids": [
+        "S017",
+        "S018"
+      ],
+      "time": "Documented in diary entries",
+      "location": "Vale residence",
+      "subject": "Household matters",
+      "action": "recorded absences and visits",
+      "context": "Diary documented Lady Mira's absence and Dr. Sol's visits to the household",
+      "witnesses": [
+        "Master Orren Vale"
+      ]
+    },
+    {
+      "event_id": "E004",
+      "statement_ids": [
+        "S026",
+        "S027"
+      ],
+      "time": "Evening before disappearance (dinner at Grand Lantern House)",
+      "location": "Grand Lantern House restaurant",
+      "subject": "Orren Vale",
+      "action": "seemed healthy and cheerful, appeared satisfied about next day's mineral-rights transaction",
+      "context": "Evidence makes pre-planned disappearance unlikely before secret appointment",
+      "witnesses": [
+        "Vale's Supper Companions"
+      ]
+    },
+    {
+      "event_id": "E005",
+      "statement_ids": [
+        "S028",
+        "S029"
+      ],
+      "time": "Ongoing business situation",
+      "location": "Club setting",
+      "subject": "Mineral-rights deal and rivals",
+      "action": "Vale was central to pending mineral-rights deal; Calder Vane was a rival industrial figure",
+      "context": "Several speculators depended on Vale's continued involvement; defines possible financial motive for Vale's disappearance",
+      "witnesses": [
+        "Lorian Fesk"
+      ]
+    },
+    {
+      "event_id": "E006",
+      "statement_ids": [
+        "S035",
+        "S036",
+        "S037"
+      ],
+      "time": "~9:15 PM",
+      "location": "Near Bellfounder Row",
+      "subject": "Bearded well-dressed man",
+      "action": "seen a well-dressed bearded man in a sea-otter coat and high felt hat, asked whether the road led to the canal-side terrace, identified as Orren Vale",
+      "context": "Later came forward after hearing of the bath-room corpse discovery; formerly familiar with fashionable Ashgate society; recognition by reputation and appearance",
+      "witnesses": [
+        "Unnamed Bellfounder Road Woman",
+        "Unnamed Companion of the Bellfounder Road Woman"
+      ]
+    },
+    {
+      "event_id": "E007",
+      "statement_ids": [
+        "S045"
+      ],
+      "time": "Monday evening",
+      "location": "Dr. Sol's residence",
+      "subject": "Male visitor to Dr. Sol",
+      "action": "described a Monday-evening male visitor to Dr. Sol who apparently departed around ten",
+      "context": "Conversation with Bram Vell; did not understand significance of details",
+      "witnesses": [
+        "Harlan Greaves"
+      ]
+    },
+    {
+      "event_id": "E008",
+      "statement_ids": [
+        "S046"
+      ],
+      "time": "Night following Monday",
+      "location": "Between Sol's house and the Anatomists' College",
+      "subject": "Dr. Sol's movements",
+      "action": "noted Sol's movements between house and college during the night",
+      "context": "Irregular nocturnal activity documented",
+      "witnesses": [
+        "Harlan Greaves"
+      ]
+    },
+    {
+      "event_id": "E009",
+      "statement_ids": [
+        "S004",
+        "S047",
+        "S049"
+      ],
+      "time": "~3 AM",
+      "location": "Dr. Sol's residence",
+      "subject": "Bathing activity",
+      "action": "ran a loud bath at about three in the morning",
+      "context": "Sol had a late male visitor, moved about house and college unusually late, and ran a loud bath at about three in the morning; servants were disturbed by the late bath",
+      "witnesses": [
+        "Bram Vell",
+        "Harlan Greaves",
+        "Marda Greaves"
+      ]
+    },
+    {
+      "event_id": "E010",
+      "statement_ids": [
+        "S048"
+      ],
+      "time": "Ongoing",
+      "location": "Dr. Sol's residence, near cistern room",
+      "subject": "Servants' sleeping arrangements",
+      "action": "confirmed servants slept near the cistern room",
+      "context": "Corroborated through Harlan's account",
+      "witnesses": [
+        "Marda Greaves"
+      ]
+    },
+    {
+      "event_id": "E011",
+      "statement_ids": [
+        "S041"
+      ],
+      "time": "Monday",
+      "location": "Chelsea Ward Infirmary",
+      "subject": "Unknown vagrant",
+      "action": "reported that an unknown vagrant suffered injury by falling scaffold planks, showed neurological symptoms, and died on Monday",
+      "context": "Body delivered to Anatomists' College by Dr. Sol's arrangement",
+      "witnesses": [
+        "Chelsea Ward Infirmary Medical Officer"
+      ]
+    },
+    {
+      "event_id": "E012",
+      "statement_ids": [
+        "S007"
+      ],
+      "time": "During investigation",
+      "location": "Anatomists' College",
+      "subject": "college cadaver records",
+      "action": "denied any college cadaver was missing",
+      "context": "Direct denial contradicts later student recollection of dissecting a suspiciously well-fed body",
+      "witnesses": [
+        "Dr. Edrin Sol"
+      ]
+    },
+    {
+      "event_id": "E013",
+      "statement_ids": [
+        "S009",
+        "S011",
+        "S008",
+        "S001"
+      ],
+      "time": "Approximately 8:00 AM",
+      "location": "Copper bathing room, 47 Bellfounder Row",
+      "subject": "bath-room corpse",
+      "action": "found naked corpse in bath; noted marks on bathroom window-sill; inspected corpse noting post-mortem grooming",
+      "context": "Called for spirits and watch assistance; said he did not know the dead man; window marks suggested possible external entry; Body displayed soap and beard hairs in mouth, signs of poverty including poor teeth, dirty ears, blistered feet, calloused hands, flea-bites, and faint disinfectant smell",
+      "witnesses": [
+        "Corwin Nale",
+        "Tessa Brindle",
+        "Captain Halric Sable",
+        "Marquis Ivo Quill"
+      ]
+    },
+    {
+      "event_id": "E014",
+      "statement_ids": [
+        "S015"
+      ],
+      "time": "Morning after Vale's disappearance",
+      "location": "Unknown (telephone call)",
+      "subject": "Corwin Nale",
+      "action": "telephoned in distress",
+      "context": "Reported to the Dowager Marchioness",
+      "witnesses": [
+        "Mistress Alian Rusk"
+      ]
+    },
+    {
+      "event_id": "E015",
+      "statement_ids": [
+        "S016"
+      ],
+      "time": "Scheduled time (morning after discovery)",
+      "location": "Church roof",
+      "subject": "church-roof inspection",
+      "action": "could not attend scheduled inspection",
+      "context": "Reason for cancellation prevented attendance",
+      "witnesses": [
+        "Mistress Alian Rusk"
+      ]
+    },
+    {
+      "event_id": "E016",
+      "statement_ids": [
+        "S002",
+        "S003"
+      ],
+      "time": "Investigation period following midnight entry",
+      "location": "Vale's washroom, Ashgate Crescent",
+      "subject": "footprint and hair evidence",
+      "action": "interpreted footprint, hair, gloved smears as signs of impersonation; recorded smaller bare footprint and auburn hairs",
+      "context": "Evidence suggested two people were present: smaller bare footprint, auburn hair mixed with Vale's dark hair, and smears consistent with gloved hands; Found mixed dark and auburn hairs in Vale's hat and on the pillow alongside the smaller footprint",
+      "witnesses": [
+        "Marquis Ivo Quill",
+        "Bram Vell"
+      ]
+    },
+    {
+      "event_id": "E017",
+      "statement_ids": [
+        "S019",
+        "S023"
+      ],
+      "time": "At time of disappearance",
+      "location": "Ashgate Crescent townhouse",
+      "subject": "Vale's personal effects",
+      "action": "lens, clothes, latchkey, and personal effects remained",
+      "context": "Central to determining whether he departed voluntarily or was impersonated; No fresh clothing was missing - contradicts normal departure",
+      "witnesses": [
+        "Master Orren Vale",
+        "Milo Tern"
+      ]
+    },
+    {
+      "event_id": "E018",
+      "statement_ids": [
+        "S022",
+        "S025"
+      ],
+      "time": "Morning after midnight intrusion",
+      "location": "Vale's bedroom, Ashgate Crescent",
+      "subject": "bedroom condition",
+      "action": "bed appeared slept in",
+      "context": "Pillows placed toward middle or wall side rather than Vale's usual side; indicates someone unfamiliar with Vale's sleeping habits staged the bed",
+      "witnesses": [
+        "Milo Tern",
+        "Nessa Coil"
+      ]
+    },
+    {
+      "event_id": "E019",
+      "statement_ids": [
+        "S020",
+        "S021"
+      ],
+      "time": "Around midnight",
+      "location": "Ashgate Crescent townhouse",
+      "subject": "unidentified man at doorstep",
+      "action": "man resembling Vale arrived at doorstep, let himself in and went upstairs",
+      "context": "Supports appearance of Vale's return while leaving true identity uncertain; Used key, suggesting legitimate access or possession of Vale's keys",
+      "witnesses": [
+        "Irene Saff"
+      ]
+    },
+    {
+      "event_id": "E020",
+      "statement_ids": [
+        "S005"
+      ],
+      "time": "Following disappearance (night of dinner)",
+      "location": "Ashgate Crescent townhouse",
+      "subject": "Vale's personal effects",
+      "action": "documented missing latchkey and abandoned belongings",
+      "context": "Vale's clothes, boots, watch, purse, ledgers, latchkey, and both pairs of his ordinary lenses remained behind despite apparent return",
+      "witnesses": [
+        "Detective Mara Fen"
+      ]
+    },
+    {
+      "event_id": "E021",
+      "statement_ids": [
+        "S010",
+        "S012",
+        "S013"
+      ],
+      "time": "Monday night, returned near 2:00 AM",
+      "location": "Masons' Masquerade, then Bellfounder Row",
+      "subject": "Nale's whereabouts and Tessa's alibi",
+      "action": "admitted visiting illegal gaming cellar, returning home at 1:30 AM; attended masquerade with Perri Glain, returned near 2 AM",
+      "context": "Initially claimed book-buying trip; actually caught in police raid at illicit gaming cellar, received bruise, came home late, drank milk with sleeping draught, heard nothing overnight; First contradicted herself about Nale's return, then admitted truth; did not recheck flat upon returning; Voluntarily confirmed Tessa's story; saw nothing suspicious in the street",
+      "witnesses": [
+        "Corwin Nale",
+        "Tessa Brindle",
+        "Perri Glain"
+      ]
+    },
+    {
+      "event_id": "E022",
+      "statement_ids": [
+        "S052",
+        "S053"
+      ],
+      "time": "At inquest",
+      "location": "Bellfounder Row",
+      "subject": "Bellfounder Row inquest",
+      "action": "conducted formal inquest; questioned seven witnesses including Nale, Brindle, Glain, Sable, Sol, Norr, and Fallow",
+      "context": "Official judicial proceeding into the discovered corpse; Systematic examination of all relevant parties at the hearing",
+      "witnesses": [
+        "Coroner Jabez Morn"
+      ]
+    },
+    {
+      "event_id": "E023",
+      "statement_ids": [
+        "S006"
+      ],
+      "time": "During official investigation",
+      "location": "Official proceeding venue",
+      "subject": "bath-house corpse identity",
+      "action": "stated dead man seemed unknown person of some means",
+      "context": "Contradicted simple identification as Vale by noting the deceased appeared to be someone of means, not a common vagrant",
+      "witnesses": [
+        "Dr. Edrin Sol"
+      ]
+    },
+    {
+      "event_id": "E024",
+      "statement_ids": [
+        "S038"
+      ],
+      "time": "At inquest",
+      "location": "Inquest proceedings",
+      "subject": "Bath-room corpse",
+      "action": "agreed with Dr. Sol on injuries but disputed timing, suggesting death might not have occurred until several days after the neck injury",
+      "context": "Challenges simple same-night death theory; fits history of injured unknown vagrant",
+      "witnesses": [
+        "Dr. Pavel Norr"
+      ]
+    },
+    {
+      "event_id": "E025",
+      "statement_ids": [
+        "S039",
+        "S040"
+      ],
+      "time": "During investigation period",
+      "location": "Anatomists' College dissecting rooms",
+      "subject": "College cadaver records",
+      "action": "explained the official system for receiving unclaimed bodies from infirmaries and hospitals; insisted no teaching subject appeared to be missing",
+      "context": "Established protocol for body acquisition; Despite his honest assessment, substitution could have gone unnoticed",
+      "witnesses": [
+        "Crispin Fallow"
+      ]
+    },
+    {
+      "event_id": "E026",
+      "statement_ids": [
+        "S042",
+        "S043",
+        "S044"
+      ],
+      "time": "During student dissection",
+      "location": "Anatomists' College dissecting rooms",
+      "subject": "Dissection subject",
+      "action": "recollected dissecting the arms of a middle-aged, rheumatic, sedentary, well-fed man who seemed unusually prosperous for an unclaimed pauper; remembered that a senior doctor took the head away separately",
+      "context": "Raises doubt whether the dissected body was truly the infirmary vagrant; Head removed for separate study; Supports oddity of the college cadaver; secondhand account",
+      "witnesses": [
+        "Lenox Marr",
+        "Arven Prill"
+      ]
+    },
+    {
+      "event_id": "E027",
+      "statement_ids": [
+        "S033",
+        "S034"
+      ],
+      "time": "During crowded rail journey between inland towns",
+      "location": "Rail platform",
+      "subject": "silver nose-clamps",
+      "action": "identified the nose-clamps as his lost property; lost them during a crowded platform crush",
+      "context": "Explains how object could have been separated from him before appearing on corpse; Sentimental chain attachment noted - explains separation from owner",
+      "witnesses": [
+        "Maeron Pith"
+      ]
+    },
+    {
+      "event_id": "E028",
+      "statement_ids": [
+        "S032"
+      ],
+      "time": "Relevant to time of crime",
+      "location": "Crime scene evidence (bathroom/floor痕迹)",
+      "subject": "auburn hair",
+      "action": "auburn hairs found mixed with Vale's dark hair",
+      "context": "Made him a possible source until later fingerprint comparison weakened suspicion",
+      "witnesses": [
+        "Sorin Ash"
+      ]
+    },
+    {
+      "event_id": "E029",
+      "statement_ids": [
+        "S050",
+        "S051"
+      ],
+      "time": "During investigation period",
+      "location": null,
+      "subject": "Lady Mira Vale",
+      "action": "authorized continued investigation; held belief of possible kidnapping or ransom",
+      "context": "She empowered Detective Fen to pursue the case further despite unclear prospects; Her own theory which she acknowledged may be incorrect",
+      "witnesses": [
+        "Lady Mira Vale"
+      ]
+    },
+    {
+      "event_id": "E030",
+      "statement_ids": [
+        "S030",
+        "S031"
+      ],
+      "time": "After Vale's disappearance",
+      "location": "Unspecified",
+      "subject": "Calder Vane",
+      "action": "Vale's disappearance might be useful to his commercial interests; would welcome Vale back once his own transaction was complete",
+      "context": "Commercial motive acknowledged though personal hostility denied; Denies personal hostility despite acknowledging commercial advantage",
+      "witnesses": [
+        "Calder Vane"
+      ]
+    },
+    {
+      "event_id": "E031",
+      "statement_ids": [
+        "S054"
+      ],
+      "time": "During inquest",
+      "location": "Bellfounder Row",
+      "subject": "City Watch conclusions",
+      "action": "challenged city watch assumptions and directed jury toward open finding",
+      "context": "Exposed weaknesses in the police theory that the deceased was Master Vale and that Nale was responsible",
+      "witnesses": [
+        "Coroner Jabez Morn"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "contradiction_id": "CONT001",
+      "type": "identity_conflict",
+      "event_ids": [
+        "E013",
+        "E023"
+      ],
+      "explanation": "Event E013 (bath-house corpse discovery) documented extensive poverty markers: poor teeth, dirty ears, blistered feet, calloused hands, flea-bites, and a disinfectant smell indicating a vagrant. However, Event E023 records Dr. Edrin Sol stating at the inquest that the dead man 'seemed unknown person of some means.' These characterizations are mutually exclusive - a person cannot simultaneously display severe poverty indicators AND appear to be of means. Someone is either lying about the corpse's condition or misidentifying/classifying the body incorrectly.",
+      "severity": 0.92
+    },
+    {
+      "contradiction_id": "CONT002",
+      "type": "causal_conflict",
+      "event_ids": [
+        "E012",
+        "E024"
+      ],
+      "explanation": "Event E012 has Dr. Sol denying any college cadaver was missing, implicitly supporting the official timeline. Event E024 shows Dr. Pavel Norr at the inquest agreeing with Sol on injuries but DISPUTING THE TIMING, suggesting death might not have occurred until several days after the neck injury. This directly contradicts the single-night narrative that the authorities were constructing. If Norr's assessment is correct, the victim survived longer than claimed, and the entire circumstantial case collapses.",
+      "severity": 0.88
+    },
+    {
+      "contradiction_id": "CONT003",
+      "type": "identity_conflict",
+      "event_ids": [
+        "E011",
+        "E026"
+      ],
+      "explanation": "Event E011 establishes that an unknown vagrant suffered injury from falling scaffold planks, showed neurological symptoms, and died at Chelsea Ward Infirmary on Monday, with the body delivered to the Anatomists' College by Dr. Sol's arrangement. However, Event E026 records student recollections of dissecting 'the arms of a middle-aged, rheumatic, sedentary, WELL-FED MAN who seemed unusually PROSPEROUS for an unclaimed pauper.' A vagrant dying from accidental injury would not typically exhibit the physical characteristics of prosperity and sedentary living. Either the wrong body was dissected, or the infirmary's identification of the deceased was falsified.",
+      "severity": 0.85
+    },
+    {
+      "contradiction_id": "CONT004",
+      "type": "physical_evidence_conflict",
+      "event_ids": [
+        "E006",
+        "E017",
+        "E020"
+      ],
+      "explanation": "Event E006 reports a bearded man in a sea-otter coat matching Orren Vale's description being seen near Bellfounder Row at approximately 9:15 PM, asking about the canal-side terrace. However, Events E017 and E020 document that at the time of disappearance, Vale's LENS, CLOTHES, LATCHKEY, AND PERSONAL EFFECTS ALL REMAINED behind. Event E002 confirms Vale was very short-sighted, making voluntary departure without lenses 'highly improbable.' If the bearded man WAS Vale, he inexplicably left all essential items behind. If he was NOT Vale, then someone was impersonating him abroad that evening while the real Vale presumably remained elsewhere.",
+      "severity": 0.82
+    },
+    {
+      "contradiction_id": "CONT005",
+      "type": "action_conflict",
+      "event_ids": [
+        "E019",
+        "E020"
+      ],
+      "explanation": "Event E019 records Irene Saff witnessing 'a man resembling Vale' arriving at the Ashgate Crescent doorstep around midnight, letting himself in with a key and going upstairs. However, Event E020 (Detective Mara Fen's documentation) lists among missing/abandoned items 'VALE'S LATCHKEY.' If the man used a key to enter (implying possession of the latchkey), the latchkey cannot simultaneously be documented as missing from the premises. This suggests either the key was returned/surreptitiously left behind, or there is confusion about what was actually missing versus what was merely displaced.",
+      "severity": 0.75
+    },
+    {
+      "contradiction_id": "CONT006",
+      "type": "action_conflict",
+      "event_ids": [
+        "E018",
+        "E019"
+      ],
+      "explanation": "Event E018 documents that the bed appeared slept in, but the pillows were placed toward the middle or wall side 'rather than Vale's usual side,' indicating someone unfamiliar with Vale's sleeping habits staged the bed. Event E019 records a man RESEMBLING Vale arriving at midnight and entering. If the man entering was an impersonator (supported by the abnormal pillow placement), then the physical resemblance was deliberate deception. However, no known suspect is identified as having such resemblance to Vale, creating an unresolved identity gap in the impersonation theory.",
+      "severity": 0.68
+    },
+    {
+      "contradiction_id": "CONT007",
+      "type": "physical_evidence_conflict",
+      "event_ids": [
+        "E016",
+        "E028"
+      ],
+      "explanation": "Event E016 records auburn hairs mixed with Vale's dark hair found in the washroom along with a smaller bare footprint and gloved smears, interpreted as signs of impersonation. Event E028 identifies auburn hairs as making Sorin Ash a possible source, though fingerprint comparison later weakened suspicion. However, NO WITNESS anywhere in the timeline places Sorin Ash at either the Vale residence OR the Bellfounder Row location during the relevant timeframe. His auburn hair connects him to the crime scene physically but no testimonial evidence corroborates his presence there.",
+      "severity": 0.62
+    }
+  ],
+  "attributes": [
+    {
+      "person": "Marquis Ivo Quill",
+      "attributes": [
+        {
+          "claim": "Is an investigator who examines crime scenes",
+          "source": "S001",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Inspects properties for forensic evidence",
+          "source": "S002",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Bram Vell",
+      "attributes": [
+        {
+          "claim": "Photographs crime scenes professionally",
+          "source": "S003",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Identifies fingerprint patterns",
+          "source": "S003",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Poses as a casual acquaintance to gather intelligence",
+          "source": "S004",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Conversed with Harlan Greaves",
+          "source": "S045",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "person": "Detective Mara Fen",
+      "attributes": [
+        {
+          "claim": "Is a detective investigating Vale's disappearance",
+          "source": "S005",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Dr. Edrin Sol",
+      "attributes": [
+        {
+          "claim": "Is a doctor who provides medical evidence",
+          "source": "S006",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Has access to college cadaver records",
+          "source": "S007",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Had a male visitor on Monday night",
+          "source": "S004",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Moved about house and college unusually late",
+          "source": "S004",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Ran a loud bath at approximately 3 AM",
+          "source": "S004",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Former romantic attachment to Lady Mira Vale before she married Orren Vale",
+          "source": "S014",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Frequent visitor to the Vale household",
+          "source": "S018",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Captain Halric Sable",
+      "attributes": [
+        {
+          "claim": "Is a police captain",
+          "source": "S008",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Makes arrests",
+          "source": "S008",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Corwin Nale",
+      "attributes": [
+        {
+          "claim": "Owns the Copper bathing room at 47 Bellfounder Row",
+          "source": "S009",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Lives at 47 Bellfounder Row",
+          "source": "S009",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Secretly visits illegal gaming cellars",
+          "source": "S010",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Uses sleeping draught",
+          "source": "S010",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Received a bruise at an illegal gaming cellar",
+          "source": "S010",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Resides at Bellfounder Row",
+          "source": "S014",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Discovered a dead naked man wearing silver nose-clamps in his bath",
+          "source": "S015",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Telephoned Mistress Alian Rusk in distress",
+          "source": "S015",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Tessa Brindle",
+      "attributes": [
+        {
+          "claim": "Was arrested by Captain Sable",
+          "source": "S008",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Domestic maid employed at Dame Elspeth's residence at 47 Bellfounder Row",
+          "source": "S011",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Has Perri Glain as her romantic suitor",
+          "source": "S012",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Attended the Masons' Masquerade with Perri Glain on Monday night",
+          "source": "S012",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Returned home near 2:00 AM without rechecking the flat",
+          "source": "S012",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "The Dead Man",
+      "attributes": [
+        {
+          "claim": "Appeared to be a person of some means",
+          "source": "S006",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Had signs of poverty and rough labor",
+          "source": "S001",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Had poor teeth",
+          "source": "S001",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Had dirty ears",
+          "source": "S001",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Had blistered feet",
+          "source": "S001",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Had calloused hands",
+          "source": "S001",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Had flea bites",
+          "source": "S001",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Had soap and beard hairs in mouth",
+          "source": "S001",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Had a faint disinfectant smell",
+          "source": "S001",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Showed signs of post-mortem grooming",
+          "source": "S001",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Vale",
+      "attributes": [
+        {
+          "claim": "Owns a townhouse at Ashgate Crescent",
+          "source": "S002",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Disappeared after dinner",
+          "source": "S005",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Owned dark hair",
+          "source": "S003",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Wore ordinary spectacles",
+          "source": "S005",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Owned ledgers",
+          "source": "S005",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Dame Elspeth",
+      "attributes": [
+        {
+          "claim": "Resides at 47 Bellfounder Row",
+          "source": "S011",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Receives bathing assistance from Tessa Brindle",
+          "source": "S011",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Perri Glain",
+      "attributes": [
+        {
+          "claim": "Is Tessa Brindle's suitor",
+          "source": "S012",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Accompanied Tessa to the Masons' Masquerade on Monday night",
+          "source": "S012",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Returned Tessa to Bellfounder Row between approximately 1:30 and 2:00 AM",
+          "source": "S013",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Lady Mira Vale",
+      "attributes": [
+        {
+          "claim": "Was formerly expected to marry Dr. Edrin Sol before marrying Orren Vale",
+          "source": "S014",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Wife of Master Orren Vale",
+          "source": "S014",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Was absent from the household",
+          "source": "S017",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Authorizes investigations",
+          "source": "S050",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Empowered Detective Fen to pursue the case",
+          "source": "S050",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Is the wife of Master Orren Vale",
+          "source": "S051",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Master Orren Vale",
+      "attributes": [
+        {
+          "claim": "Husband of Lady Mira Vale",
+          "source": "S014",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Maintains a diary documenting household affairs",
+          "source": "S017",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Owns a townhouse at Ashgate Crescent",
+          "source": "S019",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Left behind personal effects including lenses, clothes, latchkey, and other items at the townhouse",
+          "source": "S019",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Is the husband of Lady Mira Vale",
+          "source": "S051",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Dowager Marchioness Selda Quill",
+      "attributes": [
+        {
+          "claim": "Received the first report of the body from a rector's wife",
+          "source": "S014",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Identified Nale's address and circumstances",
+          "source": "S014",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Provided shelter to Dame Elspeth",
+          "source": "S014",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Mistress Alian Rusk",
+      "attributes": [
+        {
+          "claim": "Female correspondent who received a distressing telephone call from Corwin Nale",
+          "source": "S015",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Unable to attend a scheduled church-roof inspection",
+          "source": "S016",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Irene Saff",
+      "attributes": [
+        {
+          "claim": "Witnessed a man resembling Vale arrive at the doorstep around midnight",
+          "source": "S020",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Heard an intruder let himself in using a key and go upstairs",
+          "source": "S021",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Orren Vale",
+      "attributes": [
+        {
+          "claim": "Is very short-sighted",
+          "source": "S024",
+          "confidence": 1.0
+        },
+        {
+          "claim": "Is central to a pending mineral-rights deal that several speculators depend upon",
+          "source": "S028",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Known in fashionable Ashgate society circles",
+          "source": "S037",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Recognizable by reputation and appearance",
+          "source": "S037",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Dark-haired",
+          "source": "S032",
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "person": "Calder Vane",
+      "attributes": [
+        {
+          "claim": "Is a rival industrial figure to Orren Vale",
+          "source": "S029",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Acknowledges Vale's disappearance might serve his commercial interests",
+          "source": "S030",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Has a pending transaction expected to conclude before welcoming Orren Vale back",
+          "source": "S031",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "person": "Milo Tern",
+      "attributes": [
+        {
+          "claim": "Examined Vale's bedroom the morning after the intrusion",
+          "source": "S022",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Nessa Coil",
+      "attributes": [
+        {
+          "claim": "Knows Vale's usual bedding arrangement",
+          "source": "S025",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Lorian Fesk",
+      "attributes": [
+        {
+          "claim": "Has knowledge of Vale's centrality to a mineral-rights deal",
+          "source": "S028",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Sorin Ash",
+      "attributes": [
+        {
+          "claim": "Investigated auburn hairs found at crime scene as potential evidence",
+          "source": "S032",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Maeron Pith",
+      "attributes": [
+        {
+          "claim": "Owns silver nose-clamps with sentimental chain attachment",
+          "source": "S033",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Lost silver nose-clamps during crowded rail platform crush between inland towns",
+          "source": "S034",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Unnamed Bellfounder Road Woman",
+      "attributes": [
+        {
+          "claim": "Resides on Bellfounder Road",
+          "source": "S035",
+          "confidence": 0.6
+        },
+        {
+          "claim": "Provided eyewitness account of bearded well-dressed man near her neighborhood",
+          "source": "S035",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Unnamed Companion of Bellfounder Road Woman",
+      "attributes": [
+        {
+          "claim": "Familiar with Orren Vale by reputation and appearance",
+          "source": "S037",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Identified bearded man near Bellfounder Row as Orren Vale",
+          "source": "S037",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "person": "Dr. Pavel Norr",
+      "attributes": [
+        {
+          "claim": "Participated in formal inquest proceedings",
+          "source": "S038",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Medical examiner offering alternative timeline opinion on death",
+          "source": "S038",
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "person": "Crispin Fallow",
+      "attributes": [
+        {
+          "claim": "Works at Anatomists' College dissecting rooms",
+          "source": "S039",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Normally in charge of dissecting room keys",
+          "source": "S039",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Knowledgeable about official procedures for acquiring unclaimed bodies",
+          "source": "S039",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Unknown vagrant",
+      "attributes": [
+        {
+          "claim": "Suffered injury by falling scaffold planks",
+          "source": "S041",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Showed neurological symptoms",
+          "source": "S041",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Died on Monday",
+          "source": "S041",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Delivered to Anatomists' College by Dr. Sol's arrangement",
+          "source": "S041",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Dr. Sol",
+      "attributes": [
+        {
+          "claim": "Arranged delivery of body to Anatomists' College",
+          "source": "S041",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Has irregular nocturnal work habits",
+          "source": "S045",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Received a male visitor on Monday evening",
+          "source": "S045",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Makes movements between house and Anatomists' College at night",
+          "source": "S046",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Runs baths noisily around 3 AM",
+          "source": "S047",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Household servants sleep near the cistern room",
+          "source": "S048",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "person": "Senior doctor",
+      "attributes": [
+        {
+          "claim": "Took the cadaver's head away separately for study",
+          "source": "S043",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Detective Fen",
+      "attributes": [
+        {
+          "claim": "Conducts investigations on Lady Mira Vale's authorization",
+          "source": "S050",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Chelsea Ward Infirmary Medical Officer",
+      "attributes": [
+        {
+          "claim": "Reports on unknown persons brought to the infirmary",
+          "source": "S041",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Lenox Marr",
+      "attributes": [
+        {
+          "claim": "Participates in student dissections at Anatomists' College",
+          "source": "S042",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Observed the dissected body was middle-aged, rheumatic, sedentary, and well-fed",
+          "source": "S042",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Found the body seemed unusually prosperous for an unclaimed pauper",
+          "source": "S042",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "person": "Arven Prill",
+      "attributes": [
+        {
+          "claim": "Present during dissection at Anatomists' College",
+          "source": "S044",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Commented that the body appeared too prosperous for the pauper category",
+          "source": "S044",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "person": "Harlan Greaves",
+      "attributes": [
+        {
+          "claim": "Is aware of Dr. Sol's irregular nocturnal activities",
+          "source": "S045",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Spoke with Bram Vell about observed details",
+          "source": "S045",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "person": "Marda Greaves",
+      "attributes": [
+        {
+          "claim": "Lives in Dr. Sol's household",
+          "source": "S048",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Was disturbed by the late-night bath",
+          "source": "S049",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Coroner Jabez Morn",
+      "attributes": [
+        {
+          "claim": "Serves as the official coroner for the Bellfounder Row district",
+          "source": "S052",
+          "confidence": 0.8
+        }
+      ]
+    }
+  ],
+  "behavior_report": [
+    {
+      "issue_id": "INC001",
+      "person": "Dr. Edrin Sol",
+      "behavior_type": "motive_alignment",
+      "explanation": "Dr. Sol denied any college cadaver was missing (S007), yet students Lenox Marr (S042) and Arven Prill (S044) noted the dissected body was 'middle-aged, rheumatic, sedentary, well-fed' and 'unusually prosperous for an unclaimed pauper.' As the physician who arranged delivery of the infirmary vagrant to the college (S041), Sol either knowingly substituted a different body or failed to notice the discrepancy - neither option is consistent with competent professional oversight. Combined with his former romantic attachment to Lady Mira (S014) and frequent visits to the Vale household (S018), his testimony serves to suppress scrutiny of the cadaver chain of custody.",
+      "risk_score": 0.88
+    },
+    {
+      "issue_id": "INC002",
+      "person": "Dr. Edrin Sol",
+      "behavior_type": "unnatural_access",
+      "explanation": "Dr. Sol exhibits suspicious omnipresence across critical evidence points: he arranged the vagrant's body delivery to the college (S041), has irregular nocturnal movements between his house and the Anatomists' College (S046), ran a conspicuous bath at 3 AM (S004, S047), and had a male visitor depart around 10 PM Monday night (S004, S045). His former romantic attachment to Lady Mira (S014) creates emotional investment in her welfare that aligns uncomfortably with Orren Vale's disappearance. The 3 AM bathing activity - disturbing household servants (S049) - occurs precisely when body disposal or cleanup operations would be expected.",
+      "risk_score": 0.82
+    },
+    {
+      "issue_id": "INC003",
+      "person": "The Unknown Vagrant / Corpse Identity",
+      "behavior_type": "evasion",
+      "explanation": "The Chelsea Ward Infirmary reported delivering an 'unknown vagrant' injured by falling scaffold planks who died Monday (S041). However, Dr. Sol described the bath-room corpse as 'an unknown person of some means' (S006), and student dissectors found the body 'well-fed' and 'prosperous' for a pauper category (S042, S044). This contradiction suggests either: (1) the infirmary vagrant and bath-room corpse are different individuals, implying a substitution occurred, or (2) the deceased was miscategorized. Either scenario requires concealment by someone with access to both the infirmary records and the Anatomists' College - Dr. Sol occupies exactly this position.",
+      "risk_score": 0.9
+    },
+    {
+      "issue_id": "INC004",
+      "person": "Corwin Nale",
+      "behavior_type": "retraction",
+      "explanation": "At the inquest, Nale retracted his initial account and admitted he had secretly visited an illicit gaming cellar, was caught in a police raid, received a bruise there, and came home around 1:30 AM (S010). His original story apparently involved claiming a book-buying trip. While his subsequent honesty at the inquest suggests transparency, the initial falsehood raises questions: Why did he feel compelled to lie initially? His bruising from the raid is documented, but his heavy sleeping due to the sleeping draught (S010) means he claims ignorance of overnight events - convenient given the corpse appeared in his bath.",
+      "risk_score": 0.72
+    },
+    {
+      "issue_id": "INC005",
+      "person": "Tessa Brindle",
+      "behavior_type": "retraction",
+      "explanation": "Tessa first contradicted herself about Nale's return time before admitting she had secretly attended the Masons' Masquerade with Perri Glain (S012). Her initial hesitation about Nale's whereabouts suggests possible awareness of events she wishes to obscure. Additionally, she admits she probably left the bath-room window open (S011), creating the entry opportunity for the corpse. Her secret excursion to the masquerade means she cannot verify what happened at 47 Bellfounder Row between her departure and return near 2 AM.",
+      "risk_score": 0.58
+    },
+    {
+      "issue_id": "INC006",
+      "person": "Unnamed Companion of Bellfounder Road Woman",
+      "behavior_type": "motive_alignment",
+      "explanation": "This witness identified the bearded man near Bellfounder Row as Orren Vale 'by reputation and appearance' (S037). However, Milo Tern confirms Vale is 'very short-sighted' (S024), and both pairs of Vale's ordinary lenses were left behind at the townhouse (S005, S023). It is highly improbable that an extremely myopic man would wander streets at ~9:15 PM without his spectacles. If this witness correctly identified Vale, it suggests Vale was abducted or coerced rather than acting voluntarily. If misidentified, the real perpetrator used similar features to establish a false trail.",
+      "risk_score": 0.68
+    },
+    {
+      "issue_id": "INC007",
+      "person": "Calder Vane",
+      "behavior_type": "motive_alignment",
+      "explanation": "Vane acknowledges that Vale's disappearance 'might be useful to his commercial interests' (S030) and states he 'would welcome Vale back once his own transaction was complete' (S031). Lorian Fesk confirms Vale was 'central to a pending mineral-rights deal' that several speculators depended upon (S028), and Vane is described as a 'rival industrial figure' (S029). While Vane denies personal hostility, his candid acknowledgment of commercial advantage from Vale's absence establishes clear financial motive. Unlike emotional crimes, this motive is coldly rational and persistent.",
+      "risk_score": 0.62
+    },
+    {
+      "issue_id": "INC008",
+      "person": "Sorin Ash",
+      "behavior_type": "consistent",
+      "explanation": "Auburn hairs were found mixed with Vale's dark hair at the crime scene (S003), and Sorin Ash's appearance made him a possible source for those hairs (S032). However, later fingerprint comparison 'weakened suspicion' against him. This represents proper investigative narrowing - initial suspicion followed by evidence-based elimination. No retraction, no suspicious access patterns, and no conflicting motives appear in his attributed statements. His treatment exemplifies sound forensic methodology rather than deceptive testimony.",
+      "risk_score": 0.15
+    },
+    {
+      "issue_id": "INC009",
+      "person": "Maeron Pith",
+      "behavior_type": "innocent_concealment",
+      "explanation": "Pith identified the silver nose-clamps found on the corpse as his lost property (S033), explaining he lost them during a crowded platform crush while traveling between inland towns (S034). The nose-clamps had a sentimental chain attachment. His account explains how a personal item ended up on an unknown corpse without implying malicious involvement. The loss mechanism (crowded public transport) is plausible and non-nefarious. There is no evidence Pith knew the deceased or was present at 47 Bellfounder Row. This appears to be genuinely innocent coincidence rather than manufactured cover story.",
+      "risk_score": 0.12
+    },
+    {
+      "issue_id": "INC010",
+      "person": "Dr. Edrin Sol",
+      "behavior_type": "evasion",
+      "explanation": "When questioned about the college cadaver records, Sol offered a blanket denial: 'any college cadaver was missing' (S007). This absolute statement fails to acknowledge the documented discrepancy between the infirmary vagrant (poor, injured laborer) and the dissected body (well-fed, prosperous pauper). By framing his answer as categorical denial rather than addressing the specific quality anomaly, Sol avoids engaging with the substantive inconsistency. His position as arranger of the vagrant's delivery (S041) makes him uniquely positioned to explain - or conceal - the substitution.",
+      "risk_score": 0.78
+    },
+    {
+      "issue_id": "INC011",
+      "person": "Master Orren Vale",
+      "behavior_type": "consistent",
+      "explanation": "Multiple independent sources confirm Vale's personal effects remained at the Ashgate Crescent townhouse: both pairs of lenses (S005, S023), clothes, boots, watch, purse, ledgers, and latchkey (S005, S023). His supper companions describe him as 'healthy and cheerful' the evening before disappearance (S026) and 'satisfied about the next day's mineral-rights transaction' (S027). Milo Tern confirms he 'was very short-sighted' (S024). These facts collectively paint a coherent picture: Vale did not depart voluntarily. He left behind everything necessary for independent functioning - glasses, money, keys, clothing changes. This is strong exculpatory evidence regarding his own agency.",
+      "risk_score": 0.08
+    },
+    {
+      "issue_id": "INC012",
+      "person": "Lady Mira Vale",
+      "behavior_type": "motive_alignment",
+      "explanation": "Lady Mira was formerly expected to marry Dr. Edrin Sol before choosing Orren Vale instead (S014). She is currently absent from the household (S017) and authorizes Detective Fen to continue the investigation (S050). Her belief that her husband might have been kidnapped or held for ransom (S051) could reflect genuine concern OR deliberate deflection from alternative theories. Given her former connection to Dr. Sol, her authorization of the investigation places her in an interesting position: she empowers investigators who might scrutinize her former suitor while simultaneously having intimate knowledge of what questions to avoid raising.",
+      "risk_score": 0.52
+    },
+    {
+      "issue_id": "INC013",
+      "person": "Perri Glain",
+      "behavior_type": "consistent",
+      "explanation": "Perri Glain 'voluntarily corroborated' Tessa's presence at the Masons' Masquerade and that he returned her to Bellfounder Row between 1:30 and 2:00 AM (S013). His proactive confirmation is notable - witnesses typically wait to be asked rather than volunteering information. However, his account aligns with Tessa's revised statement (S012), and he reportedly 'saw nothing suspicious in the street' (S013). No contradictory evidence challenges his version. His auburn hair was considered as potential match for hairs at the scene (S032), but fingerprint comparison ultimately weakened this suspicion. His testimony appears straightforward with no significant behavioral red flags.",
+      "risk_score": 0.22
+    },
+    {
+      "issue_id": "INC014",
+      "person": "Dr. Pavel Norr",
+      "behavior_type": "consistent",
+      "explanation": "Dr. Norr participated in the formal inquest and 'broadly agreed with Dr. Sol about the bath corpse's injuries but differed on timing, saying death might not have occurred until several days after the neck injury' (S038). This represents legitimate medical disagreement - two professionals reviewing the same evidence reaching different conclusions about post-mortem interval. Such divergence is expectable in forensic medicine and does not inherently suggest deception. Norr's alternative timeline actually strengthens the investigation by introducing reasonable doubt about the prosecution's preferred sequence of events.",
+      "risk_score": 0.28
+    },
+    {
+      "issue_id": "INC015",
+      "person": "Coroner Jabez Morn",
+      "behavior_type": "consistent",
+      "explanation": "The Coroner 'challenged the city watch's weak assumptions; and directed the jury toward an open finding on cause and responsibility' (S054). He questioned seven witnesses systematically (S053) and pushed back against premature conclusions. This behavior reflects appropriate judicial function - ensuring the jury considers evidence fairly rather than accepting police narrative uncritically. His intervention exposed 'weaknesses in the police theory that the deceased was Master Vale and that Nale was responsible' (S054). Far from suggesting complicity, his actions demonstrate independence and commitment to thorough adjudication.",
+      "risk_score": 0.18
+    },
+    {
+      "issue_id": "INC016",
+      "person": "Marquis Ivo Quill",
+      "behavior_type": "consistent",
+      "explanation": "Quill inspected the bath-room corpse noting extensive post-mortem details (S001) and subsequently examined Vale's townhouse evidence interpreting footprints, hair, and gloved smears as signs of possible impersonation (S002). His role as professional investigator with forensic expertise appears appropriately bounded - he examines physical evidence and offers interpretations but does not control witness narratives or obstruct other investigators. No retraction appears in his attributed statements, and his observations align with his professional competencies. His interpretation of impersonation evidence actually expands rather than narrows the investigation's scope.",
+      "risk_score": 0.2
+    },
+    {
+      "issue_id": "INC017",
+      "person": "Captain Halric Sable",
+      "behavior_type": "consistent",
+      "explanation": "Captain Sable reported the body, made arrests (Tessa Brindle and Corwin Nale), noted marks on the bathroom window-sill, found no obvious yard or roof traces, and observed glove-like fingerprint smears (S008). His actions reflect standard police procedure: securing the scene, developing suspects based on initial evidence, and documenting physical indicators. The window-sill marks and glove prints support external entry theory rather than implicating the residents exclusively. His work product enables rather than hinders subsequent forensic analysis.",
+      "risk_score": 0.22
+    },
+    {
+      "issue_id": "INC018",
+      "person": "Bram Vell",
+      "behavior_type": "consistent",
+      "explanation": "Bram Vell photographed scenes, identified multiple fingerprint patterns, observed smudges suggesting gloved handling, recorded the smaller bare footprint, and found mixed dark and auburn hairs (S003). He posed 'as a casual servant acquaintance' to learn from Dr. Sol's manservant about Sol's Monday-night visitor and 3 AM bath (S004). His undercover approach, while ethically complex, produced actionable intelligence about Sol's nocturnal activities. No retraction mars his attributed statements, and his methods, while unconventional, served investigative goals.",
+      "risk_score": 0.25
+    },
+    {
+      "issue_id": "INC019",
+      "person": "Crispin Fallow",
+      "behavior_type": "consistent",
+      "explanation": "Crispin Fallow explained the official system for receiving unclaimed bodies from infirmaries and hospitals, noted the keys were normally in his charge, and insisted no teaching subject appeared to be missing (S039, S040). His account describes standard institutional protocols accurately. His assertion that nothing appeared missing aligns with his limited observational capacity - he checked visual inventory, not metabolic or nutritional profiles. The discrepancy between his assurance and student observations reflects institutional blind spots rather than individual deception.",
+      "risk_score": 0.3
+    },
+    {
+      "issue_id": "INC020",
+      "person": "Nessa Coil",
+      "behavior_type": "consistent",
+      "explanation": "Nessa Coil observed that the bed had been slept in oddly, with pillows placed toward the middle or wall side rather than Vale's usual side (S025). Her detailed knowledge of Vale's habitual bedding arrangement demonstrates genuine familiarity with the household routines. Her observation supports the impersonation theory - someone unfamiliar with Vale's preferences staged the bed incorrectly. This represents observant, reliable testimony from a domestic worker with appropriate knowledge.",
+      "risk_score": 0.18
+    }
+  ],
+  "credibility_metrics": [
+    {
+      "witness": "Arven Prill",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Statement S044 aligns with S042 (Lenox Marr) regarding the body's prosperous appearance relative to its pauper classification. No self-contradiction exists within the witness's own account.",
+          "score": 0.78
+        },
+        {
+          "type": "detail_quality",
+          "description": "Provides contextual detail (setting during dissection, nature of observation about prosperity vs. pauper categorization) but lacks temporal precision or additional identifying specifics beyond the comparative remark.",
+          "score": 0.62
+        },
+        {
+          "type": "internal_consistency",
+          "description": "The observation accurately reflects documented contradictions (CONT003) between the infirmary vagrant profile and the dissected body's characteristics, lending credence to the witness perceiving a genuine anomaly rather than fabricating the observation.",
+          "score": 0.74
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "No phantom events invoked; the statement describes a first-hand observation in a shared setting. While multiple students independently noted similar discrepancies, this convergence supports authenticity rather than indicating scripted testimony.",
+          "score": 0.48
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.76,
+        "physical_impossibility": 0.71,
+        "orchestration_marker": 0.48,
+        "detail_quality": 0.62
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.642
+    },
+    {
+      "witness": "Bram Vell",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Statements S003 and S004 address distinct investigative domains (forensic scene documentation vs. intelligence gathering on Sol's movements) with no internal conflicts. No retractions or self-contradictions present in attributed statements.",
+          "score": 0.78
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Described forensic techniques (photography, fingerprint identification, footprint recording, hair sampling) are procedurally sound and physically plausible. Timeline of 3 AM bath activity aligns with disposal/cleanup window noted in behavioral analysis. No physical evidence directly refutes his documented observations.",
+          "score": 0.81
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Claims rest on tangible physical evidence (photographs, prints, footprints, hair specimens) and a named informant (the manservant) rather than phantom events. Intelligence about Sol's visitor and bath activity derives from interpersonal observation, not unverifiable anonymous communications.",
+          "score": 0.69
+        },
+        {
+          "type": "detail_quality",
+          "description": "S003 provides specific forensic descriptors ('smaller bare footprint', 'auburn hairs', 'gloved handling'). S004 offers temporal precision ('Monday-night', 'three in the morning') and behavioral specificity ('loud bath', 'moved about unusually late'). Detail density is substantial though some reliance on secondhand reporting introduces minor uncertainty.",
+          "score": 0.76
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.78,
+        "physical_impossibility": 0.81,
+        "orchestration_marker": 0.69,
+        "detail_quality": 0.76
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.76
+    },
+    {
+      "witness": "Calder Vane",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "S030 and S031 are mutually coherent; both acknowledge commercial calculus while maintaining denial of personal hostility. The statements reflect a transactional worldview rather than contradiction.",
+          "score": 0.71
+        },
+        {
+          "type": "detail_quality",
+          "description": "Both statements lack specificity—no dates, locations, witnesses, or concrete actions. References to 'commercial interests' and 'transaction' remain abstract without supporting particulars.",
+          "score": 0.42
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "No phantom events detected. Statements directly address motive without deflection to unnamed actors, anonymous communications, or unverifiable third-party involvement.",
+          "score": 0.78
+        },
+        {
+          "type": "internal_consistency",
+          "description": "Behavior flag INC007 identifies acknowledged financial motive alignment, which corroborates—rather than contradicts—the witness's own framing of a purely economic interest.",
+          "score": 0.69
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.7,
+        "physical_impossibility": 0.85,
+        "orchestration_marker": 0.78,
+        "detail_quality": 0.42
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.688
+    },
+    {
+      "witness": "Captain Halric Sable",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Captain Sable's own statements (S008) demonstrate strong internal consistency. He reports uniform findings across all described actions: body discovery, arrests, window-sill marks, absence of yard/roof traces, and glove-print observation. No self-contradiction, retraction, or shifting narrative detected within his account.",
+          "score": 0.78
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "All physical observations attributed to Captain Sable are logically plausible and procedurally sound. Window-sill marks suggesting external entry, absence of yard/roof access traces, and glove-like fingerprint smears represent reasonable forensic findings. The identity conflict (CONT001) pertains to Dr. Edrin Sol's inquest testimony, not Captain Sable's field observations, leaving his physical documentation unchallenged.",
+          "score": 0.71
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Captain Sable's account contains no phantom events, unverifiable anonymous sources, or convenient deflections. His narrative rests on observable physical evidence (marks, prints, trace absence) and documented procedural actions (arrests, reporting). The theory of external entry through the window is supported by tangible evidence rather than speculative deflection.",
+          "score": 0.82
+        },
+        {
+          "type": "detail_quality",
+          "description": "Moderate specificity achieved. Location precisely identified ('Copper bathing room, 47 Bellfounder Row'), timing indicated ('upon response to discovery call'), and multiple physical elements catalogued (window-sill marks, yard/roof absence, glove prints). However, descriptions of the marks themselves lack granular detail (size, pattern, material composition), and precise measurements or timestamps are absent.",
+          "score": 0.61
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.78,
+        "physical_impossibility": 0.71,
+        "orchestration_marker": 0.82,
+        "detail_quality": 0.61
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.73
+    },
+    {
+      "witness": "Chelsea Ward Infirmary Medical Officer",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Statement S041 describes a typical indigent vagrant death from industrial accident, but directly contradicts physical findings recorded at the Anatomists' College where the dissected body exhibited characteristics of prosperity, sedentary living, and good nutrition inconsistent with a scaffold-injured vagrant. Severity 0.85 indicates substantial conflict requiring explanation.",
+          "score": 0.38
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No inherent physical impossibility exists in reporting a vagrant death and arranging body transfer. However, the stark mismatch between the infirmary's categorization (injured laborer) and the actual dissected specimen (well-fed, prosperous man) undermines the integrity of the reported events unless a substitution occurred somewhere in the chain of custody.",
+          "score": 0.52
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "The statement relies on accurate reporting of the vagrant's condition and death, but the subsequent discovery that a materially different body was dissected suggests either institutional failure to verify identity or deliberate substitution. Dr. Sol's central role in arranging delivery positions him as the likely orchestrator of any swap, rendering the infirmary's report either incomplete or complicit.",
+          "score": 0.41
+        },
+        {
+          "type": "detail_quality",
+          "description": "Statement includes specific elements: Monday timing, Chelsea Ward Infirmary location, mechanism of injury (falling scaffold planks), symptom presentation (neurological), and Dr. Sol's arrangement of delivery. However, lacks identifying particulars of the deceased beyond 'unknown vagrant,' and omits documentation of body condition verification at time of transfer.",
+          "score": 0.61
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.38,
+        "physical_impossibility": 0.52,
+        "orchestration_marker": 0.41,
+        "detail_quality": 0.61
+      },
+      "credibility_grade": 4,
+      "weighted_score": 0.48
+    },
+    {
+      "witness": "Coroner Jabez Morn",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "All three statements describe complementary aspects of a single judicial proceeding. S052 establishes the venue and purpose, S053 confirms methodical witness examination with named individuals, and S054 reveals the substantive outcome of that process. No self-contradiction or retraction exists.",
+          "score": 0.82
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "A coroner conducting a formal inquest, examining seven witnesses, and guiding jury deliberations represents standard judicial procedure. No physical constraints, timeline conflicts, or evidentiary challenges undermine these claims.",
+          "score": 0.88
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "No phantom events detected. The account references identifiable persons (seven named witnesses), verifiable institutional action (formal inquest at Bellfounder Row), and concrete outcomes (jury directed toward open finding). The coroner's role serves legitimate investigative function rather than deflection.",
+          "score": 0.79
+        },
+        {
+          "type": "detail_quality",
+          "description": "Strong specificity achieved through named witnesses (Nale, Brindle, Glain, Sable, Sol, Norr, Fallow), explicit location (Bellfounder Row), defined subject matter (deceased identity and responsibility), and clear procedural outcome (open finding). Lacks only temporal precision (specific date/time of proceedings).",
+          "score": 0.74
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.82,
+        "physical_impossibility": 0.88,
+        "orchestration_marker": 0.79,
+        "detail_quality": 0.74
+      },
+      "credibility_grade": 1,
+      "weighted_score": 0.808
+    },
+    {
+      "witness": "Corwin Nale",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Initial false account (book-buying trip) retracted at inquest in favor of truthful admission (illegal gaming cellar visit). Self-correction present but reveals deliberate prior misrepresentation.",
+          "score": 0.52
+        },
+        {
+          "type": "detail_quality",
+          "description": "High specificity: precise timestamps (1:30 AM, 8:00 AM), exact address (47 Bellfounder Row), named location type (copper bathing room), documented physical state (bruise from raid, sleeping draught consumption). Details cross-reference with Captain Sable's scene documentation.",
+          "score": 0.68
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Sleeping draught provides convenient unconsciousness alibi for overnight hours when corpse likely placed in bath. Open window supports external entry theory. However, no phantom events relied upon—actual raid, documented bruise, and verifiable corpse all exist independently.",
+          "score": 0.48
+        },
+        {
+          "type": "internal_consistency",
+          "description": "Claimed ignorance of dead man's identity (S009) while subsequently being arrested alongside Tessa Brindle (INC017). No internal contradiction detected between discovery account and revised whereabouts admission—both accounts align once initial falsehood corrected.",
+          "score": 0.61
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Timeline is physically coherent: returned 1:30 AM, consumed sleeping draught, slept until discovering corpse at 8:00 AM. Bruise consistent with raid exposure. No temporal impossibility or physical evidence undermining his account.",
+          "score": 0.74
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.57,
+        "physical_impossibility": 0.74,
+        "orchestration_marker": 0.48,
+        "detail_quality": 0.68
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.618
+    },
+    {
+      "witness": "Crispin Fallow",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Both statements align coherently—Fallow describes standard institutional protocols while acknowledging his observational limitations regarding missing specimens. No self-contradiction detected across S039 and S040.",
+          "score": 0.74
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No timeline conflicts or physical impossibilities present. Statements describe routine institutional procedures for cadaver acquisition and reflect plausible observational constraints.",
+          "score": 0.68
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "No phantom events, unverifiable communications, or convenient deflecting mechanisms detected. Claims are grounded in documented institutional roles and observable inventory checks.",
+          "score": 0.82
+        },
+        {
+          "type": "detail_quality",
+          "description": "S039 provides moderate specificity (location, key custody, formal system description). S040 lacks granular detail—no explicit scope of inspection, timeframe, or methodology for determining 'nothing missing.'",
+          "score": 0.61
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.74,
+        "physical_impossibility": 0.68,
+        "orchestration_marker": 0.82,
+        "detail_quality": 0.61
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.712
+    },
+    {
+      "witness": "Detective Mara Fen",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Her own documentation (E020) lists Vale's latchkey as missing/missing from premises, yet E019 documents a man using a key to enter at midnight. This creates direct conflict within her recorded evidence regarding whether the latchkey was present or absent.",
+          "score": 0.35
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "The documented absence of both pairs of lenses combined with Vale's confirmed severe myopia strongly undermines any theory of voluntary nocturnal departure. The physical evidence supports involuntary removal rather than willing exit.",
+          "score": 0.78
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "The bearded man sighting near Bellfounder Row could represent either a phantom identification (if misidentified) or evidence of orchestrated impersonation. The phantom element is partially mitigated by multiple corroborating observations, but the identity remains contested.",
+          "score": 0.52
+        },
+        {
+          "type": "detail_quality",
+          "description": "High specificity: enumerated items (latchkey, two pairs of lenses, clothes, boots, watch, purse, ledgers), precise location (Ashgate Crescent townhouse), clear temporal framing (following dinner disappearance), and reference to supporting witness accounts (servants, dinner companions).",
+          "score": 0.81
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.35,
+        "physical_impossibility": 0.78,
+        "orchestration_marker": 0.52,
+        "detail_quality": 0.81
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.615
+    },
+    {
+      "witness": "Dowager Marchioness Selda Quill",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "No contradiction exists within the statement itself; the historical claim of expected marriage between Lady Mira and Dr. Sol is internally coherent and aligns with corroborating student observations (S042, S044) referencing similar timeline elements.",
+          "score": 0.68
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Historical romantic expectations constitute social record rather than physical fact. Such claims cannot be definitively proven or disproven through physical evidence—they represent reputational/social history that remains perpetually unverifiable.",
+          "score": 0.48
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "While the background establishes motive for Dr. Sol, the information is not anchored to a phantom event. It references verifiable social expectations ('was expected to marry') rooted in community knowledge, not an unverifiable anonymous tip or mysterious summons.",
+          "score": 0.54
+        },
+        {
+          "type": "detail_quality",
+          "description": "Lacks specificity: temporal marker is vague ('years prior'), location is diffuse ('social circles'), and sourcing is secondhand ('she relayed'). Named parties provide some anchor, but the absence of precise dates, venues, or witnesses diminishes evidentiary weight.",
+          "score": 0.42
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.68,
+        "physical_impossibility": 0.48,
+        "orchestration_marker": 0.54,
+        "detail_quality": 0.42
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.53
+    },
+    {
+      "witness": "Dr. Edrin Sol",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Statement S006 claims the bath-house corpse appeared 'of some means,' yet CONT001 documents exhaustive poverty markers (poor teeth, dirty ears, blistered feet, calloused hands, flea-bites, disinfectant smell) establishing the deceased as a vagrant. These characterizations are mutually exclusive. Additionally, S007's blanket denial of missing cadavers directly contradicts student observations (S042, S044) documenting the dissected body as 'well-fed' and 'unusually prosperous for an unclaimed pauper.'",
+          "score": 0.18
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Physical examination findings documented in E013 unambiguously establish poverty indicators inconsistent with Sol's 'person of some means' characterization. The documented condition of the corpse directly refutes his classification, making his statement factually untenable given the evidentiary record.",
+          "score": 0.17
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Multiple behavioral flags converge: Sol arranged delivery of the infirmary vagrant to the college (S041), occupied the unique position enabling body substitution, issued a strategically evasive blanket denial (S007) rather than addressing the specific quality discrepancy, and maintains former romantic ties to Lady Mira (S014) whose interests his testimony protects. The phantom element here is the unexplained substitution—whether of bodies or classifications—which Sol is uniquely positioned to explain or conceal.",
+          "score": 0.36
+        },
+        {
+          "type": "detail_quality",
+          "description": "Sol uses non-committal language ('seemed') when characterizing the corpse, lacks specificity regarding precise timing of examination relative to death, and provides no detailed accounting of his examination methodology. His denial statement offers only categorical assertion without supporting particulars, failing to address the documented discrepancy between infirmary intake records and dissected body characteristics.",
+          "score": 0.41
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.18,
+        "physical_impossibility": 0.17,
+        "orchestration_marker": 0.36,
+        "detail_quality": 0.41
+      },
+      "credibility_grade": 5,
+      "weighted_score": 0.28
+    },
+    {
+      "witness": "Dr. Pavel Norr",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Norr's own statements maintain coherence—he consistently holds that injuries are accurately described but the post-mortem interval differs from the official narrative. This is a coherent forensic position, not a self-contradicting shift.",
+          "score": 0.68
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical evidence contradicts Norr's timing hypothesis. Estimating exact time of death days after a neck injury involves inherent uncertainty in forensic pathology; his alternative timeline is medically plausible, not physically impossible.",
+          "score": 0.62
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Norr testified at a formal inquest proceeding, presenting his medical opinion in a verifiable institutional context. He did not rely on phantom events, anonymous communications, or convenient off-the-record claims. His disagreement emerged through proper forensic channels.",
+          "score": 0.78
+        },
+        {
+          "type": "detail_quality",
+          "description": "Statement identifies the specific subject (bath corp injuries), the nature of disagreement (timing vs. mechanism), and the key implication (survival extending days past the neck injury). Lacks granular forensic specifics such as estimated PMI ranges or evidentiary basis for the extended timeline.",
+          "score": 0.67
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.68,
+        "physical_impossibility": 0.62,
+        "orchestration_marker": 0.78,
+        "detail_quality": 0.67
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.688
+    },
+    {
+      "witness": "Harlan Greaves",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Three statements describe complementary nocturnal activities (visitor arrival/departure, subsequent movements, 3 AM bath) that form a coherent pattern of irregular nighttime behavior. No self-contradiction detected.",
+          "score": 0.76
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Timeline is physically plausible: Monday evening visitor departing ~10 PM, followed by Sol's movements overnight, culminating in 3 AM bath. No physical or chronological impossibility present.",
+          "score": 0.71
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "All observations are grounded in direct sensory experience—visible visitor, documented movements, audible bath activity. No reliance on phantom events, anonymous messages, or unverifiable summons.",
+          "score": 0.84
+        },
+        {
+          "type": "detail_quality",
+          "description": "Moderate specificity: S045 includes day-of-week, approximate time (~10 PM), and location; S046 notes direction of movement but lacks precise times; S047 specifies hour (~3 AM) and action. Some temporal vagueness present.",
+          "score": 0.64
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.76,
+        "physical_impossibility": 0.71,
+        "orchestration_marker": 0.84,
+        "detail_quality": 0.64
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.738
+    },
+    {
+      "witness": "Irene Saff",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Her two statements (S020, S021) are mutually reinforcing - she consistently describes observing a single man resembling Vale arriving at midnight, using a key to enter, and ascending the stairs. No retraction or conflicting accounts from this witness.",
+          "score": 0.71
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "The described sequence (arrival at doorstep, key entry, ascending stairs) is physically plausible. The key paradox noted in CONT005 (missing latchkey vs. observed key usage) represents a logical inconsistency rather than a physical impossibility - multiple explanations remain viable (duplicate key, returned key, misdocumented inventory).",
+          "score": 0.62
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "The reported events are grounded in concrete sensory observations at a specific location and time. Unlike phantom events relying on unverifiable communications, her account involves direct visual and auditory perception of actionable behavior (doorstep arrival, key sounds, footsteps). Identity uncertainty regarding the man does not render the events themselves phantom.",
+          "score": 0.67
+        },
+        {
+          "type": "detail_quality",
+          "description": "Account provides specific temporal marker ('around midnight'), precise location ('Ashgate Crescent townhouse doorstep'), and clear behavioral sequence (arrival, entry via key, ascent). However, the description of the man is limited to 'resembling Vale' without distinguishing features, and the mechanism by which she perceived the key usage is implied rather than explicitly stated.",
+          "score": 0.59
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.71,
+        "physical_impossibility": 0.62,
+        "orchestration_marker": 0.67,
+        "detail_quality": 0.59
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.647
+    },
+    {
+      "witness": "Lady Mira Vale",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "No direct self-contradiction exists between S050 and S051; however, the behavioral flag INC012 identifies motive alignment concerns where her authorization of investigation coexists with potential benefit from deflecting scrutiny away from Dr. Sol.",
+          "score": 0.62
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Neither statement presents timeline conflicts nor physical impossibilities. Authorizing an investigation and holding a personal belief about kidnapping are both logically coherent actions without evidentiary contradiction.",
+          "score": 0.78
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Both statements describe real, traceable actions (authorization of Detective Fen) and stated personal beliefs—not phantom events. However, the cumulative effect of her statements strategically positions her as cooperative while limiting investigative scope.",
+          "score": 0.71
+        },
+        {
+          "type": "detail_quality",
+          "description": "Both statements lack specificity: 'during investigation period' provides no precise timing, locations are either unknown or null, and the beliefs expressed offer minimal corroborating detail beyond acknowledgment they may be incorrect.",
+          "score": 0.38
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.62,
+        "physical_impossibility": 0.78,
+        "orchestration_marker": 0.71,
+        "detail_quality": 0.38
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.622
+    },
+    {
+      "witness": "Lenox Marr",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Marr's two statements (S042, S043) describe the same dissection session coherently without self-contradiction. Both statements reinforce the observation of an anomalous body type ('well-fed,' 'prosperous') and note the head's separate handling. No retraction or conflicting recollection exists within his own account.",
+          "score": 0.78
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical impossibility exists in Marr's account. Observing a body's condition during dissection (rheumatism markers, nutritional state, muscle development) is entirely feasible. The head being taken separately is unusual but anatomically possible. The inconsistency lies in the body's characteristics contradicting the vagrant profile, not in any physical impossibility of the observations themselves.",
+          "score": 0.71
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Marr does not rely on phantom events; his statements describe directly observed dissection details. However, the separate removal of the head by a senior doctor represents a convenient circumvention of standard identification protocol—a structural element that enables body substitution while removing the most identifiable feature. This pattern aligns with orchestrated concealment rather than organic procedural variation.",
+          "score": 0.52
+        },
+        {
+          "type": "detail_quality",
+          "description": "High specificity: Marr provides occupational/physiological indicators ('rheumatic,' 'sedentary,' 'well-fed') derived from direct anatomical observation. He specifies timing (during student dissection), location (dissecting rooms), and action (arm dissection). The additional note about the head's separate removal adds procedural specificity. These details anchor the account in tangible experience rather than hearsay.",
+          "score": 0.74
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.78,
+        "physical_impossibility": 0.71,
+        "orchestration_marker": 0.52,
+        "detail_quality": 0.74
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.688
+    },
+    {
+      "witness": "Lorian Fesk",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Both statements (S028, S029) are mutually reinforcing rather than contradictory. S028 establishes Vale's economic significance; S029 identifies Vane as a rival, together constructing a coherent motive framework consistent with INC007.",
+          "score": 0.78
+        },
+        {
+          "type": "detail_quality",
+          "description": "S028 offers moderate specificity (mineral-rights deal, speculators, Vale's centrality). However, S029 is minimal—only labels Vane as a 'rival industrial figure' without elaboration on nature, duration, or intensity of rivalry.",
+          "score": 0.58
+        },
+        {
+          "type": "internal_consistency",
+          "description": "No self-contradiction detected across statements. The witness does not retract or conflict with prior assertions. Behavior flag INC007 actually corroborates rather than undermines these claims.",
+          "score": 0.82
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Claims do not depend on phantom events, anonymous messages, or unverifiable summonses. Statements reference established business relationships and known figures rather than convenient narrative devices.",
+          "score": 0.74
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.78,
+        "physical_impossibility": 0.68,
+        "orchestration_marker": 0.74,
+        "detail_quality": 0.58
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.695
+    },
+    {
+      "witness": "Maeron Pith",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Statements S033 and S034 are mutually reinforcing rather than contradictory. S033 establishes ownership through identification, while S034 provides a plausible mechanism (crowded platform crush) for how the item became separated. No self-conflict detected.",
+          "score": 0.78
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical impossibilities identified. Losing personal items during crowded public transport is a common, mundane occurrence. Behavior flag confirms no evidence linking Pith to the death location (47 Bellfounder Row). Timeline allows for separation of item prior to its appearance on corpse.",
+          "score": 0.82
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Loss mechanism describes a real-world, verifiable phenomenon (crowded platform crush) rather than relying on phantom events. The sentimental chain attachment adds specificity suggesting genuine personal property. Account does not appear designed to deflect suspicion through unverifiable mechanisms.",
+          "score": 0.71
+        },
+        {
+          "type": "detail_quality",
+          "description": "Account includes key contextual elements: emotional significance (sentimental attachment), mechanism (platform crush), general timeframe (during rail journey between inland towns), and purpose (explaining item's presence on corpse). However, lacks precise timestamps and specific town names.",
+          "score": 0.64
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.78,
+        "physical_impossibility": 0.82,
+        "orchestration_marker": 0.71,
+        "detail_quality": 0.64
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.738
+    },
+    {
+      "witness": "Marda Greaves",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Both statements (S048, S049) describe events occurring at Dr. Sol's residence and are mutually reinforcing—confirmation of servants' sleeping proximity to the cistern room explains why they would have been disturbed by the 3 AM bath. No self-contradiction detected.",
+          "score": 0.78
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical or temporal impossibilities present. Servants being disturbed by late-night bathing activity is entirely plausible domestic behavior. The ~3 AM timing aligns logically with the broader case timeline without creating scheduling conflicts.",
+          "score": 0.74
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Statements describe verifiable sensory experiences (noise disturbance, observed sleeping arrangements) rather than phantom events. Neither statement relies on anonymous sources, unidentified persons, or convenient unverifiable occurrences.",
+          "score": 0.81
+        },
+        {
+          "type": "detail_quality",
+          "description": "Provides specific timing (~3 AM) and clear subject matter (bath-related noise disturbance, servant sleeping locations). However, lacks granular location precision within the residence and does not specify which servants reported the disturbance or their identities.",
+          "score": 0.62
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.78,
+        "physical_impossibility": 0.74,
+        "orchestration_marker": 0.81,
+        "detail_quality": 0.62
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.738
+    },
+    {
+      "witness": "Marquis Ivo Quill",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Quill's two statements (S001 inspection of bath-house corpse, S002 examination of Vale's townhouse) do not self-contradict. Each statement addresses distinct locations and evidence types. No retraction or internal conflict exists within his attributed accounts. Behavior analysis confirms consistency and appropriate professional boundaries.",
+          "score": 0.78
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical impossibilities detected in Quill's descriptions. Inspecting a corpse and examining townhouse evidence are plausible professional activities. Timeline progression (morning discovery → after midnight entry report → next day examination) is logically coherent. The auburn hair evidence connecting to Sorin Ash lacks testimonial corroboration per CONT007, but this represents evidentiary gap rather than physical impossibility in Quill's account.",
+          "score": 0.71
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Quill documents tangible, verifiable physical evidence: corpse with specific poverty markers, actual footprints, hair samples, gloved smears, and clothing traces. These are concrete forensic findings, not phantom events. The auburn hair connection to Sorin Ash could theoretically represent planted evidence, but no indicator suggests Quill fabricated or embellished these observations. Evidence points toward genuine physical traces requiring interpretation.",
+          "score": 0.64
+        },
+        {
+          "type": "detail_quality",
+          "description": "High specificity throughout both statements. S001 provides precise timing (approximately 8:30-10:00 AM), exact location (Copper bathing room, 47 Bellfounder Row), and enumerated physical details (soap, beard hairs, poor teeth, dirty ears, blistered feet, calloused hands, flea-bites, disinfectant smell). S002 specifies sequential timeline (after midnight entry report, Day following discovery), location (Ashgate Crescent townhouse), and categorized evidence types (footprint, hair, gloved smears). Strong observational granularity.",
+          "score": 0.82
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.78,
+        "physical_impossibility": 0.71,
+        "orchestration_marker": 0.64,
+        "detail_quality": 0.82
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.737
+    },
+    {
+      "witness": "Master Orren Vale",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Vale's three statements do not contradict each other—they document separate observations (household absences, visitor frequency, property inventory) without internal conflict. No retraction or self-contradiction detected.",
+          "score": 0.7
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "CONT004 creates serious tension: E002 confirms Vale was very short-sighted ('highly improbable' to depart without lenses), yet E006 documents a bearded man matching Vale's description abroad without mentioned eyewear, while E017/E020 confirm all personal effects including lenses remained behind. Either the bearded man was an impersonator, or Vale somehow departed vision-impaired—a physical improbability that weakens the voluntary departure theory.",
+          "score": 0.38
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "The bearded man sighting (E006) functions as a potentially convenient phantom event that could deflect suspicion or alter investigative focus. However, unlike purely unverifiable phantoms, this figure has partial corroboration (sea-otter coat, beard, general location match). Not definitively orchestrated, but raises questions about timing and purpose.",
+          "score": 0.55
+        },
+        {
+          "type": "detail_quality",
+          "description": "Statements provide specific locations (Vale residence, Ashgate Crescent townhouse) and catalogued belongings (lens, clothes, latchkey). Temporal reference is limited to 'documented in diary entries' without precise dates. Contextual specificity is adequate but not exhaustive.",
+          "score": 0.68
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.7,
+        "physical_impossibility": 0.38,
+        "orchestration_marker": 0.55,
+        "detail_quality": 0.68
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.578
+    },
+    {
+      "witness": "Milo Tern",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "All three statements form a coherent narrative: Vale's extreme myopia (S024) makes departure without lenses implausible, yet both lens pairs were found left behind (S023), alongside other essentials. The bed appearing slept in (S022) aligns with these findings. No self-contradiction exists within Milo's own account.",
+          "score": 0.76
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Nothing Milo reports is physically impossible. A bed can appear slept-in, items can be left behind, and a person can be myopic. His statements are corroborated by multiple independent sources confirming the same item locations (both pairs of lenses, watch, purse, ledgers, latchkey). No timeline contradiction or physical impossibility undermines his claims.",
+          "score": 0.84
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Milo's statements describe verifiable, present physical evidence (bed condition, item locations)—not phantom events. While the unidentified man entering at midnight (from E019) introduces an unknown actor, this does not originate from Milo's statements. His role is documenting the aftermath, not inventing convenient explanations.",
+          "score": 0.61
+        },
+        {
+          "type": "detail_quality",
+          "description": "Statements contain reasonable specificity: location (Ashgate Crescent/Vale's bedroom), timing (morning after intrusion), and enumerated items (watch, purse, ledgers, both pairs of lenses). However, lacks exact timestamps or precise spatial relationships that would elevate confidence further.",
+          "score": 0.69
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.76,
+        "physical_impossibility": 0.84,
+        "orchestration_marker": 0.61,
+        "detail_quality": 0.69
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.725
+    },
+    {
+      "witness": "Mistress Alian Rusk",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Both statements align temporally (morning after Vale's disappearance) and causally (distressing phone call prevented scheduled attendance). No self-contradiction detected.",
+          "score": 0.74
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Phone call reports and body discoveries are physically plausible events. No technological impossibilities or timeline conflicts identified in the provided data.",
+          "score": 0.68
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "The primary claim involves a direct telephone conversation with named individual Corwin Nale—not an anonymous phantom event. The reported discovery (dead body in bath) would leave traceable physical evidence. However, the account remains secondhand, which introduces some uncertainty.",
+          "score": 0.62
+        },
+        {
+          "type": "detail_quality",
+          "description": "Moderate specificity achieved—timeframe clear ('morning after'), action defined ('telephoned in distress'), subject described ('dead naked man wearing silver nose-clamps'). However, her own location during the call is marked 'unknown,' reducing verifiability.",
+          "score": 0.52
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.74,
+        "physical_impossibility": 0.68,
+        "orchestration_marker": 0.62,
+        "detail_quality": 0.52
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.64
+    },
+    {
+      "witness": "Nessa Coil",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Behavior flag INC020 confirms Nessa Coil provided consistent, reliable testimony demonstrating genuine familiarity with Vale's household routines through her detailed knowledge of habitual bedding arrangements.",
+          "score": 0.78
+        },
+        {
+          "type": "detail_quality",
+          "description": "Statement includes specific location (Vale's bedroom, Ashgate Crescent), clear temporal framing (after midnight intrusion, before morning cleaning), and precise observational detail regarding pillow placement deviation from Vale's usual habit.",
+          "score": 0.7
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Contradiction CONT006 identifies an unresolved identity gap—no known suspect matches Vale's appearance for the alleged impersonation—creating uncertainty around the staging interpretation, though the physical evidence itself is not phantom.",
+          "score": 0.52
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Claim describes observable physical conditions (pillow placement) that align logically with the stated timeline and are not contradicted by any physical evidence or technological record.",
+          "score": 0.74
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.78,
+        "physical_impossibility": 0.74,
+        "orchestration_marker": 0.52,
+        "detail_quality": 0.7
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.685
+    },
+    {
+      "witness": "Perri Glain",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Statement S013 aligns coherently with Tessa Brindle's revised statement (S012). No self-contradiction, retraction, or conflicting elements within the account. The voluntary corroboration matches Tessa's narrative without deviation.",
+          "score": 0.82
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Returning someone home between 1:30-2:00 AM is temporally plausible. No physical evidence contradicts his account; fingerprint comparison actually weakened suspicions regarding his auburn hair as a potential match at the scene. No timeline impossibilities identified.",
+          "score": 0.78
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "No phantom events invoked. Perri provides direct firsthand testimony about his own observable actions (escorting Tessa home from the masquerade). Does not rely on unverifiable messages, anonymous sources, or convenient off-screen events to shift accountability.",
+          "score": 0.88
+        },
+        {
+          "type": "detail_quality",
+          "description": "Account includes specific temporal window (1:30-2:00 AM), identifiable location (street near Bellfounder Row), and clear action sequence (corroborating masquerade attendance, returning Tessa home, observing street conditions). Details are concrete and verifiable.",
+          "score": 0.71
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.82,
+        "physical_impossibility": 0.78,
+        "orchestration_marker": 0.88,
+        "detail_quality": 0.71
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.797
+    },
+    {
+      "witness": "Sorin Ash",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "No self-contradiction or retraction in Sorin Ash's attributed statements. Investigative process shows logical progression from initial suspicion to evidence-based elimination via fingerprint comparison.",
+          "score": 0.74
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Hair trace evidence is physically plausible; auburn hairs could have transferred via secondary contact. Timeline allows for such passive transfer mechanisms. No physical impossibility created by the evidence chain.",
+          "score": 0.81
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Evidence derived from legitimate forensic collection (mixed hairs in washroom, footprint analysis). No phantom events, anonymous messages, or unverifiable summoning. Investigation followed standard forensic methodology.",
+          "score": 0.88
+        },
+        {
+          "type": "detail_quality",
+          "description": "Limited specificity in statements. Reference to 'appearance' provides general descriptor but lacks precise timing, location confirmation, or action sequence placing Sorin Ash at relevant locations. No firsthand account of movements.",
+          "score": 0.48
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.74,
+        "physical_impossibility": 0.81,
+        "orchestration_marker": 0.88,
+        "detail_quality": 0.48
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.728
+    },
+    {
+      "witness": "Tessa Brindle",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Initial self-contradiction about Nale's return time before eventual admission of secret excursion indicates deceptive hesitation, undermining reliability of sequential recall.",
+          "score": 0.45
+        },
+        {
+          "type": "internal_consistency",
+          "description": "Use of hedged language ('probably') regarding the critical bathroom window state introduces uncertainty into her own account, reducing verifiability.",
+          "score": 0.52
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Extended unaccounted gap between departure for masquerade and return near 2 AM leaves ample window for external intrusion; inability to verify flat condition upon return is a genuine evidentiary blind spot rather than impossibility.",
+          "score": 0.61
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "No phantom events relied upon; Perri Glain independently corroborates attendance at masquerade, providing third-party anchor for timeline despite voluntary confirmation raising minor contextual concern.",
+          "score": 0.68
+        },
+        {
+          "type": "detail_quality",
+          "description": "Provides general timeframe (near 2 AM, 1:30-2:00 window) and locations (Bellfounder Row, Masons' Masquerade) but lacks precise timestamps, omits duration of masquerade attendance, and hedges on material facts ('probably').",
+          "score": 0.48
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.49,
+        "physical_impossibility": 0.61,
+        "orchestration_marker": 0.68,
+        "detail_quality": 0.48
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.565
+    },
+    {
+      "witness": "Unnamed Bellfounder Road Woman",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Statements S035 and S036 are internally consistent, describing the same encounter from complementary angles without self-contradiction.",
+          "score": 0.74
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "While the woman's direct observation of a bearded man in a sea-otter coat is physically possible, the claimed identity of this individual as Orren Vale conflicts sharply with physical evidence. Vale's lens, clothes, and personal effects were all recovered behind, and his extreme shortsightedness made voluntary outdoor movement without lenses highly improbable. This creates a fundamental impossibility in the narrative interpretation.",
+          "score": 0.18
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "No phantom events detected. The woman reported a direct, witnessed encounter with a real person—her account does not rely on unverifiable third-party communications or anonymous tips.",
+          "score": 0.71
+        },
+        {
+          "type": "detail_quality",
+          "description": "Moderate specificity achieved. Includes approximate time (~9:15 PM), general location (Bellfounder Row), distinctive apparel descriptors (sea-otter coat, high felt hat), facial hair characteristic, and stated purpose (seeking canal-side terrace, needing to see a man). However, lacks precise timestamps, exact positioning, or behavioral nuances.",
+          "score": 0.64
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.74,
+        "physical_impossibility": 0.18,
+        "orchestration_marker": 0.71,
+        "detail_quality": 0.64
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.568
+    },
+    {
+      "witness": "Unnamed Companion of the Bellfounder Road Woman",
+      "evidence": [
+        {
+          "type": "physical_impossibility",
+          "description": "Identification conflicts with documented extreme myopia. Vale required prescription lenses for navigation; both pairs remained behind at townhouse. Wandering unfamiliar urban streets at ~9:15 PM without corrective eyewear is highly improbable, undermining the plausibility of this identification representing a coherent, voluntary act by Vale.",
+          "score": 0.19
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "If the bearded man was not actually Vale, this represents a deliberate impersonation creating a false trail. The identification—based on 'reputation and appearance' rather than direct personal familiarity—is vulnerable to exploitation by someone mimicking Vale's distinctive features to divert suspicion.",
+          "score": 0.38
+        },
+        {
+          "type": "internal_consistency",
+          "description": "No self-contradiction detected within the witness's own account. Statement S037 presents a single, consistent identification without retraction or conflicting versions from this witness.",
+          "score": 0.71
+        },
+        {
+          "type": "detail_quality",
+          "description": "Provides basic contextual elements (approximate time ~9:15 PM, location near Bellfounder Row, subject identification) but relies on vague identification methodology ('by reputation and appearance') lacking specificity about duration of observation, lighting conditions, or basis for familiarity.",
+          "score": 0.48
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.71,
+        "physical_impossibility": 0.19,
+        "orchestration_marker": 0.38,
+        "detail_quality": 0.48
+      },
+      "credibility_grade": 4,
+      "weighted_score": 0.44
+    },
+    {
+      "witness": "Vale's Supper Companions",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Both statements (S026, S027) are mutually reinforcing - depicting Vale as healthy, cheerful, and financially engaged the evening before his disappearance. No internal contradictions exist between the two accounts.",
+          "score": 0.82
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical impossibilities present. Observing someone appearing healthy, cheerful, and satisfied during a dinner is entirely plausible. Statements align logically with the conclusion that Vale departed unexpectedly rather than voluntarily.",
+          "score": 0.78
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Statements are grounded in direct firsthand observation at a named venue (Grand Lantern House) during a specified timeframe. Neither statement relies on phantom events, anonymous messages, or unverifiable deflections.",
+          "score": 0.81
+        },
+        {
+          "type": "detail_quality",
+          "description": "Moderate specificity achieved - includes location (Grand Lantern House), timeframe (evening before disappearance), subject matter (mineral-rights transaction), and emotional descriptors (healthy, cheerful, satisfied). Lacks granular details such as identities of all attendees, conversation specifics, or precise timing within the evening.",
+          "score": 0.64
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.82,
+        "physical_impossibility": 0.78,
+        "orchestration_marker": 0.81,
+        "detail_quality": 0.64
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.763
+    }
+  ],
+  "reliability_grades": [
+    {
+      "witness": "Arven Prill",
+      "grade": "B",
+      "explanation": "Arven Prill provides direct physical observation during dissection, noting the cadaver appeared too prosperous and well-fed for a pauper classification. His account aligns with independent observations from fellow student Lenox Marr (S042), indicating genuine perception rather than fabrication. No evidence of personal deception, deflection tactics, or motivated falsehood exists in his conduct. While the overall case involves serious identity discrepancies regarding the cadaver (CONT003), these contradictions implicate Dr. Sol's oversight and record-keeping—not Prill's veracity. Prill's role as a corroborating observer of physical evidence during dissection supports fairly reliable testimony, warranting a B grade despite systemic irregularities surrounding the cadaver chain of custody.",
+      "factors_assessed": [
+        "observation directness: direct physical observation during dissection procedure",
+        "corroboration: aligned with independent witness Lenox Marr (S042)",
+        "material deception: none detected - observation appears genuine",
+        "bias: no personal stake identified",
+        "unnatural access: no suspicious positioning at evidentiary nodes"
+      ]
+    },
+    {
+      "witness": "Bram Vell",
+      "grade": "B",
+      "explanation": "Bram Vell demonstrates reliable sourcing through direct analytical observation of physical evidence (documenting fingerprints, footprints, and hairs in S003) and direct conversational acquisition via sanctioned undercover engagement with Dr. Sol's manservant (S004). His investigative methods, while involving deception to gain access, produced firsthand factual reporting without retraction or material contradiction. No evidence of deflection tactics, suspicious evidentiary clustering, or significant personal bias exists. Minor reservation pertains to the inherent limitations of intelligence gathered through social engineering—the manservant's accuracy cannot be independently verified—but this does not undermine Vell's own credibility as a conduit of that information.",
+      "factors_assessed": [
+        "observation directness: direct analytical observation of physical evidence and direct conversational intelligence gathering",
+        "material deception: none detected; no retraction or contradictory statements attributed to witness",
+        "unnatural access: none; legitimate investigative role with appropriate evidentiary proximity",
+        "deflection tactics: absent; provided specific actionable intelligence without redirection",
+        "bias: minimal; acting in official investigative capacity with low personal stake"
+      ]
+    },
+    {
+      "witness": "Calder Vane",
+      "grade": "D",
+      "explanation": "Vane provides self-serving testimony regarding his own motives and intentions without independent corroboration. While he candidly admits commercial advantage from Vale's disappearance (S030), this acknowledgment itself raises concerns—he possesses direct knowledge of how the timeline aligned with his interests. His denial of personal hostility alongside admitted financial benefit represents a classic mixed narrative where peripheral cooperation obscures material interest. As a rival industrial figure with a documented financial stake in Vale's absence (confirmed by Lorian Fesk), Vane occupies a conflicted position: he benefits from the very circumstance under investigation and offers only his own word regarding his peaceful intentions. The absence of contradictions is offset by the inability to verify self-serving claims about future benevolent behavior ('would welcome Vale back'). His observation directness is limited to conversational self-reporting on internal states, which carries inherent reliability risk when financial motive is established.",
+      "factors_assessed": [
+        "observation directness: self-reported conversational accounts on own motives and intentions, no independent verification",
+        "bias: high financial stake confirmed by third party (Lorian Fesk) as rival industrial figure with commercial advantage from victim's absence",
+        "material interest: acknowledges temporal alignment between Vale's disappearance and his own transaction completion",
+        "mixed narrative: denies personal hostility while conceding commercial benefit—a selective admission pattern"
+      ]
+    },
+    {
+      "witness": "Captain Halric Sable",
+      "grade": "B",
+      "explanation": "Captain Sable demonstrates reliable source characteristics through direct physical observation of the crime scene, including bathroom window-sill marks, absence of yard/roof traces, and glove-like fingerprint smears. His conduct reflects standard police procedure with appropriate scene documentation and suspect development based on physical evidence. The identified contradiction (CONT001) regarding the corpse's socioeconomic markers involves competing characterizations by different witnesses (his physical findings versus Dr. Sol's inquest testimony), not a within-statement inconsistency attributable to Sable himself. No material deception, deflection tactics, or suspicious access patterns were detected. His risk score of 0.22 and consistent procedural behavior support fairly reliable classification.",
+      "factors_assessed": [
+        "observation directness: direct physical observation of crime scene evidence (window marks, fingerprints)",
+        "procedural consistency: standard law enforcement conduct, appropriate scene documentation",
+        "material deception: none detected",
+        "natural access: official duty response to discovery call",
+        "bias: not established - standard investigative role"
+      ]
+    },
+    {
+      "witness": "Chelsea Ward Infirmary Medical Officer",
+      "grade": "C",
+      "explanation": "The medical officer provides direct professional observation of the vagrant's injuries and death at the infirmary (S041), placing them in a position of credible firsthand knowledge. However, the severe identity conflict (CONT003, severity 0.85) between the reported 'unknown vagrant' and the subsequently dissected 'well-fed, prosperous' body raises questions about institutional accuracy in categorizing the deceased. While the medical officer may have reported accurately based on infirmary observations, the facilitation of Dr. Sol's body delivery arrangement places them within a chain of custody involving suspicious downstream discrepancies. No active deception or deflection is attributed directly to this witness, but their role in transferring a miscategorized body under Dr. Sol's arrangement introduces moderate reliability concerns.",
+      "factors_assessed": [
+        "observation directness: direct professional observation of patient injuries and death at infirmary",
+        "material discrepancy: severe identity conflict between infirmary categorization and dissection findings (0.85 severity)",
+        "institutional alignment: facilitated Dr. Sol's body delivery arrangement without apparent independent verification",
+        "bias: no direct personal stake identified; operating within institutional framework"
+      ]
+    },
+    {
+      "witness": "Coroner Jabez Morn",
+      "grade": "B",
+      "explanation": "Coroner Morn functioned in a direct analytical capacity as presiding judicial officer at the Bellfounder Row inquest. His systematic questioning of seven witnesses demonstrates procedural rigor. His challenge to City Watch assumptions and direction toward an open finding reflects appropriate judicial independence rather than evasiveness. No contradictions were identified, and his behavior pattern shows consistency with proper adjudicative function. Minor reservation stems from his role producing evaluative opinions rather than direct observational testimony about the underlying events, but this does not undermine his reliability as a source regarding the inquest proceedings themselves.",
+      "factors_assessed": [
+        "observation directness: direct analytical role as presiding judicial officer",
+        "procedural integrity: systematic examination of seven witnesses",
+        "deception indicators: none detected",
+        "unnatural access: absent - standard judicial function observed",
+        "deflection tactics: none - actively sought clarity through open findings",
+        "bias: low institutional risk - demonstrated independence from police narrative"
+      ]
+    },
+    {
+      "witness": "Corwin Nale",
+      "grade": "D",
+      "explanation": "Material deception regarding whereabouts combined with unnatural access to the crime scene severely undermine reliability. Although Nale eventually disclosed his illegal gaming cellar visit at the inquest, his initial false account (book-buying pretext) constitutes a deliberate falsehood about his activities during the relevant timeframe. Most critically, the corpse appeared in his own bathing room—a highly convenient evidentiary position—and he claims complete sensory blackout from a sleeping draught while remaining at the exact location where the body materialized between 1:30 AM and 8:00 AM. His narrative control over the discovery, coupled with documented bruising from the police raid and the implausible 'heard nothing' assertion despite a body arriving in his home, positions him as a narrator trap. The contradiction regarding the victim's socioeconomic status (CONT001) further destabilizes the evidentiary foundation surrounding this case.",
+      "factors_assessed": [
+        "observation directness: direct physical observation of corpse discovery in his own bath, yet claimed complete sensory blackout of overnight events",
+        "material deception: initial false account claiming book-buying trip instead of illegal gaming cellar visit before retracting at inquest",
+        "unnatural access: corpse appeared in his private bathing facility; Nale controls key evidentiary node of discovery",
+        "peripheral vs material: deception concerned his own illegal activity (gaming cellar) which is somewhat peripheral to murder, yet created opportunity for suspicion",
+        "bias: significant personal stake—he has illegal gambling exposure, bruising from associated police raid, and potential murder liability",
+        "narrative convenience: heavy sedation claim explains ignorance of overnight events without verifiable counter-evidence"
+      ]
+    },
+    {
+      "witness": "Crispin Fallow",
+      "grade": "B",
+      "explanation": "Crispin Fallow provides direct analytical knowledge of institutional cadaver protocols and direct physical observation of the dissecting room inventory. His account accurately describes standard operating procedures for acquiring unclaimed bodies and acknowledges the keys were normally in his charge—a candid admission of custodial responsibility. His assertion that nothing appeared missing reflects legitimate limits of visual inspection rather than deceptive intent. The behavioral analysis confirms consistent testimony with low risk indicators (0.3), attributing any discrepancy to institutional blind spots rather than individual prevarication. Minor reservations stem from his limited observational scope (metabolic/nutritional anomalies beyond casual detection) and mild institutional affiliation bias, but these do not materially undermine his credibility as a source.",
+      "factors_assessed": [
+        "observation directness: direct analytical knowledge of institutional protocols",
+        "observation directness: direct physical observation of dissecting room inventory",
+        "material deception: none detected",
+        "peripheral concealment: none detected",
+        "unnatural access: no suspicious clustering at evidentiary nodes",
+        "deflection tactics: none observed",
+        "bias: mild institutional affiliation, low personal stake"
+      ]
+    },
+    {
+      "witness": "Detective Mara Fen",
+      "grade": "B",
+      "explanation": "Detective Fen serves as a direct analytical observer documenting physical evidence at the Ashgate Crescent townhouse. Her documented findings—that Vale's latchkey, both pairs of spectacles, clothing, and personal effects remained behind—are corroborated by independent source S023 and align with Milo Tern's confirmation of Vale's severe myopia. The apparent contradiction in CONT005 (latchkey status versus Irene Saff's midnight entry observation) reflects sequential evidentiary gaps rather than internal inconsistency in her documentation; she accurately recorded what was present/absent at the time of her examination. No indicators of material deception, deflection tactics, or unnatural access patterns. Her role as a professional investigator provides structural independence. Minor reservation limited to the inherent limitations of snapshot documentation—evidence states can change between examinations.",
+      "factors_assessed": [
+        "observation directness: direct analytical observation of physical evidence at crime scene",
+        "corroboration: multiple independent sources (S023, S024, S026, S027) support documented findings",
+        "material deception: none detected",
+        "deflection tactics: none detected",
+        "unnatural access: none detected—no clustering at evidentiary nodes suggesting orchestration",
+        "bias: minimal—professional role with institutional accountability"
+      ]
+    },
+    {
+      "witness": "Dowager Marchioness Selda Quill",
+      "grade": "C",
+      "explanation": "Selda Quill functions as a social intermediary providing background context about Lady Mira Vale's former attachment to Dr. Edrin Sol. Her knowledge derives from social circle gossip and established reputation rather than direct observation of the relevant events. While she relays multiple pieces of contextual information (body discovery report, Nale's address, Dame Elspeth shelter), none constitutes direct eyewitness account of the core criminal matter. No contradictions are attributed to her, and there is no evident personal stake or motive to deceive. Her information is fairly reliable for establishing historical relationships and social context, but should be weighted accordingly given its hearsay nature.",
+      "factors_assessed": [
+        "observation directness: social background information sourced from established reputation and hearsay within social circles",
+        "materiality: peripheral contextual information regarding romantic history; not central to core criminal allegations",
+        "bias: no apparent personal stake or motivation to deceive observed",
+        "role: natural social hub function consistent with station; no suspicious clustering at evidentiary nodes"
+      ]
+    },
+    {
+      "witness": "Dr. Edrin Sol",
+      "grade": "D",
+      "explanation": "Dr. Sol demonstrates significant unreliability through material contradictions central to the investigation. He classified the bath-house corpse as 'a person of some means' (S006) despite documented poverty markers including poor teeth, dirty ears, blistered feet, calloused hands, and flea-bites—characterizations that are mutually exclusive. His blanket denial that any college cadaver was missing (S007) directly contradicts student observations of a dissected body described as 'well-fed' and 'unusually prosperous for an unclaimed pauper.' As the physician who arranged delivery of the infirmary vagrant to the Anatomists' College (S041), Sol occupied a unique position of institutional access enabling him to either detect or conceal the apparent body substitution. His evasive framing—absolute categorical denials rather than addressing specific inconsistencies—constitutes deliberate avoidance of substantive questioning. Combined with his former romantic attachment to Lady Mira (S014), creating potential motive alignment, his testimony functions to suppress scrutiny of the cadaver chain of custody at critical evidentiary nodes.",
+      "factors_assessed": [
+        "observation_directness: direct analytical observation of corpse, but compromised by institutional role creating access to multiple evidence streams",
+        "material_deception: central contradictions about corpse identity and cadaver records undermine foundational investigative facts",
+        "unnatural_access: occupies pivotal position connecting infirmary admission, college dissection records, and bath-house discovery—controlling flow of critical information",
+        "deflection_tactics: offered blanket categorical denials rather than addressing specific inconsistencies in cadaver quality and origin",
+        "bias_and_motivation: former romantic attachment to Lady Mira creates personal stake; institutional role enabled concealment of cadaver discrepancies"
+      ]
+    },
+    {
+      "witness": "Dr. Pavel Norr",
+      "grade": "B",
+      "explanation": "Dr. Norr provides direct analytical medical testimony at an official inquest regarding the timing of death relative to observed injuries. His disagreement with Dr. Sol concerns forensic interpretation (post-mortem interval estimation), which falls within expected professional divergence in pathology assessments. No evidence of material deception, peripheral concealment, unnatural access to evidentiary nodes, or deflection tactics. His alternative timeline reflects legitimate medical reasoning rather than suspect obfuscation. Operating in a formal legal context with professional obligations supports reliability.",
+      "factors_assessed": [
+        "observation directness: direct analytical evaluation of forensic evidence at inquest",
+        "material deception: none identified - professional medical disagreement only",
+        "peripheral concealment: absent",
+        "unnatural access: not indicated - standard professional participation",
+        "deflection tactics: none observed",
+        "bias: minimal - professional obligation in legal proceeding"
+      ]
+    },
+    {
+      "witness": "Harlan Greaves",
+      "grade": "B",
+      "explanation": "Harlan Greaves demonstrates fairly reliable observation with mixed directness. Two of three statements (S046, S047) reflect direct observation of Dr. Sol's nocturnal activities—the 3 AM bath noise and movements between house and college. However, S045 regarding the Monday-evening male visitor is hearsay, derived from a conversation with Bram Vell rather than personal observation. No contradictions or deceptive behavior were identified. The witness appears to be conducting routine surveillance without apparent personal stake in outcomes. The reliance on secondhand information for one statement introduces minor reservation, warranting a B grade rather than A.",
+      "factors_assessed": [
+        "observation directness: primarily direct observation of Sol's nocturnal movements and bath activity (S046, S047)",
+        "observation directness: partial hearsay via Bram Vell regarding male visitor (S045)",
+        "material deception: none detected",
+        "peripheral concealment: none detected",
+        "unnatural access: not applicable to this witness",
+        "deflection tactics: none detected",
+        "bias: no apparent personal stake identified"
+      ]
+    },
+    {
+      "witness": "Irene Saff",
+      "grade": "B",
+      "explanation": "Irene Saff provides direct physical observation of events at her doorstep—she visually identified a man resembling Vale arriving around midnight and auditorily confirmed his entry via key and ascent upstairs. Her observations are internally consistent and corroborated by physical evidence (bed staging). The contradictions she is implicated in (CONT005 regarding the latchkey; CONT006 regarding potential impersonation) do not reflect inaccuracies in her own sensory reports but rather broader investigative inconsistencies and unresolved identity questions. No bias indicators, deflection tactics, or unnatural access patterns detected. Her reliability is supported by direct vantage point and lack of apparent motive to deceive.",
+      "factors_assessed": [
+        "observation directness: direct physical observation from doorstep vantage point",
+        "internal consistency: statements align with each other and corroborate physical evidence",
+        "contradiction attribution: contradictions stem from investigative inconsistencies rather than witness inconsistency",
+        "identification uncertainty: 'resembling Vale' indicates honest epistemic limitation rather than deceptive hedging",
+        "bias: no identified personal, financial, or emotional stake"
+      ]
+    },
+    {
+      "witness": "Lady Mira Vale",
+      "grade": "C",
+      "explanation": "Lady Mira Vale provides statements about her own authorized actions and personal beliefs regarding her husband's disappearance—both within her direct epistemic access. No contradictions identified. However, significant concerns arise from motive alignment issues: her former romantic involvement with Dr. Edrin Sol creates a potential conflict of interest, and her public advocacy of a kidnapping/ransom theory (S051) could constitute deliberate deflection, steering investigative focus away from alternative explanations involving her former suitor. Her absence from the household compounds uncertainty. These factors suggest peripheral motivation to shape investigative direction rather than outright fabrication, warranting a moderate downgrade to Grade C.",
+      "factors_assessed": [
+        "observation directness: direct self-reported beliefs and authorized actions",
+        "material deception: none detected—statements pertain to her own views and decisions",
+        "peripheral concealment: possible deflection via promotion of specific investigative theory",
+        "bias: moderate emotional/relational stake arising from prior connection to Dr. Sol",
+        "unnatural access: indirect influence over investigative trajectory through authorization decisions"
+      ]
+    },
+    {
+      "witness": "Lenox Marr",
+      "grade": "B",
+      "explanation": "Lenox Marr provides direct physical observations during student dissection, recalling specific anatomical details of the cadaver's condition (middle-aged, rheumatic, sedentary, well-fed, prosperous appearance). His observations are internally consistent and serve to highlight a genuine identity discrepancy regarding the dissected body versus the reported infirmary vagrant. No evidence of deception, deflection tactics, or suspicious access patterns. As a student witness with routine educational access to the dissecting room, his positioning is natural and his statements appear motivated by accurate recall rather than ulterior interest. Minor reservation stems from the possibility that student-level anatomical familiarity may limit depth of observation, but this does not undermine the fundamental reliability of his direct sensory account.",
+      "factors_assessed": [
+        "observation directness: direct physical observation during student dissection",
+        "material deception: none detected - statements appear truthful",
+        "unnatural access: low risk - routine student positioning in dissecting room",
+        "deflection tactics: none - provides concrete factual observations",
+        "bias: minimal - no apparent personal stake in outcome"
+      ]
+    },
+    {
+      "witness": "Lorian Fesk",
+      "grade": "C",
+      "explanation": "Lorian Fesk provides two contextual statements establishing Vale's centrality to a mineral-rights deal and Vane's status as a rival industrialist. Neither statement constitutes direct observation of the core event; both are analytical characterizations of business relationships derived from social/professional circles. No internal contradictions exist, which is neutral. However, behavior analysis (INC007) reveals motive alignment—the same financial stakes benefiting Vane also apply to speculators like Fesk who depended on Vale's involvement. This moderate financial bias tempers reliability. The statements offer fair corroborative value for establishing motive architecture but lack the directness required for higher grades.",
+      "factors_assessed": [
+        "observation directness: conversational/analytical knowledge of business relationships, not direct observation of core event",
+        "materiality: peripheral background context relevant to motive establishment",
+        "bias: moderate financial stake shared with other speculators dependent on Vale's involvement",
+        "internal consistency: no contradictions detected across statements"
+      ]
+    },
+    {
+      "witness": "Maeron Pith",
+      "grade": "B",
+      "explanation": "Pith provides a direct account of losing his silver nose-clamps during a crowded platform crush on a train journey, then voluntarily identifies the same items found on a corpse when responding to an advertisement. His account is internally consistent with no contradictions, offers a plausible non-nefarious explanation for how his personal property came to be on an unidentified deceased individual, and shows no signs of deflection tactics or suspicious access to evidentiary nodes. The low risk score (0.12) for innocent concealment supports a benign interpretation. Minor reservation stems from mild financial/sentimental motivation to claim the property, but this does not indicate fabrication of the loss narrative. Overall, Pith presents as a cooperative witness giving honest account of personal experience.",
+      "factors_assessed": [
+        "observation directness: direct personal experience of losing items during documented incident",
+        "material deception: none identified; consistent voluntary account",
+        "unnatural access: absent; respondent to advertisement rather than orchestrator of evidence flow",
+        "deflection tactics: none observed; no phantom suspects or fabricated narratives",
+        "bias: minor financial/sentimental stake in recovering property, but does not compromise account integrity"
+      ]
+    },
+    {
+      "witness": "Marda Greaves",
+      "grade": "C",
+      "explanation": "Marda Greaves provides two peripheral corroborating statements confirming household details (servants' proximity to the cistern room and disturbance by late-night bathing). Neither statement constitutes direct observation of material events; both serve to validate other witnesses' accounts. No contradictions identified, and no behavioral red flags attributed to her personally. While her statements lack substantive evidentiary value beyond confirmation, there is no indication of deception, fabrication, or motivated falsehood. Her role appears limited to routine household knowledge shared among servants.",
+      "factors_assessed": [
+        "observation directness: indirect corroboration of household routines, likely derived from general household knowledge rather than direct witnessing of relevant events",
+        "materiality: statements address peripheral domestic details, not core investigative elements",
+        "deception indicators: none identified",
+        "bias: potential institutional loyalty as household servant, but insufficient to undermine basic reliability",
+        "access: natural access to household layout and schedule, consistent with her position"
+      ]
+    },
+    {
+      "witness": "Marquis Ivo Quill",
+      "grade": "B",
+      "explanation": "Quill provides direct analytical observations of physical evidence at both the bath-house corpse and Vale's townhouse, demonstrating professional forensic competence. His descriptions of poverty markers and impersonation evidence are internally consistent with no self-contradictions or retractions. The identified contradictions (CONT001, CONT007) involve discrepancies between Quill's objective findings and other witnesses' characterizations—not flaws in Quill's own reporting. No evidence of unnatural access clustering, deflection tactics, or motivated misrepresentation. His interpretation of auburn hair and footprint evidence appropriately expands investigative scope rather than obscuring it. Minor扣分 for involvement in evidence chains connecting to unresolved suspects like Sorin Ash, but this reflects legitimate investigative complexity rather than unreliability.",
+      "factors_assessed": [
+        "observation directness: direct analytical observation of physical evidence at multiple crime scenes",
+        "material deception: none detected - statements internally consistent",
+        "unnatural access: absent - evidence examinations appear procedurally bounded",
+        "deflection tactics: none observed - professional interpretive analysis only",
+        "bias: minimal - professional investigator role with no apparent personal stakes",
+        "external contradictions: noted but attributable to other witnesses, not Quill"
+      ]
+    },
+    {
+      "witness": "Master Orren Vale",
+      "grade": "B",
+      "explanation": "Orren Vale's diary entries (S017, S018) constitute direct analytical observation of household events recorded contemporaneously—a highly reliable evidentiary form. His documented awareness of Lady Mira's absences and Dr. Sol's visits reflects firsthand domestic knowledge. The physical evidence paradox (CONT004)—his personal effects including corrective lenses remaining at Ashgate Crescent despite a bearded man matching his description appearing abroad—is not attributable to unreliability on his part; rather, it establishes that voluntary departure without essential eyewear was 'highly improbable,' supporting the inference that he did not depart willingly. As a potential victim of impersonation or confinement, his interests align with establishing the truth of events. No contradictions emerge from his own documented statements, and no deflection tactics are evident. The primary limitation is that his value as a source derives entirely from documentary records rather than live testimony.",
+      "factors_assessed": [
+        "observation directness: direct analytical observation via contemporaneous diary entries",
+        "material evidence alignment: physical evidence (lenses, personal effects remaining) corroborates involuntary absence theory",
+        "bias: none apparent—as potential kidnapping victim, incentive aligns with truthful disclosure",
+        "internal consistency: no self-contradicting statements in documented record",
+        "ways of knowing: limited to household observations; external events must be inferred from physical evidence"
+      ]
+    },
+    {
+      "witness": "Milo Tern",
+      "grade": "B",
+      "explanation": "Milo Tern provides direct physical observations of the bedroom condition and personal effects at Ashgate Crescent, corroborated by multiple independent sources (INC011, risk 0.08). His statements about Vale's severe myopia (S024) are materially consistent with physical evidence showing both pairs of lenses left behind (S005, S023), strengthening rather than contradicting the evidentiary record. No signs of material deception, peripheral concealment, or deflection tactics. As a discoverer of physical conditions at the scene, his observations carry reasonable reliability, though the exact basis for his knowledge of Vale's vision (personal familiarity vs. documentary review) introduces minor ambiguity warranting a B rather than A grade.",
+      "factors_assessed": [
+        "observation directness: direct physical observation of bedroom contents and personal effects",
+        "internal_consistency: statements align with physical evidence and corroborating witnesses",
+        "material_deception: none detected - straightforward factual reporting",
+        "deflection_tactics: absent - no attempts to redirect suspicion toward phantom actors",
+        "bias_and_motivation: minimal - appears motivated by factual discovery rather than personal stake"
+      ]
+    },
+    {
+      "witness": "Mistress Alian Rusk",
+      "grade": "C",
+      "explanation": "This witness serves primarily as a communicative intermediary relaying second-hand information. Statement S015 reports a distressed telephone call from Corwin Nale describing a discovered corpse—this is classic hearsay where the witness has no direct observational access to the core event. S016 concerns her own scheduling conflict, which is directly known but trivially relevant. No contradictions or behavioral anomalies were identified. The witness demonstrates neutral positioning without apparent bias or motive to deceive, but the substance of her most significant statement rests entirely on another person's account.",
+      "factors_assessed": [
+        "observation directness: hearsay - relaying Corwin Nale's report of discovering a body; no direct access to core event",
+        "materiality: high - the reported discovery involves a corpse, central to any investigation",
+        "bias: none apparent - acts as communication conduit between Corwin Nale and Dowager Marchioness",
+        "deception indicators: absent - no contradictions or retraction patterns observed",
+        "unnatural access: not indicated - no suspicious clustering around evidentiary nodes"
+      ]
+    },
+    {
+      "witness": "Nessa Coil",
+      "grade": "B",
+      "explanation": "Nessa Coil provides direct physical observation of the bed's altered state, demonstrating genuine familiarity with Vale's sleeping habits through her role as domestic worker. Her observation is internally consistent, supported by behavioral analysis showing low risk (0.18), and contributes meaningfully to the impersonation theory without self-serving elements. The contradiction (CONT006) does not reflect inconsistency in her testimony but rather raises questions about unidentified suspects matching Vale's appearance—a matter outside her knowledge. Minor reservation stems from the limited scope of her single statement, warranting Grade B rather than A.",
+      "factors_assessed": [
+        "observation directness: direct physical observation of bedding arrangement in Vale's bedroom",
+        "familiarity: demonstrated genuine knowledge of Vale's habitual sleeping preferences",
+        "consistency: behavior flagged as consistent with no deceptive indicators",
+        "bias: minimal occupational stake as domestic worker",
+        "scope limitation: single statement restricts evidentiary breadth"
+      ]
+    },
+    {
+      "witness": "Perri Glain",
+      "grade": "B",
+      "explanation": "Perri Glain provides direct firsthand testimony regarding his own activities—attending the masquerade with Tessa and returning her home—which constitutes direct physical observation of the relevant timeframe. His account aligns without contradiction with Tessa's revised statement, and no behavioral red flags were identified beyond his voluntary corroboration, which appears transparent rather than orchestrated. A moderate bias exists due to his social/romantic connection with Tessa, warranting minor reservation. Initial hair comparison suspicions were weakened by fingerprint analysis. Overall fairly reliable with acceptable credibility margins.",
+      "factors_assessed": [
+        "observation directness: direct physical observation of own activities and surroundings",
+        "materiality: directly relevant to Tessa's alibi verification",
+        "contradictions: none identified against S013",
+        "bias: moderate personal interest through association with Tessa Brindle",
+        "behavior: consistent, cooperative, no deflection or suspicious information control patterns"
+      ]
+    },
+    {
+      "witness": "Sorin Ash",
+      "grade": "C",
+      "explanation": "Sorin Ash presents as a forensic subject rather than a testifying witness. Auburn hairs matching his appearance were found at the crime scene, initially implicating him as a possible source. However, subsequent fingerprint comparison weakened suspicion, representing proper investigative narrowing. Critically, no witness testimony places him at either crime location during the relevant timeframe—the connection is purely physical/forensic rather than testimonial. His behavior shows no deceptive patterns, retractions, or suspicious access to evidentiary flows. The reduction in suspicion due to fingerprint evidence indicates he was appropriately eliminated through sound forensic methodology rather than through unreliable witness accounts. As a source of information, he has neither contributed incriminating statements nor demonstrated motive to fabricate; his relevance remains confined to physical evidence comparison.",
+      "factors_assessed": [
+        "observation directness: no direct testimony; connected solely through physical/forensic evidence (auburn hairs)",
+        "material deception: none detected—no statements contradicting core facts",
+        "peripheral concealment: not applicable—no self-serving statements attributed to witness",
+        "unnatural access: absent—no clustering at evidentiary nodes; passive forensic subject",
+        "deflection tactics: not applicable—no statements directing attention elsewhere",
+        "bias: undetermined—no personal stake evident in available information",
+        "investigative methodology: appropriate—initial suspicion properly reduced through fingerprint comparison"
+      ]
+    },
+    {
+      "witness": "Tessa Brindle",
+      "grade": "C",
+      "explanation": "Tessa presents a mixed reliability profile. She has direct knowledge of her own actions (leaving the window open, attending the masquerade) and eventually provided truthful accounts after initial hesitation. Her initial self-contradiction about Nale's return time reveals peripheral concealment—an attempt to hide an embarrassing secret excursion rather than material fabrication about the crime itself. While she created the entry opportunity and lacks accountability during the critical window, her account is partially corroborated by Perri Glain. The moderate risk score (0.58) reflects genuine concerns about her ability to verify events at 47 Bellfounder Row during her absence, warranting a downgrade from higher grades.",
+      "factors_assessed": [
+        "observation directness: direct admissions about own actions and whereabouts",
+        "material deception vs peripheral concealment: peripheral concealment through initial self-contradiction about alibi, eventually corrected",
+        "unnatural access: created window entry opportunity, absent during critical timeframe, cannot verify events during gap",
+        "bias: moderate household/residential stake, romantic involvement with Perri Glain",
+        "corroboration: partially corroborated by Perri Glain's voluntary testimony"
+      ]
+    },
+    {
+      "witness": "Unnamed Bellfounder Road Woman",
+      "grade": "B",
+      "explanation": "This witness provides direct physical observation of a bearded well-dressed man near Bellfounder Row at ~9:15 PM, describing distinctive clothing (sea-otter coat, high felt hat) and purposeful behavior (seeking directions to canal-side terrace). Her two statements are internally consistent. The significant contradiction noted (CONT004) concerns the identity of the man she observed—whether it was indeed Orren Vale—but this does not reflect inconsistency in her own account. The discrepancy between her sighting and physical evidence (Vale's effects remaining behind) suggests either misidentification by her or an impersonator scenario, neither of which undermines her observational reliability. She came forward voluntarily, indicating no apparent motive to fabricate. Minor reservation stems solely from the unresolved identity question, not from any deficiency in her perception or reporting.",
+      "factors_assessed": [
+        "observation directness: direct physical observation of a stranger in public space",
+        "internal consistency: two statements align without self-contradiction",
+        "material contradiction: none inherent to her account; discrepancy concerns target identity rather than her accuracy",
+        "bias: none identified; voluntary disclosure",
+        "natural access: plausible residential proximity to reported location"
+      ]
+    },
+    {
+      "witness": "Unnamed Companion of the Bellfounder Road Woman",
+      "grade": "D",
+      "explanation": "This witness provides direct physical observation of a bearded man near Bellfounder Row (S037), but identification of that individual as Orren Vale rests heavily on 'reputation and appearance' rather than confirmed personal acquaintance. The severe physical evidence conflict (CONT004, severity 0.82) undermines the accuracy of this identification: if the bearded man truly was Vale, his voluntary presence is contradicted by the fact that his lenses, clothes, latchkey, and personal effects all remained behind—and a severely myopic man (per S024) would be highly unlikely to wander streets at night without spectacles. Either the witness misidentified a different bearded man as Vale, or someone resembling Vale was present while the real Vale remained elsewhere. The behavioral concern (INC006, risk 0.68) reinforces this instability. While the witness appears to be reporting genuine observations rather than fabricating, the unreliability of the identification itself—which sits at the center of contested evidentiary reconstruction—renders them a weak source for establishing material facts.",
+      "factors_assessed": [
+        "observation directness: direct physical observation of bearded man near Bellfounder Row, but identification as Orren Vale based on reputation and appearance rather than confirmed personal acquaintance",
+        "material accuracy: severe conflict with physical evidence (Vale's effects remaining behind, extreme myopia making unassisted nighttime wandering improbable); severity 0.82",
+        "identification reliability: identification credibility undermined by documented physiological constraints and physical evidence inconsistencies",
+        "bias: unknown stakes; companion status unclear relative to broader case dynamics"
+      ]
+    },
+    {
+      "witness": "Vale's Supper Companions",
+      "grade": "B",
+      "explanation": "Collective direct observation of Orren Vale during an evening meal at Grand Lantern House. Witnesses reported firsthand observations of his healthy demeanor and satisfaction regarding the next day's mineral-rights transaction. No contradictions identified; accounts align with corroborating evidence (personal effects remaining at townhouse). No bias indicators or motive to deceive detected. Observations are subjective assessments of mood but consistent across multiple diners. Limited scope—they observed context but not the disappearance itself—but highly reliable within their observational frame.",
+      "factors_assessed": [
+        "observation directness: direct physical observation of subject during social dinner",
+        "consistency: zero contradictions, aligned with corroborating evidence (INC011)",
+        "bias: no identifiable personal, financial, or emotional stake",
+        "scope limitations: subjective mood assessments only, no access to planning or subsequent events",
+        "collective witness structure: multiple diners providing consistent accounts"
+      ]
+    }
+  ],
+  "debug_trace": [
+    {
+      "witness": "Coroner Jabez Morn",
+      "stats": {
+        "statement_count": 3,
+        "statement_ids": [
+          "S052",
+          "S053",
+          "S054"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Marda Greaves",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S048",
+          "S049"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Perri Glain",
+      "stats": {
+        "statement_count": 1,
+        "statement_ids": [
+          "S013"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Sorin Ash",
+      "stats": {
+        "statement_count": 1,
+        "statement_ids": [
+          "S032"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Captain Halric Sable",
+      "stats": {
+        "statement_count": 1,
+        "statement_ids": [
+          "S008"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Mistress Alian Rusk",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S015",
+          "S016"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Master Orren Vale",
+      "stats": {
+        "statement_count": 3,
+        "statement_ids": [
+          "S017",
+          "S018",
+          "S019"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Nessa Coil",
+      "stats": {
+        "statement_count": 1,
+        "statement_ids": [
+          "S025"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Marquis Ivo Quill",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S001",
+          "S002"
+        ],
+        "contradiction_count": 2,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Detective Mara Fen",
+      "stats": {
+        "statement_count": 1,
+        "statement_ids": [
+          "S005"
+        ],
+        "contradiction_count": 2,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Bram Vell",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S003",
+          "S004"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Dr. Pavel Norr",
+      "stats": {
+        "statement_count": 1,
+        "statement_ids": [
+          "S038"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Crispin Fallow",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S039",
+          "S040"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Arven Prill",
+      "stats": {
+        "statement_count": 1,
+        "statement_ids": [
+          "S044"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Lorian Fesk",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S028",
+          "S029"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Unnamed Bellfounder Road Woman",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S035",
+          "S036"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Milo Tern",
+      "stats": {
+        "statement_count": 3,
+        "statement_ids": [
+          "S022",
+          "S023",
+          "S024"
+        ],
+        "contradiction_count": 2,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Lady Mira Vale",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S050",
+          "S051"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Dowager Marchioness Selda Quill",
+      "stats": {
+        "statement_count": 1,
+        "statement_ids": [
+          "S014"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Calder Vane",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S030",
+          "S031"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Chelsea Ward Infirmary Medical Officer",
+      "stats": {
+        "statement_count": 1,
+        "statement_ids": [
+          "S041"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Dr. Edrin Sol",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S006",
+          "S007"
+        ],
+        "contradiction_count": 2,
+        "behavior_count": 3
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Tessa Brindle",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S011",
+          "S012"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Lenox Marr",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S042",
+          "S043"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Irene Saff",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S020",
+          "S021"
+        ],
+        "contradiction_count": 2,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Harlan Greaves",
+      "stats": {
+        "statement_count": 3,
+        "statement_ids": [
+          "S045",
+          "S046",
+          "S047"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Unnamed Companion of the Bellfounder Road Woman",
+      "stats": {
+        "statement_count": 1,
+        "statement_ids": [
+          "S037"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Vale's Supper Companions",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S026",
+          "S027"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Corwin Nale",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S009",
+          "S010"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Maeron Pith",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S033",
+          "S034"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    }
+  ],
+  "telemetry_log": [
+    {
+      "agent_name": "StatementExtractionAgent",
+      "input_tokens": 2907,
+      "output_tokens": 3404,
+      "execution_time_seconds": 94.8,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 9143
+    },
+    {
+      "agent_name": "StatementExtractionAgent",
+      "input_tokens": 2692,
+      "output_tokens": 3407,
+      "execution_time_seconds": 90.88,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 8344
+    },
+    {
+      "agent_name": "StatementExtractionAgent",
+      "input_tokens": 2677,
+      "output_tokens": 3883,
+      "execution_time_seconds": 137.83,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 8141
+    },
+    {
+      "agent_name": "StatementExtractionAgent",
+      "input_tokens": 1959,
+      "output_tokens": 1178,
+      "execution_time_seconds": 54.81,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 5101
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 1997,
+      "output_tokens": 2474,
+      "execution_time_seconds": 55.64,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 5950
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 1717,
+      "output_tokens": 2118,
+      "execution_time_seconds": 49.66,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4498
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 1524,
+      "output_tokens": 1029,
+      "execution_time_seconds": 19.98,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3915
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 1693,
+      "output_tokens": 1807,
+      "execution_time_seconds": 29.16,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 9060
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 1626,
+      "output_tokens": 2260,
+      "execution_time_seconds": 31.09,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4240
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 939,
+      "output_tokens": 855,
+      "execution_time_seconds": 11.61,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1605
+    },
+    {
+      "agent_name": "TimelineAgent",
+      "input_tokens": 6810,
+      "output_tokens": 7751,
+      "execution_time_seconds": 159.1,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 49066
+    },
+    {
+      "agent_name": "BehavioralConsistencyAgent",
+      "input_tokens": 11882,
+      "output_tokens": 7353,
+      "execution_time_seconds": 169.91,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 74296
+    },
+    {
+      "agent_name": "TimelineContradictionAgent",
+      "input_tokens": 4604,
+      "output_tokens": 3934,
+      "execution_time_seconds": 293.7,
+      "llm_success_ratio": "1/2",
+      "payload_size_bytes": 27518
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1342,
+      "output_tokens": 876,
+      "execution_time_seconds": 22.1,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3004
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1606,
+      "output_tokens": 1581,
+      "execution_time_seconds": 39.32,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4187
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 999,
+      "output_tokens": 772,
+      "execution_time_seconds": 20.02,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1584
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1108,
+      "output_tokens": 1066,
+      "execution_time_seconds": 25.84,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2078
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1712,
+      "output_tokens": 1260,
+      "execution_time_seconds": 30.31,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4601
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1148,
+      "output_tokens": 909,
+      "execution_time_seconds": 23.82,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2095
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1444,
+      "output_tokens": 1189,
+      "execution_time_seconds": 29.51,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3431
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1014,
+      "output_tokens": 763,
+      "execution_time_seconds": 18.06,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1746
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1540,
+      "output_tokens": 979,
+      "execution_time_seconds": 24.5,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3820
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1353,
+      "output_tokens": 891,
+      "execution_time_seconds": 23.34,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3154
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1910,
+      "output_tokens": 1305,
+      "execution_time_seconds": 32.97,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 5414
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1091,
+      "output_tokens": 1025,
+      "execution_time_seconds": 26.4,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2065
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1154,
+      "output_tokens": 1026,
+      "execution_time_seconds": 25.86,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2086
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1183,
+      "output_tokens": 898,
+      "execution_time_seconds": 23.63,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2317
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 988,
+      "output_tokens": 756,
+      "execution_time_seconds": 17.93,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1609
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1460,
+      "output_tokens": 948,
+      "execution_time_seconds": 24.16,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3441
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1004,
+      "output_tokens": 783,
+      "execution_time_seconds": 20.53,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1558
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1023,
+      "output_tokens": 831,
+      "execution_time_seconds": 20.9,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1646
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1008,
+      "output_tokens": 955,
+      "execution_time_seconds": 23.09,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1506
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1474,
+      "output_tokens": 1144,
+      "execution_time_seconds": 28.51,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3674
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1509,
+      "output_tokens": 1230,
+      "execution_time_seconds": 31.77,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3581
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1676,
+      "output_tokens": 977,
+      "execution_time_seconds": 24.79,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4217
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 852,
+      "output_tokens": 827,
+      "execution_time_seconds": 20.32,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 871
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1057,
+      "output_tokens": 894,
+      "execution_time_seconds": 23.55,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1927
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1130,
+      "output_tokens": 824,
+      "execution_time_seconds": 20.57,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2085
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1244,
+      "output_tokens": 889,
+      "execution_time_seconds": 20.41,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 5336
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1574,
+      "output_tokens": 864,
+      "execution_time_seconds": 22.37,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3934
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1124,
+      "output_tokens": 1142,
+      "execution_time_seconds": 26.97,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1891
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1161,
+      "output_tokens": 946,
+      "execution_time_seconds": 24.56,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2162
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1033,
+      "output_tokens": 800,
+      "execution_time_seconds": 19.5,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1776
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1513,
+      "output_tokens": 793,
+      "execution_time_seconds": 19.98,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3004
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1777,
+      "output_tokens": 728,
+      "execution_time_seconds": 18.71,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4187
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1170,
+      "output_tokens": 757,
+      "execution_time_seconds": 18.27,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1584
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1279,
+      "output_tokens": 701,
+      "execution_time_seconds": 17.86,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2078
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1883,
+      "output_tokens": 1034,
+      "execution_time_seconds": 24.91,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4601
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1319,
+      "output_tokens": 744,
+      "execution_time_seconds": 19.11,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2095
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1615,
+      "output_tokens": 954,
+      "execution_time_seconds": 23.04,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3431
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1185,
+      "output_tokens": 797,
+      "execution_time_seconds": 20.59,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1746
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1711,
+      "output_tokens": 844,
+      "execution_time_seconds": 20.61,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3820
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1524,
+      "output_tokens": 860,
+      "execution_time_seconds": 20.48,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3154
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 2081,
+      "output_tokens": 988,
+      "execution_time_seconds": 25.89,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 5414
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1262,
+      "output_tokens": 661,
+      "execution_time_seconds": 16.15,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2065
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1325,
+      "output_tokens": 770,
+      "execution_time_seconds": 19.25,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2086
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1354,
+      "output_tokens": 669,
+      "execution_time_seconds": 17.23,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2317
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1159,
+      "output_tokens": 915,
+      "execution_time_seconds": 23.52,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1609
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1631,
+      "output_tokens": 747,
+      "execution_time_seconds": 19.86,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3441
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1175,
+      "output_tokens": 791,
+      "execution_time_seconds": 19.66,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1558
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1194,
+      "output_tokens": 1082,
+      "execution_time_seconds": 26.48,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1646
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1179,
+      "output_tokens": 599,
+      "execution_time_seconds": 15.74,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1506
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1645,
+      "output_tokens": 780,
+      "execution_time_seconds": 19.64,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3674
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1680,
+      "output_tokens": 1112,
+      "execution_time_seconds": 28.25,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3581
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1847,
+      "output_tokens": 826,
+      "execution_time_seconds": 21.77,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4217
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1023,
+      "output_tokens": 702,
+      "execution_time_seconds": 16.46,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 871
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1228,
+      "output_tokens": 758,
+      "execution_time_seconds": 19.9,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1927
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1301,
+      "output_tokens": 672,
+      "execution_time_seconds": 16.11,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2085
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1415,
+      "output_tokens": 877,
+      "execution_time_seconds": 22.56,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 5336
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1745,
+      "output_tokens": 971,
+      "execution_time_seconds": 24.52,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3934
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1295,
+      "output_tokens": 882,
+      "execution_time_seconds": 21.88,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1891
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1332,
+      "output_tokens": 908,
+      "execution_time_seconds": 23.76,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2162
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1204,
+      "output_tokens": 692,
+      "execution_time_seconds": 17.22,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1776
+    }
+  ]
+}

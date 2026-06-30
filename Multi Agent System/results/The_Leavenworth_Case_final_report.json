@@ -1,0 +1,3191 @@
+{
+  "timeline": [
+    {
+      "event_id": "EV001",
+      "statement_ids": [
+        "S069"
+      ],
+      "time": "Before the murder",
+      "location": "Shrine",
+      "subject": "Selene Orrel and Rowan Cale",
+      "action": "were bound in secret ceremony",
+      "context": "Preserved through witness memory and documents",
+      "witnesses": [
+        "Samel Dorn"
+      ]
+    },
+    {
+      "event_id": "EV002",
+      "statement_ids": [
+        "S063",
+        "S064",
+        "S065"
+      ],
+      "time": "Earlier stay - before murder",
+      "location": "Copper Quay Lodge",
+      "subject": "Orrel party and Rowan Cale",
+      "action": "stayed previously, with messages and interactions between Selene, Tavia, and Rowan",
+      "context": "Combined with other Northmere servants' statements to establish prior events",
+      "witnesses": [
+        "Nessa Orr"
+      ]
+    },
+    {
+      "event_id": "EV003",
+      "statement_ids": [
+        "S045",
+        "S046"
+      ],
+      "time": "Pre-investigation / During investigation",
+      "location": "Vel Orun / Across sea routes",
+      "subject": "Rowan Cale's past and connection with Liora",
+      "action": "reported on Rowan Cale's past in Vel Orun, documented connection with Liora Fen and return across the sea",
+      "context": "Foreign investigator findings corroborating secret-binding theory",
+      "witnesses": [
+        "Sorin Ash"
+      ]
+    },
+    {
+      "event_id": "EV004",
+      "statement_ids": [
+        "S047"
+      ],
+      "time": "Throughout association",
+      "location": "Estate contexts",
+      "subject": "Aric Vey",
+      "action": "supplied background on Vey's character and preference for Selene",
+      "context": "Senior estate advocate and old associate",
+      "witnesses": [
+        "Meren Toll"
+      ]
+    },
+    {
+      "event_id": "EV005",
+      "statement_ids": [
+        "S024",
+        "S025"
+      ],
+      "time": "Days/nights preceding the murder / Before departing",
+      "location": "Upper floors",
+      "subject": "Pira Senn",
+      "action": "described Pira as troubled and withdrawn; confirmed the jawache",
+      "context": "Change in demeanor prior to disappearance",
+      "witnesses": [
+        "Mira Pell"
+      ]
+    },
+    {
+      "event_id": "EV006",
+      "statement_ids": [
+        "S026"
+      ],
+      "time": "Murder night, before disappearance",
+      "location": "Upper floors",
+      "subject": "Pira Senn",
+      "action": "Pira dressed fully, took a loose glow-wick, went downstairs",
+      "context": "Preparing to descend for remedy",
+      "witnesses": [
+        "Mira Pell"
+      ]
+    },
+    {
+      "event_id": "EV007",
+      "statement_ids": [
+        "S001"
+      ],
+      "time": "Evening of the murder",
+      "location": "maproom",
+      "subject": "Lucan Marris and Aric Vey",
+      "action": "completed the usual evening work with Vey",
+      "context": "Part of the established nightly routine",
+      "witnesses": [
+        "Lucan Marris"
+      ]
+    },
+    {
+      "event_id": "EV008",
+      "statement_ids": [
+        "S002",
+        "S003",
+        "S004",
+        "S005"
+      ],
+      "time": "During the evening work session",
+      "location": "maproom / between maproom and sleep chamber / narrow passage between rooms",
+      "subject": "Amber cordial, cup, inner door, unknown person(s)",
+      "action": "described the amber cordial; noticed the partly filled cup; saw the open inner door; heard indistinct passage sounds",
+      "context": "Observed during the evening session with Vey",
+      "witnesses": [
+        "Lucan Marris"
+      ]
+    },
+    {
+      "event_id": "EV009",
+      "statement_ids": [
+        "S057"
+      ],
+      "time": "Murder night - Nighttime",
+      "location": "Below stairs of the citadel",
+      "subject": "Pira Senn",
+      "action": "went downstairs",
+      "context": "She reportedly went below during the night with a jawache, carrying a loose glow-wick",
+      "witnesses": [
+        "Pira Senn"
+      ]
+    },
+    {
+      "event_id": "EV010",
+      "statement_ids": [
+        "S066",
+        "S067",
+        "S068"
+      ],
+      "time": "Null / At moment of death / Before death",
+      "location": "Citadel maproom / Maproom desk",
+      "subject": "Aric Vey",
+      "action": "maintained regular habits, owned a weapon, wrote correspondence; was seated and bent forward over a half-written note; began writing a summons to his legal steward",
+      "context": "Facts strongly corroborated by documents and physical evidence",
+      "witnesses": [
+        "Aric Vey"
+      ]
+    },
+    {
+      "event_id": "EV011",
+      "statement_ids": [
+        "S015",
+        "S016"
+      ],
+      "time": "At moment of shooting",
+      "location": "at maproom desk / threshold between sleep chamber and maproom",
+      "subject": "Aric Vey and attacker",
+      "action": "Vey was seated, leaning forward over his desk; shot came from near the threshold",
+      "context": "Position when struck from behind; shooter positioned at the doorway",
+      "witnesses": [
+        "Sera Voss"
+      ]
+    },
+    {
+      "event_id": "EV012",
+      "statement_ids": [
+        "S058"
+      ],
+      "time": "After the killing",
+      "location": "Unspecified",
+      "subject": "Pira Senn",
+      "action": "appeared to have seen or met someone",
+      "context": "Her encounter after the killing contributed to suspicion attaching to her",
+      "witnesses": [
+        "Pira Senn"
+      ]
+    },
+    {
+      "event_id": "EV013",
+      "statement_ids": [
+        "S054",
+        "S055"
+      ],
+      "time": "After the murder / During Pira's stay",
+      "location": "Liora's home in Northmere",
+      "subject": "Pira Senn",
+      "action": "took in Pira after the murder; heard Pira say she had been sent away and warned not to tell what happened",
+      "context": "Provided sanctuary to the junior attendant who had vanished",
+      "witnesses": [
+        "Liora Fen"
+      ]
+    },
+    {
+      "event_id": "EV014",
+      "statement_ids": [
+        "S017",
+        "S018",
+        "S019"
+      ],
+      "time": "Night / Morning / Morning, after forcing door",
+      "location": "citadel exterior / citadel entrance / maproom",
+      "subject": "Citadel and Aric Vey",
+      "action": "barred the citadel at night; found the fastenings still secure in the morning; found Vey dead",
+      "context": "Evening security lockdown; verified locked-from-within status",
+      "witnesses": [
+        "Bram Toller"
+      ]
+    },
+    {
+      "event_id": "EV015",
+      "statement_ids": [
+        "S021",
+        "S022"
+      ],
+      "time": "After discovery of the body / Before murder night",
+      "location": "kitchen/domestic areas / citadel",
+      "subject": "Pira Senn",
+      "action": "first made investigators notice Pira's disappearance; confirmed Pira's jawache and nighttime trip for a remedy",
+      "context": "Household staff alert; pre-existing condition cited as reason for absence",
+      "witnesses": [
+        "Jessa Kade"
+      ]
+    },
+    {
+      "event_id": "EV016",
+      "statement_ids": [
+        "S023"
+      ],
+      "time": "Near time of discovery",
+      "location": "near maproom",
+      "subject": "Tavia Orrel",
+      "action": "reported seeing Tavia leave the maproom area with a paper hidden away",
+      "context": "Concealing documents after the murder",
+      "witnesses": [
+        "Jessa Kade"
+      ]
+    },
+    {
+      "event_id": "EV017",
+      "statement_ids": [
+        "S006",
+        "S007",
+        "S008"
+      ],
+      "time": "After discovery of the body / During citadel examination / Following initial investigation",
+      "location": "barred citadel / citadel grounds / various locations",
+      "subject": "Citadel, glow-wick, suspects",
+      "action": "examined the barred citadel; found Pira's dropped glow-wick; placed watchers on key suspects",
+      "context": "Initial crime scene perimeter assessment; linked to Pira's nighttime journey; ongoing surveillance operation",
+      "witnesses": [
+        "Orra Kest"
+      ]
+    },
+    {
+      "event_id": "EV018",
+      "statement_ids": [
+        "S012",
+        "S013",
+        "S014"
+      ],
+      "time": "Upon examination of the body / During post-mortem examination / At time of examination",
+      "location": "sleep chamber / Vey's body / body location",
+      "subject": "Aric Vey and flechette",
+      "action": "examined Vey's wound; removed the flechette; fixed death as immediate",
+      "context": "Post-mortem examination; extracted as evidence; cause of death determination",
+      "witnesses": [
+        "Sera Voss"
+      ]
+    },
+    {
+      "event_id": "EV019",
+      "statement_ids": [
+        "S027",
+        "S028",
+        "S029"
+      ],
+      "time": "During ballistics examination",
+      "location": "Cinderglass Armory",
+      "subject": "Flechette and spring caster",
+      "action": "identified the flechette as third-gauge ammunition fitting a compact spring caster; inspected Vey's weapon; explained that cleaning had removed residue from the barrel while traces in the rotating chamber still showed a recent shot",
+      "context": "Matched to Vey's weapon type; forensic weapon examination; attempted cleanup detected despite surface cleaning",
+      "witnesses": [
+        "Noa Brill"
+      ]
+    },
+    {
+      "event_id": "EV020",
+      "statement_ids": [
+        "S030",
+        "S031"
+      ],
+      "time": "During investigation / During search of sleep chamber",
+      "location": "various / Vey's sleep chamber",
+      "subject": "Investigation team and spring caster and ammunition",
+      "action": "carried out the magistrate's orders with other officers; recovered the spring caster and ammunition from the locked drawer",
+      "context": "Law enforcement execution of warrants; weapon normally kept beside Vey's bed",
+      "witnesses": [
+        "Ilyan Mora"
+      ]
+    },
+    {
+      "event_id": "EV021",
+      "statement_ids": [
+        "S034",
+        "S035",
+        "S036",
+        "S037"
+      ],
+      "time": "During investigation",
+      "location": "Citadel premises / Maproom / Under interrogation / Unspecified",
+      "subject": "Tavia Orrel and Evidence",
+      "action": "was associated with the spring caster; was seen near the maproom papers; refused to explain the ward-key and torn message fragments; admitted destroying or concealing evidence",
+      "context": "The weapon was Vey's own six-cell spring caster, normally kept in his sleep chamber; items were later recovered by Deven Holt; concealments reportedly aimed at shielding Selene and the family name",
+      "witnesses": [
+        "Tavia Orrel"
+      ]
+    },
+    {
+      "event_id": "EV022",
+      "statement_ids": [
+        "S032",
+        "S033"
+      ],
+      "time": "Before Vey's death / After binding, before or after Vey's death",
+      "location": "Unknown / Northmere (via intermediaries)",
+      "subject": "Selene Orrel and Liora Fen",
+      "action": "entered into secret oath-binding with Rowan Cale; requested destruction of binding proof via Liora Fen",
+      "context": "This binding endangered her inheritance since Vey despised Rowan's lineage; attempted to remove evidence of the oath-binding",
+      "witnesses": [
+        "Selene Orrel"
+      ]
+    },
+    {
+      "event_id": "EV023",
+      "statement_ids": [
+        "S038",
+        "S039"
+      ],
+      "time": "When appearing near citadel / During conversation with Niko",
+      "location": "Near citadel / Unspecified",
+      "subject": "Rowan Cale",
+      "action": "appeared near the citadel under a borrowed name; described the secret-binding problem to Niko as concerning someone else",
+      "context": "Evasion and self-protection evident in his methods; evasively reframed personal involvement as third-party matter",
+      "witnesses": [
+        "Rowan Cale"
+      ]
+    },
+    {
+      "event_id": "EV024",
+      "statement_ids": [
+        "S040",
+        "S041"
+      ],
+      "time": "During surveillance shift / After hearing object fall",
+      "location": "Chamber not belonging to Tavia / Near the grate",
+      "subject": "Tavia Orrel and Ward-key and fragments",
+      "action": "saw her enter a chamber not her own; helped recover the broken-handled ward-key and torn message fragments",
+      "context": "Assigned specifically to watch Tavia; items had been concealed by Tavia",
+      "witnesses": [
+        "Deven Holt"
+      ]
+    },
+    {
+      "event_id": "EV025",
+      "statement_ids": [
+        "S051",
+        "S052"
+      ],
+      "time": "At time of ceremony / At identification moment",
+      "location": "Shrine-keeper's house / Investigation context",
+      "subject": "Binding ceremony and Which foster heir",
+      "action": "remembered the secret binding ceremony, the striking partner, the beautiful young woman; identification shows which foster heir participated in the ceremony",
+      "context": "Hired hand connected with shrine-keeper's house, served as witness; corrected an important mistaken assumption about participant identity",
+      "witnesses": [
+        "Olin Reed"
+      ]
+    },
+    {
+      "event_id": "EV026",
+      "statement_ids": [
+        "S048"
+      ],
+      "time": "After learning of binding",
+      "location": "Citadel",
+      "subject": "Legal urgency",
+      "action": "explained why Selene's secret binding would endanger her inheritance and make Vey's intended legal summons urgent",
+      "context": "Vey meant to summon his legal steward and alter his settlement",
+      "witnesses": [
+        "Meren Toll"
+      ]
+    },
+    {
+      "event_id": "EV027",
+      "statement_ids": [
+        "S049",
+        "S050"
+      ],
+      "time": "During briefing / To enable lodging arrangement",
+      "location": "Northmere / Liora's home in Northmere",
+      "subject": "Liora Fen and Niko's entry",
+      "action": "identified Liora Fen as a respectable widow; enabled Niko to enter her home as a lodger",
+      "context": "Northmere contact enabling investigation access; created route to investigate Pira's hiding place and binding evidence",
+      "witnesses": [
+        "Jorik Penn"
+      ]
+    },
+    {
+      "event_id": "EV028",
+      "statement_ids": [
+        "S053"
+      ],
+      "time": "Upon receiving request or earlier",
+      "location": "Northmere home",
+      "subject": "Binding evidence",
+      "action": "hid a lacquer tube containing the binding evidence",
+      "context": "Selene's confidante, biased toward Selene",
+      "witnesses": [
+        "Liora Fen"
+      ]
+    },
+    {
+      "event_id": "EV029",
+      "statement_ids": [
+        "S042",
+        "S043",
+        "S044"
+      ],
+      "time": "Shortly before Pira's death / During investigation",
+      "location": "Northmere/Liora's vicinity / Northmere area / Northmere",
+      "subject": "Pira Senn, Suspicious powder, and Selene's message",
+      "action": "saw Pira alive shortly before her death; observed the suspicious powder episode; obtained Selene's message to Liora",
+      "context": "Undercover operative using alias Moth; powder sent to Pira as protective charm; part of reshaping the inquiry through urgent reports",
+      "witnesses": [
+        "Kit Vale"
+      ]
+    },
+    {
+      "event_id": "EV030",
+      "statement_ids": [
+        "S059",
+        "S060"
+      ],
+      "time": "Null / During investigation",
+      "location": "Near Liora Fen's residence / Upper window of Liora's house",
+      "subject": "Kel Brask and Woman believed to be Pira",
+      "action": "is a metalworker living nearby; saw a woman believed to be Pira",
+      "context": "His proximity to Liora's house enabled his observation; this sighting prompted investigators to renew attention to the Northmere refuge",
+      "witnesses": [
+        "Kel Brask"
+      ]
+    },
+    {
+      "event_id": "EV031",
+      "statement_ids": [
+        "S061",
+        "S062"
+      ],
+      "time": "Around the murder timeframe / Distinct from murder timeline",
+      "location": "Area near Saffron Gate Inn / Outside the citadel",
+      "subject": "Rowan Cale",
+      "action": "was present and agitated; concealed movements distinguished from killing timeline",
+      "context": "Account supplemented by Saffron Gate Inn staff regarding movements and departure; helped separate his concealments from the physical timeline of the killing",
+      "witnesses": [
+        "Marlo Dain"
+      ]
+    },
+    {
+      "event_id": "EV032",
+      "statement_ids": [
+        "S056"
+      ],
+      "time": "Later during investigation",
+      "location": "Unspecified",
+      "subject": "Later account",
+      "action": "later gave a fuller account",
+      "context": "Several central facts independently supported despite bias toward Selene",
+      "witnesses": [
+        "Liora Fen"
+      ]
+    },
+    {
+      "event_id": "EV033",
+      "statement_ids": [
+        "S009",
+        "S010"
+      ],
+      "time": "During formal inquiry proceedings / Relevant to murder night",
+      "location": "inquiry venue / citadel",
+      "subject": "Inquiry process and citadel security",
+      "action": "conducted the public inquiry; drew out the locked-house facts",
+      "context": "Official judicial proceedings; establishing the sealed interior scenario",
+      "witnesses": [
+        "Damar Quill"
+      ]
+    },
+    {
+      "event_id": "EV034",
+      "statement_ids": [
+        "S011"
+      ],
+      "time": "Murder night",
+      "location": "below decks",
+      "subject": "Pira Senn",
+      "action": "Pira's disappearance occurred",
+      "context": "Vanished after going below with jawache",
+      "witnesses": [
+        "Damar Quill"
+      ]
+    },
+    {
+      "event_id": "EV035",
+      "statement_ids": [
+        "S020"
+      ],
+      "time": "Various occasions prior to murder",
+      "location": "citadel",
+      "subject": "Rowan Cale",
+      "action": "revealed Rowan's visits under both a false name and his own",
+      "context": "Concealed identity during visits",
+      "witnesses": [
+        "Bram Toller"
+      ]
+    },
+    {
+      "event_id": "EV036",
+      "statement_ids": [
+        "S070"
+      ],
+      "time": "Preceding the murder",
+      "location": null,
+      "subject": "Estate crisis",
+      "action": "created the estate crisis",
+      "context": "Binding between Selene and Rowan—an outsider from a lineage Vey despised",
+      "witnesses": [
+        "Samel Dorn"
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "contradiction_id": "CONT001",
+      "type": "identity_conflict",
+      "event_ids": [
+        "EV023",
+        "EV031"
+      ],
+      "explanation": "Event EV023 (Rowan Cale) claims he described the secret-binding problem to Niko as concerning 'someone else,' framing his involvement as third-party. However, Event EV031 (Marlo Dain) places Rowan Cale as 'present and agitated' near the Saffron Gate Inn area outside the citadel during the murder timeframe. This directly contradicts his claimed detachment from the situation—he is physically proximate and emotionally agitated precisely when the murder occurs, undermining his attempt to minimize personal involvement in the very binding that motivated the killing.",
+      "severity": 0.82
+    },
+    {
+      "contradiction_id": "CONT002",
+      "type": "action_conflict",
+      "event_ids": [
+        "EV022",
+        "EV028"
+      ],
+      "explanation": "Event EV022 (Selene Orrel) explicitly states she 'requested destruction of binding proof via Liora Fen.' Yet Event EV028 (Liora Fen) records that she 'hid a lacquer tube containing the binding evidence' rather than destroying it. This represents a clear divergence between Selene's directive and Liora's actual conduct. Either Liora deliberately disobeyed Selene's explicit wishes, or Selene's claim of requesting destruction is false—she may have only pretended to want the evidence gone while ensuring it remained accessible through her confidante.",
+      "severity": 0.88
+    },
+    {
+      "contradiction_id": "CONT003",
+      "type": "action_conflict",
+      "event_ids": [
+        "EV021",
+        "EV024"
+      ],
+      "explanation": "Event EV021 (Tavia Orrel) has Tavia 'admitting destroying or concealing evidence.' The phrasing conflates two different outcomes—destruction implies permanent elimination, while concealment implies temporary hiding. Event EV024 (Deven Holt) reports recovering 'the broken-handled ward-key and torn message fragments' after watching Tavia enter a chamber not her own. If Tavia truly destroyed the evidence, these fragments should not exist in recoverable form. The fact that Deven successfully retrieved them suggests Tavia only partially complied with any supposed destruction order, or more likely, she only concealed rather than destroyed them—which would contradict any subsequent claim of full destruction.",
+      "severity": 0.75
+    },
+    {
+      "contradiction_id": "CONT004",
+      "type": "causal_conflict",
+      "event_ids": [
+        "EV013",
+        "EV029"
+      ],
+      "explanation": "Event EV013 (Liora Fen) states that Pira told her she 'had been sent away and warned not to tell what happened' after the murder. This frames Pira as a passive recipient of threats. However, Event EV029 (Kit Vale) reports observing 'the suspicious powder episode' involving Pira, describing her as actively engaged in covert activity ('undercover operative using alias Moth'). The tone of EV013 suggests Pira was simply silenced as a victim/witness, while EV029 presents her as a participant in clandestine operations. This creates ambiguity about whether Pira was an innocent bystander warned to stay silent, or an active agent involved in the underlying conspiracy whose 'warning' may have been operational rather than threatening.",
+      "severity": 0.68
+    }
+  ],
+  "attributes": [
+    {
+      "person": "Aric Vey",
+      "attributes": [
+        {
+          "claim": "colleague of Lucan Marris in the maproom",
+          "source": "S001",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Is a senior estate advocate",
+          "source": "S047",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Has a known preference for Selene",
+          "source": "S047",
+          "confidence": 0.6
+        },
+        {
+          "claim": "Exhibits hostility toward Rowan's people",
+          "source": "S047",
+          "confidence": 0.6
+        },
+        {
+          "claim": "Is an old associate of Meren Toll",
+          "source": "S047",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Owned a weapon",
+          "source": "S066",
+          "confidence": 1.0
+        },
+        {
+          "claim": "Maintained regular habits",
+          "source": "S066",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Had a legal steward",
+          "source": "S066",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Had a distinctive writing posture",
+          "source": "S066",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Despised outsiders and certain lineages",
+          "source": "S070",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "person": "Damar Quill",
+      "attributes": [
+        {
+          "claim": "conducts official public inquiries",
+          "source": "S009",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Lucan Marris",
+      "attributes": [
+        {
+          "claim": "maproom worker",
+          "source": "S001",
+          "confidence": 0.8
+        },
+        {
+          "claim": "performs evening work routine with Aric Vey",
+          "source": "S001",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Orra Kest",
+      "attributes": [
+        {
+          "claim": "investigator placing surveillance on suspects",
+          "source": "S008",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Pira",
+      "attributes": [
+        {
+          "claim": "owner of a glow-wick",
+          "source": "S007",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Pira Senn",
+      "attributes": [
+        {
+          "claim": "Suffered from jaw pain",
+          "source": "S011",
+          "confidence": 0.7
+        },
+        {
+          "claim": "suffers from a chronic jawache",
+          "source": "S022",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Is a junior attendant",
+          "source": "S054",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Vanished and required sanctuary after the murder",
+          "source": "S054",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Was sent away and warned not to disclose what happened",
+          "source": "S055",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Sera Voss",
+      "attributes": []
+    },
+    {
+      "person": "Bram Toller",
+      "attributes": []
+    },
+    {
+      "person": "Rowan Cale",
+      "attributes": [
+        {
+          "claim": "Used a borrowed name and concealment methods",
+          "source": "S038",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Corresponded with Vey",
+          "source": "S038",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Appeared near the citadel",
+          "source": "S038",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Is involved in the secret-binding situation",
+          "source": "S039",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Has a past associated with Vel Orun",
+          "source": "S045",
+          "confidence": 0.6
+        },
+        {
+          "claim": "Engaged in travel and correspondence",
+          "source": "S045",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Made preparations for a woman",
+          "source": "S045",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Is an outsider whose lineage was despised by Aric Vey",
+          "source": "S070",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Was secretly bound to Selene Orrel in a ceremony at the Shrine",
+          "source": "S069",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Vey",
+      "attributes": [
+        {
+          "claim": "Owned a six-cell spring caster normally kept beside his bed",
+          "source": "S031",
+          "confidence": 1.0
+        },
+        {
+          "claim": "Despised Rowan Cale's lineage",
+          "source": "S032",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "person": "Selene Orrel",
+      "attributes": [
+        {
+          "claim": "Entered into secret oath-binding with Rowan Cale",
+          "source": "S032",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Her inheritance was endangered by the binding with Rowan",
+          "source": "S032",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Used Liora Fen as an intermediary to remove proof of the binding",
+          "source": "S033",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Was secretly bound to Rowan Cale in a ceremony at the Shrine",
+          "source": "S069",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Liora Fen",
+      "attributes": [
+        {
+          "claim": "Acted as intermediary for Selene Orrel in Northmere",
+          "source": "S033",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Is a respectable widow residing in Northmere",
+          "source": "S049",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Maintains a household in Northmere",
+          "source": "S049",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Has a romantic connection with Rowan Cale across sea routes",
+          "source": "S046",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Is Selene's confidante",
+          "source": "S053",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Is biased toward Selene",
+          "source": "S053",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Resides in Northmere",
+          "source": "S053",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Took in Pira Senn after the murder",
+          "source": "S054",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Tavia Orrel",
+      "attributes": [
+        {
+          "claim": "Was associated with the spring caster found in Vey's chamber",
+          "source": "S034",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Was seen near papers in the maproom",
+          "source": "S035",
+          "confidence": 0.5
+        },
+        {
+          "claim": "Admitted to destroying or concealing evidence",
+          "source": "S037",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Motivated to conceal things to shield Selene and the family name",
+          "source": "S037",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "person": "Deven Holt",
+      "attributes": [
+        {
+          "claim": "Recovered the ward-key and torn message fragments",
+          "source": "S036",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Was assigned to surveil Tavia Orrel",
+          "source": "S040",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Selene",
+      "attributes": [
+        {
+          "claim": "Secretly bound in marriage, which endangers her inheritance",
+          "source": "S048",
+          "confidence": 0.5
+        }
+      ]
+    },
+    {
+      "person": "Olin Reed",
+      "attributes": [
+        {
+          "claim": "Is a hired hand connected with the shrine-keeper's house",
+          "source": "S051",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Served as witness at the secret binding ceremony",
+          "source": "S051",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Kel Brask",
+      "attributes": [
+        {
+          "claim": "Is a metalworker",
+          "source": "S059",
+          "confidence": 0.8
+        },
+        {
+          "claim": "Lives near Liora Fen's residence",
+          "source": "S059",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "person": "Marlo Dain",
+      "attributes": []
+    },
+    {
+      "person": "Nessa Orr",
+      "attributes": []
+    },
+    {
+      "person": "Samel Dorn",
+      "attributes": []
+    },
+    {
+      "person": "Legal Steward",
+      "attributes": [
+        {
+          "claim": "Serves as Aric Vey's legal representative",
+          "source": "S066",
+          "confidence": 0.8
+        }
+      ]
+    }
+  ],
+  "behavior_report": [
+    {
+      "issue_id": "INC001",
+      "person": "Tavia Orrel",
+      "behavior_type": "evasion",
+      "explanation": "Tavia was seen near maproom papers immediately after the murder (S023, S035), refused to explain the ward-key and torn message fragments when questioned (S036), and privately admitted destroying or concealing evidence (S037). Her stated motivation was 'shielding Selene and the family name.' This represents active obstruction of justice combined with selective cooperation—she will discuss some matters but clams up on the most probative items.",
+      "risk_score": 0.85
+    },
+    {
+      "issue_id": "INC002",
+      "person": "Selene Orrel",
+      "behavior_type": "motive_alignment",
+      "explanation": "Selene entered into a secret oath-binding with Rowan Cale (S032, S069), an outsider whose lineage Vey despised. This binding directly endangered her inheritance (S048). She used Liora Fen as an intermediary to attempt destruction of the binding proof (S033). Vey was in the process of writing a summons to his legal steward to alter his settlement after learning of the binding (S068). Every element of her attribute profile aligns perfectly with a motive to eliminate Vey before he could legally disinherit her.",
+      "risk_score": 0.78
+    },
+    {
+      "issue_id": "INC003",
+      "person": "Rowan Cale",
+      "behavior_type": "evasion",
+      "explanation": "Rowan appeared near the citadel under a borrowed name (S038, S020), corresponding with Vey while employing concealment methods. When speaking to Niko, he described the secret-binding problem 'as though it concerned someone else' (S039)—a classic third-person reframing technique that distances himself from his own involvement. His lineage was despised by Vey (S070), making him an outsider with both emotional and financial stakes in Vey's death.",
+      "risk_score": 0.72
+    },
+    {
+      "issue_id": "INC004",
+      "person": "Liora Fen",
+      "behavior_type": "innocent_concealment",
+      "explanation": "Liora acted as Selene's confidante (S053), hid the lacquer tube containing binding evidence (S053), and took in Pira after the murder (S054). However, her actions are consistent with innocent friendship obligations—she was asked by Selene to help, and Pira arrived needing sanctuary. While biased toward Selene (S053), she later gave a fuller account (S056) and her core story is independently corroborated. Her concealment stems from loyalty, not criminal culpability.",
+      "risk_score": 0.42
+    },
+    {
+      "issue_id": "INC005",
+      "person": "Lucan Marris",
+      "behavior_type": "unnatural_access",
+      "explanation": "Lucan was present in the maproom throughout the entire evening work session with Vey (S001). He observed the amber cordial (S002), noticed the partly-filled cup (S003), saw the open inner door connecting to the sleep chamber (S004), and heard indistinct passage sounds (S005). While his access is explainable by his work role, his detailed peripheral observations without any self-implication is noteworthy—he describes everything except what he himself was doing or whether anyone else was present besides Vey.",
+      "risk_score": 0.58
+    },
+    {
+      "issue_id": "INC006",
+      "person": "Pira Senn",
+      "behavior_type": "unnatural_access",
+      "explanation": "Pira went downstairs during the murder night with a jawache, carrying a loose glow-wick (S026, S057). She 'appears to have seen or met someone after the killing' (S058). She was subsequently sent away and warned not to tell what happened (S055). Her positioning at the scene during the murder, combined with her subsequent flight and enforced silence, places her as either a material witness who knows the killer or a possible accomplice who was quickly removed from the picture.",
+      "risk_score": 0.68
+    },
+    {
+      "issue_id": "INC007",
+      "person": "Tavia Orrel",
+      "behavior_type": "retraction",
+      "explanation": "Tavia initially minimized her knowledge during questioning (implied by S036 refusal to explain items), concealed the ward-key and torn fragments, and only privately admitted destroying or concealing evidence after sustained interrogation (S037). Her progression from complete non-cooperation to partial admission suggests strategic revelation—only admitting what investigators already knew or could prove independently.",
+      "risk_score": 0.82
+    },
+    {
+      "issue_id": "INC008",
+      "person": "Selene Orrel",
+      "behavior_type": "retraction",
+      "explanation": "Per S032, Selene 'initially minimized her knowledge, concealed the binding, obscured relevant messages and fears.' Only after these concealments failed did she resort to trying through Liora Fen to remove the proof entirely. Her testimonial trajectory moved from active concealment to damage control—a pattern consistent with someone who knew the binding was discoverable and dangerous.",
+      "risk_score": 0.76
+    },
+    {
+      "issue_id": "INC009",
+      "person": "Rowan Cale",
+      "behavior_type": "retraction",
+      "explanation": "Rowan's statement to Niko (S039) reframed the secret-binding problem as concerning 'someone else' rather than himself. Given that he was one of the two parties to the binding (S069, S070), this represents a deliberate misdirection of investigative focus away from his own involvement. His use of borrowed names and concealment methods (S038) compounds the impression of someone actively managing how much the investigation learns about him.",
+      "risk_score": 0.69
+    },
+    {
+      "issue_id": "INC010",
+      "person": "Liora Fen",
+      "behavior_type": "retraction",
+      "explanation": "Liora initially provided a limited account and only 'later gave a fuller account' (S056). While the fuller account supported several central facts independently, the staged nature of her disclosures suggests she controlled the flow of information—revealing what was safe to reveal while maintaining protection over more sensitive details until compelled.",
+      "risk_score": 0.48
+    },
+    {
+      "issue_id": "INC011",
+      "person": "Sera Voss",
+      "behavior_type": "consistent",
+      "explanation": "As the death examiner, Sera Voss performed expected professional functions: examined Vey's wound (S012), removed the flechette (S013), fixed death as immediate (S014), documented the writing posture (S015), and determined the shooter was positioned at the threshold (S016). Her narrative is technically precise and serves evidentiary purposes without suggesting personal involvement or agenda.",
+      "risk_score": 0.12
+    },
+    {
+      "issue_id": "INC012",
+      "person": "Bram Toller",
+      "behavior_type": "consistent",
+      "explanation": "Bram performed expected gatekeeper functions: barred the citadel at night (S017), found fastenings still secure in the morning (S018), forced entry upon finding Vey dead (S019). His revelation about Rowan's dual-identity visits (S020) was factual reporting, not proactive exoneration or accusation. Behavior is procedurally appropriate.",
+      "risk_score": 0.14
+    },
+    {
+      "issue_id": "INC013",
+      "person": "Noa Brill",
+      "behavior_type": "consistent",
+      "explanation": "Noa conducted standard ballistics examination: identified the flechette as third-gauge ammunition fitting a compact spring caster (S027), inspected Vey's weapon (S028), and documented that cleaning had removed barrel residue while traces remained in the rotating chamber (S029). Findings are forensically sound and serve objective evidentiary purposes.",
+      "risk_score": 0.08
+    },
+    {
+      "issue_id": "INC014",
+      "person": "Jessa Kade",
+      "behavior_type": "consistent",
+      "explanation": "Jessa performed expected household oversight: first alerted investigators to Pira's disappearance (S021), confirmed Pira's jawache and planned remedy-seeking (S022), and reported seeing Tavia leave the maproom area with a hidden paper (S023). Her observations align with domestic staff awareness without suggesting ulterior motive.",
+      "risk_score": 0.18
+    },
+    {
+      "issue_id": "INC015",
+      "person": "Mira Pell",
+      "behavior_type": "consistent",
+      "explanation": "Mira provided expected upper-floor attendant observations: described Pira as troubled and withdrawn in preceding days (S024), confirmed the jawache complaint (S025), and documented Pira dressing fully and taking a glow-wick to go downstairs (S026). Her account is internally consistent and serves to establish Pira's pre-disappearance mental state and physical preparation.",
+      "risk_score": 0.16
+    },
+    {
+      "issue_id": "INC016",
+      "person": "Olin Reed",
+      "behavior_type": "consistent",
+      "explanation": "Olin remembered the secret binding ceremony clearly: the striking partners, the beautiful young woman, and his own role as witness (S051). His identification clarified which foster heir participated, correcting an important mistaken assumption (S052). His account serves historical fact-confirmation without apparent agenda beyond accurate recollection.",
+      "risk_score": 0.22
+    },
+    {
+      "issue_id": "INC017",
+      "person": "Kel Brask",
+      "behavior_type": "consistent",
+      "explanation": "Kel, a metalworker living near Liora's residence (S059), reported seeing a woman believed to be Pira at an upper window (S060). This is incidental observer testimony—the natural report of a neighbor noticing unusual activity. No apparent motive to fabricate or exaggerate.",
+      "risk_score": 0.06
+    },
+    {
+      "issue_id": "INC018",
+      "person": "Kit Vale",
+      "behavior_type": "consistent",
+      "explanation": "Kit operated undercover using the alias Moth (S042), observed the suspicious powder episode (S043), obtained Selene's message to Liora (S044), and saw Pira alive shortly before her death (S042). Undercover operatives naturally gather intelligence—this falls within expected role parameters without suggesting independent criminal involvement.",
+      "risk_score": 0.12
+    },
+    {
+      "issue_id": "INC019",
+      "person": "Sorin Ash",
+      "behavior_type": "consistent",
+      "explanation": "Sorin reported on Rowan Cale's past in Vel Orun, his travel, correspondence, and preparations for a woman (S045), and documented Rowan's connection with Liora Fen and return across sea routes (S046). These foreign-investigation findings corroborate the domestic timeline without suggesting personal stake in outcomes.",
+      "risk_score": 0.09
+    },
+    {
+      "issue_id": "INC020",
+      "person": "Meren Toll",
+      "behavior_type": "consistent",
+      "explanation": "Meren supplied background on Vey's character, settlement documents, preference for Selene, and hostility to Rowan's people (S047). He explained why Selene's secret binding would endanger her inheritance and make Vey's legal summons urgent (S048). As an old associate of Vey, his account provides institutional memory without apparent criminal taint.",
+      "risk_score": 0.13
+    }
+  ],
+  "credibility_metrics": [
+    {
+      "witness": "Aric Vey",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "All three statements form a coherent narrative arc: Vey learned of Selene's binding, intended to alter his settlement via a summons, and was killed mid-composition. No self-contradiction exists between the claimed writing posture, the interrupted summons purpose, and the physical evidence corroboration.",
+          "score": 0.82
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Being seated and bent forward over a desk while writing is physically mundane. Death examiner findings and physical evidence explicitly corroborate the posture. The timeline of beginning a summons then dying mid-writing is logistically feasible with no impossible constraints.",
+          "score": 0.88
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Claims rest on tangible, documentable elements: actual correspondence, physical weapon ownership records, verified writing posture, and a half-written note. While the 'interrupted' nature implies external intervention, it does not rely solely on a phantom event—the evidence is traceable and physically grounded.",
+          "score": 0.74
+        },
+        {
+          "type": "detail_quality",
+          "description": "Statements provide specific location (Citadel maproom), precise body position (seated, bent forward), explicit action (half-written note), and identifiable recipient (legal steward). The raw text includes granular descriptors like 'writing posture' and 'settlement plan.' Strong specificity anchors the account.",
+          "score": 0.81
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.82,
+        "physical_impossibility": 0.88,
+        "orchestration_marker": 0.74,
+        "detail_quality": 0.81
+      },
+      "credibility_grade": 1,
+      "weighted_score": 0.812
+    },
+    {
+      "witness": "Bram Toller",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "All four statements form a logically sequential and non-contradictory account: nighttime securing, morning verification, forced entry discovery, and factual disclosure of visitor identities. No self-conflicts present.",
+          "score": 0.87
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "The sequence of barring citadel at night, verifying secure fastenings in the morning, and forcing entry upon discovering the body is procedurally plausible and temporally coherent. No physical impossibilities or timeline conflicts identified.",
+          "score": 0.89
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Bram's statements describe only his own direct observations and procedural actions as gatekeeper. There are no phantom events, unverifiable anonymous communications, or convenient deflections. His S020 disclosure actually implicates another individual rather than protecting himself.",
+          "score": 0.12
+        },
+        {
+          "type": "detail_quality",
+          "description": "Provides specific subjects (citadel, fastenings, Aric Vey, Rowan Cale), locations (citadel exterior, entrance, maproom), and clear sequencing. Minor扣分 for temporal imprecision ('night', 'morning', 'various occasions') lacking exact timestamps.",
+          "score": 0.71
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.87,
+        "physical_impossibility": 0.89,
+        "orchestration_marker": 0.12,
+        "detail_quality": 0.71
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.647
+    },
+    {
+      "witness": "Damar Quill",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Three statements describe distinct procedural elements (inquiry conduct, security facts, disappearance) without conflict. No self-contradiction detected across subject matters.",
+          "score": 0.74
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Statements describe procedurally plausible events: conducting inquiries, establishing locked-house scenarios, and documenting disappearances. No timeline conflicts or physical impossibilities identified.",
+          "score": 0.68
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Claims reference established institutional processes ('public inquiry,' 'locked-house facts') and a documented disappearance rather than phantom events. No reliance on unverifiable anonymous sources or convenient narrative shifts.",
+          "score": 0.64
+        },
+        {
+          "type": "detail_quality",
+          "description": "Statements provide location contexts (inquiry venue, citadel, below decks) and temporal markers (formal proceedings, murder night) but lack granular specificity regarding actions, mechanisms, or corroborating particulars.",
+          "score": 0.52
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.74,
+        "physical_impossibility": 0.68,
+        "orchestration_marker": 0.64,
+        "detail_quality": 0.52
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.645
+    },
+    {
+      "witness": "Deven Holt",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "While Deven's own statements are self-consistent (he observed concealment and later recovery), CONT003 identifies a critical external conflict: if Tavia destroyed evidence as per EV021, the items Deven recovered should not exist. The disjunctive framing ('destroying OR concealing') in EV021 creates ambiguity, but the recovery of intact items strongly favors the concealment interpretation over destruction, undermining any claim of total destruction and introducing inconsistency in the evidentiary record.",
+          "score": 0.38
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical impossibility detected. The described sequence—surveillance assignment, subject entering unauthorized space, handling near a grate, audible drop, and subsequent item recovery—is temporally and spatially coherent. Items being concealed and later recovered is physically plausible.",
+          "score": 0.78
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "No phantom events identified. All described actions involve the witness's direct sensory experience (visual observation, auditory detection of falling object) and tangible recovered evidence (ward-key, message fragments). No reliance on unverifiable third-party communications or mysterious summons.",
+          "score": 0.85
+        },
+        {
+          "type": "detail_quality",
+          "description": "Moderate specificity provided. Statements include relative timing ('during surveillance shift,' 'after hearing object fall'), spatial reference ('chamber not her own,' 'near the grate'), and explicit subject-object relationships. However, lacks precise timestamps, exact locations, or descriptions of what was handled before the fall.",
+          "score": 0.62
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.38,
+        "physical_impossibility": 0.78,
+        "orchestration_marker": 0.85,
+        "detail_quality": 0.62
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.658
+    },
+    {
+      "witness": "Ilyan Mora",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Both statements describe legitimate law enforcement activities—executing magistrate orders and conducting a lawful search—that align coherently without self-contradiction.",
+          "score": 0.74
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Recovering a weapon from a locked drawer during a sanctioned search is procedurally plausible; no timeline conflicts or physical evidence undermining these claims.",
+          "score": 0.71
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Claims describe tangible, verifiable actions (official orders, physical search, seized evidence) rather than phantom events or convenient deflections.",
+          "score": 0.78
+        },
+        {
+          "type": "detail_quality",
+          "description": "S031 provides specific location (Vey's sleep chamber) and object identification (spring caster, ammunition, locked drawer); S030 remains generic ('other officers,' 'magistrate's orders').",
+          "score": 0.62
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.74,
+        "physical_impossibility": 0.71,
+        "orchestration_marker": 0.78,
+        "detail_quality": 0.62
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.713
+    },
+    {
+      "witness": "Jessa Kade",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Three statements form a coherent narrative: noticing Pira's absence (S021), explaining the reason via pre-existing jawache (S022), and observing suspicious post-murder behavior nearby (S023). Behavioral flag INC014 explicitly notes alignment with expected household staff duties without ulterior motive.",
+          "score": 0.78
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No timeline conflicts or physical implausibilities. A household staff member confirming a resident's minor ailment, noting their absence, and observing activity in common areas during a chaotic period is entirely consistent with expected domestic roles and access patterns.",
+          "score": 0.74
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "None of the three statements rely on phantom events. All describe direct personal observations: confirming a known condition, identifying a person's absence, and witnessing another person physically exit an area with concealed material. No unverifiable anonymous tips or convenient coincidences.",
+          "score": 0.81
+        },
+        {
+          "type": "detail_quality",
+          "description": "Moderate specificity achieved through contextual framing: locations (kitchen, citadel, maproom), timing cues (before murder night, after discovery, near discovery), and clear actions (alerting, confirming, observing concealment). Lacks precise timestamps but provides adequate situational anchors.",
+          "score": 0.68
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.78,
+        "physical_impossibility": 0.74,
+        "orchestration_marker": 0.81,
+        "detail_quality": 0.68
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.753
+    },
+    {
+      "witness": "Jorik Penn",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "S049 identifies Liora Fen as a respectable widow establishing her as a trusted contact, while S050 describes leveraging that established trust to arrange lodging access. Both statements form a coherent sequential narrative supporting the investigation without contradicting each other.",
+          "score": 0.74
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical or temporal impossibilities present. Identifying a contact, describing their household status, and arranging lodging accommodations are all routine social/investigative actions with no conflicting timelines or physical constraints.",
+          "score": 0.82
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "While the statements describe a convenient investigative pathway (using a widow's hospitality to access a target location), they do not rely on phantom events. The mechanisms described—establishing contacts and making lodging arrangements—are verifiable, documented procedures rather than unverifiable convenient coincidences.",
+          "score": 0.61
+        },
+        {
+          "type": "detail_quality",
+          "description": "Moderate specificity achieved. Key elements named (Liora Fen, Niko, Pira, Northmere), locations identified, and clear causal relationships stated. However, lacks precise timestamps, lacks description of HOW the arrangement was communicated/negotiated, and provides only minimal characterization ('respectable widow') without corroborating behavioral specifics.",
+          "score": 0.56
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.74,
+        "physical_impossibility": 0.82,
+        "orchestration_marker": 0.61,
+        "detail_quality": 0.56
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.682
+    },
+    {
+      "witness": "Kel Brask",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "S059 establishes Kel as a metalworker living near Liora's residence; S060 describes him making an observation from that vantage point. Both statements align coherently with no self-contradiction.",
+          "score": 0.78
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "A local resident observing an upper window of a neighboring house is physically plausible. No timeline conflicts exist between the two statements, and nothing undermines the basic act of witnessing.",
+          "score": 0.74
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Claim relies on direct eyewitness observation by a named individual with a defined occupation and location—no phantom events, anonymous tips, or deflection mechanisms detected.",
+          "score": 0.81
+        },
+        {
+          "type": "detail_quality",
+          "description": "Location specifics are adequate ('near Liora Fen's residence', 'upper window'), subject identification is clear ('metalworker', 'woman believed to be Pira'). However, temporal data is weak ('During investigation' is imprecise), reducing overall specificity.",
+          "score": 0.61
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.78,
+        "physical_impossibility": 0.74,
+        "orchestration_marker": 0.81,
+        "detail_quality": 0.61
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.735
+    },
+    {
+      "witness": "Kit Vale",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "CONTO04 identifies a causal conflict between Pira being framed as a passive warning recipient (EV013/Liora) versus an active covert operative under alias Moth (EV029/Kit). This creates interpretive ambiguity about Pira's role but does not represent a direct self-retraction or internal contradiction within Kit's own statements specifically.",
+          "score": 0.56
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical impossibilities detected. An undercover operative observing a suspicious powder episode and documenting communications falls within plausible investigative activities. No timeline conflicts or technological circumventions are flagged.",
+          "score": 0.78
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "All three statements reference verifiable, grounded events: sighting a live individual before death, observing a physical substance exchange, and obtaining a written message. No reliance on phantom events, anonymous strangers, or convenient unverifiable summonses.",
+          "score": 0.82
+        },
+        {
+          "type": "detail_quality",
+          "description": "Statements include general temporal markers ('shortly before,' 'during investigation') and location references ('Northmere/Liora's vicinity'), providing moderate specificity. However, precise timestamps, exact locations, and granular action descriptions are absent, limiting verifiability.",
+          "score": 0.61
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.56,
+        "physical_impossibility": 0.78,
+        "orchestration_marker": 0.82,
+        "detail_quality": 0.61
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.693
+    },
+    {
+      "witness": "Liora Fen",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "No self-contradiction within Liora's own statements; however, INC010 flag indicates staged disclosures where she controlled the flow of information—revealing selectively until compelled. This raises moderate concern about selective truth management rather than outright fabrication.",
+          "score": 0.62
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "All statements describe physically plausible actions: hiding an object, offering shelter, overhearing a conversation, providing supplemental testimony. No timeline impossibilities or physical implausibilities detected within her account.",
+          "score": 0.84
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Claims involve identifiable persons (Selene, Pira), tangible objects (lacquer tube), and traceable locations (Northmere home). Not reliant on phantom events. However, the 'later fuller account' pattern (INC010) introduces mild orchestration concern regarding staged information release.",
+          "score": 0.54
+        },
+        {
+          "type": "detail_quality",
+          "description": "Provides specific location (Northmere home), clear action verbs (hid, took in, heard), temporal markers (upon receiving, after the murder, during stay). One gap noted: S056 lacks specified location for the later account. Overall moderately detailed with acceptable specificity.",
+          "score": 0.61
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.62,
+        "physical_impossibility": 0.84,
+        "orchestration_marker": 0.54,
+        "detail_quality": 0.61
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.652
+    },
+    {
+      "witness": "Lucan Marris",
+      "evidence": [
+        {
+          "type": "detail_quality",
+          "description": "Marris provides specific contextual anchors for key observations (maproom location, Vey's presence, amber cordial, cup, open inner door) but deliberately omits describing his own actions or positioning throughout the session. The 'indistinct passage sounds' (S005) lacks temporal or directional specificity, serving as a vague peripheral observation rather than actionable intelligence.",
+          "score": 0.55
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "No phantom events are claimed—no anonymous messages, unidentified individuals, or unverifiable summons. All referenced elements (Vey, maproom, amber cordial, cup, door) are named and locatable. However, the selective omission of his own whereabouts and actions while cataloging peripheral details creates a defensive narrative structure consistent with prepared testimony.",
+          "score": 0.62
+        },
+        {
+          "type": "internal_consistency",
+          "description": "Statements S001-S005 form a coherent sequence aligned with the established evening routine. No internal contradictions exist; however, the behavioral flag (INC005) indicates a systematic exclusion of self-descriptive content—the witness describes everything observable except his own position, movement, or interaction. This constitutes indirect inconsistency via omission rather than direct conflict.",
+          "score": 0.68
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "The timeline (evening work session in maproom with Vey) is physically plausible and consistent with his documented role. No timeline compression issues or physical impossibilities detected. His presence is adequately explained by occupational necessity.",
+          "score": 0.82
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.68,
+        "physical_impossibility": 0.82,
+        "orchestration_marker": 0.62,
+        "detail_quality": 0.55
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.667
+    },
+    {
+      "witness": "Marlo Dain",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Both statements S061 and S062 work together coherently—S061 establishes Rowan's physical presence and emotional state during the murder window, while S062 helps delineate his concealment activities from the actual killing timeline. No self-contradiction exists within Marlo's own accounts.",
+          "score": 0.78
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical or temporal impossibilities detected. Being 'present and agitated' near Saffron Gate Inn during the murder timeframe is physically feasible. The separation of concealments from the killing act is logically coherent.",
+          "score": 0.71
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "No phantom events invoked. Marlo provides direct observational accounts of Rowan's presence and behavior—not relying on anonymous messages, unidentified strangers, or unverifiable communications. Statements reference corroboration by Saffron Gate Inn staff regarding movements.",
+          "score": 0.74
+        },
+        {
+          "type": "detail_quality",
+          "description": "Moderate specificity achieved. Location identified (Saffron Gate Inn area), emotional state noted (agitated), and temporal relationship clarified (around murder timeframe, distinct from killing timeline). However, lacks precise timestamps, exact distances, or granular behavioral descriptions.",
+          "score": 0.62
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.78,
+        "physical_impossibility": 0.71,
+        "orchestration_marker": 0.74,
+        "detail_quality": 0.62
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.713
+    },
+    {
+      "witness": "Meren Toll",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "No contradictions found between S047 and S048; both statements reinforce each other's narrative regarding Vey's intentions and Selene's imperiled position. Behavioral flag INC020 explicitly rates Meren as 'consistent' with a low risk score of 0.13.",
+          "score": 0.76
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Both statements describe plausible testimonial actions—a senior advocate providing institutional memory and explaining legal consequences. No physical evidence contradicts these accounts; they align with corroborating statement S068 regarding Vey's summons preparation.",
+          "score": 0.71
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Meren does not rely on phantom events or unverifiable deflections. His role as an established 'old associate' and 'senior estate advocate' anchors his testimony in verifiable institutional identity. No convenient anonymous sources or mysterious events shift culpability away from him.",
+          "score": 0.82
+        },
+        {
+          "type": "detail_quality",
+          "description": "Moderate specificity achieved through subject matter clarity (Vey's character, settlement documents, legal implications) and contextual location (Citadel). However, temporal markers remain imprecise ('throughout association', 'after learning') and locations are generalized ('estate contexts'). Substantive content compensates for timing vagueness.",
+          "score": 0.67
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.76,
+        "physical_impossibility": 0.71,
+        "orchestration_marker": 0.82,
+        "detail_quality": 0.67
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.74
+    },
+    {
+      "witness": "Mira Pell",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "All three statements form a coherent sequential narrative: troubled demeanor precedes physical complaint, which explains the descent. No self-contradiction detected across S024-S026.",
+          "score": 0.82
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No temporal or physical impossibilities. Dressing fully, carrying a glow-wick, descending stairs, and experiencing dental pain are all mundane, physically plausible actions. The timeline progression (preceding days → before departure → murder night) is logically sound.",
+          "score": 0.78
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "No phantom events detected. Statements describe concrete, observable actions attributed to a named individual (Pira Senn): visible demeanor changes, audible complaints, witnessed physical preparations. No reliance on unverifiable third-party communications or convenient anonymous triggers.",
+          "score": 0.81
+        },
+        {
+          "type": "detail_quality",
+          "description": "Moderate specificity achieved. S026 provides action-oriented details (dressed fully, took glow-wick, went downstairs) while S024 and S025 offer only generalized behavioral and symptomatic descriptors. Lack of precise timestamps, exact locations within upper floors, or verbatim dialogue limits granularity.",
+          "score": 0.61
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.82,
+        "physical_impossibility": 0.78,
+        "orchestration_marker": 0.81,
+        "detail_quality": 0.61
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.755
+    },
+    {
+      "witness": "Nessa Orr",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "No contradictions detected among S063-S065; statements align thematically around the Orrel party's earlier stay and associated interactions.",
+          "score": 0.78
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Claims describe plausible social events (stays, presence, message exchanges) at Copper Quay Lodge with no temporal or physical impossibilities flagged.",
+          "score": 0.74
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "While 'secret binding arrangement' introduces some narrative convenience, the statements reference actual named individuals (Selene, Tavia, Rowan) rather than relying solely on phantom unverifiable events.",
+          "score": 0.56
+        },
+        {
+          "type": "detail_quality",
+          "description": "Statements are highly generic—'described,' 'was present,' 'exchanged messages and interacted'—providing no specific timestamps, precise locations within Copper Quay Lodge, exact content of communications, or concrete behavioral descriptions.",
+          "score": 0.38
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.78,
+        "physical_impossibility": 0.74,
+        "orchestration_marker": 0.56,
+        "detail_quality": 0.38
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.615
+    },
+    {
+      "witness": "Noa Brill",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "All three statements form a coherent forensic examination narrative: S027 identifies ammunition type, S028 confirms weapon inspection, S029 provides supporting forensic detail about residue patterns. No self-contradiction exists.",
+          "score": 0.88
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "The forensic finding that barrel residue was cleaned but rotating chamber retained trace evidence is scientifically plausible—different weapon components clean differently and at different rates. No physical impossibility or timeline conflict noted.",
+          "score": 0.82
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "No phantom events, unverifiable claims, or deflection mechanisms present. All statements are grounded in direct forensic observation during documented ballistics examination at specified location.",
+          "score": 0.91
+        },
+        {
+          "type": "detail_quality",
+          "description": "Strong specificity: precise location (Cinderglass Armory), technical terminology (third-gauge ammunition, compact spring caster, rotating chamber), clear temporal framing ('during ballistics examination'), and actionable forensic observations.",
+          "score": 0.79
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.88,
+        "physical_impossibility": 0.82,
+        "orchestration_marker": 0.91,
+        "detail_quality": 0.79
+      },
+      "credibility_grade": 1,
+      "weighted_score": 0.85
+    },
+    {
+      "witness": "Olin Reed",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Both statements (S051 and S052) reinforce each other—clear memory of ceremony roles aligns with corrective identification function. No self-contradiction detected across statements or behavioral review.",
+          "score": 0.78
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical or timeline impossibilities identified. Memory-based testimony of witnessing a ceremony is plausible; no technological or evidentiary contradiction exists.",
+          "score": 0.71
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Claims rest on direct personal observation (being a witness at the ceremony) rather than phantom events. No unverifiable anonymous sources, mysterious strangers, or convenient deflections detected.",
+          "score": 0.82
+        },
+        {
+          "type": "detail_quality",
+          "description": "Moderate specificity achieved—includes location (shrine-keeper's house), roles (striking partner, witness), and participant description ('beautiful young woman'). However, lacks precise timestamps or exact sequence of actions.",
+          "score": 0.64
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.78,
+        "physical_impossibility": 0.71,
+        "orchestration_marker": 0.82,
+        "detail_quality": 0.64
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.738
+    },
+    {
+      "witness": "Orra Kest",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "All three statements form a coherent chronological sequence: examining the citadel first, then discovering the glow-wick during that examination, followed by placing surveillance on suspects afterward.",
+          "score": 0.82
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "No physical or temporal impossibilities detected. Finding a dropped glow-wick during a site examination is plausible; placing watchers is a standard investigative procedure with no logistical conflicts.",
+          "score": 0.78
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "No phantom events detected. All described actions are concrete, verifiable investigative steps performed by the witness rather than reliance on unverifiable third-party accounts or convenient coincidences.",
+          "score": 0.88
+        },
+        {
+          "type": "detail_quality",
+          "description": "Moderate specificity achieved. Locations and subjects are identified ('barred citadel', 'Pira's glow-wick'), but precise timestamps are absent and 'key suspects' lacks identification. Contextual linking (glow-wick to nighttime journey) adds value.",
+          "score": 0.62
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.82,
+        "physical_impossibility": 0.78,
+        "orchestration_marker": 0.88,
+        "detail_quality": 0.62
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.775
+    },
+    {
+      "witness": "Pira Senn",
+      "evidence": [
+        {
+          "type": "detail_quality",
+          "description": "Statement includes specific physical details (jawache, loose glow-wick) and location (below stairs of the citadel) for initial action, but the crucial element—who she saw or met—is left entirely vague with 'appears to have seen or met someone.'",
+          "score": 0.52
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "The ambiguous phrasing 'appears to have seen or met someone' introduces uncertainty about whether she actually witnessed anything or if this framing serves investigative convenience. Combined with enforced removal and silence warning, the narrative positions her suspiciously without concrete evidence.",
+          "score": 0.48
+        },
+        {
+          "type": "internal_consistency",
+          "description": "No direct self-contradiction exists between S057 and S058; both align on her presence below stairs during the murder period. However, the hedged language in S058 ('appears to') suggests incomplete or uncertain knowledge rather than definitive statement.",
+          "score": 0.71
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Going downstairs with a jawache while carrying a glow-wick is physically plausible. Being positioned below stairs during the murder window is geographically feasible given her role. No timeline or physical constraints are violated.",
+          "score": 0.78
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.71,
+        "physical_impossibility": 0.78,
+        "orchestration_marker": 0.48,
+        "detail_quality": 0.52
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.623
+    },
+    {
+      "witness": "Rowan Cale",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Statement S039 claims Rowan described the secret-binding problem to Niko as concerning 'someone else.' However, behavioral flag INC009 confirms he was one of the two parties to the binding (per S069, S070). This constitutes deliberate self-misrepresentation—a direct internal contradiction where the witness lies about his own involvement in the very matter under discussion.",
+          "score": 0.18
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Rowan's account relies substantially on phantom-like evasion techniques: borrowed identity (S038), undisclosed correspondence channels, and third-person reframing to distance himself from events in which he had direct involvement. The concealment methods serve primarily to obstruct investigative clarity regarding his role in the binding that motivated the murder.",
+          "score": 0.36
+        },
+        {
+          "type": "detail_quality",
+          "description": "Both statements lack specific temporal or spatial markers. S038 references 'when appearing near citadel' without precise timing; S039 specifies only 'during conversation with Niko' at an unspecified location. Neither provides verifiable coordinates, timestamps, or corroborating witnesses to anchor the claims independently.",
+          "score": 0.31
+        },
+        {
+          "type": "internal_consistency",
+          "description": "Contradiction CONT001 reveals that while S039 frames Rowan as detached from the binding situation, Event EV031 places him 'present and agitated' near Saffron Gate Inn during the murder timeframe. His claimed emotional detachment directly conflicts with documented physical presence and agitation at the critical moment.",
+          "score": 0.24
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.21,
+        "physical_impossibility": 0.57,
+        "orchestration_marker": 0.36,
+        "detail_quality": 0.31
+      },
+      "credibility_grade": 4,
+      "weighted_score": 0.362
+    },
+    {
+      "witness": "Samel Dorn",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Statements S069 and S070 form a coherent narrative linking the secret binding to the estate crisis. No self-contradiction detected; behavioral flags (INC002, INC003) actually corroborate rather than undermine the claims by showing motive alignment and evasion patterns consistent with the alleged binding.",
+          "score": 0.75
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Temporal framing is logical: binding occurred before the murder, creating the estate crisis that preceded it. Location (Shrine) is plausible for a secret ceremony. No timeline conflicts or physical implausibilities identified.",
+          "score": 0.82
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Claims are not phantom-based. The binding is corroborated by multiple independent references (S032 cited alongside S069) and explicitly stated to be preserved through both witness memory and documents—not reliant on a single unverifiable account.",
+          "score": 0.71
+        },
+        {
+          "type": "detail_quality",
+          "description": "High specificity provided: subjects named (Selene Orrel, Rowan Cale), action defined (secret binding ceremony), location specified (Shrine), temporal positioning clear (before/preceding the murder), and causal mechanism explained (binding endangered inheritance due to Lineage Vey despised).",
+          "score": 0.79
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.75,
+        "physical_impossibility": 0.82,
+        "orchestration_marker": 0.71,
+        "detail_quality": 0.79
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.767
+    },
+    {
+      "witness": "Selene Orrel",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Statement S033 claims she requested destruction of binding proof via Liora Fen, yet Liora actually hid the evidence rather than destroying it. While this could indicate Liora's disobedience, the broader behavioral pattern (INC008) shows Selene progressed from concealment to 'damage control'—suggesting she may have performed the request publicly while ensuring deniability. The divergence between stated intent and outcome raises questions about whether Selene ever genuinely sought destruction.",
+          "score": 0.58
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "The request to Liora Fen constitutes a phantom intermediary action—unverifiable verbal communication between Selene and Liora that conveniently provides cover for both parties. Given INC002's high motive alignment (0.78) showing every element of Selene's profile supports eliminating Vey before disinheritance, and INC008's retraction pattern, the 'request for destruction' may function as manufactured alibi rather than genuine effort to remove evidence.",
+          "score": 0.52
+        },
+        {
+          "type": "detail_quality",
+          "description": "Statements reference general temporal ordering ('before Vey's death', 'after binding') and location limited to 'Northmere via intermediaries,' but lack specific dates, precise locations, or verbatim content of the alleged requests. The oath-binding itself remains shrouded in secrecy with no independent corroboration available.",
+          "score": 0.48
+        },
+        {
+          "type": "internal_consistency",
+          "description": "No physical impossibility detected—oath-bindings and secret communications are narratively feasible within the setting. No timeline contradictions exist between S032 and S033 beyond the Liora discrepancy already noted.",
+          "score": 0.75
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.67,
+        "physical_impossibility": 0.82,
+        "orchestration_marker": 0.52,
+        "detail_quality": 0.48
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.622
+    },
+    {
+      "witness": "Sera Voss",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "All five statements form a coherent forensic narrative: examination leads to wound identification, which leads to projectile extraction, cause-of-death determination, victim positioning, and attacker trajectory. No self-contradicting elements exist within the statement set.",
+          "score": 0.78
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "The described scenario is physically plausible: a seated victim can be struck from behind via doorway, a flechette can be extracted post-mortem, and death can be assessed as immediate. No temporal or physical impossibilities detected.",
+          "score": 0.82
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "Claims rely on tangible, observable physical evidence (actual wound, extracted projectile, documented corpse position, identifiable architectural feature). No phantom events, anonymous sources, or unverifiable summoning required.",
+          "score": 0.71
+        },
+        {
+          "type": "detail_quality",
+          "description": "Statements include functional specificity: procedural contexts ('post-mortem examination'), anatomical locations ('sleep chamber,' 'maproom desk,' 'threshold'), and concrete actions ('removed the flechette'). However, lacks precise timestamps or measurements.",
+          "score": 0.61
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.78,
+        "physical_impossibility": 0.82,
+        "orchestration_marker": 0.71,
+        "detail_quality": 0.61
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.73
+    },
+    {
+      "witness": "Sorin Ash",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "S045 and S046 form a coherent evidentiary chain: pre-investigation background (travel, correspondence, preparations) followed by documented connection and return. No self-contradiction detected; statements complement rather than conflict.",
+          "score": 0.82
+        },
+        {
+          "type": "physical_impossibility",
+          "description": "Claims describe standard investigative documentation of travel, correspondence, and movement across sea routes—all physically plausible. No timeline impossibilities or physical evidence conflicts identified.",
+          "score": 0.78
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "No phantom events detected. Statements reference verifiable investigative findings from foreign investigators corroborating domestic timeline. Claims anchor to identifiable subjects (Rowan Cale, Liora Fen) and concrete actions.",
+          "score": 0.88
+        },
+        {
+          "type": "detail_quality",
+          "description": "Moderate specificity achieved. Locations named (Vel Orun, sea routes), subjects identified (Rowan Cale, Liora Fen), and action categories noted (travel, correspondence, preparations, return). However, lacks precise timestamps, exact quantities, or substantive content details.",
+          "score": 0.68
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.82,
+        "physical_impossibility": 0.78,
+        "orchestration_marker": 0.88,
+        "detail_quality": 0.68
+      },
+      "credibility_grade": 2,
+      "weighted_score": 0.79
+    },
+    {
+      "witness": "Tavia Orrel",
+      "evidence": [
+        {
+          "type": "internal_consistency",
+          "description": "Statement S037 claims Tavia admitted to 'destroying or concealing evidence,' yet CONT003 reveals the ward-key and torn fragments were successfully recovered by Deven Holt. Destruction and concealment are mutually exclusive outcomes—the former eliminates evidence permanently while the latter preserves it temporarily. The recovery of intact items directly undermines any claim of true destruction, creating a logical contradiction within the statement itself.",
+          "score": 0.42
+        },
+        {
+          "type": "internal_consistency",
+          "description": "Behavior INC007 documents a pattern of strategic retraction: Tavia progressed from complete non-cooperation (refusing to explain items per S036) to only 'privately admitting' destruction/concealment after sustained interrogation. This staged revelation—admitting only what investigators likely already possessed—suggests calculated compliance rather than genuine transparency, undermining the credibility of her admissions.",
+          "score": 0.48
+        },
+        {
+          "type": "orchestration_marker",
+          "description": "While the statements reference concrete, traceable objects (spring caster, ward-key, torn message fragments)—not phantom events—the narrative still exhibits suspicious deflection. Tavia's admitted motive ('shielding Selene and the family name') conveniently redirects culpability away from herself toward another party, raising questions about whether she orchestrated the framing of others.",
+          "score": 0.61
+        },
+        {
+          "type": "detail_quality",
+          "description": "Statements provide moderate specificity: locations named (Citadel premises, Maproom, interrogation setting), roles clarified (spring caster association, proximity to documents), and motivations offered (family protection). However, critical gaps persist—no precise timestamps, exact sequences of action, or corroborating witnesses cited for her presence near materials.",
+          "score": 0.57
+        }
+      ],
+      "metrics": {
+        "internal_consistency": 0.45,
+        "physical_impossibility": 0.68,
+        "orchestration_marker": 0.61,
+        "detail_quality": 0.57
+      },
+      "credibility_grade": 3,
+      "weighted_score": 0.578
+    }
+  ],
+  "reliability_grades": [
+    {
+      "witness": "Aric Vey",
+      "grade": "F",
+      "explanation": "Aric Vey appears to be the deceased subject of the investigation, not a living witness capable of providing testimony. The 'statements' attributed to him (S066–S068) are forensic inferences drawn from physical evidence, documents, and death examiner findings—not first-person accounts. Since there are no actual utterances, recollections, or testimonies from Aric Vey as a living informant, source reliability cannot be assessed under witness evaluation protocols. The behavioral analysis (INC002) pertains to Selene Orrel's motive profile, which is external evidentiary context, not testimony from Vey.",
+      "factors_assessed": [
+        "no living witness statements available",
+        "deceased subject inferred from evidence",
+        "statements represent forensic reconstruction, not testimony",
+        "no contradictions identifiable",
+        "behavioral data concerns third-party motive"
+      ]
+    },
+    {
+      "witness": "Bram Toller",
+      "grade": "A",
+      "explanation": "Bram Toller demonstrates high source reliability. His four statements reflect direct personal observation of procedural actions: barring the citadel (S017), verifying secure fastenings (S018), and discovering the body (S019). Statement S020 regarding Rowan's dual-identity visits represents factual gatekeeper reporting within his legitimate observational scope. No contradictions exist, and his behavior is explicitly assessed as procedurally consistent with a minimal risk score of 0.14. There is no evidence of material deception, unnatural access clustering, deflection tactics, or disqualifying bias. As a gatekeeper performing expected security functions, his accounts derive from natural institutional access.",
+      "factors_assessed": [
+        "observation directness: direct personal observation of all reported events including security procedures and body discovery",
+        "material deception: none detected; no contradictions in statements",
+        "unnatural access: absent; gatekeeper role provides legitimate institutional access",
+        "deflection tactics: none; reports factual information without attempting to implicate phantom actors",
+        "bias: none identified; no personal stake in outcome evident"
+      ]
+    },
+    {
+      "witness": "Damar Quill",
+      "grade": "B",
+      "explanation": "Damar Quill appears to function as an inquiry official or presiding officer rather than a direct eyewitness to the core events. Statements indicate conduct of formal proceedings (S009) and extraction of factual details regarding secure locations (S010), suggesting analytical engagement with evidence and testimony from primary sources. The description of Pira's disappearance (S011) reflects secondhand knowledge of events occurring elsewhere. No contradictions or problematic behavior patterns noted. The institutional role implies professional obligation to accuracy, though reliance on other witnesses' accounts introduces indirectness. Overall fairly reliable as an informational conduit, pending corroboration from direct observers.",
+      "factors_assessed": [
+        "observation directness: direct analytical role in inquiry proceedings; core events observed indirectly through testimony review",
+        "role bias: institutional judicial capacity requiring procedural neutrality",
+        "access: structured official access to evidence and witness accounts",
+        "no contradictions identified",
+        "no behavioral concerns flagged"
+      ]
+    },
+    {
+      "witness": "Deven Holt",
+      "grade": "B",
+      "explanation": "Deven Holt served as a dedicated surveillance officer assigned specifically to observe Tavia Orrel. His statements reflect direct physical observation—he personally witnessed Tavia enter an unauthorized chamber, handle objects near a grate, and heard an object fall. He subsequently assisted in recovering the concealed evidence. These are firsthand sensory observations with no internal contradictions. The identified contradiction (CONT003) pertains to ambiguity in Tavia's own admission regarding destruction versus concealment, not a discrepancy within Deven's testimony. As a assigned surveillance operative, his access to these events is structurally legitimate and not indicative of narrator orchestration. No behavioral red flags, deflection tactics, or deceptive patterns were identified. Minor reservation reflects the inherently dependent nature of his role as a targeted surveillance asset, but this does not undermine the directness or reliability of his observations.",
+      "factors_assessed": [
+        "observation directness: direct physical observation of subject during assigned surveillance duty",
+        "internal consistency: statements align with each other and corroborate evidence recovery",
+        "structural access: assigned surveillance role provides legitimate, non-suspicious positioning",
+        "deception indicators: none detected",
+        "deflection tactics: none detected",
+        "bias: none identified - professional surveillance assignment"
+      ]
+    },
+    {
+      "witness": "Ilyan Mora",
+      "grade": "B",
+      "explanation": "Ilyan Mora provides two procedural statements describing direct participation in lawful search operations—specifically recovering a weapon and ammunition from a locked drawer during execution of magistrate-authorized warrants. The statements reflect direct physical observation of investigative actions performed alongside other officers. No contradictions or deceptive behavior were identified. While the witness speaks only to post-event investigative procedures rather than the core criminal act, their accounts are internally consistent and align with official law enforcement protocol. A moderate institutional bias exists as a sworn officer executing legal authority, but no personal stake in the outcome is apparent.",
+      "factors_assessed": [
+        "observation directness: direct physical participation in documented search operations",
+        "materiality: statements pertain to evidentiary recovery, not core criminal act",
+        "consistency: no internal contradictions or behavioral anomalies detected",
+        "bias: moderate institutional alignment as law enforcement officer executing warrants"
+      ]
+    },
+    {
+      "witness": "Jessa Kade",
+      "grade": "B",
+      "explanation": "Jessa Kade demonstrates generally reliable witness characteristics. Her primary evidentiary contribution (S023) involves direct physical observation of Tavia Orrel leaving the maproom area with a concealed paper shortly after the murder—a specific, observable act she personally witnessed. Her other statements (S021, S022) reflect routine household staff awareness of resident schedules and conditions, which aligns with her domestic oversight role. Behavioral analysis (INC014) confirms consistency with a low risk score of 0.18, noting her observations align with expected staff awareness without ulterior motive. No contradictions were identified, and there is no indication of material deception, deflection tactics, or suspicious clustering at evidentiary nodes. While her role limits certain types of knowledge, her direct observation of Tavia's suspicious post-murder behavior provides substantive, credible information warranting above-average reliance.",
+      "factors_assessed": [
+        "observation directness: direct physical observation of Tavia's concealment behavior (S023)",
+        "observation directness: routine domestic awareness of household member whereabouts and conditions (S021, S022)",
+        "consistency: no internal contradictions; behavioral analysis rates consistency as high (risk 0.18)",
+        "bias: no identified personal, financial, or emotional stake; professional household role",
+        "deception indicators: none detected; no material concealment or deflection tactics",
+        "access pattern: natural domestic positioning without suspicious clustering at evidentiary nodes"
+      ]
+    },
+    {
+      "witness": "Jorik Penn",
+      "grade": "D",
+      "explanation": "Jorik Penn serves as an operational facilitator rather than a direct observer of the core event. His statements describe his role in identifying contacts (Liora Fen) and enabling investigative pathways (lodger arrangement for Niko), positioning him suspiciously close to multiple evidentiary nodes without direct witnessing of the actual evidence discovery or criminal conduct. While there are no contradictions or deceptive behavior noted, his function as an investigation enabler—clustered at key decision points—raises concerns about unnatural access to the evidentiary narrative. His observations are largely operational intelligence rather than firsthand testimony of the incident itself.",
+      "factors_assessed": [
+        "observation directness: indirect operational role; not present at core event",
+        "unnatural access: suspicious positioning at multiple evidentiary nodes (identifies contact, enables entry, creates investigative route)",
+        "bias: possible institutional alignment with investigative apparatus",
+        "deception indicators: none observed in limited data"
+      ]
+    },
+    {
+      "witness": "Kel Brask",
+      "grade": "B",
+      "explanation": "Kel Brask is a metalworker living naturally proximate to Liora Fen's residence, making him an incidental observer with direct visual access to the upper window area. His statement (S060) describes seeing a woman believed to be Pira—an honest identification caveat that does not undermine reliability but acknowledges the inherent uncertainty of recognizing someone at a distance. No contradictions exist between his two statements. His behavior is rated consistent with a negligible risk score (0.06), indicating no apparent motive to fabricate or embellish. He functions as a routine civilian witness reporting neighborhood activity, with no signs of narrative orchestration, deflection tactics, or suspicious positioning around evidentiary nodes. Minor reservation stems solely from the indirect nature of identification ('believed to be') rather than any reliability concern about the witness himself.",
+      "factors_assessed": [
+        "observation directness: direct visual observation from natural residential proximity",
+        "identification certainty: honest acknowledgment of uncertain recognition ('believed to be')",
+        "material deception: none detected",
+        "peripheral concealment: none detected",
+        "unnatural access: absent; incidental civilian observer with legitimate vantage point",
+        "deflection tactics: none detected",
+        "bias and motivation: no apparent personal, financial, or emotional stake; low risk profile"
+      ]
+    },
+    {
+      "witness": "Kit Vale",
+      "grade": "B",
+      "explanation": "Kit Vale demonstrates high source reliability as an undercover operative with direct physical observation of multiple key events: seeing Pira alive shortly before her death, observing the suspicious powder episode, and obtaining Selene's message. The causal conflict regarding Pira's role (passive warning vs. active operative) arises from external narrative framing, not from internal inconsistency in Kit's own statements. His presence at multiple evidentiary nodes is fully explainable by his undercover operative function, not indicative of investigative orchestration. Behavior assessment shows consistent pattern with low fabrication risk (0.12). No evidence of material deception, deflection tactics, or significant bias. Minor reservation: some ambiguity remains about whether Kit's observations were filtered through operational assumptions, but overall reliability profile is strong.",
+      "factors_assessed": [
+        "observation directness: direct physical observation of multiple key events including sighting of deceased and powder episode",
+        "role alignment: undercover operative status explains natural clustering at evidentiary nodes",
+        "consistency: behavior assessment confirms stable pattern with low risk score (0.12)",
+        "material deception: none detected in witness statements",
+        "deflection tactics: absent—no attempts to redirect toward phantom subjects",
+        "external contradiction: CONT004 reflects cross-witness narrative tension, not internal unreliability in Kit's account"
+      ]
+    },
+    {
+      "witness": "Liora Fen",
+      "grade": "D",
+      "explanation": "Liora Fen exhibits moderate unreliability due to loyalty-driven concealment of central evidence and staged disclosure patterns. While she possesses direct experiential knowledge of key events (hiding the lacquer tube, harboring Pira, hearing Pira's account), her role as Selene's confidante created a clear bias that led her to disobey Selene's explicit instruction to destroy the binding evidence—instead preserving it through concealment. Her initial limited account followed by a fuller account later suggests controlled information release. The high-severity contradiction (CONT002, 0.88) between Selene's destruction directive and Liora's actual hiding conduct raises questions about whether both parties coordinated to maintain evidence accessibility while appearing compliant. Although her core narrative receives independent corroboration and her concealment stems from friendship loyalty rather than criminal culpability, her positioning at multiple critical evidentiary nodes—binding evidence handler, Pira's sanctuary provider, and sole recorder of Pira's account—creates concerning access concentration. Combined with the causal ambiguity regarding Pira's status (victim vs. operative), Liora's reliability as an information source is significantly compromised.",
+      "factors_assessed": [
+        "observation directness: direct physical and conversational access to key events (hiding evidence, harboring Pira, hearing Pira's account)",
+        "material deception vs peripheral concealment: concealment of central binding evidence at Selene's behest; staged disclosure with delayed fuller account",
+        "unnatural access: positioned at multiple critical evidentiary nodes—evidence custodian, post-murder sanctuary provider, and primary recorder of Pira's account",
+        "bias: strong emotional loyalty to Selene creating systematic protective behavior",
+        "contradiction severity: CONT002 registers 0.88—direct conflict between Selene's destruction directive and Liora's preservation-through-concealment"
+      ]
+    },
+    {
+      "witness": "Lucan Marris",
+      "grade": "D",
+      "explanation": "While Lucan Marris demonstrates direct physical presence in the maproom during the critical timeframe and reports peripheral observations (amber cordial, cup, door, sounds), his account exhibits a significant selective omission pattern. He describes every environmental detail yet conspicuously omits describing his own actions and fails to confirm or deny the presence of individuals other than Vey. This selective observation pattern—cataloguing peripheral objects while avoiding self-descriptive content—is consistent with defensive concealment rather than natural recall. Combined with the elevated unnatural access risk score (0.58), the witness's testimony appears structured to provide plausible deniability regarding his own positioning and activities during the murder window.",
+      "factors_assessed": [
+        "observation directness: direct physical presence in maproom during murder timeframe",
+        "selective omission: describes all peripheral elements while omitting own actions and other persons present",
+        "unnatural access: elevated risk score (0.58) indicating suspicious clustering at evidentiary nodes",
+        "deflection: passive deflection via omission of self-relevant information rather than active redirection to phantom subjects",
+        "material concealment: potential avoidance of self-implicating details constitutes peripheral-grade concealment"
+      ]
+    },
+    {
+      "witness": "Marlo Dain",
+      "grade": "B",
+      "explanation": "Marlo Dain provides corroborating testimony that places Rowan Cale at the Saffron Gate Inn area during the murder timeframe with visible agitation, directly contradicting Rowan's claimed third-party detachment from the binding problem. While the exact mechanism of Marlo's knowledge is not fully specified (whether direct observation or staff-supplemented accounts), the information serves to establish physical proximity and emotional state at a critical juncture. The high-severity contradiction (0.82) actually enhances Marlo's credibility as it aligns with investigative logic rather than exculpatory narratives. No behavioral red flags or deflection tactics were identified. Minor reservation stems from incomplete disclosure of how Marlo acquired this information.",
+      "factors_assessed": [
+        "observation directness: partially direct account corroborated by staff reports",
+        "material alignment: statement contradicts subject's self-serving framing, supporting investigative reconstruction",
+        "bias: unknown—no behavioral data provided",
+        "deflection: none detected"
+      ]
+    },
+    {
+      "witness": "Meren Toll",
+      "grade": "B",
+      "explanation": "As a senior estate advocate and old associate of Aric Vey, Meren Toll provides institutional memory regarding Vey's character, legal preferences, and settlement intentions. His statements explain the legal consequences of Selene's secret binding in a coherent manner. No contradictions were identified, and his own behavioral assessment (INC020) rates him as consistent with a low risk score of 0.13. While his knowledge derives primarily from professional and social proximity rather than direct physical observation of the core event, there is no evidence of deception, deflection tactics, or suspicious access patterns. Minor reservation stems from the interpretive nature of explaining another person's motivations and legal strategy.",
+      "factors_assessed": [
+        "observation directness: direct analytical through professional role and institutional knowledge",
+        "material deception: none identified",
+        "peripheral concealment: none identified",
+        "unnatural access: absent; natural positioning as old associate explains access",
+        "deflection tactics: none observed",
+        "bias: mild institutional loyalty as old associate of Vey, offset by low risk score"
+      ]
+    },
+    {
+      "witness": "Mira Pell",
+      "grade": "B",
+      "explanation": "Mira Pell provides direct observational testimony as an upper-floor attendant regarding Pira Senn's demeanor and movements in the period leading to the murder. Her three statements describe Pira's troubled withdrawal, the confirmed jawache complaint, and Pira dressing fully with a glow-wick before descending—each representing first-hand observations. Internal consistency is high with zero contradictions identified. Behavioral assessment (INC015) rates her account as consistent with a very low risk score of 0.16. No material deception, deflection tactics, or unnatural access patterns were detected. Minor reservation stems from her institutional role as an attendant, which introduces mild potential for institutional bias, though none is evident in the statements themselves.",
+      "factors_assessed": [
+        "observation directness: direct physical observation of subject's demeanor and actions over multiple days",
+        "material deception: none detected; statements internally consistent",
+        "unnatural access: absent; standard attendant role with expected observational proximity",
+        "deflection tactics: none present; straightforward account",
+        "bias: minimal institutional role-based interest, no personal stake evident"
+      ]
+    },
+    {
+      "witness": "Nessa Orr",
+      "grade": "C",
+      "explanation": "Nessa Orr provides supporting servant testimony regarding the Orrel party's earlier stay and interpersonal dynamics at Copper Quay Lodge. Her statements appear to function as corroborative evidence within aggregated servant accounts rather than independent direct observation. While she has natural access as a household servant, the context indicates her contributions supplement rather than anchor the investigative record. No contradictions or behavioral concerns were flagged, and her observations touch on potentially material matters (the secret binding arrangement), but the secondhand framing ('combined with other servants' statements') reduces confidence in her individual reliability as a primary source.",
+      "factors_assessed": [
+        "observation directness: indirect/peripheral - appears to be part of aggregated servant testimony rather than independent first-hand account",
+        "materiality: moderate - describes secret binding arrangement which could be relevant to investigation",
+        "access: natural - servant at Copper Quay Lodge with legitimate proximity to events",
+        "consistency: not applicable - no contradictions recorded",
+        "bias: unknown - insufficient behavioral data to assess"
+      ]
+    },
+    {
+      "witness": "Noa Brill",
+      "grade": "A",
+      "explanation": "Noa Brill served as a direct analytical observer conducting standard ballistics examination at Cinderglass Armory. Her three statements demonstrate internal consistency—identifying the flechette caliber, inspecting the weapon, and documenting residual trace evidence—all aligned with proper forensic protocol. No contradictions were recorded, behavior was assessed as consistent, and the very low risk score (0.08) indicates no indicators of deception, coercion, or unnatural access patterns. As a professional examiner providing objective technical findings, she demonstrates high reliability as an information source.",
+      "factors_assessed": [
+        "observation directness: direct analytical observation of physical evidence and weapons during ballistics examination",
+        "material deception: none detected; statements are internally consistent and forensically coherent",
+        "peripheral concealment: not applicable; no secondary indiscretions or cover-up behaviors observed",
+        "unnatural access: not indicated; performed standard professional role without suspicious clustering at evidentiary nodes",
+        "deflection tactics: none observed; provided concrete technical findings without directing attention elsewhere",
+        "bias and motivation: minimal; acting in professional forensic capacity with no apparent personal, financial, or emotional stake"
+      ]
+    },
+    {
+      "witness": "Olin Reed",
+      "grade": "A",
+      "explanation": "Olin Reed demonstrates high reliability as a source. He possesses direct physical observation of the secret binding ceremony, having served as a witness during the actual event (S051). His identification correctly clarifies which foster heir participated, correcting a prior mistaken assumption (S052), indicating genuine firsthand knowledge rather than speculation. No contradictions were identified, and his behavioral profile shows consistent, accurate recollection with no apparent agenda beyond historical fact-confirmation. The extremely low risk score (0.22) further supports his trustworthiness as an informational source.",
+      "factors_assessed": [
+        "observation directness: direct physical observation as ceremony witness",
+        "deception indicators: none detected; no contradictions or material evasion",
+        "access pattern: natural presence as hired hand connected to shrine-keeper's household",
+        "consistency: highly consistent account across multiple statements",
+        "bias: no apparent personal, financial, or emotional stake identified"
+      ]
+    },
+    {
+      "witness": "Orra Kest",
+      "grade": "B",
+      "explanation": "Orra Kest demonstrates direct analytical and physical observation capabilities. Statements indicate involvement in crime scene examination (S006) and physical discovery of evidentiary items linking to the victim (S007 - Pira's glow-wick). Additionally shows operational authority through placement of surveillance on suspects (S008), suggesting a legitimate investigative or security role. No contradictions or deceptive behaviors recorded. Minor reservation stems from unknown institutional affiliation which could introduce subtle bias, but overall access appears natural and consistent with official duties.",
+      "factors_assessed": [
+        "observation directness: direct analytical and physical observation of crime scene and evidence",
+        "operational role: placed surveillance on suspects indicating investigative authority",
+        "material deception: none detected",
+        "unnatural access: not indicated - findings align with legitimate investigative function",
+        "bias: undetermined institutional affiliation possible"
+      ]
+    },
+    {
+      "witness": "Pira Senn",
+      "grade": "D",
+      "explanation": "Pira Senn presents significant reliability concerns despite having direct physical proximity to the murder scene. While she was physically present below stairs during the murder night—giving her potential direct observational access—this same positioning raises serious questions about her role. The 'unnatural access' flagged in INC006 is particularly troubling: she was present at the scene, subsequently sent away, and explicitly warned not to disclose what occurred. This pattern suggests either orchestrated removal of a witness who knows the killer's identity, or possible complicity requiring enforced silence. The phrasing 'appears to have seen or met someone' introduces ambiguity about whether she witnessed the killing or participated in it. Without corroborating accounts or her own testimony, her value as a source remains compromised by her suspicious positioning relative to the crime.",
+      "factors_assessed": [
+        "observation directness: direct physical presence at scene during murder night",
+        "unnatural access: present at crime location, subsequently removed and silenced",
+        "material uncertainty: unclear whether witness, suspect, or accomplice",
+        "coerced silence: warned not to reveal what she observed",
+        "insufficient self-testimony: no direct statements from Pira Senn recorded"
+      ]
+    },
+    {
+      "witness": "Rowan Cale",
+      "grade": "D",
+      "explanation": "Rowan Cale exhibits systematic evasion and material deception regarding his involvement in the secret-binding situation connected to Vey's murder. His statement to Niko (S039) deliberately reframes his own binding obligation as concerning 'someone else'—a material misrepresentation of his direct party status in the very arrangement that allegedly motivated the killing. Combined with his use of borrowed names and concealment methods near the citadel (S038), and his physical proximity ('agitated') to the Saffron Gate Inn during the murder timeframe (EV031), there is strong circumstantial evidence of active narrative management to deflect investigative scrutiny from his own role. While not a direct witness to the murder, his consistent pattern of third-person distancing, combined with high risk-scores for evasion (0.72) and retraction (0.69), indicates he is not a reliable source for objective account reconstruction.",
+      "factors_assessed": [
+        "observation directness: indirect conversational accounts; witness statements derived from others' reports rather than direct testimony to events",
+        "material deception: deliberate third-person reframing of own binding involvement as 'someone else's problem'—central to investigative scope",
+        "unnatural access: correspondent with Vey under concealment, present near citadel during murder, yet maintains narrative distance",
+        "deflection: consistently reframes personal stakes as third-party matters, uses borrowed identity to obscure traceability",
+        "bias: romantic entanglement with Selene Orrel, financial stake in her inheritance preservation, outsider lineage rejected by victim"
+      ]
+    },
+    {
+      "witness": "Samel Dorn",
+      "grade": "C",
+      "explanation": "Samel Dorn provides two statements (S069, S070) establishing that Selene Orrel and Rowan Cale participated in a secret binding ceremony prior to the murder, which created the estate crisis. The knowledge basis is mixed—'preserved through witness memory and documents' indicates reliance on secondary sources and personal recollection rather than direct observation of the binding itself. No contradictions are recorded against these statements, and there is no evidence of deception, deflection, or unnatural access patterns attributable to Samel Dorn. However, the indirect nature of knowing (documentary review and memory consolidation) without confirmation of firsthand witnessing places this witness in the fairly reliable category with notable limitations on certainty.",
+      "factors_assessed": [
+        "observation directness: indirect analytical inference from documents and memory; not confirmed as direct observer of the binding ceremony",
+        "material consistency: no contradictions recorded; statements align with corroborating evidence (S032, S048)",
+        "deception indicators: none detected in witness behavior",
+        "deflection: none observed; witness provides substantive factual claims",
+        "bias: unknown; no stated personal stake or motivation identified"
+      ]
+    },
+    {
+      "witness": "Selene Orrel",
+      "grade": "D",
+      "explanation": "Selene Orrel exhibits a pattern of material deception central to the investigation. She entered a secret oath-binding that endangered her inheritance, then systematically concealed this binding, minimized her knowledge, and attempted through intermediaries to destroy the proof. Her testimonial trajectory progressed from active concealment to damage control once discovery appeared imminent. The contradiction regarding her directive to Liora Fen—whether she genuinely sought destruction or merely performed compliance while ensuring continued access—raises serious questions about her credibility. Her motive profile (high financial stake in preventing Vey's settlement alteration) aligns perfectly with potential complicity in Vey's death. As the subject reporting on her own incriminating conduct, her statements carry inherent reliability concerns when they serve to minimize culpability.",
+      "factors_assessed": [
+        "observation directness: subject reporting on own actions with incentive to minimize involvement",
+        "material deception: concealment of binding evidence central to inheritance dispute",
+        "peripheral inconsistency: contradiction between stated directive and actual outcome regarding evidence destruction",
+        "motive: strong financial stake aligned with potential motive to eliminate Vey before disinheritance",
+        "testimonial trajectory: pattern of concealment escalating to evidence removal attempts suggests awareness of culpability"
+      ]
+    },
+    {
+      "witness": "Sera Voss",
+      "grade": "A",
+      "explanation": "Sera Voss provides direct analytical observations as a death examiner conducting a post-mortem examination. All five statements derive from professional forensic evaluation of physical evidence: wound examination, projectile extraction, cause-of-death determination, victim positioning, and shooter trajectory inference. No contradictions exist, behavior is assessed as consistent with expected professional conduct, and no bias indicators or personal stakes are present. Her role as a forensic specialist grants her structurally appropriate access to the evidentiary nodes in question. The extremely low risk score (0.12) corroborates unremarkable reliability.",
+      "factors_assessed": [
+        "observation directness: direct analytical observation of physical evidence in professional forensic capacity",
+        "material deception: none detected",
+        "peripheral concealment: none detected",
+        "unnatural access: appropriate professional role—death examiner has legitimate structural access to body and wound evidence",
+        "deflection tactics: none observed",
+        "bias: no personal, financial, or emotional stake identified"
+      ]
+    },
+    {
+      "witness": "Sorin Ash",
+      "grade": "B",
+      "explanation": "Sorin Ash functions as a foreign investigator/documentarian reporting on Rowan Cale's background and movements. His findings corroborate the domestic timeline and show internal consistency across two statements (S045, S046) with zero contradictions. The very low risk score (0.09) and 'consistent' behavioral classification support reliability. Minor reservation stems from the indirect nature of these reports—they reflect compiled foreign investigative findings rather than firsthand observation of core events—but this is typical of professional investigative work and does not suggest fabrication or orchestration.",
+      "factors_assessed": [
+        "observation directness: indirect analytical compilation of foreign investigative findings",
+        "material deception: none detected; no contradictions",
+        "unnatural access: no suspicious clustering at evidentiary nodes; standard investigative role",
+        "deflection tactics: none observed",
+        "bias: no personal stake detected; appears professional/official function"
+      ]
+    },
+    {
+      "witness": "Tavia Orrel",
+      "grade": "D",
+      "explanation": "Tavia Orrel exhibits significant reliability concerns as an information source. While she eventually made private admissions regarding evidence concealment, her conduct demonstrates strategic obstruction: she was positioned suspiciously near critical maproom documents post-murder, refused to explain the ward-key and torn fragments when directly questioned, and only admitted to destroying or concealing evidence after sustained interrogation. The internal contradiction between claimed 'destruction' versus actual recovery of intact fragments by Deven Holt indicates either material misrepresentation or selective compliance. Her motivation to shield Selene and the family name introduces substantial bias, suggesting her admissions may be incomplete or calibrated to minimize exposure rather than provide truthful account. The combination of evasive behavior, material-level concealment of probative evidence, and suspicious positioning at evidentiary nodes substantially undermines her trustworthiness as a source.",
+      "factors_assessed": [
+        "observation directness: indirect; subject of investigation rather than direct observer of core event",
+        "material concealment: severe; refused to explain ward-key and fragments directly tied to case",
+        "unnatural access: moderate; positioned near maproom papers post-murder, entered unassigned chamber before evidence recovery",
+        "strategic revelation: present; only admitted concealment after sustained interrogation pressure",
+        "internal contradiction: high severity; claimed destruction yet evidence recovered intact",
+        "bias: significant; motivated by familial loyalty to Selene and family reputation"
+      ]
+    }
+  ],
+  "debug_trace": [
+    {
+      "witness": "Noa Brill",
+      "stats": {
+        "statement_count": 3,
+        "statement_ids": [
+          "S027",
+          "S028",
+          "S029"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Sorin Ash",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S045",
+          "S046"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Selene Orrel",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S032",
+          "S033"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 2
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Pira Senn",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S057",
+          "S058"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Tavia Orrel",
+      "stats": {
+        "statement_count": 4,
+        "statement_ids": [
+          "S034",
+          "S035",
+          "S036",
+          "S037"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 2
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Meren Toll",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S047",
+          "S048"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Lucan Marris",
+      "stats": {
+        "statement_count": 5,
+        "statement_ids": [
+          "S001",
+          "S002",
+          "S003",
+          "S004",
+          "S005"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Deven Holt",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S040",
+          "S041"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Kel Brask",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S059",
+          "S060"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Samel Dorn",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S069",
+          "S070"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Mira Pell",
+      "stats": {
+        "statement_count": 3,
+        "statement_ids": [
+          "S024",
+          "S025",
+          "S026"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Sera Voss",
+      "stats": {
+        "statement_count": 5,
+        "statement_ids": [
+          "S012",
+          "S013",
+          "S014",
+          "S015",
+          "S016"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Nessa Orr",
+      "stats": {
+        "statement_count": 3,
+        "statement_ids": [
+          "S063",
+          "S064",
+          "S065"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Orra Kest",
+      "stats": {
+        "statement_count": 3,
+        "statement_ids": [
+          "S006",
+          "S007",
+          "S008"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Liora Fen",
+      "stats": {
+        "statement_count": 4,
+        "statement_ids": [
+          "S053",
+          "S054",
+          "S055",
+          "S056"
+        ],
+        "contradiction_count": 2,
+        "behavior_count": 2
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Bram Toller",
+      "stats": {
+        "statement_count": 4,
+        "statement_ids": [
+          "S017",
+          "S018",
+          "S019",
+          "S020"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Olin Reed",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S051",
+          "S052"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Rowan Cale",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S038",
+          "S039"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 2
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Damar Quill",
+      "stats": {
+        "statement_count": 3,
+        "statement_ids": [
+          "S009",
+          "S010",
+          "S011"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Aric Vey",
+      "stats": {
+        "statement_count": 3,
+        "statement_ids": [
+          "S066",
+          "S067",
+          "S068"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Kit Vale",
+      "stats": {
+        "statement_count": 3,
+        "statement_ids": [
+          "S042",
+          "S043",
+          "S044"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Jessa Kade",
+      "stats": {
+        "statement_count": 3,
+        "statement_ids": [
+          "S021",
+          "S022",
+          "S023"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 1
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": true
+      }
+    },
+    {
+      "witness": "Jorik Penn",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S049",
+          "S050"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Marlo Dain",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S061",
+          "S062"
+        ],
+        "contradiction_count": 1,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": true,
+        "has_behavior": false
+      }
+    },
+    {
+      "witness": "Ilyan Mora",
+      "stats": {
+        "statement_count": 2,
+        "statement_ids": [
+          "S030",
+          "S031"
+        ],
+        "contradiction_count": 0,
+        "behavior_count": 0
+      },
+      "data_health": {
+        "has_statements": true,
+        "has_contradictions": false,
+        "has_behavior": false
+      }
+    }
+  ],
+  "telemetry_log": [
+    {
+      "agent_name": "StatementExtractionAgent",
+      "input_tokens": 2362,
+      "output_tokens": 5023,
+      "execution_time_seconds": 84.17,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 6446
+    },
+    {
+      "agent_name": "StatementExtractionAgent",
+      "input_tokens": 2308,
+      "output_tokens": 3951,
+      "execution_time_seconds": 60.81,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 6158
+    },
+    {
+      "agent_name": "StatementExtractionAgent",
+      "input_tokens": 1905,
+      "output_tokens": 3094,
+      "execution_time_seconds": 62.89,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4530
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 1382,
+      "output_tokens": 899,
+      "execution_time_seconds": 26.55,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2934
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 1399,
+      "output_tokens": 987,
+      "execution_time_seconds": 27.95,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2847
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 1481,
+      "output_tokens": 1861,
+      "execution_time_seconds": 49.87,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3442
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 1543,
+      "output_tokens": 1482,
+      "execution_time_seconds": 42.36,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3823
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 3086,
+      "output_tokens": 2624,
+      "execution_time_seconds": 66.98,
+      "llm_success_ratio": "1/2",
+      "payload_size_bytes": 3739
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 1560,
+      "output_tokens": 1212,
+      "execution_time_seconds": 31.66,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3821
+    },
+    {
+      "agent_name": "AttributeAgent",
+      "input_tokens": 1510,
+      "output_tokens": 1300,
+      "execution_time_seconds": 34.21,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 7382
+    },
+    {
+      "agent_name": "TimelineAgent",
+      "input_tokens": 7236,
+      "output_tokens": 5438,
+      "execution_time_seconds": 151.57,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 48102
+    },
+    {
+      "agent_name": "BehavioralConsistencyAgent",
+      "input_tokens": 9836,
+      "output_tokens": 5852,
+      "execution_time_seconds": 170.5,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 59888
+    },
+    {
+      "agent_name": "TimelineContradictionAgent",
+      "input_tokens": 5103,
+      "output_tokens": 2884,
+      "execution_time_seconds": 279.61,
+      "llm_success_ratio": "1/2",
+      "payload_size_bytes": 29852
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1105,
+      "output_tokens": 912,
+      "execution_time_seconds": 24.2,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1875
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1263,
+      "output_tokens": 937,
+      "execution_time_seconds": 23.42,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4520
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 893,
+      "output_tokens": 770,
+      "execution_time_seconds": 19.33,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 957
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1039,
+      "output_tokens": 1377,
+      "execution_time_seconds": 35.61,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3402
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 834,
+      "output_tokens": 711,
+      "execution_time_seconds": 19.45,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 865
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1186,
+      "output_tokens": 982,
+      "execution_time_seconds": 25.04,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4248
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 863,
+      "output_tokens": 842,
+      "execution_time_seconds": 21.84,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 908
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 948,
+      "output_tokens": 883,
+      "execution_time_seconds": 21.91,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2386
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1228,
+      "output_tokens": 1133,
+      "execution_time_seconds": 29.69,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4684
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 2225,
+      "output_tokens": 1152,
+      "execution_time_seconds": 27.95,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 12602
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1241,
+      "output_tokens": 930,
+      "execution_time_seconds": 24.9,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4428
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1018,
+      "output_tokens": 1016,
+      "execution_time_seconds": 25.85,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3238
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1137,
+      "output_tokens": 933,
+      "execution_time_seconds": 25.34,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2100
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1182,
+      "output_tokens": 838,
+      "execution_time_seconds": 16.65,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2135
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 931,
+      "output_tokens": 765,
+      "execution_time_seconds": 19.03,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1175
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1056,
+      "output_tokens": 830,
+      "execution_time_seconds": 22.96,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1721
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 969,
+      "output_tokens": 782,
+      "execution_time_seconds": 20.65,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1505
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 902,
+      "output_tokens": 829,
+      "execution_time_seconds": 22.27,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 967
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1004,
+      "output_tokens": 1022,
+      "execution_time_seconds": 27.7,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1474
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1560,
+      "output_tokens": 1129,
+      "execution_time_seconds": 30.03,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 7564
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1262,
+      "output_tokens": 966,
+      "execution_time_seconds": 25.07,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 5068
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1318,
+      "output_tokens": 1031,
+      "execution_time_seconds": 26.55,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 5546
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1208,
+      "output_tokens": 887,
+      "execution_time_seconds": 14.32,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2037
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 957,
+      "output_tokens": 819,
+      "execution_time_seconds": 12.54,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1276
+    },
+    {
+      "agent_name": "CredibilityOfInformationAgent",
+      "input_tokens": 1461,
+      "output_tokens": 947,
+      "execution_time_seconds": 14.41,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 6832
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1276,
+      "output_tokens": 693,
+      "execution_time_seconds": 18.03,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1875
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1434,
+      "output_tokens": 717,
+      "execution_time_seconds": 18.76,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4520
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1064,
+      "output_tokens": 733,
+      "execution_time_seconds": 19.06,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 957
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1210,
+      "output_tokens": 889,
+      "execution_time_seconds": 21.7,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3402
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1005,
+      "output_tokens": 643,
+      "execution_time_seconds": 16.21,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 865
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1357,
+      "output_tokens": 814,
+      "execution_time_seconds": 22.05,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4248
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1034,
+      "output_tokens": 690,
+      "execution_time_seconds": 18.05,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 908
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1119,
+      "output_tokens": 745,
+      "execution_time_seconds": 19.9,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2386
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1399,
+      "output_tokens": 1021,
+      "execution_time_seconds": 25.03,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4684
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 2396,
+      "output_tokens": 1064,
+      "execution_time_seconds": 27.26,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 12602
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1412,
+      "output_tokens": 725,
+      "execution_time_seconds": 18.37,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 4428
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1189,
+      "output_tokens": 733,
+      "execution_time_seconds": 18.07,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 3238
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1308,
+      "output_tokens": 722,
+      "execution_time_seconds": 18.91,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2100
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1353,
+      "output_tokens": 708,
+      "execution_time_seconds": 17.58,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2135
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1102,
+      "output_tokens": 689,
+      "execution_time_seconds": 18.71,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1175
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1227,
+      "output_tokens": 700,
+      "execution_time_seconds": 19.22,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1721
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1140,
+      "output_tokens": 673,
+      "execution_time_seconds": 15.46,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1505
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1073,
+      "output_tokens": 642,
+      "execution_time_seconds": 13.15,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 967
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1175,
+      "output_tokens": 766,
+      "execution_time_seconds": 20.37,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1474
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1731,
+      "output_tokens": 849,
+      "execution_time_seconds": 23.42,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 7564
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1433,
+      "output_tokens": 735,
+      "execution_time_seconds": 18.65,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 5068
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1489,
+      "output_tokens": 743,
+      "execution_time_seconds": 20.54,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 5546
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1379,
+      "output_tokens": 678,
+      "execution_time_seconds": 18.2,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 2037
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1128,
+      "output_tokens": 632,
+      "execution_time_seconds": 16.3,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 1276
+    },
+    {
+      "agent_name": "ReliabilityOfSourceAgent",
+      "input_tokens": 1632,
+      "output_tokens": 779,
+      "execution_time_seconds": 21.55,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 6832
+    }
+  ]
+}

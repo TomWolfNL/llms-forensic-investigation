@@ -34,14 +34,18 @@
       "name": "Major Richard Knighton",
       "statement": "As Van Aldin's secretary, he appeared to confirm Ada Mason's Paris alibi and later accompanied the investigation, but he was actually the Marquis. He murdered Ruth, stole the rubies, coordinated Mason's impersonation, planted misleading evidence, and tried to shift suspicion first to the Comte and then to Derek.",
       "source_reliability": "E",
-      "information_credibility": "5"
+      "information_credibility": "5",
+      "is_adversary": true,
+      "adversary_role": "primary_suspect"
     },
     {
       "id": "W06",
       "name": "Ada Mason / Kitty Kidd",
       "statement": "Claimed she was left behind in Paris and had seen a man in Ruth's compartment, first suggesting the Comte and later, after consultation, Derek. She recognized the cigarette case and falsely explained it as possibly Derek's gift from Ruth. In reality she was Knighton's accomplice, impersonated Ruth after the murder, misled the conductor, left at Lyons, and returned to Paris to support the alibi.",
       "source_reliability": "E",
-      "information_credibility": "5"
+      "information_credibility": "5",
+      "is_adversary": true,
+      "adversary_role": "accomplice"
     },
     {
       "id": "W07",
@@ -55,14 +59,18 @@
       "name": "Mirelle",
       "statement": "Reported Derek's financial desperation, his conversation about Ruth's death as a solution, Ruth's supposed plan with the Comte, and later accused Derek of murder, saying she saw him leave Ruth's compartment before Lyons and knew Ruth was dead. Her eyewitness claim about Derek entering or leaving was useful, but her interpretation and accusation were vindictive and materially wrong.",
       "source_reliability": "D",
-      "information_credibility": "5"
+      "information_credibility": "5",
+      "is_adversary": true,
+      "adversary_role": "hostile"
     },
     {
       "id": "W09",
       "name": "Comte Armand de la Roche",
       "statement": "Was Ruth's former lover and intended to steal the rubies by substituting an imitation necklace. He lied about his movements through servants, tried to exploit or blackmail Derek, and was caught with false jewels, but he did not kill Ruth and did not obtain the real rubies.",
       "source_reliability": "D",
-      "information_credibility": "4"
+      "information_credibility": "4",
+      "is_adversary": true,
+      "adversary_role": "obstructive"
     },
     {
       "id": "W10",
@@ -132,14 +140,18 @@
       "name": "Hippolyte Flavelle",
       "statement": "The Comte's servant initially lied that the Comte arrived at the villa on Tuesday morning, then under Poirot's pressure admitted the Comte actually arrived Wednesday, destroying the Comte's alibi but not proving him the murderer.",
       "source_reliability": "D",
-      "information_credibility": "3"
+      "information_credibility": "3",
+      "is_adversary": true,
+      "adversary_role": "obstructive"
     },
     {
       "id": "W20",
       "name": "Marie Flavelle",
       "statement": "Supported Hippolyte's false alibi for the Comte, then corroborated the correction that the Comte arrived Wednesday rather than Tuesday.",
       "source_reliability": "D",
-      "information_credibility": "3"
+      "information_credibility": "3",
+      "is_adversary": true,
+      "adversary_role": "obstructive"
     },
     {
       "id": "W21",

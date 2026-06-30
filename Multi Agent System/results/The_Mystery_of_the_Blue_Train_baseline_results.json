@@ -1,0 +1,190 @@
+{
+  "evaluations": [
+    {
+      "witness": "Marius Pell",
+      "reliability_grade": "D",
+      "credibility_grade": 4,
+      "reasoning": "Pell occupies the Narrator Trap position\u2014he controls all evidence flow, orchestrates which theories gain prominence, and shapes the timeline interpretation. While presented as an objective investigator questioning 'straightforward theories,' his analytical framing consistently directs suspicion toward specific suspects while marginalizing alternative explanations. His focus on the damaged face, impersonation possibilities, and false collar serves a narrative function that benefits from ambiguity. This clustering of evidentiary emphasis at key decision points signals unnatural access to the case architecture rather than neutral investigation.",
+      "prime_suspect_likelihood": 0.35
+    },
+    {
+      "witness": "Elena Marlow",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Direct observer of critical events: pre-murder conversation with Liora, body identification by physical characteristics despite facial damage, absence of the red leather jewel case, and Arden entering Liora's compartment near the junction. Her connection of the old hospital jewel robbery clipping demonstrates independent corroborative instinct. Minor deduction for interpretive elements regarding the newspaper clipping link, but overall her testimony represents genuine sensory observation without apparent motive distortion.",
+      "prime_suspect_likelihood": 0.05
+    },
+    {
+      "witness": "Liora Vale",
+      "reliability_grade": "F",
+      "credibility_grade": 6,
+      "reasoning": "The victim. All information derives from secondhand reports of her statements to others\u2014her disclosures to Cassian about Arden's affair, her agreement to separation, acceptance of the opal collar, and concealed connection with Lord Marcian. As a deceased party, her statements cannot be verified, challenged, or supplemented through direct examination. The content of her communications serves multiple narrative functions (establishing motives, explaining behavior) but lacks any internal check mechanism.",
+      "prime_suspect_likelihood": 0.0
+    },
+    {
+      "witness": "Cassian Vale",
+      "reliability_grade": "D",
+      "credibility_grade": 4,
+      "reasoning": "Wealthy patriarch with substantial interest in directing suspicion away from himself and toward accessible alternatives (Arden's financial motive, Marcian's jewel schemes). His evidence supplies background and motive but exhibits deflection patterns\u2014emphasizing external threats (attempted robbery, criminal networks) while minimizing examination of his own role in creating the valuable target. The strategic timing of his hiring investigators and sharing information warrants scrutiny regarding whose interests his narrative serves.",
+      "prime_suspect_likelihood": 0.15
+    },
+    {
+      "witness": "Captain Iven Sorr",
+      "reliability_grade": "D",
+      "credibility_grade": 3,
+      "reasoning": "Confidential secretary embedded within Cassian's operation who 'accompanies parts of the inquiry'\u2014an unusual position combining insider access with investigative participation. His apparent support for Selma Reed's account introduces coordination risk: a witness account corroborated by someone with institutional investment in a particular outcome carries reduced independent weight. Knowledge of both the jewel purchase logistics and investigation movements suggests broad access, but such comprehensive positioning raises questions about selective emphasis.",
+      "prime_suspect_likelihood": 0.1
+    },
+    {
+      "witness": "Selma Reed",
+      "reliability_grade": "E",
+      "credibility_grade": 5,
+      "reasoning": "Attendant's testimony is explicitly characterized as 'unstable' with shifts affecting the entire case. Her claim of accidental abandonment requires verification she cannot provide independently. Identification of the man in Liora's compartment changed across iterations, initially pointing toward Marcian before shifting toward Arden\u2014the kind of material evolution that indicates either memory contamination, external influence, or deliberate accommodation. Her recognition of the cigarette case and proposed Arden-Liora connection introduces additional variables without resolving core timing questions. Central importance combined with documented instability places this testimony in the unreliable category.",
+      "prime_suspect_likelihood": 0.2
+    },
+    {
+      "witness": "Arden Vale",
+      "reliability_grade": "D",
+      "credibility_grade": 4,
+      "reasoning": "Initial denial followed by private admission of compartment entry represents classic material inconsistency. His account\u2014that he saw Liora asleep and left without disturbing her\u2014places him at the scene but provides exculpatory interpretation. Financial desperation and marital misconduct establish clear motive, but his changing story regarding the compartment visit undermines confidence in any version. The private admission pattern suggests pressure-induced concession rather than voluntary disclosure, raising possibility of coerced or incomplete truth.",
+      "prime_suspect_likelihood": 0.45
+    },
+    {
+      "witness": "Serafine Dax",
+      "reliability_grade": "E",
+      "credibility_grade": 5,
+      "reasoning": "Jealous mistress accusing her rival's husband. Her testimony is explicitly colored by emotional compromise: jealousy and anger regarding Arden's affair with Liora. She reports Arden speaking as though Liora's death would solve his problems\u2014a psychologically suggestive but legally problematic statement that reflects wishful interpretation as much as factual observation. Her accusation of witnessing Arden leave the compartment 'before the junction' contradicts other timelines and may represent confabulation serving her emotional agenda. Multiple Phantom Actor qualities: her accusations redirect focus toward Arden while potentially obscuring other actors.",
+      "prime_suspect_likelihood": 0.25
+    },
+    {
+      "witness": "Lord Marcian Vey",
+      "reliability_grade": "D",
+      "credibility_grade": 4,
+      "reasoning": "Polished aristocrat with documented intent to substitute an imitation collar\u2014established premeditation regarding the jewels regardless of lethal outcomes. His account of movements is 'questionable,' and his servants initially provided false alibis before correction under pressure. The false jewels clearly implicate him in a theft scheme, but the critical question\u2014whether this scheme escalated to murder\u2014remains unverified. His social sophistication enables plausible deniability, and his reputation for 'exploiting wealthy women' provides behavioral precedent for manipulation. However, the false collar could equally indicate a botched substitution rather than murder planning.",
+      "prime_suspect_likelihood": 0.4
+    },
+    {
+      "witness": "Oren Tal",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Steward provides sincere testimony about post-capital-stop interactions with a woman he believed to be Liora. His observations\u2014attendant abandoned, single berth requested, no disturbance desired\u2014are internally consistent and reflect routine professional memory. Sincerity is explicitly noted. The critical caveat is observational accuracy: he identifies the woman by belief rather than confirmed recognition, opening the impersonation hypothesis. If the woman he saw was indeed Liora, his testimony establishes her survival past the capital stop. If not, his sincere misidentification becomes evidence of disguise capability.",
+      "prime_suspect_likelihood": 0.05
+    },
+    {
+      "witness": "Inspector Ravel Dorn",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Police official coordinating early inquiry, taking Elena's testimony, recording scene/medical details, and relaying official suspicion. Institutional role provides access to official documentation but also subjects testimony to prosecutorial framing. His consideration of 'train robbery and crime-of-passion theories' suggests genuine analytical breadth, but official positions typically favor decisive conclusions over open-ended investigation. Evidence relay function means his testimony reflects processed information rather than raw observation.",
+      "prime_suspect_likelihood": 0.05
+    },
+    {
+      "witness": "Magistrate Corvin Hale",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Examining magistrate evaluating evidence and building legal case. Like Inspector Dorn, his institutional role processes testimony into legal frameworks. His treatment of the case as 'serious enough for arrest' reflects prosecutorial threshold rather than evidential certainty. Awareness of 'uncertainty and scandal' indicates judicial caution, but his function remains case-building rather than pure fact-finding. Testimony necessarily filtered through legal materiality standards.",
+      "prime_suspect_likelihood": 0.05
+    },
+    {
+      "witness": "Brant Kells",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Professional private investigator hired by Cassian. His work product\u2014documenting Arden's debts, financial peril, vulnerability in separation proceedings\u2014represents standard financial forensics. Professional methodology provides reliability, and findings appear corroborated by multiple sources (Cassian's awareness, Serafine's observations). However, his employment by Cassian creates slight directional bias risk: he investigated the person his employer suspected, which may have influenced investigative thoroughness regarding alternative suspects.",
+      "prime_suspect_likelihood": 0.05
+    },
+    {
+      "witness": "Nestor Kalvani",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Discreet coastal dealer providing guarded intelligence about the Pale Fox criminal network. Self-protective caution is explicit\u2014his cooperation reflects calculated risk management rather than transparent disclosure. Information arrives indirectly through Marius, suggesting possible filtering or strategic omission. Connection to the Pale Fox establishes network existence but doesn't directly implicate specific actors in the murder. His guarded approach implies knowledge he considers dangerous to share fully.",
+      "prime_suspect_likelihood": 0.15
+    },
+    {
+      "witness": "Talia Kalvani",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Direct confirmation that opals passed through family network with Pale Fox connection. Crucially, she identifies the deliverer as female\u2014this testimony transforms the case by introducing gender complexity contradicting assumptions focused on male suspects (Arden, Marcian). Her position as Nestor's daughter provides legitimate network access, and her independent confirmation of the female deliverer corroborates rather than contradicts her father's guarded admissions. High credibility for the specific facts she reports.",
+      "prime_suspect_likelihood": 0.1
+    },
+    {
+      "witness": "Barek Slin",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Capital intermediary who facilitated the opal sale to Cassian. Direct participant in the transaction with knowledge of secretive procedures and surveillance concerns. Observation of street criminals directed by a 'pale-haired man' during the earlier robbery attempt provides physical description matching the Pale Fox profile. Transactional role gives him natural knowledge without apparent motive for fabrication. His testimony connects the original sale context to subsequent criminal interest.",
+      "prime_suspect_likelihood": 0.1
+    },
+    {
+      "witness": "Madame Orsina Vaal",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Previous opal holder who noticed suspicious figures near the sale and identified a pale-haired directing figure. Her warning that the stones would become 'especially dangerous once given to a woman traveling with them' demonstrates prescient assessment but may reflect common-sense\u73e0\u5b9d\u5b89\u5168\u77e5\u8bc6 rather than specific intelligence. As a seller with completed transaction, she lacks ongoing stake but retains reputational interest in demonstrating due diligence warnings. Observational claims partially corroborated by Barek Slin's similar descriptions.",
+      "prime_suspect_likelihood": 0.1
+    },
+    {
+      "witness": "Nadia Bellwether",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Younger acquaintance helping clarify junction boarding/departure possibilities and providing background about suspect injury/hospital connection. Informational role supplements other evidence rather than providing primary testimony. Background details about wartime hospital connections may illuminate past patterns relevant to present crimes, but her contribution remains secondary contextualization. No apparent motive affects her neutrality.",
+      "prime_suspect_likelihood": 0.05
+    },
+    {
+      "witness": "Hector Plume",
+      "reliability_grade": "E",
+      "credibility_grade": 5,
+      "reasoning": "Marcian's servant who initially provided false alibi before admitting under pressure that Marcian arrived later than claimed. The trajectory\u2014from false statement to corrected admission under external pressure\u2014indicates either coercion to abandon loyalty or discovery of fabrications. Either way, his initial falsehood significantly undermines Marcian's alibi. The destruction of Marcian's timing defense does not establish murder but removes a key exculpatory element. Reliability severely compromised by demonstrated willingness to provide false information.",
+      "prime_suspect_likelihood": 0.15
+    },
+    {
+      "witness": "Mara Plume",
+      "reliability_grade": "E",
+      "credibility_grade": 5,
+      "reasoning": "Second servant supporting Hector's initial false alibi before corroborating the corrected arrival time. Pattern identical to Hector: initial loyalty-based falsehood followed by accommodation of revised account. Her corroboration of the corrected timing provides weak validation only\u2014the initial coordinated deception suggests household-level instruction to provide false information. Like Hector, her testimony damages Marcian's position without independently establishing murder.",
+      "prime_suspect_likelihood": 0.15
+    },
+    {
+      "witness": "Jules Ardent",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Theatrical agent providing information about Serafine's professional circle, wealthy patrons, and rumored opal possession. Informational role traces possible post-murder stone movement through Serafine's connections. As an industry insider, his access to professional gossip is legitimate, but entertainment industry rumor carries inherent unreliability. Helps establish potential distribution channels for stolen goods without connecting specific actors to the murder itself.",
+      "prime_suspect_likelihood": 0.1
+    },
+    {
+      "witness": "Inspector Bram Voss",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Metropolitan police contact providing background on the Pale Fox criminal methods and reputation. Law enforcement institutional access gives legitimate intelligence sourcing. Comparison of current case to known jewel-theft operations provides investigative framework without constituting direct evidence. Professional information-sharing relationship suggests established credibility protocols. Helpful contextualization rather than case-critical testimony.",
+      "prime_suspect_likelihood": 0.05
+    },
+    {
+      "witness": "Fenn",
+      "reliability_grade": "C",
+      "credibility_grade": 3,
+      "reasoning": "Marius Pell's valet offering general knowledge about respectable or aristocratic criminals. Informational resource encouraging consideration of social-class criminals beyond conventional profiles. General knowledge transmission without specific case application. Useful conceptual broadening but contributes no verifiable specifics to the murder investigation. Reliability limited by secondhand nature of shared knowledge.",
+      "prime_suspect_likelihood": 0.05
+    },
+    {
+      "witness": "Miss Calla Wren",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Elderly collector whose archived papers enabled Elena's discovery of the wartime hospital jewel robbery report. Documentary source providing historical linkage between past incidents and present suspects. Her paper trail represents physical evidence preservation rather than testimonial reconstruction, lending higher reliability. Connection of 'past events, suspect's earlier presence, and pattern of jewel theft' establishes continuity that strengthens investigative hypotheses.",
+      "prime_suspect_likelihood": 0.05
+    },
+    {
+      "witness": "Dr. Silas Merrow",
+      "reliability_grade": "B",
+      "credibility_grade": 2,
+      "reasoning": "Country doctor providing background on Elena Marlow's inheritance and independence. Establishes Elena as financially autonomous witness without dependency on coastal suspects or family obligations that might color testimony. Verification of witness credibility constitutes indirect rather than direct evidence regarding the murder. Professional medical standing provides reliability, and his information serves confirmatory rather than accusatory functions.",
+      "prime_suspect_likelihood": 0.05
+    }
+  ],
+  "final_case_summary": "The primary 'Narrator' is Marius Pell (W01), whose investigative authority positions him as the orchestrator of all evidence presentation. The 'Narrative Paradox' manifests in the disconnect between Pell's high analytical sophistication (positioning him as trustworthy interpreter) and his structural position as a Narrator Trap\u2014he controls which theories receive emphasis, frames the significance of physical evidence (damaged face, false collar), and shapes interpretation of witness instabilities (Selma Reed, Hector/Mara Plume). Simultaneously, the case contains a critical 'Woman Paradox': Talia Kalvani's confirmed testimony that a woman delivered the stolen opals contradicts the prosecution focus on male suspects (Arden, Marcian), while Oren Tal's sincere but unverifiable identification of the post-capital woman as Liora creates a temporal gap exploited by impersonation theories. The false opal collar functions as an Orchestration Marker\u2014it conveniently explains Marcian's involvement while potentially deflecting from a separate murder scheme. The convergence of female intermediary testimony, the uncertain identity of the woman after the capital stop, and the instability of attendant/servant testimony suggests the true perpetrator may occupy a narrative position currently obscured by the structured suspicion directed at Arden and Marcian.",
+  "telemetry_log": [
+    {
+      "agent_name": "BaselineAgent",
+      "input_tokens": 3324,
+      "output_tokens": 5004,
+      "execution_time_seconds": 120.83,
+      "llm_success_ratio": "1/1",
+      "payload_size_bytes": 12192
+    }
+  ]
+}

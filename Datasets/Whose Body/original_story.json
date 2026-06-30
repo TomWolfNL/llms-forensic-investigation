@@ -27,7 +27,9 @@
       "name": "Sir Leon Freemantle",
       "statement": "Surgeon, culprit, false witness, and confessor. At first he gave misleading medical evidence, denied any hospital body was missing, claimed the bath corpse was an unknown well-off man, concealed Sir Wal's true visit, and later falsely told Worthington that Sir Wal had consulted him medically and left alive. In his final letter he confessed that he lured Sir Wal with a false Peruvian Oil report, killed him with a poker, substituted his body for a workhouse vagrant, impersonated him at Park Lane, moved the vagrant over the roofs into Ams's bath, added the pince-nez, and planned to poison Pipsey if Pipsey accepted an injection.",
       "source_reliability": "E",
-      "information_credibility": "5"
+      "information_credibility": "5",
+      "is_adversary": true,
+      "adversary_role": "primary_suspect"
     },
     {
       "id": "W05",
@@ -41,7 +43,9 @@
       "name": "Gerald Ams",
       "statement": "Resident of 59 Queen Mann Campbell. He discovered the naked corpse in his bath at about eight in the morning, called for brandy and police assistance, stated that he did not know the dead man, described the bathroom window as open, and initially gave confused or false accounts of his return from Manchester. At the inquest he corrected himself, explaining that he had secretly gone to a dubious night club, was caught in a police raid, got his bruise there, returned about 1:30, took milk and a sleeping dose, and heard nothing during the night.",
       "source_reliability": "C",
-      "information_credibility": "4"
+      "information_credibility": "4",
+      "is_adversary": true,
+      "adversary_role": "obstructive"
     },
     {
       "id": "W07",
@@ -55,7 +59,9 @@
       "name": "Wintrington Colegrove",
       "statement": "Ams's maid. She admitted she probably left the bathroom window open after Mrs. Ams's bath, initially contradicted herself about Ams's return, and later confessed she had secretly gone to the Plumbers' and Raffles' Ball at the Black Faced Ram with William Jerry, returning near two without rechecking the flat. Her evidence explained the open window and cleared her from murder, though her early lies created suspicion.",
       "source_reliability": "C",
-      "information_credibility": "4"
+      "information_credibility": "4",
+      "is_adversary": true,
+      "adversary_role": "obstructive"
     },
     {
       "id": "W09",
